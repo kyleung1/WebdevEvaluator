@@ -1,0 +1,65 @@
+{
+  "IDE": ["Visual Studio Code", "Visual Studio", "IntelliJ", "Notepad++", "Vim", "Android Studio", "PyCharm", "Sublime Text",
+  "Eclipse", "WebStorm", "Jupyter", "Atom", "PHPStorm", "Nano"],
+  "Languages": {
+    "Javascript": {
+      "flavors": ["Javascript", "Typescript", "Node.js", "Deno", "Bun"],
+      "frameworks": ["React", "Angular", "Vue", "Svelte", "Solid", "Alpine", "Lit", "Preact", "Mithril", "Qwik",
+      "Next.js", "SvelteKit", "Astro", "Fastify", "Remix", "Express", "Nest", "Eleventy", "Nuxt", "Strapi", "Blitz",
+      "Redwood", "Gatsby", "Vite", "Electron", "React Native", "Tauri", "jquery"]
+    },
+    "Python" :{
+      "flavors": ["Python"],
+      "frameworks": ["Flask", "Django", "FastAPI", "Bottle", "NumPy", "Pandas", "Matpotlib", "Tensorflow", "SciKit-Learn",
+      "PyTorch", "Keras", "Seaborn"]
+    },
+    "HTML" : {
+      "flavors": ["HTML", "Markdown", "Pug"]
+    },
+    "CSS": {
+      "flavors": ["CSS", "Sass"],
+      "frameworks": ["Bootstrap", "Bulma", "MaterialUI", "Tailwind"]
+    },
+    "Java": {
+      "flavors": ["Java", "Groovy", "Scala", "Kotlin"],
+      "frameworks": ["Spring"]
+    },
+    "C#": {
+
+    },
+    "C++": {
+      "frameworks": ["ASP.NET"]
+    },
+    "PHP": {
+      "frameworks": ["Laravel"]
+    },
+    "Go" :{
+      "frameworks": ["Gin"]
+    },
+    "Rust": {
+
+    },
+    "Dart": {
+      "frameworks": ["Flutter"]
+    },
+    "Ruby": {
+      "frameworks": ["Ruby on Rails"]
+    },
+    "Swift": {},
+    "R": {
+      "frameworks": ["Shiny"]
+    },
+    "Lua": {},
+    "Haskell": {},
+    "Elixir": {
+      "frameworks": ["Phoenix"]
+    },
+    "Julia": {}
+  },
+  "Databases":{
+    "SQL": ["MySQL", "PostgreSQL", "SQLite", "Microsoft SQL Server", "MariaDB"],
+    "NoSQL": ["MongoDB", "Redis", "Cassandra", "Firestore"]
+  },
+  "Cloud": ["AWS", "GCP", "Azure", "Firebase", "Heroku", "DigitalOcean"],
+  "Other": ["Docker", "Kubernetes", "Bash", "Shell", "GitHub", "Powershell"]
+}
