@@ -1,65 +1,145 @@
 {
-  "IDE": ["Visual Studio Code", "Visual Studio", "IntelliJ", "Notepad++", "Vim", "Android Studio", "PyCharm", "Sublime Text",
-  "Eclipse", "WebStorm", "Jupyter", "Atom", "PHPStorm", "Nano"],
+  "IDE": [
+    { "Visual Studio Code": ["@code", "#visualstudiocode", "#vscode", "vscode"] },
+    { "Visual Studio": ["@VisualStudio", "#visualstudio"] },
+    { "IntelliJ": ["@intellijidea", "#intellij", "intellij"] },
+    { "Notepad++": ["@Notepad_plus", "notepad++", "#notepad++", "#notepad_plus"] },
+    { "PyCharm": ["@pycharm", "pycharm", "#pycharm"] },
+    { "PHPStorm": ["@phpstorm", "phpstorm", "#phpstorm"] },
+    { "Neovim": ["@Neovim", "neovim", "#neovim"] }
+  ],
   "Languages": {
     "Javascript": {
-      "flavors": ["Javascript", "Typescript", "Node.js", "Deno", "Bun"],
-      "frameworks": ["React", "Angular", "Vue", "Svelte", "Solid", "Alpine", "Lit", "Preact", "Mithril", "Qwik",
-      "Next.js", "SvelteKit", "Astro", "Fastify", "Remix", "Express", "Nest", "Eleventy", "Nuxt", "Strapi", "Blitz",
-      "Redwood", "Gatsby", "Vite", "Electron", "React Native", "Tauri", "jquery"]
+      "flavors": [
+        {"Javascript": "@JavaScript"},
+        {"Typescript": "@typescript"},
+        {"Node.js": "@nodejs"},
+        {"Deno": "@deno_land"}
+      ],
+      "frameworks": [
+        {"React": "@reactjs"},
+        {"Angular": "@angular"},
+        {"Vue": "@vuejs"},
+        {"Svelte": "@sveltejs"},
+        {"Solid": "@solid_js"},
+        {"Alpine": "@Alpine_JS"},
+        {"Lit": "@buildWithLit"},
+        {"Preact": "@preactjs"},
+        {"Qwik": "@QwikDev"}
+      ],
+      "other": [
+        {"Next.js": "@nextjs"},
+        {"Astro": "@astrodotbuild"},
+        {"Fastify": "@fastifyjs"},
+        {"Remix": "@remix_run"},
+        {"Express": "@UseExpressJS"},
+        {"Nest": "@nestframework"},
+        {"Eleventy": "@eleven_ty"},
+        {"Nuxt": "@nuxt_js"},
+        {"Strapi": "@strapijs"},
+        {"Blitz": "@blitz_js"},
+        {"Redwood": "@RedwoodJS"},
+        {"Gatsby": "@GatsbyJS"},
+        {"Vite": "@vite_js"},
+        {"jquery": "@jquery"}
+      ]
     },
-    "Python" :{
-      "flavors": ["Python"],
-      "frameworks": ["Flask", "Django", "FastAPI", "Bottle", "NumPy", "Pandas", "Matpotlib", "Tensorflow", "SciKit-Learn",
-      "PyTorch", "Keras", "Seaborn"]
+    "Python": {
+      "flavors": [
+        {"Python": "@ThePSF"}
+      ],
+      "frameworks": [
+        {"Flask": "@pythonflask"},
+        {"Django": "@djangoproject"},
+        {"FastAPI": "@FastAPI"}
+      ]
     },
-    "HTML" : {
-      "flavors": ["HTML", "Markdown", "Pug"]
+    "HTML": {
+      "flavors": [
+        {"HTML": "@html5"},
+        "Markdown",
+        {"Pug": "@pug_js"}
+      ]
     },
     "CSS": {
-      "flavors": ["CSS", "Sass"],
-      "frameworks": ["Bootstrap", "Bulma", "MaterialUI", "Tailwind"]
+      "flavors": [
+        "CSS",
+        {"Sass": "@SassCSS"}
+      ],
+      "frameworks": [
+        {"Bootstrap": "@getbootstrap"},
+        {"Tailwind": "@tailwindcss"}
+      ]
     },
     "Java": {
-      "flavors": ["Java", "Groovy", "Scala", "Kotlin"],
-      "frameworks": ["Spring"]
+      "flavors": [
+        {"Java": "@java"},
+        {"Kotlin": "@kotlin"}
+      ],
+      "frameworks": [
+        {"Spring": "@springframework"},
+        {"Ktor": "@JetBrainsKtor"}
+      ]
     },
     "C#": {
-
-    },
-    "C++": {
-      "frameworks": ["ASP.NET"]
+      "frameworks": [
+        {"ASP.NET": "@aspnet"},
+        "blazor"
+      ]
     },
     "PHP": {
-      "frameworks": ["Laravel"]
+      "flavors": [{"PHP": "@official_php"}],
+      "frameworks": [{"Laravel": "@laravelphp"}]
     },
-    "Go" :{
-      "frameworks": ["Gin"]
+    "Go": {
+      "flavors": [{"Go": "@golang"}]
     },
     "Rust": {
-
+      "flavors": [{"Rust": "@rustlang"}]
     },
     "Dart": {
-      "frameworks": ["Flutter"]
+      "flavors": [{"Dart": "@dart_lang"}],
+      "frameworks": [{"Flutter": "@FlutterDev"}]
     },
     "Ruby": {
-      "frameworks": ["Ruby on Rails"]
+      "frameworks": [{"Ruby on Rails" :"@rails"}]
     },
-    "Swift": {},
-    "R": {
-      "frameworks": ["Shiny"]
+    "Swift": {
+      "flavors": [{"Swift": "@SwiftLang"}],
+      "frameworks": [{"Vapor": "@codevapor"}]
     },
-    "Lua": {},
-    "Haskell": {},
     "Elixir": {
-      "frameworks": ["Phoenix"]
-    },
-    "Julia": {}
+      "flavors": [{"Elixir": "@elixirlang"}],
+      "frameworks": [{"Phoenix": "@elixirphoenix"}]
+    }
   },
-  "Databases":{
-    "SQL": ["MySQL", "PostgreSQL", "SQLite", "Microsoft SQL Server", "MariaDB"],
-    "NoSQL": ["MongoDB", "Redis", "Cassandra", "Firestore"]
+  "Databases": {
+    "SQL": [
+      {"MySQL": "@MySQL"},
+      {"PostgreSQL": "@PostgreSQL"},
+      "SQLite",
+      {"Microsoft SQL Server": "@SQLServer"},
+      {"MariaDB": "@mariadb"}
+    ],
+    "NoSQL": [
+      {"MongoDB": "@MongoDB"},
+      {"Redis": "@Redisinc"},
+      {"Cassandra": "@cassandra"}
+    ]
   },
-  "Cloud": ["AWS", "GCP", "Azure", "Firebase", "Heroku", "DigitalOcean"],
-  "Other": ["Docker", "Kubernetes", "Bash", "Shell", "GitHub", "Powershell"]
+  "Cloud": [
+    {"AWS": "@awscloud"},
+    {"GCP": "@googlecloud"},
+    {"Azure": "@Azure"},
+    {"Firebase": "@Firebase"},
+    {"Heroku": "@heroku"},
+    {"DigitalOcean": "@digitalocean"}
+  ],
+  "Other": [
+    {"Docker": "@Docker"},
+    {"Kubernetes": "@kubernetesio"},
+    {"GitHub": "@github"},
+    "Git",
+    "Powershell"
+  ]
 }
