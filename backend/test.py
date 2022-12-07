@@ -1,35 +1,59 @@
 import pandas as pd
 import snscrape.modules.twitter as sntwitter
-import re
 
-query = "reactjs lang:en"
-tweets = []
-limit = 500
+query_array = [['html', 'html5'], 'markdown',
+               'css', 'SassCSS', 'getbootstrap', 'tailwindcss']
 
-for tweet in sntwitter.TwitterSearchScraper(query).get_items():
 
-  if len(tweets) == limit:
-    break
+def build_data(pass_query):
+  snsquery = ''
+  query = ''
+  lang = "lang:en"
+  if(type(pass_query) == list):
+    for index, item in enumerate(pass_query):
+      if (index == 0):
+        query = item
+        snsquery = "(" + item
+      else:
+        snsquery = snsquery + " OR " + item
+    snsquery = snsquery + ") " + lang
+    print(snsquery)
+  else:
+    query = pass_query
+    snsquery = pass_query + " " + lang
+  tweets = []
+  limit = 500
 
-  tweets.append([tweet.date, tweet.content, tweet.user.username, tweet.id, tweet.url])
+  for tweet in sntwitter.TwitterSearchScraper(snsquery).get_items():
 
-tweets_df = pd.DataFrame(tweets, columns=['Date', 'Tweet', 'User', 'Tweet ID', 'Tweet Url'])
+      if len(tweets) == limit:
+          break
 
-# Remove @, #, RT, links, and new line escape character. Done using regex substitution.
-# These do not add anything to polarity and sentiment and could confuse the algorithm.
+      tweets.append([tweet.date, tweet.content,
+                    tweet.user.username, tweet.id, tweet.url])
 
-# def cleanTweets(tweet):
-#   tweet = re.sub('@[A-Za-z0-9_]+', '', tweet)
-#   tweet = re.sub('#', '', tweet)
-#   tweet = re.sub('RT[\s]+', '', tweet)
-#   tweet = re.sub('https?:\/\/\S+', '', tweet)
-#   tweet = re.sub('\n', ' ', tweet)
-#   return tweet
+  tweets_df = pd.DataFrame(
+      tweets, columns=['Date', 'Tweet', 'User', 'Tweet ID', 'Tweet Url'])
 
-# Apply cleanTweets to every single item in the tweets column
+  # Remove @, #, RT, links, and new line escape character. Done using regex substitution.
+  # These do not add anything to polarity and sentiment and could confuse the algorithm.
 
-# tweets_df['Cleaned Tweets'] = tweets_df['Tweets'].apply(cleanTweets)
+  # def cleanTweets(tweet):
+  #   tweet = re.sub('@[A-Za-z0-9_]+', '', tweet)
+  #   tweet = re.sub('#', '', tweet)
+  #   tweet = re.sub('RT[\s]+', '', tweet)
+  #   tweet = re.sub('https?:\/\/\S+', '', tweet)
+  #   tweet = re.sub('\n', ' ', tweet)
+  #   return tweet
 
-# Save this dataframe
+  # Apply cleanTweets to every single item in the tweets column
 
-tweets_df.to_csv('React.csv', index=False)
+  # tweets_df['Cleaned Tweets'] = tweets_df['Tweets'].apply(cleanTweets)
+
+  # Save this dataframe
+
+  tweets_df.to_csv(f"{query}.csv", index=False)
+
+for item in query_array:
+  print(item)
+  build_data(item)
