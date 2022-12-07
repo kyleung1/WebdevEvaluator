@@ -4,11 +4,18 @@ import re
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+from textblob import TextBlob
+from transformers import pipeline
 nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('omw-1.4')
 
 query_array = [['html', 'html5']]
+
+def use_transformer(tweet):
+  specific_model = pipeline(model="cardiffnlp/twitter-roberta-base-sentiment-latest")
+  sentiment_dict = specific_model(tweet)
+  return [sentiment_dict[0]['label'], sentiment_dict[0]['score']]
 
 def build_data(pass_query):
   snsquery = ''
@@ -53,9 +60,9 @@ def build_data(pass_query):
     return tweet
 
   tweets_df['Cleaned Tweet'] = tweets_df['Tweet'].apply(cleanTweets)
+  tweets_df['Sentiment'], tweets_df['Confidence'] = list(zip(*tweets_df.apply(lambda x: use_transformer(x['Cleaned Tweet']), axis = 1)))
 
   tweets_df.to_csv(f"{query}.csv", index=False)
 
 for item in query_array:
-  print(item)
   build_data(item)
