@@ -1,25 +1,17 @@
 import Image from 'next/image'
-import styles from './page.module.css'
 
 export default function Home() {
   return (
-    <div className={styles.container}>
-      <main className={styles.main}>
-        <h2>main page</h2>
-      </main>
+    <div>
+      <main>
+        <h2 className='text-3xl text-center'>See how twitter users are feeling about your favorite web development technologies.</h2>
+        <p className='text-xl text-center mt-20'>Enter a Language, Database, Cloud.</p>
+        <div className='flex items-stretch justify-center'>
+          <input className="border-2 border-indigo-500 rounded-md m-0.5" type="text"/>
+          <button className="border-2 border-indigo-500 rounded-md p-1 m-0.5">Search</button>
+        </div>
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
+      </main>
     </div>
   )
 }
