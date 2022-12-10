@@ -14,10 +14,17 @@ export default function RootLayout({
         head.tsx. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
       */}
       <head />
-      <body className="">
-        <Header/>
-        {children}
-        <Footer/>
+      <body className="flex flex-col min-h-screen">
+        <div className="flex-shrink-0">
+          <Header/>
+        </div>
+        <div className="flex-1 mt-10">
+          {children}
+        </div>
+        <div className="flex-shrink-0">
+          <Footer/>
+        </div>
+        
       </body>
     </html>
   )
