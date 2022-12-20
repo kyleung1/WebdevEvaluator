@@ -4,7 +4,6 @@ import re
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-from textblob import TextBlob
 from transformers import pipeline
 nltk.download('stopwords')
 nltk.download('wordnet')
@@ -28,7 +27,7 @@ query_array = [
     "solid js",
     "alpine js",
     ["lit js", "buildWithLit"],
-    ["qwik", "qwik js", "QwikDev"],
+    ["qwik", "qwik js", "QwikDev", "qwikcity"],
     "next js",
     ["astrodotbuild", "astro js"],
     ["fastify", "fastifyjs"],
@@ -110,6 +109,8 @@ def build_data(pass_query):
     tweets = []
     limit = 500
 
+    print('currently on ' + snsquery)
+
     for tweet in sntwitter.TwitterSearchScraper(snsquery).get_items():
 
         if len(tweets) == limit:
@@ -140,6 +141,8 @@ def build_data(pass_query):
         zip(*tweets_df.apply(lambda x: use_transformer(x['Cleaned Tweet']), axis=1)))
 
     tweets_df.to_csv(f"{query}.csv", index=False)
+
+    print('Done with' + query)
 
 
 for item in query_array:
