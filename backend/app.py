@@ -93,6 +93,7 @@ query_array = [
     "powershell"
 ]
 
+
 def use_transformer(tweet):
     specific_model = pipeline(
         model="cardiffnlp/twitter-roberta-base-sentiment-latest")
