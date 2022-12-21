@@ -1,0 +1,1041 @@
+Date,Tweet,User,Tweet ID,Tweet Url,Cleaned Tweet,Sentiment,Confidence
+2022-12-21 07:09:26+00:00,@rhymen0ceros @MapleYeti @RobDenBleyker If they didn’t think it was funnt they would’ve not even bothered with delivering the empty wrapper…,roryos01,1605460417534431233,https://twitter.com/roryos01/status/1605460417534431233,0ceros didn’t think funnt would’ve even bothered delivering empty wrapper…,negative,0.7213910222053528
+2022-12-21 06:20:12+00:00,"Tonight I wrote a little directed acyclic graph (DAG) cache powered by SQLite!
+
+https://t.co/Fr8JK9Y5Ru
+
+This will help @golivebud cache files across subprocesses.
+
+The best part? Some of the tricky bits were written by ChatGPT! https://t.co/Un8aF7iaOS",MattMueller,1605448028411891713,https://twitter.com/MattMueller/status/1605448028411891713,tonight wrote little directed acyclic graph (dag) cache powered sqlite! help cache file across subprocesses. best part? tricky bit written chatgpt!,positive,0.8341013193130493
+2022-12-21 04:15:56+00:00,"@JinalkumarPate3 @_dotnetbot_ For SQL Server, the closest is in memory SQLite I think.",Meligy,1605416757581139969,https://twitter.com/Meligy/status/1605416757581139969,"3 @_dotnetbot_ sql server, closest memory sqlite think.",neutral,0.8647876381874084
+2022-12-21 04:00:02+00:00,"🦄 Platform Science is hiring Android Engineer 
+
+🛖 #remote #wfh 
+💪 #Android #python #sqlite #aws #go #golang 
+
+#tech #softwareengineer #jobs 
+https://t.co/hT05NQc2oP",echojobs_io,1605412754185244674,https://twitter.com/echojobs_io/status/1605412754185244674,🦄 platform science hiring android engineer 🛖 remote wfh 💪 android python sqlite aws go golang tech softwareengineer job,neutral,0.6908957958221436
+2022-12-21 03:38:42+00:00,"Let me mention the tech stack: @preactjs FTW, signal is extremely helpful, @vite_js @tailwindcss @tailwindui @_sqlite_ @chartjs @maplibre @papaparse",mikoding9,1605407385237229568,https://twitter.com/mikoding9/status/1605407385237229568,"let mention tech stack: ftw, signal extremely helpful, _js @_sqlite_",positive,0.9702810049057007
+2022-12-21 03:28:45+00:00,"Hello, #android #developers
+Xopple is Hiring.
+Apply Now, https://t.co/mXhRMnfowf
+connect Xopple Infotech Pvt. Ltd.
+#Android_SDK #kotlin #sqlite
+
+#perks
+#5daysworking
+#lunchfromoffice
+#breakfastfromoffice
+#mediclaim
+#job #developer #itjobs #android #hiring #itcompany #career https://t.co/r3DnRKPmv8",xopple_infotech,1605404880017195008,https://twitter.com/xopple_infotech/status/1605404880017195008,"hello, android developer xopple hiring. apply now, connect xopple infotech pvt. ltd. android_sdk kotlin sqlite perk 5daysworking lunchfromoffice breakfastfromoffice mediclaim job developer itjobs android hiring itcompany career",neutral,0.6908922791481018
+2022-12-21 03:02:35+00:00,"Looking for the Best Class Library for Computing JSON Data
+#OpenSource #SPL #JsonPath #SQLite #Scala
+https://t.co/9mHPQpG9vX",scudata,1605398294972096512,https://twitter.com/scudata/status/1605398294972096512,looking best class library computing json data opensource spl jsonpath sqlite scala,neutral,0.5956745147705078
+2022-12-21 02:41:21+00:00,"@shanselman @dotnet @Raspberry_Pi @runfaster2000 Getting #dotnet 7 C# Blazer Server running on a Pi alongside OpenWRT on muscl-linux LUI web server blew my mind!!
+2 web servers on one box talking to external hardware and displaying a dashboard, controlling IO, logging telemetry to SQLite was just so cool!
+Opened new world 4 me!",paws101,1605392952414830593,https://twitter.com/paws101/status/1605392952414830593,"_pi 2000 getting dotnet 7 c blazer server running pi alongside openwon muscl-linux lui web server blew mind!! 2 web server one box talking external hardware displaying dashboard, controlling io, logging telemetry sqlite cool! opened new world 4 me!",positive,0.9546475410461426
+2022-12-21 01:28:21+00:00,Free and open source book about SQLite Internals https://t.co/UTdJNbQiZi,angsuman,1605374581937950720,https://twitter.com/angsuman/status/1605374581937950720,free open source book sqlite internals,neutral,0.6858999133110046
+2022-12-21 01:10:17+00:00,SQLime - SQLite Playground https://t.co/j5gywYSSp2,shiroemons,1605370035039801344,https://twitter.com/shiroemons/status/1605370035039801344,sqlime - sqlite playground,neutral,0.8209583163261414
+2022-12-21 00:25:02+00:00,WordPress testing official SQLite Support https://t.co/QeVIb6cI7b,angsuman,1605358649899364352,https://twitter.com/angsuman/status/1605358649899364352,wordpress testing official sqlite support,neutral,0.7923104166984558
+2022-12-21 00:23:15+00:00,Remove remaining SQLite settings/code https://t.co/gfSgAUOH1f #github #HTML #CSS #JavaScript #C#,first_issues,1605358198353203200,https://twitter.com/first_issues/status/1605358198353203200,remove remaining sqlite settings/code github html cs javascript c,neutral,0.5756980776786804
+2022-12-20 23:58:12+00:00,"@kellabyte @derekcollison @ripienaar @badpallod @nats_io @harperdbio @rsms oh, this takes foundationdb's value prop and makes it way cooler, oooooh. I love where you're going with recoil. may I dabble as a holiday project as well? I bound a wasm extension to sqlite a little while back and recoil is such a good take on this idea.",devgerred,1605351896805523458,https://twitter.com/devgerred/status/1605351896805523458,"_io oh, take foundationdb's value prop make way cooler, oooooh. love going recoil. may dabble holiday project well? bound wasm extension sqlite little back recoil good take idea.",positive,0.9619771242141724
+2022-12-20 23:24:23+00:00,"@IntelSupport I don't need support, but wanted to mention for the VTune team is that if they switch their SQlite DB to WAL transactions, their analysis result post-processing speed will visibly improve with 30-minutes worth of work spent on this.
+https://t.co/TIhJ79dfMT",andre_ca_s3,1605343386898423808,https://twitter.com/andre_ca_s3/status/1605343386898423808,"need support, wanted mention vtune team switch sqlite db wal transactions, analysis result post-processing speed visibly improve 30-minutes worth work spent this.",neutral,0.5527098178863525
+2022-12-20 23:15:24+00:00,"in the spirit of #opensource , may I recommend you try #sqlite next time you need to choose a database for a project",BMJHayward,1605341124973002757,https://twitter.com/BMJHayward/status/1605341124973002757,"spirit opensource , may recommend try sqlite next time need choose database project",positive,0.6848582625389099
+2022-12-20 22:33:19+00:00,@TanelPoder @duckdb Would have been surprised if no one had mentioned DuckDB and SQLite :) What's your use case for DuckDB?,gunnarmorling,1605330532702748672,https://twitter.com/gunnarmorling/status/1605330532702748672,would surprised one mentioned duckdb sqlite :) what's use case duckdb?,neutral,0.5850437879562378
+2022-12-20 22:26:38+00:00,"@gunnarmorling Although I learned about @duckdb last year, this year it really took off. It enables a whole new class of implementation paths for analytic use cases... SQLite, but for fast analytics... over (many) GBs of data, without investing into a giant traditional DW engine...",TanelPoder,1605328853588930560,https://twitter.com/TanelPoder/status/1605328853588930560,"although learned last year, year really took off. enables whole new class implementation path analytic use cases... sqlite, fast analytics... (many) gb data, without investing giant traditional dw engine...",positive,0.8178684115409851
+2022-12-20 21:54:12+00:00,"rqlite
+https://t.co/3rgc4G9kIR
+
+an easy-to-use, lightweight, distributed relational database, which uses SQLite as its storage engine. rqlite is simple to deploy, operating it is very straightforward, and its clustering capabilities provide you with fault-tolerance and",Ashot_,1605320688184819712,https://twitter.com/Ashot_/status/1605320688184819712,"rqlite easy-to-use, lightweight, distributed relational database, us sqlite storage engine. rqlite simple deploy, operating straightforward, clustering capability provide fault-tolerance",positive,0.5966200232505798
+2022-12-20 21:47:47+00:00,Help us test the SQLite implementation – Make WordPress Core https://t.co/3C1h4Np13m,DotheWoo,1605319074871148544,https://twitter.com/DotheWoo/status/1605319074871148544,help u test sqlite implementation – make wordpress core,neutral,0.7750777006149292
+2022-12-20 21:04:28+00:00,"ULIDs naturally sort based on their creation time, which is great for B-Tree indices and primary keys in SQLite. 
+
+Full benchmarks/tests/releases will come later, but I can already generate 2.5 million ULIDs per second locally, which is more than enough for most SQLite use cases",agarcia_me,1605308174973620224,https://twitter.com/agarcia_me/status/1605308174973620224,"ulids naturally sort based creation time, great b-tree index primary key sqlite. full benchmarks/tests/releases come later, already generate 2.5 million ulids per second locally, enough sqlite use case",positive,0.8117477893829346
+2022-12-20 21:04:28+00:00,"ULIDs are great! But SQLite doesn't support them out of the box. So here's an experimental extension that brings ULID generation into SQLite. 
+
+`select ulid();` -&gt; '01GMRGH6F0VF2WGBR9JPBDK277'
+
+Built with sqlite-loadable-rs in Rust in just a few minutes!
+
+https://t.co/RpGalBWtNN https://t.co/dXS7DIoPjL",agarcia_me,1605308173199364097,https://twitter.com/agarcia_me/status/1605308173199364097,ulids great! sqlite support box. here's experimental extension brings ulid generation sqlite. `select ulid();` -&gt; '01gmrgh6f0vf2wgbr9jpbdk277' built sqlite-loadable-rs rust minutes!,positive,0.9439540505409241
+2022-12-20 21:01:52+00:00,"@bitandbang Cloudflare D1 is a serverless SQLite database.
+
+Pricing is currently free during pre-release, but they say it will be priced based on use.",retrohack3r,1605307519290572800,https://twitter.com/retrohack3r/status/1605307519290572800,"cloudflare d1 serverless sqlite database. pricing currently free pre-release, say priced based use.",neutral,0.8149001002311707
+2022-12-20 20:30:03+00:00,"@TauriApps Tauri is awesome - I love the vision.
+
+Question: have you thought about how Tauri could be implemented into the ‘local-first’ ethos (I.e. CRDTs, SQLite)?",LessardCreTech,1605299512322322432,https://twitter.com/LessardCreTech/status/1605299512322322432,"tauri awesome - love vision. question: thought tauri could implemented ‘local-first’ ethos (i.e. crdts, sqlite)?",positive,0.9564287662506104
+2022-12-20 20:03:36+00:00,"... and the Rust version of SQLite's sqllogictest, originally developed as a test harness for RisingLight, is now being used by @ApacheArrow, @Datafuse_Labs and @RisingWaveLabs 
+
+Thanks everyone who made it possible!
+
+https://t.co/cEklorKh0v",iskyzh,1605292855919927296,https://twitter.com/iskyzh/status/1605292855919927296,"... rust version sqlite's sqllogictest, originally developed test harness risinglight, used , _labs thanks everyone made possible!",positive,0.7722939848899841
+2022-12-20 19:35:21+00:00,CSE6242/CX 4242 - Homework 1: Analyzing Twitter dataset; SQLite; D3 Warmup; Gephi; OpenRefine (Solution) https://t.co/s8PI6XMGmA,APlusLab1,1605285748374229001,https://twitter.com/APlusLab1/status/1605285748374229001,cse6242/cx 4242 - homework 1: analyzing twitter dataset; sqlite; d3 warmup; gephi; openrefine (solution),neutral,0.9074814915657043
+2022-12-20 19:28:00+00:00,"Light Technical Blog 
+
+A minimal blog/newsletter that is completely serverless and uses a simple SQLite backend.",this_startup,1605283898904256512,https://twitter.com/this_startup/status/1605283898904256512,light technical blog minimal blog/newsletter completely serverless us simple sqlite backend.,neutral,0.6890584826469421
+2022-12-20 19:07:53+00:00,"@hamiltonulmer @duckdb @Mause_me For the DuckDB one, I'll let Elliana answer that. To my understanding, it seems like a fairly new side project with no official backing by duckdb labs or other entities
+
+The SQLite one is similar - no official backing, API subject to change.",agarcia_me,1605278835519344640,https://twitter.com/agarcia_me/status/1605278835519344640,"_me duckdb one, i'll let elliana answer that. understanding, seems like fairly new side project official backing duckdb lab entity sqlite one similar - official backing, api subject change.",neutral,0.8996909856796265
+2022-12-20 18:53:10+00:00,"@hamiltonulmer @duckdb For Rust, yes, tho it's experimental, from  @Mause_me  https://t.co/WmeL03cEmo
+
+See also my similar library for SQLite: https://t.co/hYFsIEVwSF
+
+One important note: I dont think it's possible to write a Rust extension for duckdb/sqlite and compile to WASM, if you're doing that",agarcia_me,1605275130967379968,https://twitter.com/agarcia_me/status/1605275130967379968,"rust, yes, tho experimental, _me see also similar library sqlite: one important note: dont think possible write rust extension duckdb/sqlite compile wasm,",neutral,0.7436325550079346
+2022-12-20 18:35:23+00:00,"WordPress moving to support SQLite is such a great move, gonna make it so much more portable and lightweight. https://t.co/C77YoV8uOJ",danmatthews,1605270654877573140,https://twitter.com/danmatthews/status/1605270654877573140,"wordpress moving support sqlite great move, gonna make much portable lightweight.",positive,0.9675825834274292
+2022-12-20 18:32:58+00:00,"@bitandbang Why not serialize and persist to disk if it's going to have so little I/O?
+
+Or hell, you could even use sqlite.",CodexHere,1605270049417207832,https://twitter.com/CodexHere/status/1605270049417207832,"serialize persist disk going little i/o? hell, could even use sqlite.",neutral,0.6154417991638184
+2022-12-20 18:32:27+00:00,WordPress to support SQLite back end https://t.co/eFTZY4O0xC,dachelc,1605269918282383360,https://twitter.com/dachelc/status/1605269918282383360,wordpress support sqlite back end,neutral,0.7032473087310791
+2022-12-20 18:26:23+00:00,"hot diggity Wordpress hittin up dat SQLite 
+
+https://t.co/32ptb97fwM",inSenCite,1605268390041493538,https://twitter.com/inSenCite/status/1605268390041493538,hot diggity wordpress hittin dat sqlite,neutral,0.5170187950134277
+2022-12-20 18:18:05+00:00,You can now test #SQLite support in #Wordpress: https://t.co/TCfEy0DTHE,f_bartoloni,1605266302624571393,https://twitter.com/f_bartoloni/status/1605266302624571393,test sqlite support wordpress:,neutral,0.9009861350059509
+2022-12-20 18:16:13+00:00,"WordPress to support SQLite back end
+https://t.co/TrbJiHGh9A
+Article URL: https://t.co/TrbJiHGh9A Comments URL: https://t.co/PDtxelLMS7 Points: 147 # Comments: 37",M157q_News_RSS,1605265832929808384,https://twitter.com/M157q_News_RSS/status/1605265832929808384,wordpress support sqlite back end article url: comment url: points: 147 comments: 37,neutral,0.8611323237419128
+2022-12-20 18:16:10+00:00,"Tiens, Wordpress rajoute le support SQLite... https://t.co/LeUHSIsHBM https://t.co/KsrXS7ZLH4",lea_linux,1605265819969134606,https://twitter.com/lea_linux/status/1605265819969134606,"tiens, wordpress rajoute le support sqlite...",neutral,0.8119338154792786
+2022-12-20 18:13:54+00:00,"A proposal was published to make WordPress officially support SQLite. After the proposal received a lot of positive feedback from the community, we started working on an implementation to make that happen. We would like to urge hosts, plugin authors, and",Hacker__News,1605265248658677760,https://twitter.com/Hacker__News/status/1605265248658677760,"proposal published make wordpress officially support sqlite. proposal received lot positive feedback community, started working implementation make happen. would like urge hosts, plugin authors,",positive,0.8341882824897766
+2022-12-20 18:13:53+00:00,"WordPress to support SQLite back end
+
+#implementation #plugin #sqlite #test #database #plugins #data #help #module #core #site #wordpress
+
+https://t.co/mIVErDf5cI https://t.co/tCqQ4uREqf",Hacker__News,1605265246406336512,https://twitter.com/Hacker__News/status/1605265246406336512,wordpress support sqlite back end implementation plugin sqlite test database plugins data help module core site wordpress,neutral,0.810604989528656
+2022-12-20 18:05:09+00:00,How to select rows with \u0000 (null character) in a varchar column in SQLite? https://t.co/0k3olhZvhI,web_dock,1605263045739028484,https://twitter.com/web_dock/status/1605263045739028484,select row \u0000 (null character) varchar column sqlite?,neutral,0.8939876556396484
+2022-12-20 18:04:43+00:00,How to select rows with \u0000 (null character) in a varchar column in SQLite? https://t.co/5w1DhaIBQE,web_dock,1605262936301248544,https://twitter.com/web_dock/status/1605262936301248544,select row \u0000 (null character) varchar column sqlite?,neutral,0.8939876556396484
+2022-12-20 18:03:03+00:00,WordPress to support SQLite back end (123 pt) https://t.co/IlciGKrZSN,notHackerNews,1605262519039250432,https://twitter.com/notHackerNews/status/1605262519039250432,wordpress support sqlite back end (123 pt),neutral,0.7836055755615234
+2022-12-20 18:01:06+00:00,"Enroll for the SQLite forensics course today at https://t.co/qkhvoZdQDi!
+
+#DFIR",GubanovYuri,1605262027798224898,https://twitter.com/GubanovYuri/status/1605262027798224898,enroll sqlite forensics course today dfir,neutral,0.8878034353256226
+2022-12-20 18:01:01+00:00,WordPress to support SQLite back end via /r/hackernews https://t.co/hTA54zhz0m,wvdsteen,1605262009221652489,https://twitter.com/wvdsteen/status/1605262009221652489,wordpress support sqlite back end via /r/hackernews,neutral,0.7483610510826111
+2022-12-20 17:59:57+00:00,"There are some subtle issues in deleted data recovery from a SQLite database discussed in the @Belkasoft's course, which even experienced investigators do not necessarily know. Thus, the course will be useful for both 🧑‍🎓beginners and 👮seasoned professionals.",GubanovYuri,1605261739259486210,https://twitter.com/GubanovYuri/status/1605261739259486210,"subtle issue deleted data recovery sqlite database discussed 's course, even experienced investigator necessarily know. thus, course useful 🧑‍🎓beginners 👮seasoned professionals.",neutral,0.723758339881897
+2022-12-20 17:59:35+00:00,"Even operating systems use SQLite nowadays. To name a few artifacts, there are  Windows 10 timeline, macOS calendar and mail.",GubanovYuri,1605261647597150209,https://twitter.com/GubanovYuri/status/1605261647597150209,"even operating system use sqlite nowadays. name artifacts, window 10 timeline, macos calendar mail.",neutral,0.8281049728393555
+2022-12-20 17:58:52+00:00,"Major browsers use SQLite to store browsing histories and other browser data. This includes Chrome and Chromium-based browsers, Firefox and many others!",GubanovYuri,1605261465824403487,https://twitter.com/GubanovYuri/status/1605261465824403487,"major browser use sqlite store browsing history browser data. includes chrome chromium-based browsers, firefox many others!",neutral,0.689649224281311
+2022-12-20 17:58:13+00:00,"SQLite forensics  is important SQLite is everywhere now, from 💻computers to 📱mobiles. WhatsApp and Telegram store their histories in this database type. Viber, Snapchat, Signal... you name it!
+
+#DFIR",GubanovYuri,1605261303840657408,https://twitter.com/GubanovYuri/status/1605261303840657408,"sqlite forensics important sqlite everywhere now, 💻computers 📱mobiles. whatsapp telegram store history database type. viber, snapchat, signal... name it! dfir",neutral,0.6041375398635864
+2022-12-20 17:56:49+00:00,"Great news from @Belkasoft: a new free (terms apply) on-demand course enrollment starts today! This time we will offer the SQLite Forensics #DFIR training!
+
+Why is SQLite Forensics so important? See my first comment and add yours!
+
+#sqlite #sqliteforensics #mobileforensics https://t.co/T2GO8gb4d9",GubanovYuri,1605260948565987329,https://twitter.com/GubanovYuri/status/1605260948565987329,great news : new free (terms apply) on-demand course enrollment start today! time offer sqlite forensics dfir training! sqlite forensics important? see first comment add yours! sqlite sqliteforensics mobileforensics,positive,0.9634833335876465
+2022-12-20 17:45:40+00:00,New top story on Hacker News: WordPress to support SQLite back end https://t.co/wGIOCY6X0L,janyer,1605258142828347393,https://twitter.com/janyer/status/1605258142828347393,new top story hacker news: wordpress support sqlite back end,neutral,0.8258618712425232
+2022-12-20 17:45:08+00:00,"Sqlite no wordpress, finalmente &lt;3
+
+https://t.co/yJPwC8D37o",lsferreira42,1605258011752144902,https://twitter.com/lsferreira42/status/1605258011752144902,"sqlite wordpress, finalmente &lt;3",positive,0.7336459755897522
+2022-12-20 17:39:12+00:00,@metaskills @CustomInkTech Could one dream of SQLite deployment? Or would I/O limit this option altogether? 🤔,geetfun,1605256518794117121,https://twitter.com/geetfun/status/1605256518794117121,could one dream sqlite deployment? would i/o limit option altogether? 🤔,neutral,0.8727700114250183
+2022-12-20 17:22:57+00:00,WordPress to support SQLite back end https://t.co/VS0uOCc8LF (https://t.co/WoRCOx28zP),betterhn50,1605252427455860737,https://twitter.com/betterhn50/status/1605252427455860737,wordpress support sqlite back end (,neutral,0.7350941896438599
+2022-12-20 17:20:53+00:00,"WordPress to support SQLite back end  - https://t.co/6aSaBWN9dn
+57 points - 12 comments - https://t.co/CfYyn9XrAP",CommentsHn,1605251908985315329,https://twitter.com/CommentsHn/status/1605251908985315329,wordpress support sqlite back end - 57 point - 12 comment -,neutral,0.8448194861412048
+2022-12-20 17:10:11+00:00,WordPress to support SQLite back end https://t.co/oCU09CzhtB (https://t.co/RwHv32oIud),betterhn20,1605249213054521351,https://twitter.com/betterhn20/status/1605249213054521351,wordpress support sqlite back end (,neutral,0.7350941896438599
+2022-12-20 17:03:33+00:00,"Wordpress to support SQLite!
+https://t.co/PtAR6xhlf0",PatrickSocha,1605247546330415114,https://twitter.com/PatrickSocha/status/1605247546330415114,wordpress support sqlite!,positive,0.8063564896583557
+2022-12-20 17:01:06+00:00,WordPress to support SQLite back end https://t.co/1uursVsoJa,newsycombinator,1605246930069893123,https://twitter.com/newsycombinator/status/1605246930069893123,wordpress support sqlite back end,neutral,0.7032473087310791
+2022-12-20 17:00:02+00:00,WordPress to support SQLite back end: https://t.co/QltyuUEzkl Comments: https://t.co/Y4cVJlIJgL,HNTweets,1605246661235728385,https://twitter.com/HNTweets/status/1605246661235728385,wordpress support sqlite back end: comments:,neutral,0.8292900323867798
+2022-12-20 16:59:06+00:00,WordPress to support SQLite back end https://t.co/1tl69xH8aV,winsontang,1605246425071497216,https://twitter.com/winsontang/status/1605246425071497216,wordpress support sqlite back end,neutral,0.7032473087310791
+2022-12-20 16:57:00+00:00,"NoSQL Database Storage | Flutter ObjectBox (vs Sqlite, Sqflite, Hive) https://t.co/Jrp2lfcrv0",skyhoshi,1605245898619031564,https://twitter.com/skyhoshi/status/1605245898619031564,"nosql database storage | flutter objectbox (vs sqlite, sqflite, hive)",neutral,0.8980954885482788
+2022-12-20 16:56:46+00:00,"WordPress to support SQLite back end https://t.co/9FUxZdCJaW 
+3",radoncnotes,1605245837608615938,https://twitter.com/radoncnotes/status/1605245837608615938,wordpress support sqlite back end 3,neutral,0.7054444551467896
+2022-12-20 16:54:52+00:00,"WordPress to support SQLite back end https://t.co/CLLxrWO840 
+3",knelsonvsi,1605245358807842816,https://twitter.com/knelsonvsi/status/1605245358807842816,wordpress support sqlite back end 3,neutral,0.7054444551467896
+2022-12-20 16:54:47+00:00,"WordPress to support SQLite back end https://t.co/T6WJ15Lvtw 
+3",terrypferguson,1605245339379843072,https://twitter.com/terrypferguson/status/1605245339379843072,wordpress support sqlite back end 3,neutral,0.7054444551467896
+2022-12-20 16:52:11+00:00,"WordPress to support SQLite back end
+L: https://t.co/z3UAlZNUoA
+C: https://t.co/Lsig4zFktp",hn_frontpage,1605244686607826944,https://twitter.com/hn_frontpage/status/1605244686607826944,wordpress support sqlite back end l: c:,neutral,0.6738559603691101
+2022-12-20 16:43:35+00:00,"Introduction To SQL  Part - 1
+#rahulattulurisir #nxtwaveteam #nxtwave #shashankgujjulasir #anupampedarlasir #nxtwaveteam #nxtwave #ccbpacademy 
+
+#sqldeveloper #sqldatabase #sql #sqlserver #sqldba #sqlite 
+
+#dataanalytics #databases #data #databasemanagement https://t.co/URGuOeWkub",manjunatha6422,1605242519331434496,https://twitter.com/manjunatha6422/status/1605242519331434496,introduction sql part - 1 rahulattulurisir nxtwaveteam nxtwave shashankgujjulasir anupampedarlasir nxtwaveteam nxtwave ccbpacademy sqldeveloper sqldatabase sql sqlserver sqldba sqlite dataanalytics database data databasemanagement,neutral,0.8957276940345764
+2022-12-20 16:18:40+00:00,"The Belkasoft course on Remote Acquisition is over. Let's prepare for new training on #SQLite Forensics!🔥
+
+Register now and enjoy the holidays with great plans in January. Find the detailed course agenda at https://t.co/2Q0Asjk1qp
+
+#DFIR #SQLiteforensics https://t.co/Dxd0zGS46f",Belkasoft,1605236249203179529,https://twitter.com/Belkasoft/status/1605236249203179529,belkasoft course remote acquisition over. let's prepare new training sqlite forensics!🔥 register enjoy holiday great plan january. find detailed course agenda dfir sqliteforensics,positive,0.9443779587745667
+2022-12-20 16:10:00+00:00,"Help test the #SQLite implementation of #WordPress, coming to core in a future release.
+
+https://t.co/gZ7RKiwQoU",dimensionmedia,1605234067862982656,https://twitter.com/dimensionmedia/status/1605234067862982656,"help test sqlite implementation wordpress, coming core future release.",neutral,0.8097138404846191
+2022-12-20 16:02:17+00:00,foreach loop does not encode and insert all bitmaps into my sqlite DB https://t.co/QW6LMbsgtt,web_dock,1605232126936350726,https://twitter.com/web_dock/status/1605232126936350726,foreach loop encode insert bitmap sqlite db,neutral,0.8761129379272461
+2022-12-20 15:58:00+00:00,"NoSQL Database Storage | Flutter ObjectBox (vs Sqlite, Sqflite, Hive) https://t.co/kBMRGHFokX",bmtrnavsky,1605231051122655241,https://twitter.com/bmtrnavsky/status/1605231051122655241,"nosql database storage | flutter objectbox (vs sqlite, sqflite, hive)",neutral,0.8980954885482788
+2022-12-20 15:53:06+00:00,@carbonbeef fair and probably a good call. have used this linked tutorial in the past to cut a middle ground ie “learning just enough sqlite to make things work.” But it is still a time commitment that might not be worth it https://t.co/TykxpaKJ4O,PatrickMcKen_Z,1605229815459565569,https://twitter.com/PatrickMcKen_Z/status/1605229815459565569,fair probably good call. used linked tutorial past cut middle ground ie “learning enough sqlite make thing work.” still time commitment might worth,positive,0.6305598616600037
+2022-12-20 15:43:14+00:00,@carbonbeef sounds like something SQLite would be good for — I think it’s pretty straightforward to convert csv to sqlite. Eg examples here https://t.co/vCkdWBtgl6,PatrickMcKen_Z,1605227331324461057,https://twitter.com/PatrickMcKen_Z/status/1605227331324461057,sound like something sqlite would good — think it’s pretty straightforward convert csv sqlite. eg example,positive,0.811314582824707
+2022-12-20 15:23:30+00:00,"What’s your goto tech stack at the moment?
+
+“Next.js and TailwindCSS for the front end will remain the best choice. Node.js, Supabase, PostgreSQL, SQLite, and Prisma for the backend.”",micronsio,1605222365331591168,https://twitter.com/micronsio/status/1605222365331591168,"what’s goto tech stack moment? “next.js tailwindcss front end remain best choice. node.js, supabase, postgresql, sqlite, prisma backend.”",neutral,0.531964123249054
+2022-12-20 15:01:19+00:00,“Dobby is free” https://t.co/HiI3tcTUxj,roryos01,1605216786101801015,https://twitter.com/roryos01/status/1605216786101801015,“dobby free”,neutral,0.8144097924232483
+2022-12-20 14:00:02+00:00,"Register for our upcoming webinar, ""Getting Started With SQLite,"" sponsored by DCMI. Nishad Thalhath will present on Thursday, February 9, 2023 at 11:00 AM-12:00 PM EST. 
+
+https://t.co/vOCvr8oGnX https://t.co/phg697lXOA",asist_org,1605201363541102595,https://twitter.com/asist_org/status/1605201363541102595,"register upcoming webinar, ""getting started sqlite,"" sponsored dcmi. nishad thalhath present thursday, february 9, 2023 11:00 am-12:00 pm est.",neutral,0.8899289965629578
+2022-12-20 13:56:21+00:00,"@bitandbang There are some free hosting offering you could spin up a crud app + sqlite database on (oracle, https://t.co/exep2ZwtOh)",air_framp_one,1605200435614306306,https://twitter.com/air_framp_one/status/1605200435614306306,"free hosting offering could spin crud app + sqlite database (oracle,",neutral,0.7609521150588989
+2022-12-20 13:38:04+00:00,"@carolinapoena @WordPress Just tried to test using Local, only to find SQLite isn't enabled in PHP.
+
+@localwp Maybe this is a good use case to consider enabling it (or adding an option) in a future version? 🙂",dgwyer,1605195835280461824,https://twitter.com/dgwyer/status/1605195835280461824,"tried test using local, find sqlite enabled php. maybe good use case consider enabling (or adding option) future version? 🙂",positive,0.6911814212799072
+2022-12-20 13:31:37+00:00,@bitandbang what about a sqlite file 🤔 or a build that hardcodes your data into the server and deploy once a month. Seems like a running db isn't worth it at all even w/o costs.,daaitch,1605194209182498818,https://twitter.com/daaitch/status/1605194209182498818,sqlite file 🤔 build hardcodes data server deploy month. seems like running db worth even w/o costs.,neutral,0.720772922039032
+2022-12-20 13:00:15+00:00,"NoSQL Database Storage | Flutter ObjectBox (vs Sqlite, Sqflite, Hive) https://t.co/F5j9T6ee1w",carstenh1985,1605186317553377282,https://twitter.com/carstenh1985/status/1605186317553377282,"nosql database storage | flutter objectbox (vs sqlite, sqflite, hive)",neutral,0.8980954885482788
+2022-12-20 12:55:48+00:00,"Learn SQLite with Python: Building Database-Driven Desktop Projects CSJ0DKF
+
+https://t.co/w2cLXUKt8H https://t.co/ipm3KmKBd0",madilyn76k,1605185196516679681,https://twitter.com/madilyn76k/status/1605185196516679681,learn sqlite python: building database-driven desktop project csj0dkf,neutral,0.7598180770874023
+2022-12-20 12:49:00+00:00,Working with SQLite Databases using Python and Pandas https://t.co/etva7kLKjy https://t.co/pvkJJUypt3 #sql #DataScience via @dataquestio,geomotiv_main,1605183485593128962,https://twitter.com/geomotiv_main/status/1605183485593128962,working sqlite database using python panda sql datascience via,neutral,0.8880308866500854
+2022-12-20 11:46:58+00:00,"HostingbyAliTech Supports - OctoberCMS Hosting
+
+OctoberCMS is a free, open-source and self-hosted content management system (CMS) based on the PHP programming language and Laravel web application framework. It supports MySQL, SQLite and PostgreSQL...
+
+https://t.co/5pCay9NlQm https://t.co/YnVHX88GLx",hostingalitech,1605167876243181568,https://twitter.com/hostingalitech/status/1605167876243181568,"hostingbyalitech support - octobercms hosting octobercms free, open-source self-hosted content management system (cms) based php programming language laravel web application framework. support mysql, sqlite postgresql...",neutral,0.7099254131317139
+2022-12-20 11:30:10+00:00,"GitHub Trending Archive, 18 Dec 2022, C. remzi-arpacidusseau/ostep-projects, nanopb/nanopb, DarkFlippers/unleashed-firmware, sqlite/sqlite, CloverHackyColor/CloverBootloader, flipperdevices/flipperzero-firmware, libsdl-org/SDL https://t.co/HEPcy1FhDJ",motakasoft,1605163648204562434,https://twitter.com/motakasoft/status/1605163648204562434,"github trending archive, 18 dec 2022, c. remzi-arpacidusseau/ostep-projects, nanopb/nanopb, darkflippers/unleashed-firmware, sqlite/sqlite, cloverhackycolor/cloverbootloader, flipperdevices/flipperzero-firmware, libsdl-org/sdl",neutral,0.8926109075546265
+2022-12-20 11:21:08+00:00,Help us test the SQLite implementation https://t.co/Ag990JJ8TK via @WordPress,carolinapoena,1605161373704806400,https://twitter.com/carolinapoena/status/1605161373704806400,help u test sqlite implementation via,neutral,0.8899837136268616
+2022-12-20 09:22:30+00:00,"Mind blown 🤯
+
+""
+PHP runs as a WebAssembly binary
+MySQL is replaced for SQLite via a WordPress plugin
+Web server is implemented with the Service Worker API
+"" https://t.co/C9X2tN1Bdd",mibu_uk,1605131519936307200,https://twitter.com/mibu_uk/status/1605131519936307200,"mind blown 🤯 "" php run webassembly binary mysql replaced sqlite via wordpress plugin web server implemented service worker api """,neutral,0.6289823651313782
+2022-12-20 09:18:40+00:00,"Help needed to test the SQLite implementation in #WordPress 🧪
+https://t.co/4zXumVHBic",AudrasJb,1605130555611291648,https://twitter.com/AudrasJb/status/1605130555611291648,help needed test sqlite implementation wordpress 🧪,neutral,0.7933801412582397
+2022-12-20 09:10:32+00:00,"@criccomini A project that collects useful extensions for sqlite
+
+https://t.co/FPyF6KPt4f
+
+Need Apache like consortium for developing SQLite ecosystem.",HiHarshSinghal,1605128507817807872,https://twitter.com/HiHarshSinghal/status/1605128507817807872,project collect useful extension sqlite need apache like consortium developing sqlite ecosystem.,neutral,0.6394232511520386
+2022-12-20 08:01:56+00:00,"experimenting with GoToSocial:
+
+1) pretty easy and painless to install (sqlite more than enough to play)
+
+2) added @me@marcoabis.it to Tusky
+
+3) made it follow @abis@hachyderm.io to test
+
+4) now exploring the rest of the Fediverse, e.g.  @writeas__ looks interesting",capotribu,1605111243261476864,https://twitter.com/capotribu/status/1605111243261476864,"experimenting gotosocial: 1) pretty easy painless install (sqlite enough play) 2) added .it tusky 3) made follow .io test 4) exploring rest fediverse, e.g. __ look interesting",positive,0.884260892868042
+2022-12-20 08:01:01+00:00,"Last issue in 2022!
+
+From Java to Go • SQLite performance • ChatGPT and Go • Three Dot Labs' 22 favorite Go libs
+
+The latest Applied Go Weekly Newsletter is here!
+Read online: https://t.co/5Ft6PWS5uW
+Subscribe: https://t.co/Rtxn7OB5nD
+
+#golang https://t.co/zmFqpmZ1N7",AppliedGo,1605111013128421377,https://twitter.com/AppliedGo/status/1605111013128421377,last issue 2022! java go • sqlite performance • chatgpt go • three dot labs' 22 favorite go libs latest applied go weekly newsletter here! read online: subscribe: golang,neutral,0.6399186849594116
+2022-12-20 07:46:19+00:00,@bitandbang SQLite on https://t.co/GA6qqJhCmw or possibly Cloudflare Workers D1?,lpoinsig,1605107312045293568,https://twitter.com/lpoinsig/status/1605107312045293568,sqlite possibly cloudflare worker d1?,neutral,0.9430065155029297
+2022-12-20 06:40:01+00:00,"NoSQL Database Storage | Flutter ObjectBox (vs Sqlite, Sqflite, Hive) https://t.co/FJlOhrmmF7",kcahill87,1605090625854050305,https://twitter.com/kcahill87/status/1605090625854050305,"nosql database storage | flutter objectbox (vs sqlite, sqflite, hive)",neutral,0.8980954885482788
+2022-12-20 06:33:15+00:00,"TIL about the filter clause in PostgreSQL/SQLite, where instead of something like ""count(case when &lt;condition&gt; then 1 end)"" you can write ""count(column) filter (where &lt;condition&gt;)"". Really prefer this syntax!",mortensonsam,1605088925399547904,https://twitter.com/mortensonsam/status/1605088925399547904,"til filter clause postgresql/sqlite, instead something like ""count(case &lt;condition&gt; 1 end)"" write ""count(column) filter (where &lt;condition&gt;)"". really prefer syntax!",positive,0.7495838403701782
+2022-12-20 06:19:39+00:00,@norootcause @rahulsom @wiredsis Sqlite is the go to for my projects and it works perfectly. No need to overcomplicate things,JemYoung,1605085503232933889,https://twitter.com/JemYoung/status/1605085503232933889,sqlite go project work perfectly. need overcomplicate thing,positive,0.7555626034736633
+2022-12-20 05:59:49+00:00,"What are the Most Popular Relational Databases (2023) by @mcbeniwal.
+▪️ Oracle
+▪️ MySQL
+▪️ SQL Server
+▪️ PostgreSQL
+▪️ IBM DB2
+more...
+Read the complete article here&gt;&gt; https://t.co/mEIG7Zpjgg
+
+#DataBase #RDBMS #Oracle #MySQL #SQLServer #PostgreSQL #IBMDB2 #AzureSQL #SQLite https://t.co/bUeBrSsYGP",CsharpCorner,1605080509331410944,https://twitter.com/CsharpCorner/status/1605080509331410944,popular relational database (2023) . ▪️ oracle ▪️ mysql ▪️ sql server ▪️ postgresql ▪️ ibm db2 more... read complete article here&gt;&gt; database rdbms oracle mysql sqlserver postgresql ibmdb2 azuresql sqlite,neutral,0.8919997215270996
+2022-12-20 05:23:53+00:00,"SQLite Professional Read Only [Download] RAFKFTL
+
+https://t.co/4yWapJKqXT https://t.co/BbaXYmfQQR",Alberto39K,1605071466633928704,https://twitter.com/Alberto39K/status/1605071466633928704,sqlite professional read [download] rafkftl,neutral,0.8824684023857117
+2022-12-20 02:45:41+00:00,@bitandbang I'd look at SQLite with Litestream for a read-heavy workload like that.,bradsimantel,1605031655764525057,https://twitter.com/bradsimantel/status/1605031655764525057,i'd look sqlite litestream read-heavy workload like that.,neutral,0.7176334261894226
+2022-12-20 02:11:31+00:00,"Fear not dear reader. Been writing SQL since 1997. Don't need an ORM, nor a real DB. SQLite is just dandy for a shite home project right now.
+
+I will not be accepting questions at this time.",claco,1605023057654996994,https://twitter.com/claco/status/1605023057654996994,"fear dear reader. writing sql since 1997. need orm, real db. sqlite dandy shite home project right now. accepting question time.",negative,0.8628060221672058
+2022-12-20 01:36:10+00:00,@devagrawal09 @harshhhdev @shrirambalaji @t3dotgg It’s def SQLite,b_e_n_t_e_n,1605014160538238976,https://twitter.com/b_e_n_t_e_n/status/1605014160538238976,09 3dotgg it’s def sqlite,neutral,0.7327677607536316
+2022-12-20 00:06:50+00:00,"Even better, is there library or body of theory for building query planners? Is it worth studying sqlite to understand how it does it?",ckarmstrong,1604991680960421888,https://twitter.com/ckarmstrong/status/1604991680960421888,"even better, library body theory building query planners? worth studying sqlite understand it?",positive,0.6545471549034119
+2022-12-19 23:20:51+00:00,"Also, add these payloads to your list:
+PostgreSQL:
+'{""b"":2}'::jsonb &lt;@ '{""a"":1, ""b"":2}'::jsonb - True.
+SQLite:
+'{""a"":2,""c"":[4,5,{""f"":7}]}' -&gt; '$.c[2].f' = 7 - True. 
+MySQL:
+JSON_EXTRACT('{""id"": 14, ""name"": ""Aztalan""}', '$.name') = 'Aztalan' - True.
+#sqlinjection #bugbountytips https://t.co/etFNjfjGpQ",milanshiftsec,1604980107184984064,https://twitter.com/milanshiftsec/status/1604980107184984064,"also, add payload list: postgresql: '{""b"":2}'::jsonb &lt;@ '{""a"":1, ""b"":2}'::jsonb - true. sqlite: '{""a"":2,""c"":[4,5,{""f"":7}]}' -&gt; '$.c[2].f' = 7 - true. mysql: json_extract('{""id"": 14, ""name"": ""aztalan""}', '$.name') = 'aztalan' - true. sqlinjection bugbountytips",neutral,0.8454535603523254
+2022-12-19 21:57:29+00:00,"@Dan_The_Goodman Only getting a serialized copy of the SQLite database blocks writes. Once that copy has been made, the snap is written to disk outside of the ""main loop"".",general_order24,1604959129336008721,https://twitter.com/general_order24/status/1604959129336008721,"_the_goodman getting serialized copy sqlite database block writes. copy made, snap written disk outside ""main loop"".",neutral,0.8760427832603455
+2022-12-19 21:55:30+00:00,"New website for rqlite, the lightweight, easy-to-use distributed database written in Go and built on #SQLite 
+https://t.co/dnW9eq8neE",general_order24,1604958630633263120,https://twitter.com/general_order24/status/1604958630633263120,"new website rqlite, lightweight, easy-to-use distributed database written go built sqlite",positive,0.6267001628875732
+2022-12-19 21:54:19+00:00,"No. 2: In September, we launched pgsqlite, a pure python module to import SQLite databases into Postgres. Just drag &amp; drop the sqlite file onto https://t.co/ZjMueuf014 and you’ve got a Postgres database. In this post, we talk about how we built it. https://t.co/tD1lBNFuMq",bitdotioinc,1604958332057538561,https://twitter.com/bitdotioinc/status/1604958332057538561,"no. 2: september, launched pgsqlite, pure python module import sqlite database postgres. drag &amp; drop sqlite file onto you’ve got postgres database. post, talk built it.",neutral,0.818851113319397
+2022-12-19 21:51:12+00:00,Any of my followers know a lot about Django Models and can help me with the best way to organize something? #100devs #Python #Django #SQLite,j_de_jose,1604957548209230053,https://twitter.com/j_de_jose/status/1604957548209230053,follower know lot django model help best way organize something? 100devs python django sqlite,neutral,0.7878318428993225
+2022-12-19 21:49:10+00:00,"Experiment tracking the easy way! 🔎
+
+#sklearn_evaluation provides a powerful, flexible way to store, track, analyze, and compare computational experiments using a #SQLite database. It even allows you to combine plots for better comparison.
+
+Learn how: https://t.co/5XyiNcTtKK https://t.co/60ArOhBroe",ploomber,1604957034323103748,https://twitter.com/ploomber/status/1604957034323103748,"experiment tracking easy way! 🔎 sklearn_evaluation provides powerful, flexible way store, track, analyze, compare computational experiment using sqlite database. even allows combine plot better comparison. learn how:",positive,0.7605657577514648
+2022-12-19 21:36:38+00:00,"@RealGeneKim If you do need to cache hashes for the files, osxphotos also includes a simple key/value store backed by sqlite:
+
+Created with @carbon_app https://t.co/fXcDk8jKyn",RhetTurnbull,1604953879065808896,https://twitter.com/RhetTurnbull/status/1604953879065808896,"need cache hash files, osxphotos also includes simple key/value store backed sqlite: created _app",neutral,0.8957265615463257
+2022-12-19 21:36:00+00:00,"@thejolson Even hotter take; this stigma about men hiding their emotions and not cry because it's ""not masculine"" is one of the reasons why suicide rates amongst men are so much higher",roryos01,1604953720483360768,https://twitter.com/roryos01/status/1604953720483360768,"even hotter take; stigma men hiding emotion cry ""not masculine"" one reason suicide rate amongst men much higher",negative,0.8844776749610901
+2022-12-19 21:29:25+00:00,Or does it only need to wait for no write to be in progress at that time? Not a SQLite expert :P,Dan_The_Goodman,1604952063552651271,https://twitter.com/Dan_The_Goodman/status/1604952063552651271,need wait write progress time? sqlite expert :p,neutral,0.7726622223854065
+2022-12-19 21:27:39+00:00,"@general_order24 was digging through the rqlite FSM interface out of curiosity and noticed you are reading and writing the entire sqlite file every snapshot/restore
+
+Is there any way to snapshot that doesn’t block writes? I imagine that becomes painful at scale",Dan_The_Goodman,1604951620562964489,https://twitter.com/Dan_The_Goodman/status/1604951620562964489,_order24 digging rqlite fsm interface curiosity noticed reading writing entire sqlite file every snapshot/restore way snapshot doesn’t block writes? imagine becomes painful scale,negative,0.5469925403594971
+2022-12-19 21:19:40+00:00,"🇪🇸 Curso de Base de Datos SQLite
+🔗https://t.co/BmeksQHz2E
+🆓 4 days or 339 registrations left
+#Udemy #Development #DatabaseDesign #courses #udemyfree #udemycoupon #onlinecourses https://t.co/DV8gMRQM6Q",Agimafr,1604949612363763714,https://twitter.com/Agimafr/status/1604949612363763714,🇪🇸 curso de base de datos sqlite 🔗 🆓 4 day 339 registration left udemy development databasedesign course udemyfree udemycoupon onlinecourses,neutral,0.8752776980400085
+2022-12-19 21:13:13+00:00,"I've switched SQLime (an online SQLite playground) from sql.js to the official WASM build. Seems to be working fine. And it loads several times faster!
+
+Check it out: https://t.co/ozaCbGnXvt",ohmypy,1604947987792289793,https://twitter.com/ohmypy/status/1604947987792289793,i've switched sqlime (an online sqlite playground) sql.js official wasm build. seems working fine. load several time faster! check out:,positive,0.9423195719718933
+2022-12-19 21:02:30+00:00,@grahamcox82 Not doing native dev but could it help to use the WASM version of sqlite?,BjorklundVictor,1604945290490183680,https://twitter.com/BjorklundVictor/status/1604945290490183680,82 native dev could help use wasm version sqlite?,neutral,0.9053759574890137
+2022-12-19 20:55:50+00:00,"@BIOSCorruptor_ @whipnaejay @FalconsPoverty @crim_tweets_ That makes sense now, i forgot sometimes pre-builts have bios settings to stop them booting without certain fan headers connected",roryos01,1604943614530170881,https://twitter.com/roryos01/status/1604943614530170881,"_ _tweets_ make sense now, forgot sometimes pre-builts bios setting stop booting without certain fan header connected",neutral,0.6639273166656494
+2022-12-19 20:46:53+00:00,"Saving Data on Android (Second Edition): Learn Jetpack DataStore, Room, Firebase &amp; SQLite with Kotlin ND7GHYS
+
+https://t.co/PYeRnXsT76 https://t.co/of0An9CsV5",grant73hwqhy,1604941358988402701,https://twitter.com/grant73hwqhy/status/1604941358988402701,"saving data android (second edition): learn jetpack datastore, room, firebase &amp; sqlite kotlin nd7ghys",neutral,0.8292399048805237
+2022-12-19 20:39:52+00:00,@bitandbang SQLite? @flydotio is pioneering some cool tech for replication with https://t.co/7NkoO8y4zW,camertron,1604939597254823936,https://twitter.com/camertron/status/1604939597254823936,sqlite? pioneering cool tech replication,positive,0.8708425164222717
+2022-12-19 20:36:26+00:00,"@kelseyhightower If you put it on something that can be federated as well as RSS, then it will be available to millions of people on the platform they use. I put up a site on Ktistec activity pub server that I host myself: https://t.co/b6feuSN5XN it’s SQLite-backed.",relistan,1604938729856049181,https://twitter.com/relistan/status/1604938729856049181,"put something federated well rss, available million people platform use. put site ktistec activity pub server host myself: it’s sqlite-backed.",neutral,0.8227652907371521
+2022-12-19 19:51:10+00:00,"The Definitive Guide to SQLite (Expert's Voice in Open Source) CO33OY4
+
+https://t.co/vhg0koWme8 https://t.co/7tOr8AzUeL",Adrien40M,1604927337853726721,https://twitter.com/Adrien40M/status/1604927337853726721,definitive guide sqlite (expert's voice open source) co33oy4,neutral,0.7692961096763611
+2022-12-19 19:19:20+00:00,the answer to any networking problem is BPF. the answer to any database problem is SQLite.,senyeezus,1604919327727030272,https://twitter.com/senyeezus/status/1604919327727030272,answer networking problem bpf. answer database problem sqlite.,neutral,0.831694483757019
+2022-12-19 19:09:41+00:00,sqlite running in vram,post_alchemist,1604916899460124672,https://twitter.com/post_alchemist/status/1604916899460124672,sqlite running vram,neutral,0.8723930716514587
+2022-12-19 19:01:09+00:00,"This Month In Security we talk about a 22 Year Old Vulnerability in SQLite that has just surfaced, offering decades of installed packages on SO many machines to bad actors as potential targets. @aubreykingf5 @malcolmheath @aaronjb Sander Vinberg @f5 #BeF5 https://t.co/dofRXWfc8b",alexfigueroa,1604914752098107402,https://twitter.com/alexfigueroa/status/1604914752098107402,"month security talk 22 year old vulnerability sqlite surfaced, offering decade installed package many machine bad actor potential targets. 5 sander vinberg 5 bef5",neutral,0.6021336913108826
+2022-12-19 19:00:29+00:00,"Curso de Base de Datos SQLite  
+3.5 hours | 7124 students  | October 2022 release 
+
+🆓 LINK =&gt; https://t.co/FAOaDFJJyn 
+
+#Udemy #SQLite https://t.co/4GnJMlehrN",comidoc,1604914585127067648,https://twitter.com/comidoc/status/1604914585127067648,curso de base de datos sqlite 3.5 hour | 7124 student | october 2022 release 🆓 link =&gt; udemy sqlite,neutral,0.9330036640167236
+2022-12-19 18:14:29+00:00,@PapaBearett Im like five seconds away from dumping all this data into flat files and doing this in python / sqlite before I start throwing shit,ninthhostage,1604903008004935695,https://twitter.com/ninthhostage/status/1604903008004935695,im like five second away dumping data flat file python / sqlite start throwing shit,negative,0.8592334985733032
+2022-12-19 18:01:25+00:00,"@loic if you use https://t.co/x1MHhHuhH7, that's usually the culprit for my employees. It can run a massive SQLite index in memory",taylorbuley,1604899719724953600,https://twitter.com/taylorbuley/status/1604899719724953600,use that's usually culprit employees. run massive sqlite index memory,neutral,0.530600368976593
+2022-12-19 17:55:34+00:00,@HappiestAku I don't think I've ever come across a single pro amber account that has replies enabled lol,roryos01,1604898247633702912,https://twitter.com/roryos01/status/1604898247633702912,think i've ever come across single pro amber account reply enabled lol,neutral,0.7211162447929382
+2022-12-19 17:42:12+00:00,@Marcelo08729142 @XPunkDS For the person that wondered what database we used in our validator nodes. It's nudb and sqlite,Davidprrn1,1604894882920861696,https://twitter.com/Davidprrn1/status/1604894882920861696,08729142 person wondered database used validator nodes. nudb sqlite,neutral,0.8621867299079895
+2022-12-19 17:41:53+00:00,@TheCartoonLoon Kinda reminds me of that time people lost their shit cus of the Aug Lives Matter thing in Deus Ex.,roryos01,1604894806248984591,https://twitter.com/roryos01/status/1604894806248984591,kinda reminds time people lost shit cu aug life matter thing deus ex.,negative,0.7875531315803528
+2022-12-19 17:32:19+00:00,@fayemikah He shooting his shot like a king 👑,roryos01,1604892398244462592,https://twitter.com/roryos01/status/1604892398244462592,shooting shot like king 👑,positive,0.7416512370109558
+2022-12-19 17:30:13+00:00,"Can anyone recommend a *supported* embedded database for #nodejs that works well with #electron and can work with structured data?
+
+The main recommendation seems to be SQLite, but that's a pain to use in Electron because it has native components. Many other options I've (1/2)",grahamcox82,1604891866507403268,https://twitter.com/grahamcox82/status/1604891866507403268,"anyone recommend *supported* embedded database nodejs work well electron work structured data? main recommendation seems sqlite, that's pain use electron native components. many option i've (1/2)",neutral,0.7102658152580261
+2022-12-19 17:22:39+00:00,@kloogans God damn! https://t.co/N0D92GM3C9,roryos01,1604889963828387840,https://twitter.com/roryos01/status/1604889963828387840,god damn!,negative,0.6242473721504211
+2022-12-19 17:03:34+00:00,"@kristapsk @latticesphere @BTCsessions 🤔interesting, I'll need to see what JM did or perhaps 0.24 made a change. As far as I knew Berkley db still needed a manual install since the switch to sqlite.",UndercoverBank3,1604885160515604480,https://twitter.com/UndercoverBank3/status/1604885160515604480,"🤔interesting, i'll need see jm perhaps 0.24 made change. far knew berkley db still needed manual install since switch sqlite.",neutral,0.8546619415283203
+2022-12-19 16:56:54+00:00,"What is your favorite database to work with?
+
+#FullStackDev #DatabaseSelection #MySQL
+#MongoDB #PostgreSQL #SQLite #ProgrammingLanguages",ItsFurqanAziz,1604883482857115648,https://twitter.com/ItsFurqanAziz/status/1604883482857115648,favorite database work with? fullstackdev databaseselection mysql mongodb postgresql sqlite programminglanguages,positive,0.4979979395866394
+2022-12-19 16:49:14+00:00,"I want embedded data stored for everything. SQLite and DuckDB have spoiled me. I want this for all types of data stores: JSON document stores, graph DBs, search indexes, embedded Redis, etc etc.
+
+(JVM doesn’t cut it. Needs to be portable like SQLite and DuckDB.)",criccomini,1604881555876286464,https://twitter.com/criccomini/status/1604881555876286464,"want embedded data stored everything. sqlite duckdb spoiled me. want type data stores: json document stores, graph dbs, search indexes, embedded redis, etc etc. (jvm doesn’t cut it. need portable like sqlite duckdb.)",negative,0.538724422454834
+2022-12-19 16:35:51+00:00,"@bitandbang Depending on how simple your use case, Cloudflare KV free tier may be able to handle it. They also have D1 (~hosted sqlite), but that’s a $5/month alpha.",JacksonKearl,1604878185170055224,https://twitter.com/JacksonKearl/status/1604878185170055224,"depending simple use case, cloudflare kv free tier may able handle it. also d1 (~hosted sqlite), that’s $5/month alpha.",neutral,0.5844702124595642
+2022-12-19 16:32:06+00:00,"I used C++ to embed sqlite into Excel
+
+https://t.co/A63doe9SLo
+
+Discussions: https://t.co/VkRoXjmNwk
+
+#cpp #programming",CPPDiscussions,1604877242579968000,https://twitter.com/CPPDiscussions/status/1604877242579968000,used c++ embed sqlite excel discussions: cpp programming,neutral,0.9310023784637451
+2022-12-19 16:23:14+00:00,"@mimi10v3 @deepfates @_epictweetus_ oh yeah as long as they own the domain it's hosted at my system will make this easy, you just let them download their sqlite files and then they can upload them somewhere else. which is why setup instructions for at least v1 will be: ""buy a domain and CNAME it to the host domain""",tautologer,1604875011386392576,https://twitter.com/tautologer/status/1604875011386392576,"10v3 @_epictweetus_ oh yeah long domain hosted system make easy, let download sqlite file upload somewhere else. setup instruction least v1 be: ""buy domain cname host domain""",neutral,0.614625096321106
+2022-12-19 16:04:30+00:00,"Inside Symbian SQL: A Mobile Developer's Guide to SQLite BZBVWUA
+
+https://t.co/eDw2ZTBmw8 https://t.co/040z4qtsD3",hilllkczwf,1604870296636248064,https://twitter.com/hilllkczwf/status/1604870296636248064,inside symbian sql: mobile developer's guide sqlite bzbvwua,neutral,0.857109010219574
+2022-12-19 15:33:59+00:00,SQLite library https://t.co/0j8iGA8vIm #python #scripting #devops #sqlite,LinuxFu,1604862618988060672,https://twitter.com/LinuxFu/status/1604862618988060672,sqlite library python scripting devops sqlite,neutral,0.8470317721366882
+2022-12-19 15:25:02+00:00,"Schedule and automate #SQLite to #Azure task, https://t.co/gkCvBgvFZF",withdata,1604860363110899712,https://twitter.com/withdata/status/1604860363110899712,"schedule automate sqlite azure task,",neutral,0.8815129995346069
+2022-12-19 15:21:11+00:00,"@_epictweetus_ @deepfates nah, web 2.0 is fine for this. I have it designed it my head, it's just a sqlite file and some JSON-over-HTTP",tautologer,1604859395082539009,https://twitter.com/tautologer/status/1604859395082539009,"@_epictweetus_ nah, web 2.0 fine this. designed head, sqlite file json-over-http",neutral,0.596359133720398
+2022-12-19 15:20:36+00:00,What*,roryos01,1604859249620029442,https://twitter.com/roryos01/status/1604859249620029442,what*,neutral,0.6428687572479248
+2022-12-19 15:15:43+00:00,"But when if thats what they ask for?? Speaking if which, anyone wanna buy me a new frying pan for Christmas? Lol https://t.co/RfcwX8ltIV",roryos01,1604858018407264257,https://twitter.com/roryos01/status/1604858018407264257,"thats ask for?? speaking which, anyone wanna buy new frying pan christmas? lol",neutral,0.6788155436515808
+2022-12-19 15:09:15+00:00,@viperwave At least its only 4 minutes and not like 2 hours,roryos01,1604856393671987200,https://twitter.com/roryos01/status/1604856393671987200,least 4 minute like 2 hour,neutral,0.792526125907898
+2022-12-19 15:08:56+00:00,"Using SQLite: Small  Fast  Reliable  Choose Any Three  MJNAYNC
+
+https://t.co/OE3GHiQTSJ https://t.co/H37O1XA5Ow",AArnulfo36,1604856313539923969,https://twitter.com/AArnulfo36/status/1604856313539923969,using sqlite: small fast reliable choose three mjnaync,neutral,0.8053860664367676
+2022-12-19 14:55:32+00:00,"@fayemikah I believe when it actually came time to march against the UK not banning conversion therapy for trans people, she was chilling with a group of radfem lesbians, one of which is famous for telling a trans women to end herself",roryos01,1604852940119822339,https://twitter.com/roryos01/status/1604852940119822339,"believe actually came time march uk banning conversion therapy trans people, chilling group radfem lesbians, one famous telling trans woman end",negative,0.5201293230056763
+2022-12-19 14:38:37+00:00,"7 Open-source Microsoft Access and FileMaker Alternatives
+
+https://t.co/nV0A6pliOD
+
+#microsoft #database #filemaker #filemanagement #sqlite #sqldeveloper #sqli #microsoft #access #msaccess #mysql #mysqldba #postgresql #postgres",goomedic,1604848682414784513,https://twitter.com/goomedic/status/1604848682414784513,7 open-source microsoft access filemaker alternative microsoft database filemaker filemanagement sqlite sqldeveloper sqli microsoft access msaccess mysql mysqldba postgresql postgres,neutral,0.8729108572006226
+2022-12-19 14:31:10+00:00,"Distributed ids are a pain. You either end up with autoinc which has the delightfully named ""german tank problem"" or you end up with ugly uuids in urls. https://t.co/zZdHLUEVQc solves all that and should be available by default in mysql/pg/sqlite",tobi,1604846809733795840,https://twitter.com/tobi/status/1604846809733795840,"distributed id pain. either end autoinc delightfully named ""german tank problem"" end ugly uuids urls. solves available default mysql/pg/sqlite",negative,0.8255897760391235
+2022-12-19 12:49:02+00:00,SQlite in QGIS project https://t.co/Z3uVda1eeD #GISStackExchange,vanuatugis,1604821105210191872,https://twitter.com/vanuatugis/status/1604821105210191872,sqlite qgis project gisstackexchange,neutral,0.8632351756095886
+2022-12-19 10:05:09+00:00,@portiousbanda 😄 I will never forget my fear of moving from flatfiles and learn SQLITE. I hoped there is some way around...but nope there wasn't.,TomR4vn,1604779864724279302,https://twitter.com/TomR4vn/status/1604779864724279302,😄 never forget fear moving flatfiles learn sqlite. hoped way around...but nope wasn't.,neutral,0.5145963430404663
+2022-12-19 09:53:22+00:00,"🧑‍💻 If you know #Python, you can help the project https://t.co/VoG9Pc4WAa with this issue: ""Book Cover Needed For ""SQLite Internals: How The World's Most Used Database Works""""
+
+https://t.co/ux2TsRRrF6
+#OpenSource",rob0SS,1604776897732378626,https://twitter.com/rob0SS/status/1604776897732378626,"🧑‍💻 know python, help project issue: ""book cover needed ""sqlite internals: world's used database works"""" opensource",neutral,0.7805556058883667
+2022-12-19 09:28:27+00:00,"Using SQLite: Small  Fast  Reliable  Choose Any Three  SYG8GR6
+
+https://t.co/D4cyTaYvum https://t.co/CdWjvv5wqp",GKarley87,1604770626190725120,https://twitter.com/GKarley87/status/1604770626190725120,using sqlite: small fast reliable choose three syg8gr6,neutral,0.7249710559844971
+2022-12-19 09:00:04+00:00,Can you answer this? Regular Expression Integrity Constraints in SQLite3 https://t.co/VP4xKZyvIT #sqlite,StackDBAs,1604763485518368768,https://twitter.com/StackDBAs/status/1604763485518368768,answer this? regular expression integrity constraint sqlite3 sqlite,neutral,0.8409255146980286
+2022-12-19 08:53:44+00:00,"@TylerGlaiel sqlite is really fucking useful
+
+full stop",bengrue,1604761891535876096,https://twitter.com/bengrue/status/1604761891535876096,sqlite really fucking useful full stop,positive,0.8697202205657959
+2022-12-19 08:16:56+00:00,"@bitandbang It’s the simplest one I know of right now 😅 The app setup walkthrough has gotten a lot better in the past year or so too!
+
+You could take a peek at Cloudflare’s new D1 (hosted SQLite) or KV (basically redis), but I haven’t gotten my hands dirty with it yet ¯\_(ツ)_/¯",voiceofadam,1604752630131326976,https://twitter.com/voiceofadam/status/1604752630131326976,"it’s simplest one know right 😅 app setup walkthrough gotten lot better past year too! could take peek cloudflare’s new d1 (hosted sqlite) kv (basically redis), haven’t gotten hand dirty yet ¯\_(ツ)_/¯",positive,0.9316852688789368
+2022-12-19 08:03:16+00:00,"#polltime with @znsoftech1 
+
+#znsoftech #Trending  #android #mondaythoughts #databases #AndroidDev #MondayMotivation #sqlite #Technology #SoftwareEngineering #Viral 
+
+Which of the following is the built-in database of Android?",znsoftech1,1604749188826529792,https://twitter.com/znsoftech1/status/1604749188826529792,polltime 1 znsoftech trending android mondaythoughts database androiddev mondaymotivation sqlite technology softwareengineering viral following built-in database android?,neutral,0.8803936243057251
+2022-12-19 07:51:29+00:00,"I just learned that sqlite recently added good support for JSON, similar to Postgres.
+
+I use JSON a lot with Postgres. I will try to use sqlite for my next embedded DB.
+
+https://t.co/qv6iyUkwDX",serphacker,1604746227283001344,https://twitter.com/serphacker/status/1604746227283001344,"learned sqlite recently added good support json, similar postgres. use json lot postgres. try use sqlite next embedded db.",positive,0.8687847852706909
+2022-12-19 07:22:11+00:00,SQLite internals: How the most-used database works https://t.co/Pusa47Q6qy comm: https://t.co/kAo2y2ea16,icymihn,1604738853327327233,https://twitter.com/icymihn/status/1604738853327327233,sqlite internals: most-used database work comm:,neutral,0.7887825965881348
+2022-12-19 06:43:27+00:00,sqlite is really fucking useful for custom file formats like save games...,TylerGlaiel,1604729103604535296,https://twitter.com/TylerGlaiel/status/1604729103604535296,sqlite really fucking useful custom file format like save games...,positive,0.5714813470840454
+2022-12-19 06:33:07+00:00,SQLite internals: How the most-used database works. https://t.co/BzZW2icKCg,serializers,1604726505137123328,https://twitter.com/serializers/status/1604726505137123328,sqlite internals: most-used database works.,positive,0.530815601348877
+2022-12-19 06:13:49+00:00,"SQLite rocks!
+
+#database",Jp57787596,1604721648447664128,https://twitter.com/Jp57787596/status/1604721648447664128,sqlite rocks! database,positive,0.9460959434509277
+2022-12-19 06:00:04+00:00,SQLite Internals: How The World's Most Used Database Works https://t.co/x1Q7Hzwo4c,pinboard_pop,1604718187622309888,https://twitter.com/pinboard_pop/status/1604718187622309888,sqlite internals: world's used database work,neutral,0.7810399532318115
+2022-12-19 05:31:37+00:00,"@Shpigford @hnshah Remix, Prisma, SQLite, deploy to Fly.",VicVijayakumar,1604711027219861504,https://twitter.com/VicVijayakumar/status/1604711027219861504,"remix, prisma, sqlite, deploy fly.",neutral,0.8367083072662354
+2022-12-19 05:20:46+00:00,"@rahulsom @wiredsis You might not have used it directly, but I bet there's a ton of software that you've used that uses sqlite under the hood.",norootcause,1604708297629499392,https://twitter.com/norootcause/status/1604708297629499392,"might used directly, bet there's ton software used us sqlite hood.",neutral,0.8382610082626343
+2022-12-19 04:53:25+00:00,@norootcause @wiredsis I've seen a lot of webs. They're not that big. I bet SQLite could handle them just fine.,gen_nja,1604701411622936576,https://twitter.com/gen_nja/status/1604701411622936576,i've seen lot webs. they're big. bet sqlite could handle fine.,neutral,0.5117472410202026
+2022-12-19 04:23:05+00:00,@norootcause @wiredsis I've never used sqlite. Possibly because I worked with java for long enough that HSQLDB and H2 filled that space.,rahulsom,1604693777733496832,https://twitter.com/rahulsom/status/1604693777733496832,i've never used sqlite. possibly worked java long enough hsqldb h2 filled space.,neutral,0.603839635848999
+2022-12-19 04:19:18+00:00,"@Shpigford Rails + devise + sqlite/postgres
+
+Coded it live couple of years back 
+
+https://t.co/yla2frcTI4",shobhitic,1604692826608275456,https://twitter.com/shobhitic/status/1604692826608275456,rail + devise + sqlite/postgres coded live couple year back,neutral,0.9210888147354126
+2022-12-19 03:27:12+00:00,"This also probably explains the reason why the sqlite databases have moved to /storage instead of /db cos it's easier to mount there.
+
+#Rails #programming #docker https://t.co/OSk8f2pcAA",onghu,1604679715746635776,https://twitter.com/onghu/status/1604679715746635776,also probably explains reason sqlite database moved /storage instead /db co easier mount there. rail programming docker,neutral,0.7864978313446045
+2022-12-19 03:08:02+00:00,@norootcause @wiredsis Does SQLite make money and provide returns on huge successive piles of VC money?,gen_nja,1604674891336536064,https://twitter.com/gen_nja/status/1604674891336536064,sqlite make money provide return huge successive pile vc money?,neutral,0.708749532699585
+2022-12-19 02:58:36+00:00,"I asked #ChatGPT to create an event driven C# web API for an address book using .Net6, RabbitMQ for message queueing, Redis for caching, and SQLite for data access while also using dependency inject and adhering to domain driven design principles.
+
+My job is safe. https://t.co/2lRlFQO0My",manicsquirrel,1604672517632925698,https://twitter.com/manicsquirrel/status/1604672517632925698,"asked chatgpt create event driven c web api address book using .net6, rabbitmq message queueing, redis caching, sqlite data access also using dependency inject adhering domain driven design principles. job safe.",neutral,0.7236959338188171
+2022-12-19 01:57:00+00:00,@norootcause @wiredsis sqlite is honest about what it is and isn’t. It doesn’t try to win through appeals of emotion or missionaries. No one will ever make a mocking cgi video of “sqlite is web scale”,standaloneSA,1604657015086776321,https://twitter.com/standaloneSA/status/1604657015086776321,sqlite honest isn’t. doesn’t try win appeal emotion missionaries. one ever make mocking cgi video “sqlite web scale”,negative,0.8667105436325073
+2022-12-19 00:53:07+00:00,SQLite seems pretty cool and @Cloudflare is using is for D1. So why do you hate SQLite? #SQL #sqlite #databases,nbddanny,1604640940584538113,https://twitter.com/nbddanny/status/1604640940584538113,sqlite seems pretty cool using d1. hate sqlite? sql sqlite database,positive,0.8385785222053528
+2022-12-19 00:00:02+00:00,"SQLite Internals: How The World's Most Used Database Works 
+Read more ⬇️
+https://t.co/KqRbWmGYd1
+
+#DevOps #Engineering",devopsbulletin,1604627580744761344,https://twitter.com/devopsbulletin/status/1604627580744761344,sqlite internals: world's used database work read ⬇️ devops engineering,neutral,0.889085054397583
+2022-12-18 22:47:27+00:00,"@wiredsis On the flip side, sqlite dominated its space because it *was* a great product. No marketing, confs, or swag. You can win with quality!",norootcause,1604609314974420992,https://twitter.com/norootcause/status/1604609314974420992,"flip side, sqlite dominated space *was* great product. marketing, confs, swag. win quality!",positive,0.9746474027633667
+2022-12-18 22:13:13+00:00,"@BritishUnderdog Eh I might give it a look when it goes on sale. I don't often play racing games, and I prefer more arcadey stuff.",roryos01,1604600701270704128,https://twitter.com/roryos01/status/1604600701270704128,"eh might give look go sale. often play racing games, prefer arcadey stuff.",neutral,0.6790797114372253
+2022-12-18 21:46:15+00:00,"@L1ghtsword @lporiginalg I think, apart from probably people not wanting to watch it anyway, that also might ahve been a factor as well. Cus I don't think anyone knew about it lol",roryos01,1604593914635337730,https://twitter.com/roryos01/status/1604593914635337730,"1ghtsword think, apart probably people wanting watch anyway, also might ahve factor well. cu think anyone knew lol",neutral,0.7528376579284668
+2022-12-18 21:24:53+00:00,he gots haf appel on hims hed https://t.co/U0K61vKFtA,roryos01,1604588534450589697,https://twitter.com/roryos01/status/1604588534450589697,gots haf appel hims hed,neutral,0.7543372511863708
+2022-12-18 21:17:55+00:00,@wiz @thedylanhouse @jack @scsibug has been doing amazing work on it. sqlite is web scale,jb55,1604586785031749632,https://twitter.com/jb55/status/1604586785031749632,amazing work it. sqlite web scale,positive,0.9756723046302795
+2022-12-18 20:56:41+00:00,"@kaiscomics This is something to do with digital rights management. if you play it on a tablet you can access HD. But on a laptop or PC, you're shit out of luck gennerally. Even when I enabled HDCP it still refuses to allow HD.",roryos01,1604581441488175104,https://twitter.com/roryos01/status/1604581441488175104,"something digital right management. play tablet access hd. laptop pc, shit luck gennerally. even enabled hdcp still refuse allow hd.",negative,0.8924106955528259
+2022-12-18 20:14:17+00:00,"A POC about Event-Sourcing with Kotlin and Spring Boot
+
+#cqrs #kotlin #eventsourcing #graphql #sqlite
+
+https://t.co/DHWnsUNWtQ",vargasmesh,1604570768502915072,https://twitter.com/vargasmesh/status/1604570768502915072,poc event-sourcing kotlin spring boot cqrs kotlin eventsourcing graphql sqlite,neutral,0.9252875447273254
+2022-12-18 18:54:18+00:00,@DoglovinPatriot @ACABylonBee @murmuringprince How is it controlled by the left when you yourself said anyone can edit it including yourself if you wanted to,roryos01,1604550639765360640,https://twitter.com/roryos01/status/1604550639765360640,controlled left said anyone edit including wanted,neutral,0.7702302932739258
+2022-12-18 18:52:37+00:00,@ACABylonBee Does he know how wikipedia works???,roryos01,1604550218950795270,https://twitter.com/roryos01/status/1604550218950795270,know wikipedia works???,neutral,0.8296810984611511
+2022-12-18 17:32:45+00:00,SQLite internals: How the most-used database works https://t.co/GJel43qLH3 (https://t.co/NJb6a8k7TG),newsyc200,1604530119539728384,https://twitter.com/newsyc200/status/1604530119539728384,sqlite internals: most-used database work (,neutral,0.8587714433670044
+2022-12-18 16:51:49+00:00,"log_sense (1.6.0): Generate analytics in HTML, txt, and SQLite format for Apache and Rails log files. https://t.co/BN1xY946Wa",RubygemsN,1604519815896797187,https://twitter.com/RubygemsN/status/1604519815896797187,"log_sense (1.6.0): generate analytics html, txt, sqlite format apache rail log files.",neutral,0.9179778099060059
+2022-12-18 16:47:51+00:00,"Just published ""EF Core Power Pack"" for @VisualStudio  that currently includes ""EF Core Power Tools"" and DDEX providers for SQLite  &amp; Postgres from @bricelambs &amp; @shayrojansky in a single installer
+#efcore #dotnet 
+https://t.co/2MWAOzb8dn https://t.co/lm7t4QwZzQ",ErikEJ,1604518818411384838,https://twitter.com/ErikEJ/status/1604518818411384838,"published ""ef core power pack"" currently includes ""ef core power tools"" ddex provider sqlite &amp; postgres &amp; single installer efcore dotnet",neutral,0.9316370487213135
+2022-12-18 16:36:24+00:00,I’m going to use MySQL for the database. I was planning on using SQLite as I did previously in my CLI C2 but I need to be able to make remote queries for the GUI rather than querying the request locally and sending back as JSON to the GUI.,itscyberali,1604515935229992962,https://twitter.com/itscyberali/status/1604515935229992962,i’m going use mysql database. planning using sqlite previously cli c2 need able make remote query gui rather querying request locally sending back json gui.,neutral,0.8553599119186401
+2022-12-18 16:12:48+00:00,@KittyOffRecord Good morning! https://t.co/SB7YSJIuaA,roryos01,1604509997764816897,https://twitter.com/roryos01/status/1604509997764816897,good morning!,positive,0.9474204182624817
+2022-12-18 16:11:25+00:00,@BritishUnderdog Is it like NFS Underground? lol That's the only NFS game I ever really liked,roryos01,1604509649016950789,https://twitter.com/roryos01/status/1604509649016950789,like nfs underground? lol that's nfs game ever really liked,neutral,0.46807730197906494
+2022-12-18 16:10:49+00:00,"@criccomini sqlite with its built-in bm25 is popular. currently working on a blog post about doing simple vector-based search client-side, where I don't think anything great exists",Sirupsen,1604509497292193796,https://twitter.com/Sirupsen/status/1604509497292193796,"sqlite built-in bm25 popular. currently working blog post simple vector-based search client-side, think anything great exists",positive,0.9522086977958679
+2022-12-18 16:06:03+00:00,"Fellas, is it gay to be a caring father? https://t.co/uLabUzpybX",roryos01,1604508300648878086,https://twitter.com/roryos01/status/1604508300648878086,"fellas, gay caring father?",neutral,0.873563289642334
+2022-12-18 15:35:05+00:00,"4) Floor ~ DB
+https://t.co/MBbhi7Tmzw
+A SQLite database for Flutter applications.
+It works like a wrapper around sqflite and expose apis to define tables, columns.
+
+It gets inspiration from Room Android's library.",SanjayDevTech,1604500507267018753,https://twitter.com/SanjayDevTech/status/1604500507267018753,"4) floor ~ db sqlite database flutter applications. work like wrapper around sqflite expose apis define tables, columns. get inspiration room android's library.",neutral,0.8635827302932739
+2022-12-18 14:57:26+00:00,"SQLite vulnerability CVE-2022-46908 with CVSS score of 9.8 affects only v3.37.1 (released on 30.12.2021) up to the current v3.40
+
+Doesn’t seem to be that serious https://t.co/t9QxtKy9Iz https://t.co/VpLVx2HzH4",cyb3rops,1604491031294115841,https://twitter.com/cyb3rops/status/1604491031294115841,sqlite vulnerability cve-2022-46908 cv score 9.8 affect v3.37.1 (released 30.12.2021) current v3.40 doesn’t seem serious,negative,0.6563531756401062
+2022-12-18 14:56:14+00:00,SQLite may be more prevalent in software supply chains than originally considered; thus raising the blast radius of any unpatched CVE-2022-46908 instances. Thanks to @lorenc_dan for raising awareness through his thoughtful analysis. https://t.co/mcdmWE6z5j,Sujeet,1604490730650497024,https://twitter.com/Sujeet/status/1604490730650497024,sqlite may prevalent software supply chain originally considered; thus raising blast radius unpatched cve-2022-46908 instances. thanks _dan raising awareness thoughtful analysis.,neutral,0.7698302865028381
+2022-12-18 14:00:30+00:00,SQLite internals: How the most-used database works: https://t.co/SvMHwvnhQo ( https://t.co/gPT77lTfCQ ),HighSNHN,1604476702427451393,https://twitter.com/HighSNHN/status/1604476702427451393,sqlite internals: most-used database works: ( ),neutral,0.7688006162643433
+2022-12-18 13:28:22+00:00,mmmmmm pop rocks,roryos01,1604468616409358336,https://twitter.com/roryos01/status/1604468616409358336,mmmmmm pop rock,neutral,0.6932128071784973
+2022-12-18 13:21:42+00:00,"Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release
+
+WordPress’ Performance Team contributors have merged a new experimental SQLite integration module that is on track to be included in the upcoming version  https://t.co/hIrVTg5rar",Free_LanceTools,1604466940185042945,https://twitter.com/Free_LanceTools/status/1604466940185042945,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release wordpress’ performance team contributor merged new experimental sqlite integration module track included upcoming version,neutral,0.8554156422615051
+2022-12-18 13:07:40+00:00,@TheCartoonLoon Ngl Snyder stans are really getting more and more annoying by the day.,roryos01,1604463405498335243,https://twitter.com/roryos01/status/1604463405498335243,ngl snyder stans really getting annoying day.,negative,0.9202464818954468
+2022-12-18 13:03:25+00:00,6. My Notes App: I developed an app that allows users to create and organize notes. This project involved implementing an SQLite database to store the notes data and using Kotlin's data classes to retrieve and display the notes.,lekhanshruprela,1604462337607421954,https://twitter.com/lekhanshruprela/status/1604462337607421954,6. note app: developed app allows user create organize notes. project involved implementing sqlite database store note data using kotlin's data class retrieve display notes.,neutral,0.6890057921409607
+2022-12-18 13:01:08+00:00,"This is also a case where scanners are likely to miss some instances due to ""dark files"": https://t.co/OpR0qN55W5
+
+Sqlite is commonly embedded in other apps, making it hard for SCA-based tools to identify. Accurate, build-time SBOMs would be needed to find this 100% of the time.",lorenc_dan,1604461761553649665,https://twitter.com/lorenc_dan/status/1604461761553649665,"also case scanner likely miss instance due ""dark files"": sqlite commonly embedded apps, making hard sca-based tool identify. accurate, build-time sboms would needed find 100% time.",neutral,0.5918251872062683
+2022-12-18 13:01:07+00:00,"This is also a great use case for VEX: https://t.co/SHJ7g4j7ct
+
+Even if the vulnerability is present in sqlite, it requires specific functionality to be used (user defined functions with unsafe inputs).
+
+A VEX entry could be published if the vulnerable code is not called.",lorenc_dan,1604461760060297224,https://twitter.com/lorenc_dan/status/1604461760060297224,"also great use case vex: even vulnerability present sqlite, requires specific functionality used (user defined function unsafe inputs). vex entry could published vulnerable code called.",positive,0.651875913143158
+2022-12-18 12:56:38+00:00,"The affected versions range shows that every version of sqlite is affected, including the latest version (3.40.0)! This means the upstream project has not issued a release with the fix, which can slow down distros receiving patches. https://t.co/Kfte7Qtb8S",lorenc_dan,1604460629938831360,https://twitter.com/lorenc_dan/status/1604460629938831360,"affected version range show every version sqlite affected, including latest version (3.40.0)! mean upstream project issued release fix, slow distros receiving patches.",negative,0.5868542790412903
+2022-12-18 12:56:37+00:00,"Looking in the NVD, we can see that this is a sanitization bug in the ""safe"" mode of operating sqlite, where some unsafe functions are still allowed to be called: https://t.co/d9E1XseCxn https://t.co/ymHoMYbwMn",lorenc_dan,1604460626222391296,https://twitter.com/lorenc_dan/status/1604460626222391296,"looking nvd, see sanitization bug ""safe"" mode operating sqlite, unsafe function still allowed called:",negative,0.5774065256118774
+2022-12-18 12:56:36+00:00,"It's been awhile, so let's do another CVE Deep Dive! This time, let's look at CVE-2022-46908, a critical vulnerability in sqlite! This currently shows up in all three scanners tested (snyk, trivy, and grype) against the GCP Distroless Python 3 image. https://t.co/tGALLDfhTo",lorenc_dan,1604460621646307328,https://twitter.com/lorenc_dan/status/1604460621646307328,"awhile, let's another cve deep dive! time, let's look cve-2022-46908, critical vulnerability sqlite! currently show three scanner tested (snyk, trivy, grype) gcp distroless python 3 image.",neutral,0.6356616616249084
+2022-12-18 12:45:43+00:00,"@datingdecisions Next time consider SQLite as a demo environment. It's a lot, er, lighter to setup but has all of the key pieces you need to learn most things that matter in SQL.",RussellSPierce,1604457884578119681,https://twitter.com/RussellSPierce/status/1604457884578119681,"next time consider sqlite demo environment. lot, er, lighter setup key piece need learn thing matter sql.",neutral,0.7858946919441223
+2022-12-18 12:24:03+00:00,"Performance Lab Plugin to Add New Experimental #SQLite #Integration Module in Upcoming 1.8.0 Release https://t.co/zQZfo3zoSZ
+
+#WordPress #Core #PerformanceLab",wpnewsio,1604452432314044416,https://twitter.com/wpnewsio/status/1604452432314044416,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release wordpress core performancelab,neutral,0.8551351428031921
+2022-12-18 11:35:30+00:00,SQLite internals: How the most-used database works https://t.co/GkB0HyPcmN,dachelc,1604440213081686016,https://twitter.com/dachelc/status/1604440213081686016,sqlite internals: most-used database work,neutral,0.8076704740524292
+2022-12-18 11:32:03+00:00,SQLite internals: How the most-used database works via /r/hackernews https://t.co/brey3etBIj,wvdsteen,1604439345506787328,https://twitter.com/wvdsteen/status/1604439345506787328,sqlite internals: most-used database work via /r/hackernews,neutral,0.8663603663444519
+2022-12-18 11:28:39+00:00,SQLite internals: How the most-used database works - https://t.co/sd5qnDfEzx,rohitsohlot,1604438488136306688,https://twitter.com/rohitsohlot/status/1604438488136306688,sqlite internals: most-used database work -,neutral,0.8788795471191406
+2022-12-18 10:07:47+00:00,"@jensneuse_de @wundergraphcom Hey @jensneuse_de, how is it different than tRPC? The best would be to have a REST like typesafe api but without graphQL and SQLite. It seems next-fetch would do that, doesn’t it?",ffabetterworld,1604418139638403074,https://twitter.com/ffabetterworld/status/1604418139638403074,"_de hey _de, different trpc? best would rest like typesafe api without graphql sqlite. seems next-fetch would that, doesn’t it?",neutral,0.8224815726280212
+2022-12-18 09:45:09+00:00,`SQLcipher` is a cool thing for SQLite. I'm gonna use it in the next part of Password Manager.,ben_eskandari,1604412441127157760,https://twitter.com/ben_eskandari/status/1604412441127157760,`sqlcipher` cool thing sqlite. i'm gonna use next part password manager.,positive,0.9296595454216003
+2022-12-18 09:32:13+00:00,`IF NOT EXISTS` support for `CREATE INDEX` in SQLite https://t.co/Fau5IDjkZk #github #TypeScript #JavaScript #Shell #CSS #HTML,first_issues,1604409186812510209,https://twitter.com/first_issues/status/1604409186812510209,`if exists` support `create index` sqlite github typescript javascript shell cs html,neutral,0.8652713894844055
+2022-12-18 09:23:00+00:00,@mutantsmixtape Ahhhh yes the obligatory “look at these tweets from nearly a decade ago!!!!”,roryos01,1604406866515197955,https://twitter.com/roryos01/status/1604406866515197955,ahhhh yes obligatory “look tweet nearly decade ago!!!!”,positive,0.5518826842308044
+2022-12-18 09:21:28+00:00,"@tunguz CSV files are a flat database with no indexing capabilities. That's why switching to sqlite is both easy and immediately beneficial + allows you to scale to a heavy-duty DB if needed
+
+Data scientists should stop thinking in Excel mode by default. It's stoneage tech at this point",oogie_fletzet,1604406482409345024,https://twitter.com/oogie_fletzet/status/1604406482409345024,csv file flat database indexing capabilities. that's switching sqlite easy immediately beneficial + allows scale heavy-duty db needed data scientist stop thinking excel mode default. stoneage tech point,positive,0.6083847880363464
+2022-12-18 09:16:16+00:00,"SQLite internals: How the most-used database works
+https://t.co/SMWgn6iBTT
+Article URL: https://t.co/SMWgn6iBTT Comments URL: https://t.co/T2uPZvBgHy Points: 103 # Comments: 2",M157q_News_RSS,1604405174524850182,https://twitter.com/M157q_News_RSS/status/1604405174524850182,sqlite internals: most-used database work article url: comment url: points: 103 comments: 2,neutral,0.8917755484580994
+2022-12-18 08:54:39+00:00,"#wp_Dev if no response,  will disappear.  ""(Dynamic HTML with javascript with two forms and a server program with PHP, SQLite) [closed]"" https://t.co/6zAjc8RSWf",webpoint_new,1604399732511719426,https://twitter.com/webpoint_new/status/1604399732511719426,"wp_dev response, disappear. ""(dynamic html javascript two form server program php, sqlite) [closed]""",neutral,0.5663685202598572
+2022-12-18 08:25:13+00:00,SQLite internals: How the most-used database works https://t.co/ZZUG7Qn9jn,suitingtseng,1604392324573822976,https://twitter.com/suitingtseng/status/1604392324573822976,sqlite internals: most-used database work,neutral,0.8076704740524292
+2022-12-18 07:43:45+00:00,"TIL libsql, a fork of SQLite that is both open source, and open to contributions. (SQLite doesn't accept outside contributions)
+
+https://t.co/ThgpuQT6fI",iavins,1604381890231668736,https://twitter.com/iavins/status/1604381890231668736,"til libsql, fork sqlite open source, open contributions. (sqlite accept outside contributions)",neutral,0.874282717704773
+2022-12-18 07:43:24+00:00,"Book Cover Needed For ""SQLite Internals: How The World's Most Used Database Works"" https://t.co/VbIEQmiy7Q #github",first_tmrs_only,1604381804445712384,https://twitter.com/first_tmrs_only/status/1604381804445712384,"book cover needed ""sqlite internals: world's used database works"" github",neutral,0.77927565574646
+2022-12-18 07:42:14+00:00,"Book Cover Needed For ""SQLite Internals: How The World's Most Used Database Works"" https://t.co/CSav0nShnt #github #JavaScript #HTML #CSS #Python #HTML #CSS",first_issues,1604381509531881473,https://twitter.com/first_issues/status/1604381509531881473,"book cover needed ""sqlite internals: world's used database works"" github javascript html cs python html cs",neutral,0.7901178002357483
+2022-12-18 07:01:05+00:00,"Really nice piece on engineering problem solving and how to engage with the OpenSource community
+
+How I found a bug in SQLite https://t.co/UoJFvXhBZA",embedded_iot,1604371151857278977,https://twitter.com/embedded_iot/status/1604371151857278977,really nice piece engineering problem solving engage opensource community found bug sqlite,positive,0.9542967081069946
+2022-12-18 06:42:52+00:00,"SQLite Professional Read Only [Download] QWVG0WX
+
+https://t.co/RzvKbzN0F7 https://t.co/Xf77pJDs4i",hintz42qsy,1604366568930115584,https://twitter.com/hintz42qsy/status/1604366568930115584,sqlite professional read [download] qwvg0wx,neutral,0.8661608695983887
+2022-12-18 06:40:34+00:00,WordPress testing official SQLite Support https://t.co/LiGP8ycj1y,matsuu_zatsu,1604365992687243264,https://twitter.com/matsuu_zatsu/status/1604365992687243264,wordpress testing official sqlite support,neutral,0.7923104166984558
+2022-12-18 06:31:11+00:00,"SQLite internals: How the most-used database works
+Link: https://t.co/QTSULtg7IJ
+Comments: https://t.co/f6SMRWRdaN",HackerNewsTop10,1604363627577884672,https://twitter.com/HackerNewsTop10/status/1604363627577884672,sqlite internals: most-used database work link: comments:,neutral,0.846647322177887
+2022-12-18 06:21:38+00:00,SQLite internals: How the most-used database works https://t.co/ZdB5iwb9Ia,ClementShahn,1604361225349246976,https://twitter.com/ClementShahn/status/1604361225349246976,sqlite internals: most-used database work,neutral,0.8076704740524292
+2022-12-18 06:00:05+00:00,SQLite internals: How the most-used database works: Comments https://t.co/Z7bJ9RE3is,splusoh,1604355803649298433,https://twitter.com/splusoh/status/1604355803649298433,sqlite internals: most-used database works: comment,neutral,0.8775525093078613
+2022-12-18 05:58:29+00:00,SQLite internals: How the most-used database works https://t.co/zyhnsyGmZh (https://t.co/eYSijS6PpU),betterhn50,1604355400937226240,https://twitter.com/betterhn50/status/1604355400937226240,sqlite internals: most-used database work (,neutral,0.8587714433670044
+2022-12-18 05:48:37+00:00,“Benchmarking SQLite Performance in Go” https://t.co/PQR0k3DUUI,mattn_jp,1604352915589976065,https://twitter.com/mattn_jp/status/1604352915589976065,“benchmarking sqlite performance go”,neutral,0.9186871647834778
+2022-12-18 05:28:03+00:00,"QGIS: SQLite DB with lat, long columnd (no geometry columns) https://t.co/jlk5S3FD3f #GISStackExchange",vanuatugis,1604347740015988738,https://twitter.com/vanuatugis/status/1604347740015988738,"qgis: sqlite db lat, long columnd (no geometry columns) gisstackexchange",neutral,0.8621118664741516
+2022-12-18 04:37:51+00:00,"@tunguz Not widely known fact. In Sqlite, they ARE databases.
+
+https://t.co/adYXohaV6U",dravine,1604335108583997443,https://twitter.com/dravine/status/1604335108583997443,"widely known fact. sqlite, databases.",neutral,0.8428754210472107
+2022-12-18 04:36:12+00:00,"SQLite internals: How the most-used database works 
+https://t.co/qJLQuCpTOU",tech197381481,1604334693951881216,https://twitter.com/tech197381481/status/1604334693951881216,sqlite internals: most-used database work,neutral,0.8076704740524292
+2022-12-18 04:32:27+00:00,SQLite internals: How the most-used database works https://t.co/XkGuWhKFGc (https://t.co/tEX7YsWTI0),betterhn20,1604333747855294464,https://twitter.com/betterhn20/status/1604333747855294464,sqlite internals: most-used database work (,neutral,0.8587714433670044
+2022-12-18 04:23:32+00:00,SQLite internals: How the most-used database works https://t.co/fq2IEBrzxI,winsontang,1604331504305569792,https://twitter.com/winsontang/status/1604331504305569792,sqlite internals: most-used database work,neutral,0.8076704740524292
+2022-12-18 04:21:55+00:00,"SQLite internals: How the most-used database works https://t.co/W2zfOr4ipr 
+13",knelsonvsi,1604331099559190528,https://twitter.com/knelsonvsi/status/1604331099559190528,sqlite internals: most-used database work 13,neutral,0.7645255923271179
+2022-12-18 04:21:32+00:00,"SQLite internals: How the most-used database works https://t.co/NV8x6wdGgm 
+13",terrypferguson,1604331003442503680,https://twitter.com/terrypferguson/status/1604331003442503680,sqlite internals: most-used database work 13,neutral,0.7645255923271179
+2022-12-18 04:20:03+00:00,SQLite internals: How the most-used database works: https://t.co/owTFn6VMdB Comments: https://t.co/FwokWcdAMf,HNTweets,1604330627255439367,https://twitter.com/HNTweets/status/1604330627255439367,sqlite internals: most-used database works: comments:,neutral,0.8613361716270447
+2022-12-18 04:18:48+00:00,"SQLite internals: How the most-used database works https://t.co/gclxyrBmn7 
+13",radoncnotes,1604330312489734144,https://twitter.com/radoncnotes/status/1604330312489734144,sqlite internals: most-used database work 13,neutral,0.7645255923271179
+2022-12-18 03:46:02+00:00,@mooreds @tedneward Sqlite or Json blobs on a server. Anything else is just storage implementation details.,MWeeksDev,1604322066940952576,https://twitter.com/MWeeksDev/status/1604322066940952576,sqlite json blob server. anything else storage implementation details.,neutral,0.8982304334640503
+2022-12-18 03:05:49+00:00,"@phil_eaton True on some case. Sqlite is one great example. Backup or copy the db is very trivial, just copy the file.
+But, having multi files allow us to do operation like backup a single table, or backup the WAL file for the last few days, depending on how the files are organized.",jauhararifin10,1604311947180408832,https://twitter.com/jauhararifin10/status/1604311947180408832,"_eaton true case. sqlite one great example. backup copy db trivial, copy file. but, multi file allow u operation like backup single table, backup wal file last days, depending file organized.",positive,0.7730539441108704
+2022-12-18 02:38:02+00:00,"SQLite Internals: How the Most Used Database Works
+L: https://t.co/99GvDLf6RW
+C: https://t.co/iQgs6Ygry4",hn_frontpage,1604304954671374337,https://twitter.com/hn_frontpage/status/1604304954671374337,sqlite internals: used database work l: c:,neutral,0.8932044506072998
+2022-12-18 02:01:01+00:00,"SQLite: Past, Present, and Future https://t.co/ZwMuDXW6sU
+#AI #DeepLearning #MachineLearning #DataScience https://t.co/HWVj0wRsQH",MikeTamir,1604295639340285953,https://twitter.com/MikeTamir/status/1604295639340285953,"sqlite: past, present, future ai deeplearning machinelearning datascience",neutral,0.9029582142829895
+2022-12-18 01:46:41+00:00,"Using SQLite: Small  Fast  Reliable  Choose Any Three  0YBWFKP
+
+https://t.co/wrCQIw622J https://t.co/j9HV0ZBnFR",YundtKristin,1604292032674963456,https://twitter.com/YundtKristin/status/1604292032674963456,using sqlite: small fast reliable choose three 0ybwfkp,neutral,0.7636871337890625
+2022-12-18 01:01:24+00:00,@jlowin We need a SQLite but for analytical queries. Something that can easily read CSV and Parquet.,sethrosen,1604280636092518400,https://twitter.com/sethrosen/status/1604280636092518400,need sqlite analytical queries. something easily read csv parquet.,neutral,0.8192150592803955
+2022-12-18 00:40:16+00:00,Is there a SQLite of vector search engines? Something persistent and in-process for easy distribution?,jlowin,1604275320131129344,https://twitter.com/jlowin/status/1604275320131129344,sqlite vector search engines? something persistent in-process easy distribution?,neutral,0.864366888999939
+2022-12-17 23:57:36+00:00,@Fetusberry Ethereal,roryos01,1604264579688693763,https://twitter.com/roryos01/status/1604264579688693763,ethereal,neutral,0.7571843862533569
+2022-12-17 23:56:00+00:00,@TheCartoonLoon Why does that kinda read like social credit but for clout instead???,roryos01,1604264178478366720,https://twitter.com/roryos01/status/1604264178478366720,kinda read like social credit clout instead???,neutral,0.7424624562263489
+2022-12-17 23:53:42+00:00,"@TheCartoonLoon ""not a furry"" https://t.co/6YrIMddMmI",roryos01,1604263597319901185,https://twitter.com/roryos01/status/1604263597319901185,"""not furry""",neutral,0.6483932733535767
+2022-12-17 23:47:40+00:00,"This read like it's entirely made up. ""Gamer bro language"". It conflict with other reports about production. Where are receipts for any of this??? https://t.co/usAUpXjVr3",roryos01,1604262079782944769,https://twitter.com/roryos01/status/1604262079782944769,"read like entirely made up. ""gamer bro language"". conflict report production. receipt this???",negative,0.9142404794692993
+2022-12-17 23:39:20+00:00,"@i_dreamojeannie @ClericGrey How is asking for more precise details that aren't vague ""a weak argument""??",roryos01,1604259985084633088,https://twitter.com/roryos01/status/1604259985084633088,"_dreamojeannie asking precise detail vague ""a weak argument""??",negative,0.6046751141548157
+2022-12-17 23:20:04+00:00,@tunguz play with SQLite instead,saurabhchopraa,1604255137144311809,https://twitter.com/saurabhchopraa/status/1604255137144311809,play sqlite instead,negative,0.5468494296073914
+2022-12-17 23:02:47+00:00,I've always said having something like an Upstash Redis service or SQLite would be 🔥,deepwhitman,1604250787718524929,https://twitter.com/deepwhitman/status/1604250787718524929,i've always said something like upstash redis service sqlite would 🔥,positive,0.6835553050041199
+2022-12-17 22:53:02+00:00,"@MatzeOne @wiredsis true, except sqlite is wold class. Can’t imagine many sw projects that wouldn’t benefit from dumping whatever ass database they have and switch to sqlite.",svenasol,1604248333819822080,https://twitter.com/svenasol/status/1604248333819822080,"true, except sqlite wold class. can’t imagine many sw project wouldn’t benefit dumping whatever as database switch sqlite.",neutral,0.4910336136817932
+2022-12-17 22:44:48+00:00,"One large drawback? File locks. I should know. I hacked together WordPress to use SQLite back in 2009 because I wasn't allowed access to MySQL, and took down the entire web infrastructure at a large university because of file locking. https://t.co/2ASTOLGBjr",gilzow,1604246258775953411,https://twitter.com/gilzow/status/1604246258775953411,"one large drawback? file locks. know. hacked together wordpress use sqlite back 2009 allowed access mysql, took entire web infrastructure large university file locking.",negative,0.8712664842605591
+2022-12-17 21:49:16+00:00,"@TheCartoonLoon Yo can we stop putting fucking ""coded"" at the end of everything.",roryos01,1604232284873293825,https://twitter.com/roryos01/status/1604232284873293825,"yo stop putting fucking ""coded"" end everything.",negative,0.9443147778511047
+2022-12-17 21:34:48+00:00,"@thejolson yeah, a surprisingly hit. Especially after how rough Avengers was.",roryos01,1604228642456080384,https://twitter.com/roryos01/status/1604228642456080384,"yeah, surprisingly hit. especially rough avenger was.",positive,0.42715984582901
+2022-12-17 21:32:37+00:00,you guys were right Guardians of the Galaxy is a great game,roryos01,1604228093476048896,https://twitter.com/roryos01/status/1604228093476048896,guy right guardian galaxy great game,positive,0.9498063325881958
+2022-12-17 20:12:33+00:00,Went to open Clip Studio Paint and accidentally clicked on DB Browser Sqlite. I have to re-evaluate my life.,SoulsApostle,1604207946883276801,https://twitter.com/SoulsApostle/status/1604207946883276801,went open clip studio paint accidentally clicked db browser sqlite. re-evaluate life.,negative,0.6563010215759277
+2022-12-17 19:33:32+00:00,"@svenasol @wiredsis And SQLite is supposed to be just for some prototyping and hobby projects, too. Very telling where MongoDB fits.",MatzeOne,1604198126805319680,https://twitter.com/MatzeOne/status/1604198126805319680,"sqlite supposed prototyping hobby projects, too. telling mongodb fits.",neutral,0.7049762010574341
+2022-12-17 19:22:05+00:00,Today I’ve implemented events syncing to a local Postgres instance with resilience. Now I have to migrate the apps to use this db instead of local SQLite copies.,vladfaust,1604195246149189635,https://twitter.com/vladfaust/status/1604195246149189635,today i’ve implemented event syncing local postgres instance resilience. migrate apps use db instead local sqlite copies.,neutral,0.7245532870292664
+2022-12-17 18:47:01+00:00,#Tech  #Automated | Sqlite billions of tests - Interview with Richard Hipp https://t.co/HlKST37oH8,hasdid,1604186418099544064,https://twitter.com/hasdid/status/1604186418099544064,tech automated | sqlite billion test - interview richard hipp,neutral,0.8877867460250854
+2022-12-17 18:46:59+00:00,#Tech  #Automated | SQLite-loadable-rs: A framework for building SQLite Extensions in Rust https://t.co/JqyzvBl5mC,hasdid,1604186413180018688,https://twitter.com/hasdid/status/1604186413180018688,tech automated | sqlite-loadable-rs: framework building sqlite extension rust,neutral,0.8187012672424316
+2022-12-17 18:46:59+00:00,#Tech  #Automated | I found a bug in SQLite https://t.co/vj1QRSxSZ2,hasdid,1604186411640528897,https://twitter.com/hasdid/status/1604186411640528897,tech automated | found bug sqlite,neutral,0.7868253588676453
+2022-12-17 18:30:04+00:00,"(2/3)
+This includes `combine()`, `src_local()`, `src_mysql()`, `src_postgres()`, `src_sqlite()`, `rename_vars_()`, `select_vars_()`, `summarise_each_()`, `mutate_each_()`, `as.tbl()`, `tbl_df()`, and a handful of older arguments.",tidyverse_news,1604182155533369352,https://twitter.com/tidyverse_news/status/1604182155533369352,"(2/3) includes `combine()`, `src_local()`, `src_mysql()`, `src_postgres()`, `src_sqlite()`, `rename_vars_()`, `select_vars_()`, `summarise_each_()`, `mutate_each_()`, `as.tbl()`, `tbl_df()`, handful older arguments.",neutral,0.8548550605773926
+2022-12-17 17:37:53+00:00,"The communication between the GUI and teamserver is all setup. Next:
+-Implementing the database using SQLite.
+-Parsing of incoming and outgoing messages to differentiate between authentication, chat message, etc.
+
+Will draw up the design today, no code.",itscyberali,1604169023603605505,https://twitter.com/itscyberali/status/1604169023603605505,"communication gui teamserver setup. next: -implementing database using sqlite. -parsing incoming outgoing message differentiate authentication, chat message, etc. draw design today, code.",neutral,0.8604210615158081
+2022-12-17 16:34:25+00:00,"(2/3)
+This includes `combine()`, `src_local()`, `src_mysql()`, `src_postgres()`, `src_sqlite()`, `rename_vars_()`, `select_vars_()`, `summarise_each_()`, `mutate_each_()`, `as.tbl()`, `tbl_df()`, and a handful of older arguments.",tidyverse_news,1604153051987599360,https://twitter.com/tidyverse_news/status/1604153051987599360,"(2/3) includes `combine()`, `src_local()`, `src_mysql()`, `src_postgres()`, `src_sqlite()`, `rename_vars_()`, `select_vars_()`, `summarise_each_()`, `mutate_each_()`, `as.tbl()`, `tbl_df()`, handful older arguments.",neutral,0.8548550605773926
+2022-12-17 16:24:16+00:00,📰 WordPress testing official SQLite Support https://t.co/FQTLRbij0W #hackernews #wordpress #official #testing #support #sqlite,HackerNewsWP,1604150494393356288,https://twitter.com/HackerNewsWP/status/1604150494393356288,📰 wordpress testing official sqlite support hackernews wordpress official testing support sqlite,neutral,0.8684797883033752
+2022-12-17 15:54:29+00:00,"@skeletonpup access does a lot of things you don't need, maybe sth like sqlite would be easier, plus your database would be a single file in a well-supported format
+
+https://t.co/ED8pC7oNhg looks like a nice frontend",n0i0b,1604143001303142403,https://twitter.com/n0i0b/status/1604143001303142403,"access lot thing need, maybe sth like sqlite would easier, plus database would single file well-supported format look like nice frontend",neutral,0.5490642786026001
+2022-12-17 15:42:33+00:00,@ios_dev_alb I don’t need Alamofire or Realm. RxSwift + SQLite + URLSession is all I need to create large apps.,maruthibasava,1604139998625861632,https://twitter.com/maruthibasava/status/1604139998625861632,_dev_alb don’t need alamofire realm. rxswift + sqlite + urlsession need create large apps.,neutral,0.6742783784866333
+2022-12-17 15:42:03+00:00,"How does it work? @wundergraphcom takes the 3 API dependencies (REST, GraphQL, SQLite) and merges them into a unified graph (GraphQL). From this schema, we generate a typescript ORM.",jensneuse_de,1604139872108904448,https://twitter.com/jensneuse_de/status/1604139872108904448,"work? take 3 api dependency (rest, graphql, sqlite) merges unified graph (graphql). schema, generate typescript orm.",neutral,0.8918875455856323
+2022-12-17 14:59:23+00:00,I suspect (but have no evidence) that proteomics makes more use of SQLite more than any other field of biomedical research.,NorSivaeb,1604129135940763648,https://twitter.com/NorSivaeb/status/1604129135940763648,suspect (but evidence) proteomics make use sqlite field biomedical research.,neutral,0.8840075135231018
+2022-12-17 12:23:45+00:00,@ScriptedAlchemy combine this with to edge workers distributed sqlite data or/ and if feasible  use even @lyra_search in web workers on the browser,chaos_monster,1604089966623358978,https://twitter.com/chaos_monster/status/1604089966623358978,combine edge worker distributed sqlite data or/ feasible use even _search web worker browser,neutral,0.9060786962509155
+2022-12-17 11:45:39+00:00,"HostingbyAliTech Supports - OctoberCMS Hosting
+
+OctoberCMS is a free, open-source and self-hosted content management system (CMS) based on the PHP programming language and Laravel web application framework. It supports MySQL, SQLite and PostgreSQL...
+
+https://t.co/5pCay9NlQm https://t.co/OrLyrIu2GH",hostingalitech,1604080380935651328,https://twitter.com/hostingalitech/status/1604080380935651328,"hostingbyalitech support - octobercms hosting octobercms free, open-source self-hosted content management system (cms) based php programming language laravel web application framework. support mysql, sqlite postgresql...",neutral,0.7099254131317139
+2022-12-17 10:58:35+00:00,@wiredsis It’s still bad though. Did use it initially for https://t.co/zURXSy9APv but had to move to sqlite due to mongos terrible performance.,svenasol,1604068534920830976,https://twitter.com/svenasol/status/1604068534920830976,it’s still bad though. use initially move sqlite due mongo terrible performance.,negative,0.9503211975097656
+2022-12-17 10:53:03+00:00,"""testing"" duckdb and sqlite because of some article on the orange site
+
+duckdb: https://t.co/12vuFBi7I3
+sqlite3: https://t.co/BDZrMPEujC",thewisenerdXDA,1604067143594934272,https://twitter.com/thewisenerdXDA/status/1604067143594934272,"""testing"" duckdb sqlite article orange site duckdb: sqlite3:",neutral,0.9079985618591309
+2022-12-17 10:46:40+00:00,GitHub - nalgeon/sqlean: The ultimate set of SQLite extensions by ⁦@nalgeon⁩  #sqlite #sql https://t.co/GCad7Mf4W9,doyonseb,1604065537432092673,https://twitter.com/doyonseb/status/1604065537432092673,github - nalgeon/sqlean: ultimate set sqlite extension ⁦⁩ sqlite sql,neutral,0.8415711522102356
+2022-12-17 10:19:33+00:00,"@FoolFoolmaker1 Try only moving ""ElectronicObserver.sqlite"" from the ""Record"" folder somewhere else.",74EOEN,1604058710808166401,https://twitter.com/74EOEN/status/1604058710808166401,"1 try moving ""electronicobserver.sqlite"" ""record"" folder somewhere else.",neutral,0.7850834727287292
+2022-12-17 10:19:02+00:00,"Wrapping up 2022 with a big issue! 🗞️ In #152:
+
+🙌🏼 #SOTW: #Gutenberg's progress &amp; new community tools
+🗣️ @WordPressVIP debated taking down @nypost Hunter Biden story
+📋 SQLite set for inclusion in Performance Lab plugin
+
++ what's inspiring @andyfragen in #WPCommunityFeels",therepositorywp,1604058582454243328,https://twitter.com/therepositorywp/status/1604058582454243328,wrapping 2022 big issue! 🗞️ 152: 🙌🏼 sotw: gutenberg's progress &amp; new community tool 🗣️ debated taking hunter biden story 📋 sqlite set inclusion performance lab plugin + what's inspiring wpcommunityfeels,positive,0.7098909616470337
+2022-12-17 10:14:12+00:00,"Night Software is my other channel
+SQLite&amp;DataTable(Select,Insert,Update,Delete) On Mobile📲 PYTHON(KivyMD) APP-&gt;https://t.co/Ochblkbxea
+#Python #tkinter #python3 #yazılım #kodlama #coding #software #programming #javascript #html #css #sql #web #python #kivy #kivymd #mobile https://t.co/xpCB2BHpn0",NrmlProgrammer,1604057365170356225,https://twitter.com/NrmlProgrammer/status/1604057365170356225,"night software channel sqlite&amp;datatable(select,insert,update,delete) mobile📲 python(kivymd) app-&gt; python tkinter python3 yazılım kodlama coding software programming javascript html cs sql web python kivy kivymd mobile",neutral,0.9052172899246216
+2022-12-17 10:10:46+00:00,"@Originalcavecat @ShifterofShapes Dawg I literally am trans, but when i was a kid i was convinced I was a battle mech from mechwarrior. That doesn’t really hold up even amongst actual trans people lol",roryos01,1604056502146416643,https://twitter.com/roryos01/status/1604056502146416643,"dawg literally trans, kid convinced battle mech mechwarrior. doesn’t really hold even amongst actual trans people lol",neutral,0.5838795304298401
+2022-12-17 10:08:54+00:00,@TheCartoonLoon When i was a kid i was convinced i was a battle mech lmao. Ironically ended up being trans but thats neither here nor there.,roryos01,1604056033634443264,https://twitter.com/roryos01/status/1604056033634443264,kid convinced battle mech lmao. ironically ended trans thats neither there.,neutral,0.47961246967315674
+2022-12-17 10:05:41+00:00,@AlexPetrovnia This post is an attempt to try and split the trans community and cause more division. Thts why literally no ine has heard of “baeddels” cus they don’t exist. And of tbey do exist their numbers are so minuscule that its not even worth peoples notice.,roryos01,1604055220958396416,https://twitter.com/roryos01/status/1604055220958396416,post attempt try split trans community cause division. thts literally ine heard “baeddels” cu don’t exist. tbey exist number minuscule even worth people notice.,negative,0.804908037185669
+2022-12-17 09:46:21+00:00,@Trey_Mykel @studiosupes Christopher Judge: *Laughs in Kratos*,roryos01,1604050354945024000,https://twitter.com/roryos01/status/1604050354945024000,_mykel christopher judge: *laughs kratos*,neutral,0.7548966407775879
+2022-12-17 08:45:08+00:00,"SQLite3 WASM JS + SvelteKit 1.0, CRUD https://t.co/RMZmiXPTJo #SvelteKit #Svelte #sqlite",kamikudakun,1604034952797900801,https://twitter.com/kamikudakun/status/1604034952797900801,"sqlite3 wasm j + sveltekit 1.0, crud sveltekit svelte sqlite",neutral,0.7334337830543518
+2022-12-17 08:31:47+00:00,"The Definitive Guide to SQLite (Expert's Voice in Open Source) OKX1JJK
+
+https://t.co/QQ5Kw2eZLx https://t.co/YfnD1TCT5D",boyle66gttt,1604031591629852672,https://twitter.com/boyle66gttt/status/1604031591629852672,definitive guide sqlite (expert's voice open source) okx1jjk,neutral,0.7629951238632202
+2022-12-17 08:16:05+00:00,"WordPress testing official SQLite Support
+https://t.co/AAJngDJM4F
+Article URL: https://t.co/AAJngDJM4F Comments URL: https://t.co/7FvRH2wiO0 Points: 100 # Comments: 64",M157q_News_RSS,1604027638422478848,https://twitter.com/M157q_News_RSS/status/1604027638422478848,wordpress testing official sqlite support article url: comment url: points: 100 comments: 64,neutral,0.9104177355766296
+2022-12-17 05:02:24+00:00,WordPress testing official SQLite Support https://t.co/rZ2lPQxV2F,teknoids,1603978899838451712,https://twitter.com/teknoids/status/1603978899838451712,wordpress testing official sqlite support,neutral,0.7923104166984558
+2022-12-17 03:35:59+00:00,SQLite-loadable-rs: A framework for building SQLite Extensions in Rust https://t.co/RE5tnUOLUk,angsuman,1603957151940349952,https://twitter.com/angsuman/status/1603957151940349952,sqlite-loadable-rs: framework building sqlite extension rust,neutral,0.8820568919181824
+2022-12-17 02:58:12+00:00,"Effects and code as a database in Unison: https://t.co/312g0CHIX6
+
+Unison is looking at changing their program representation to plain sqlite!",_wilfredh,1603947643910361088,https://twitter.com/_wilfredh/status/1603947643910361088,effect code database unison: unison looking changing program representation plain sqlite!,neutral,0.758297860622406
+2022-12-17 01:28:38+00:00,WordPress testing official SQLite Support via /r/hackernews https://t.co/3mc2j8ATJH,wvdsteen,1603925103624044548,https://twitter.com/wvdsteen/status/1603925103624044548,wordpress testing official sqlite support via /r/hackernews,neutral,0.888112485408783
+2022-12-17 00:38:57+00:00,Wordpress SQLite integration might be interesting if you use d1 on cloudflare - living on the edge  https://t.co/NmdY7a9Wis,johnmurch,1603912597740441600,https://twitter.com/johnmurch/status/1603912597740441600,wordpress sqlite integration might interesting use d1 cloudflare - living edge,neutral,0.6182249784469604
+2022-12-17 00:27:27+00:00,"i wonder if using sqlite compiled to wasm, running via wazero is faster than modernc's sqlite, and how it might compare against mattn/go-sqlite3.",devgerred,1603909704333365251,https://twitter.com/devgerred/status/1603909704333365251,"wonder using sqlite compiled wasm, running via wazero faster modernc's sqlite, might compare mattn/go-sqlite3.",neutral,0.8933942914009094
+2022-12-16 23:57:21+00:00,"Or maybe SQLite instead? Unlike lowdb, its pretty similar to postgres and the changes should be quite minor
+
+Can we see how that might look like?
+
+Yeah we can - just `git checkout` an imaginary branch with an appropriate name and view the last commit https://t.co/UitpsRvPNT",shesek,1603902130586263555,https://twitter.com/shesek/status/1603902130586263555,"maybe sqlite instead? unlike lowdb, pretty similar postgres change quite minor see might look like? yeah - `git checkout` imaginary branch appropriate name view last commit",neutral,0.863953709602356
+2022-12-16 23:42:50+00:00,New top story on Hacker News: WordPress testing official SQLite Support https://t.co/hZnJxw8KlJ,janyer,1603898475552411650,https://twitter.com/janyer/status/1603898475552411650,new top story hacker news: wordpress testing official sqlite support,neutral,0.8210276961326599
+2022-12-16 23:27:41+00:00,"Never trust movie critics, it doesn't matter what movie it is. For example Léon (The Professional outside of the UK) which is, to the vast majority of viewers, one of the best movies from the 90's ever. But it's only got 74% on RT from critics",roryos01,1603894665215938565,https://twitter.com/roryos01/status/1603894665215938565,"never trust movie critics, matter movie is. example léon (the professional outside uk) is, vast majority viewers, one best movie 90's ever. got 74% critic",positive,0.4928564429283142
+2022-12-16 23:23:07+00:00,WordPress testing official SQLite Support https://t.co/qsbG98Q8Me (https://t.co/KdDIqrU2E0),betterhn50,1603893514173124608,https://twitter.com/betterhn50/status/1603893514173124608,wordpress testing official sqlite support (,neutral,0.8206617832183838
+2022-12-16 22:52:24+00:00,"@pocketbase i have 2 questions:
+is SQLite capable to bear a medium project?
+is there any plan to support PostgreSQL also?",zaki_chahboun,1603885782896295936,https://twitter.com/zaki_chahboun/status/1603885782896295936,2 questions: sqlite capable bear medium project? plan support postgresql also?,neutral,0.9243590235710144
+2022-12-16 22:42:48+00:00,"Oh and SQlite / Wasm in the browser, and all the stuff @tantaman and @schickling are working on.
+
+https://t.co/Kl4v6KXHpv",maccaw,1603883370832101376,https://twitter.com/maccaw/status/1603883370832101376,"oh sqlite / wasm browser, stuff working on.",neutral,0.5771245360374451
+2022-12-16 22:42:03+00:00,What kind of bear is this? https://t.co/A7BkdCbdgk,roryos01,1603883180888580102,https://twitter.com/roryos01/status/1603883180888580102,kind bear this?,neutral,0.6440149545669556
+2022-12-16 22:41:29+00:00,WordPress testing official SQLite Support https://t.co/84jKCXA2Db (https://t.co/QwjNnkzaMK),betterhn20,1603883037418217472,https://twitter.com/betterhn20/status/1603883037418217472,wordpress testing official sqlite support (,neutral,0.8206617832183838
+2022-12-16 22:30:56+00:00,"WordPress testing official SQLite Support
+Link: https://t.co/RK215OGvlP
+Comments: https://t.co/sAc5iZi2KA",HackerNewsTop10,1603880381593403392,https://twitter.com/HackerNewsTop10/status/1603880381593403392,wordpress testing official sqlite support link: comments:,neutral,0.917199969291687
+2022-12-16 22:20:32+00:00,WordPress testing official SQLite Support https://t.co/56Kahatifk,winsontang,1603877763538382848,https://twitter.com/winsontang/status/1603877763538382848,wordpress testing official sqlite support,neutral,0.7923104166984558
+2022-12-16 22:20:02+00:00,WordPress testing official SQLite Support: https://t.co/aa73Xb0gYm Comments: https://t.co/6ln8DGqg2L,HNTweets,1603877640737357825,https://twitter.com/HNTweets/status/1603877640737357825,wordpress testing official sqlite support: comments:,neutral,0.9220333695411682
+2022-12-16 22:16:39+00:00,"WordPress testing official SQLite Support https://t.co/R8aWq3dAQ2 
+3",radoncnotes,1603876786365939721,https://twitter.com/radoncnotes/status/1603876786365939721,wordpress testing official sqlite support 3,neutral,0.7948532700538635
+2022-12-16 22:13:49+00:00,"WordPress testing official SQLite Support https://t.co/BIOSpSaOxl 
+3",knelsonvsi,1603876074416398340,https://twitter.com/knelsonvsi/status/1603876074416398340,wordpress testing official sqlite support 3,neutral,0.7948532700538635
+2022-12-16 22:13:42+00:00,"WordPress testing official SQLite Support https://t.co/awcyqAhzyy 
+3",terrypferguson,1603876047090507796,https://twitter.com/terrypferguson/status/1603876047090507796,wordpress testing official sqlite support 3,neutral,0.7948532700538635
+2022-12-16 20:48:06+00:00,This assignment encourages you to use SQLite to complete the... - https://t.co/Xafr8FNOF2,AusBestTutors,1603854503899500556,https://twitter.com/AusBestTutors/status/1603854503899500556,assignment encourages use sqlite complete the... -,neutral,0.8935721516609192
+2022-12-16 20:47:15+00:00,#GoNews #GoLang #Automated | Benchmarking SQLite Performance in Go. https://t.co/enTcqCMCfE,hasdid,1603854290417815570,https://twitter.com/hasdid/status/1603854290417815570,gonews golang automated | benchmarking sqlite performance go.,neutral,0.9073106646537781
+2022-12-16 19:45:03+00:00,"🐼 #Golang Weekly Newsletter, Gopa, is out!
+
+👉 #Go and #SQLite in the #Cloud
+
+👉 The Ups &amp; Downs of Working With #Go
+
+👉 Everything You Need To Know About Pointers In #Golang
+
+👉 and more!
+
+👀 Read it here: https://t.co/xKSD1pYfin",FAUNGopa,1603838635043917837,https://twitter.com/FAUNGopa/status/1603838635043917837,"🐼 golang weekly newsletter, gopa, out! 👉 go sqlite cloud 👉 ups &amp; down working go 👉 everything need know pointer golang 👉 more! 👀 read here:",neutral,0.8380781412124634
+2022-12-16 18:59:41+00:00,"Here's my #SQLite session for the @libsql community as an #OpenSource ongoing book
+
+https://t.co/S8bxVyPaoF",osdotsystem,1603827221491118080,https://twitter.com/osdotsystem/status/1603827221491118080,here's sqlite session community opensource ongoing book,neutral,0.9097194671630859
+2022-12-16 18:27:53+00:00,@VaginaSommelier Big ol hug???,roryos01,1603819216863461377,https://twitter.com/roryos01/status/1603819216863461377,big ol hug???,neutral,0.49521562457084656
+2022-12-16 18:12:00+00:00,"Interesting tool of the week: https://t.co/QtYu1WfOAg by @general_order24
+
+We like: Makes it easy to deploy a replicated cluster of SQLite backed database nodes. Writes distributed to a quorum or they fail. Runs in-memory, but backed by on-disk Raft logs to avoid data loss risk",consoledotdev,1603815218634637312,https://twitter.com/consoledotdev/status/1603815218634637312,"interesting tool week: _order24 like: make easy deploy replicated cluster sqlite backed database nodes. writes distributed quorum fail. run in-memory, backed on-disk raft log avoid data loss risk",neutral,0.7475932836532593
+2022-12-16 18:08:55+00:00,"Issue #13 of SQLite News is out
+https://t.co/EFj7PRyWME
+
+@mycelial @general_order24 @agarcia_me @markusrgw @simonw",sqlitenews,1603814444303126528,https://twitter.com/sqlitenews/status/1603814444303126528,issue 13 sqlite news _order24 _me,neutral,0.9110993146896362
+2022-12-16 17:53:58+00:00,"Starting soon!
+
+SQLite internals.
+
+https://t.co/eMbaJ5CFAn",osdotsystem,1603810682402615296,https://twitter.com/osdotsystem/status/1603810682402615296,starting soon! sqlite internals.,neutral,0.6701741814613342
+2022-12-16 17:38:26+00:00,"@AlexAndBooks_ ""The Untold Story of SQLite"" with Richard Hipp by  @corecursive - the story behind the software that is literally everywhere! 
+
+https://t.co/ETFth9yKJO",karl_rodsee,1603806770589319185,https://twitter.com/karl_rodsee/status/1603806770589319185,"_ ""the untold story sqlite"" richard hipp - story behind software literally everywhere!",neutral,0.7227099537849426
+2022-12-16 16:58:59+00:00,"Day 63 - #100DaysOfCode Challenge #Python
+Databases with SQLite and SQLAlchemy - Done✅✅✅ https://t.co/czQtbWZsy9",archilgvantsel1,1603796844123131904,https://twitter.com/archilgvantsel1/status/1603796844123131904,day 63 - 100daysofcode challenge python database sqlite sqlalchemy - done✅✅✅,neutral,0.5041921138763428
+2022-12-16 16:51:59+00:00,it's annoying that High On Life's gameplay is actually fairly fun because it's probably the most unfunny game I've ever played.,roryos01,1603795082875994113,https://twitter.com/roryos01/status/1603795082875994113,annoying high life's gameplay actually fairly fun probably unfunny game i've ever played.,positive,0.4004824459552765
+2022-12-16 16:32:45+00:00,"Hi friends, looking for a good lightweight sqlite browser / interface. I've been using DB Browser, but it keeps freezing and is clunky. Hoping for Windows, though I can do Linux in a pinch. Thanks!! - I",isaiah_thompson,1603790243949338625,https://twitter.com/isaiah_thompson/status/1603790243949338625,"hi friends, looking good lightweight sqlite browser / interface. i've using db browser, keep freezing clunky. hoping windows, though linux pinch. thanks!! -",positive,0.8409398794174194
+2022-12-16 16:06:17+00:00,@ChatGPTBot write python script to get all columns and rows from SQLite db and write them to excel sheet.,_moohamad_,1603783584229228544,https://twitter.com/_moohamad_/status/1603783584229228544,write python script get column row sqlite db write excel sheet.,neutral,0.8435449004173279
+2022-12-16 15:48:21+00:00,I dunno why kanboard requires SQLite extensions when I'm using mariadb.,AaronKempf3,1603779068453089280,https://twitter.com/AaronKempf3/status/1603779068453089280,dunno kanboard requires sqlite extension i'm using mariadb.,neutral,0.7412042617797852
+2022-12-16 15:22:23+00:00,Read my latest: “Who needs MLFlow when you have SQlite?” https://t.co/KwfYypVMCq,ploomber,1603772535950262272,https://twitter.com/ploomber/status/1603772535950262272,read latest: “who need mlflow sqlite?”,neutral,0.8242976665496826
+2022-12-16 15:07:17+00:00,@tradingview wen external database like SQLite I/O?,3DX3EM,1603768732936859653,https://twitter.com/3DX3EM/status/1603768732936859653,wen external database like sqlite i/o?,neutral,0.9150283932685852
+2022-12-16 14:58:19+00:00,@TheCartoonLoon Probably true tbh,roryos01,1603766476992909313,https://twitter.com/roryos01/status/1603766476992909313,probably true tbh,neutral,0.7099296450614929
+2022-12-16 14:39:59+00:00,Poking about the remote tabs are saved in a local SQLite DB that I can easily query 🤔 https://t.co/rvZAS7a1Hg,DannyAziz97,1603761864629952512,https://twitter.com/DannyAziz97/status/1603761864629952512,poking remote tab saved local sqlite db easily query 🤔,neutral,0.8915543556213379
+2022-12-16 14:38:33+00:00,"The SQL Guide to SQLite WZPJBS9
+
+https://t.co/KuouUMHl3z https://t.co/DJKvCVY1Sj",predovicofup,1603761501826912256,https://twitter.com/predovicofup/status/1603761501826912256,sql guide sqlite wzpjbs9,neutral,0.8108251690864563
+2022-12-16 14:12:02+00:00,* TABLES!! How could I forget tables. Wouldn't it be insane if you could have an SQLite file in your project and then automatically generate tables from SQL query results? Or something like that.,prayerslayer,1603754828236476416,https://twitter.com/prayerslayer/status/1603754828236476416,* tables!! could forget tables. insane could sqlite file project automatically generate table sql query results? something like that.,neutral,0.5413832664489746
+2022-12-16 14:01:45+00:00,"@mjovanovictech If you want to support multiple types of DB (mssql, sqlite, mysql) then Dapper is not an option. But the EF snapshot and migration design files suck more.",savornicesei,1603752240900149249,https://twitter.com/savornicesei/status/1603752240900149249,"want support multiple type db (mssql, sqlite, mysql) dapper option. ef snapshot migration design file suck more.",negative,0.8484411239624023
+2022-12-16 14:00:34+00:00,"Track, query, and analyze your experiments using #sklearn_evaluation! 🗒️
+
+#SQLiteTracker provides a powerful and flexible way to track experiments using a SQLite database. 
+
+This tutorial will walk you through the features with a #MachineLearning use case:
+https://t.co/7pT6UsUrky https://t.co/uy52m8AIcz",ploomber,1603751943633076225,https://twitter.com/ploomber/status/1603751943633076225,"track, query, analyze experiment using sklearn_evaluation! 🗒️ sqlitetracker provides powerful flexible way track experiment using sqlite database. tutorial walk feature machinelearning use case:",positive,0.6937965750694275
+2022-12-16 13:45:31+00:00,"rqlite, the lightweight distributed database built on #SQLite and #Raft, and written in Go. 7.13.0 is out now, with improvements to the command-line tool.
+https://t.co/wl2ZCMcyes",general_order24,1603748156478558209,https://twitter.com/general_order24/status/1603748156478558209,"rqlite, lightweight distributed database built sqlite raft, written go. 7.13.0 now, improvement command-line tool.",positive,0.5866038203239441
+2022-12-16 12:47:19+00:00,#WebTools #WebDev #Automated | Quick SQLite https://t.co/gvCwKEETeR,hasdid,1603733509855657984,https://twitter.com/hasdid/status/1603733509855657984,webtools webdev automated | quick sqlite,neutral,0.8001044392585754
+2022-12-16 12:45:18+00:00,"19.12 update server on datacenter.
+The following servers will be temporarily unavailable: MariaDB, PostgreSQL, MS SQL.",SqliteOnlineCom,1603733004131655680,https://twitter.com/SqliteOnlineCom/status/1603733004131655680,"19.12 update server datacenter. following server temporarily unavailable: mariadb, postgresql, m sql.",negative,0.7170078158378601
+2022-12-16 12:36:47+00:00,"Using SQLite: Small. Fast. Reliable. Choose Any Three. WHMIVOK
+
+https://t.co/f97SljtNL1 https://t.co/dCgoVUFszl",rl_ucp,1603730859131305986,https://twitter.com/rl_ucp/status/1603730859131305986,using sqlite: small. fast. reliable. choose three. whmivok,neutral,0.6715072989463806
+2022-12-16 12:19:48+00:00,"@IsinAltinkaya @juancarlospaco You can do on @flydotio. They support SQLite, and are distributed. So the requests are always closer to your users.",MikiMeier,1603726584694702081,https://twitter.com/MikiMeier/status/1603726584694702081,". support sqlite, distributed. request always closer users.",neutral,0.5573342442512512
+2022-12-16 12:18:41+00:00,"It would have to be distributed in some kind of well-understood format. Eg. sqlite database with a known DDL.
+
+Then a reader app would open it and present the content.",thepanta82,1603726302749417472,https://twitter.com/thepanta82/status/1603726302749417472,would distributed kind well-understood format. eg. sqlite database known ddl. reader app would open present content.,neutral,0.8070632219314575
+2022-12-16 11:02:01+00:00,"Export data from #SQLite query results to #TSV file,  https://t.co/VtgwfqiMfB",withdata,1603707011564126208,https://twitter.com/withdata/status/1603707011564126208,"export data sqlite query result tsv file,",neutral,0.9103453159332275
+2022-12-16 10:46:50+00:00,Does anyone know of a free platform to deploy a #Telegram bot with an #SQLite database?,IsinAltinkaya,1603703191425646594,https://twitter.com/IsinAltinkaya/status/1603703191425646594,anyone know free platform deploy telegram bot sqlite database?,neutral,0.9272684454917908
+2022-12-16 09:58:34+00:00,"@DerekNonGeneric Mostly the same for me, although I've started to prefer SQLite where I can for it's simplicity e.g. no Docker containers in development.",simonplend,1603691041143812096,https://twitter.com/simonplend/status/1603691041143812096,"mostly me, although i've started prefer sqlite simplicity e.g. docker container development.",positive,0.5432623028755188
+2022-12-16 09:50:29+00:00,SQLite command line: How do you pipe output to a UNIX utility? - Visit https://t.co/rP23vlaQkz for the answer. #pipe #sqlite #unix #softwareengineering #code,Programmatoris,1603689007958851584,https://twitter.com/Programmatoris/status/1603689007958851584,sqlite command line: pipe output unix utility? - visit answer. pipe sqlite unix softwareengineering code,neutral,0.9179738163948059
+2022-12-16 09:28:03+00:00,"@DerekNonGeneric I've been doing a lot of projects with SQLite recently. In the past I've used Postgres a few times, but mostly MySQL back in my PHP days.
+
+How about you?",simonplend,1603683362379649025,https://twitter.com/simonplend/status/1603683362379649025,"i've lot project sqlite recently. past i've used postgres times, mostly mysql back php days. you?",neutral,0.8917705416679382
+2022-12-16 07:51:56+00:00,"@MilesCranmer @HEPfeickert I bet you could do this with datasette's GitHub-to-sqlite plugin and a little off-the-cuff analysis
+
+https://t.co/XGE9gxpDDc
+
+Maye @simonw has seen somebody do this?",choldgraf,1603659175300579330,https://twitter.com/choldgraf/status/1603659175300579330,bet could datasette's github-to-sqlite plugin little off-the-cuff analysis maye seen somebody this?,neutral,0.8107988834381104
+2022-12-16 07:31:19+00:00,@ChatGPTBot create java script that gets all values of url field from sqlite and write them to Excel file.,DogeNftL,1603653985562689536,https://twitter.com/DogeNftL/status/1603653985562689536,create java script get value url field sqlite write excel file.,neutral,0.8576483726501465
+2022-12-16 07:11:30+00:00,"Using SQLite: Small  Fast  Reliable  Choose Any Three  1B7P9DG
+
+https://t.co/3i7282XNNe https://t.co/bBjzCyGbNz",leffler85dnil,1603649000808124416,https://twitter.com/leffler85dnil/status/1603649000808124416,using sqlite: small fast reliable choose three 1b7p9dg,neutral,0.764560341835022
+2022-12-16 05:28:22+00:00,@ChatGPTBot create python script that gets all values of url field from sqlite and write them to Excel file.,_moohamad_,1603623043347136513,https://twitter.com/_moohamad_/status/1603623043347136513,create python script get value url field sqlite write excel file.,neutral,0.8500226736068726
+2022-12-16 04:47:03+00:00,"#Wordpress  #Automated | Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release &lt;span style=""font-size:12px; color:#f78787; text-decoration:none""&gt;(https://t.co/6Nrwe2IB3q) https://t.co/GP3GOwq67i",hasdid,1603612645495652353,https://twitter.com/hasdid/status/1603612645495652353,"wordpress automated | performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release &lt;span style=""font-size:12px; color:f78787; text-decoration:none""&gt;(",neutral,0.8522588014602661
+2022-12-16 03:08:05+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release https://t.co/YHTMlQ2jSG https://t.co/gm9N58Vytq,Woloweb,1603587740570091520,https://twitter.com/Woloweb/status/1603587740570091520,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release,neutral,0.8439595103263855
+2022-12-16 03:07:40+00:00,How to #dump an SQLite #database? https://t.co/wjDfT9b3eB #sqlite #mywebforum,alieGotha,1603587636752285697,https://twitter.com/alieGotha/status/1603587636752285697,dump sqlite database? sqlite mywebforum,neutral,0.606408953666687
+2022-12-16 02:48:11+00:00,SQLite on Google Cloud Persistent Disk - Visit https://t.co/THeIoC3jZA for the solution. #google_compute_engine #sqlite #sysadmin #computerengineering #technology,Programmatoris,1603582735544623105,https://twitter.com/Programmatoris/status/1603582735544623105,sqlite google cloud persistent disk - visit solution. google_compute_engine sqlite sysadmin computerengineering technology,neutral,0.8784276247024536
+2022-12-16 02:35:52+00:00,@magicianbrain SQLite is a cathedral,lukechampine,1603579635173933058,https://twitter.com/lukechampine/status/1603579635173933058,sqlite cathedral,neutral,0.7623203992843628
+2022-12-16 02:19:01+00:00,"SQLite Professional Read Only [Download] UBOVQEY
+
+https://t.co/t2gwbvFYJo https://t.co/bOYkXR2eIL",doyleqvfb,1603575394141196289,https://twitter.com/doyleqvfb/status/1603575394141196289,sqlite professional read [download] ubovqey,neutral,0.8783771395683289
+2022-12-16 01:26:21+00:00,"@NSExceptional @ios_dev_alb GRDB is pretty great, it’s my favorite among all current solutions. But it’s a bit too close to SQLite. I mean, it literally starts to describe itself as a tool to provide raw access to SQLite, “because one sometimes enjoys a sharp tool”.
+
+I’m looking for a high-level lib though.",Jeehut,1603562138290855936,https://twitter.com/Jeehut/status/1603562138290855936,"_dev_alb grdb pretty great, it’s favorite among current solutions. it’s bit close sqlite. mean, literally start describe tool provide raw access sqlite, “because one sometimes enjoys sharp tool”. i’m looking high-level lib though.",positive,0.9503687024116516
+2022-12-16 00:38:48+00:00,"I always loved how in mmorpgs the existence of the players themselves actually fucks the stories up. Like you have ancient void lord that send unspeakable lovecraftian horror gods to the world to corrupt everything.
+
+They get their ass beat by an orc called Shmackinmid",roryos01,1603550172751056898,https://twitter.com/roryos01/status/1603550172751056898,always loved mmorpgs existence player actually fuck story up. like ancient void lord send unspeakable lovecraftian horror god world corrupt everything. get as beat orc called shmackinmid,negative,0.8983128666877747
+2022-12-15 23:52:59+00:00,"after drinking half a beer and meditating on how to handle this, i think a better course of action instead of dealing with csv on the user side would be to pull the data into sql then async it out to the user where the user can hold it in sqlite on their end.",pressreset,1603538642026332160,https://twitter.com/pressreset/status/1603538642026332160,"drinking half beer meditating handle this, think better course action instead dealing csv user side would pull data sql async user user hold sqlite end.",neutral,0.713955819606781
+2022-12-15 23:02:47+00:00,World of Warcraft Dragonflight be like https://t.co/PMROy0Clc9,roryos01,1603526011316060162,https://twitter.com/roryos01/status/1603526011316060162,world warcraft dragonflight like,neutral,0.8128491640090942
+2022-12-15 22:47:06+00:00,#Postgres #DB #Automated | 'I Migrated from a Postgres Cluster to Distributed SQLite with LiteFS' https://t.co/8cM740EaJF,hasdid,1603522061917470720,https://twitter.com/hasdid/status/1603522061917470720,postgres db automated | 'i migrated postgres cluster distributed sqlite litefs',neutral,0.9300468564033508
+2022-12-15 22:35:01+00:00,@sptzortzis SQLite loaded as wasm module thanks to sql.js,PanosJee,1603519022703804416,https://twitter.com/PanosJee/status/1603519022703804416,sqlite loaded wasm module thanks sql.js,positive,0.6648997664451599
+2022-12-15 21:55:18+00:00,@BritishUnderdog @TheCartoonLoon It's full name is Olgilvie Maurice Hedgehog,roryos01,1603509028906274816,https://twitter.com/roryos01/status/1603509028906274816,full name olgilvie maurice hedgehog,neutral,0.891995370388031
+2022-12-15 21:02:01+00:00,"@snzerox @trakt Pretty sure you could also write a simple script in Python, JavaScript, Go, or any other language you want to fetch the data from their API and spit it out into a CSV, JSON, SQLite, or any other storage medium you like. Heck, you could do it with bash &amp; curl.",LetMheetu,1603495618156060694,https://twitter.com/LetMheetu/status/1603495618156060694,"pretty sure could also write simple script python, javascript, go, language want fetch data api spit csv, json, sqlite, storage medium like. heck, could bash &amp; curl.",positive,0.5234732031822205
+2022-12-15 20:48:03+00:00,"A framework for building SQLite extensions in Rust
+https://t.co/7y3lUFMe8X",feedpushr,1603492103262199823,https://twitter.com/feedpushr/status/1603492103262199823,framework building sqlite extension rust,neutral,0.8825775980949402
+2022-12-15 20:18:34+00:00,Last month I helped @jeeyunit setup WordPress locally with SQLite to quickly build a static single page website. Now you can run WordPress fully in the browser to prototype things! Modern WordPress becomes more useful every year. https://t.co/7hXNIg1kV4,reid,1603484684549136384,https://twitter.com/reid/status/1603484684549136384,last month helped setup wordpress locally sqlite quickly build static single page website. run wordpress fully browser prototype things! modern wordpress becomes useful every year.,positive,0.953417956829071
+2022-12-15 20:16:03+00:00,@benjamincrozat @ericlbarnes Maybe he is using SQLite in production. 💪🏼,enunomaduro,1603484050731274240,https://twitter.com/enunomaduro/status/1603484050731274240,maybe using sqlite production. 💪🏼,neutral,0.5007094144821167
+2022-12-15 20:13:35+00:00,@ericlbarnes Any reason you want to use SQLite to run your tests? What if you don’t catch MySQL-specific bugs?,benjamincrozat,1603483430028685312,https://twitter.com/benjamincrozat/status/1603483430028685312,reason want use sqlite run tests? don’t catch mysql-specific bugs?,neutral,0.5070334076881409
+2022-12-15 19:01:02+00:00,"I am presenting SQLite internals to the @libsqlhq  community.
+
+If you missed my #devfest talk, you can catch up tomorrow 10 00PM (GMT+4)
+
+#opensource
+
+You can put a reminder here:
+
+https://t.co/lD7DSPb6qT",osdotsystem,1603465169811578880,https://twitter.com/osdotsystem/status/1603465169811578880,"presenting sqlite internals community. missed devfest talk, catch tomorrow 10 00pm (gmt+4) opensource put reminder here:",neutral,0.859851598739624
+2022-12-15 18:57:53+00:00,"@JustJonkins @WhosAchilles_ @MissNerdyCurvy He asked a question, she answered the question. She wans't fishing for sympathy or trauma dumping, she was answering the question. He could literally have said ""Oh man, really sorry to hear that. Stay strong."" And then just carried on.",roryos01,1603464378182995969,https://twitter.com/roryos01/status/1603464378182995969,"_ asked question, answered question. wans't fishing sympathy trauma dumping, answering question. could literally said ""oh man, really sorry hear that. stay strong."" carried on.",neutral,0.5286291837692261
+2022-12-15 18:52:08+00:00,"Does anyone have a working sample of a Github actions YAML that works with a standard Laravel app, Pest, and uses in-memory sqlite?",ericlbarnes,1603462931261399040,https://twitter.com/ericlbarnes/status/1603462931261399040,"anyone working sample github action yaml work standard laravel app, pest, us in-memory sqlite?",neutral,0.9385067820549011
+2022-12-15 18:12:41+00:00,"If you want to level up your #SQLite skills, the area you should probably focus on first is Indexes.
+
+So, are you familiar with the various types of indexes you can create? 
+Check out this video to learn more.
+https://t.co/xjeKrYSHde https://t.co/WaQedrRu0X",mycelial,1603453004014751745,https://twitter.com/mycelial/status/1603453004014751745,"want level sqlite skills, area probably focus first indexes. so, familiar various type index create? check video learn more.",neutral,0.8477389812469482
+2022-12-15 18:07:30+00:00,"// PROTOCOL SQLITE v3.39.4 INITIATED.
+
+New version 111215.22.12.12.1450-6-bnet.47957 detected.
+Awaiting further analysis...",destinyDefs,1603451700265861145,https://twitter.com/destinyDefs/status/1603451700265861145,// protocol sqlite v3.39.4 initiated. new version 111215.22.12.12.1450-6-bnet.47957 detected. awaiting analysis...,neutral,0.911685585975647
+2022-12-15 17:28:38+00:00,"Quick SQLite 6.1.1 it includes a fix for the TypeORM driver making SQL requests async, should prevent slow queries from blocking the UI when using TypeORM",ospfranco,1603441916791734352,https://twitter.com/ospfranco/status/1603441916791734352,"quick sqlite 6.1.1 includes fix typeorm driver making sql request async, prevent slow query blocking ui using typeorm",neutral,0.738867998123169
+2022-12-15 17:17:03+00:00,@lorenc_dan Do you use SQLite in a vulnerable fashion that patching it is the best course of action?,_prbh,1603439005374169088,https://twitter.com/_prbh/status/1603439005374169088,_dan use sqlite vulnerable fashion patching best course action?,neutral,0.8999441266059875
+2022-12-15 17:16:59+00:00,"@sysrich @IshSookun Often SQLite is the perfect solution instead of home grown parsing of key value pairs.
+But too often people try to mimic a full grown DB system. Constraints and stored procedures often feel unnatural and risky to developers.
+While DB gurus sometimes overdo stored procedures!?!",haraldmullerney,1603438984847294466,https://twitter.com/haraldmullerney/status/1603438984847294466,often sqlite perfect solution instead home grown parsing key value pairs. often people try mimic full grown db system. constraint stored procedure often feel unnatural risky developers. db guru sometimes overdo stored procedures!?!,neutral,0.4870351552963257
+2022-12-15 17:14:05+00:00,@AppleSlipper Its always been Marice,roryos01,1603438257802444802,https://twitter.com/roryos01/status/1603438257802444802,always marice,neutral,0.7460734248161316
+2022-12-15 16:43:00+00:00,"A framework for building SQLite extensions in Rust
+
+🏷 tagged #sqlite #rust
+
+https://t.co/QwieuMsZfD",changelog,1603430433844330497,https://twitter.com/changelog/status/1603430433844330497,framework building sqlite extension rust 🏷 tagged sqlite rust,neutral,0.9226624369621277
+2022-12-15 16:04:03+00:00,https://t.co/Ju5ZBYqgMF A framework for building SQLite extensions in Rust,reddit4devs,1603420631013462017,https://twitter.com/reddit4devs/status/1603420631013462017,framework building sqlite extension rust,neutral,0.8825775980949402
+2022-12-15 15:56:16+00:00,"Are you interested in learning #SQL? I use these code playbacks in my database course:
+
+Database Design and SQL for Beginners
+https://t.co/5EsKjx0iah
+
+Worked SQL Examples
+https://t.co/P7qAdgJunL
+
+Programming with SQLite
+https://t.co/f3zUVm8zAP https://t.co/Q3PenaCZ23",markm208,1603418674718801921,https://twitter.com/markm208/status/1603418674718801921,interested learning sql? use code playback database course: database design sql beginner worked sql example programming sqlite,neutral,0.8389507532119751
+2022-12-15 15:38:18+00:00,"#software
+A framework for building SQLite extensions in Rust
+https://t.co/mPqsV4Nc8d https://t.co/idWn7CWPTn",softwaremars,1603414150658547713,https://twitter.com/softwaremars/status/1603414150658547713,software framework building sqlite extension rust,neutral,0.8754878044128418
+2022-12-15 15:26:15+00:00,@LilithLovett I thought that was Chris from Foundflix for a moment,roryos01,1603411120177430530,https://twitter.com/roryos01/status/1603411120177430530,thought chris foundflix moment,neutral,0.8780727386474609
+2022-12-15 15:22:39+00:00,Someone adopt this cat right now and give her all the attention!!!! https://t.co/wGMnTyfQkP,roryos01,1603410213217992708,https://twitter.com/roryos01/status/1603410213217992708,someone adopt cat right give attention!!!!,neutral,0.4358552098274231
+2022-12-15 15:17:09+00:00,Exporting survey tables from SQLite file https://t.co/lcIyPMETHD #ESRICommunity #ArcGIS,vanuatugis,1603408831207575552,https://twitter.com/vanuatugis/status/1603408831207575552,exporting survey table sqlite file esricommunity arcgis,neutral,0.8999789953231812
+2022-12-15 15:13:05+00:00,@BeaversGod @NoContextBrits The sauce of gods,roryos01,1603407804894781441,https://twitter.com/roryos01/status/1603407804894781441,sauce god,positive,0.4536301791667938
+2022-12-15 15:10:35+00:00,@LiquidXolo @LogothX @Exploceebo @MrYGuy2 Indeed!,roryos01,1603407175929438213,https://twitter.com/roryos01/status/1603407175929438213,2 indeed!,positive,0.6911919713020325
+2022-12-15 15:02:16+00:00,SQLite: CGo vs CGo-free concurrent benchmarks https://t.co/Dx5WwwQ7TP #reddit,golang_news,1603405085874311173,https://twitter.com/golang_news/status/1603405085874311173,sqlite: cgo v cgo-free concurrent benchmark reddit,neutral,0.8776187300682068
+2022-12-15 14:55:14+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release by @wptavern https://t.co/9tMcA2v1ba #WebDev #wordpress via @maxfoundry,MaxFoundry,1603403312581189634,https://twitter.com/MaxFoundry/status/1603403312581189634,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release webdev wordpress via,neutral,0.8886948227882385
+2022-12-15 14:17:50+00:00,@amallekus @realMeetKevin @cz_binance Some people wire money into Binance. How do you proof cryptos bought inside Binance without any on-chain transaction (holders) ? they DO need access to Bitcoind's sqlite + rockdb's-made .dat files. I am uncertain about how many cases you're skipping.,ferrycfs,1603393903587213313,https://twitter.com/ferrycfs/status/1603393903587213313,_binance people wire money binance. proof cryptos bought inside binance without on-chain transaction (holders) ? need access bitcoind's sqlite + rockdb's-made .dat files. uncertain many case skipping.,neutral,0.8966782689094543
+2022-12-15 13:31:31+00:00,@MoonRiver_22 Possible*,roryos01,1603382245187796994,https://twitter.com/roryos01/status/1603382245187796994,_22 possible*,neutral,0.8727762699127197
+2022-12-15 13:29:25+00:00,"CVE-2022-46908 is a great example of why we built our own Linux distro. This was a recently disclosed 9.8 CVSS score CVE in sqlite.
+
+It was patched quickly upstream, but there hasn't been a tagged release yet. With Wolfi, we applied the patch ourselves!
+
+https://t.co/xeOVTrZTWq",lorenc_dan,1603381716890034179,https://twitter.com/lorenc_dan/status/1603381716890034179,"cve-2022-46908 great example built linux distro. recently disclosed 9.8 cv score cve sqlite. patched quickly upstream, tagged release yet. wolfi, applied patch ourselves!",positive,0.942879319190979
+2022-12-15 13:00:00+00:00,"Top MySQL story: @IshSookun: '😎 SQLite is loved more than #MSSQL, #MySQL and #MariaDB.
+
+Source: #StackOverFlowDeveloperSurvey2022 ' https://t.co/k46mm9XRTJ, see more https://t.co/Texu1j8Cyc",i4isp,1603374313909927940,https://twitter.com/i4isp/status/1603374313909927940,"top mysql story: : '😎 sqlite loved mssql, mysql mariadb. source: stackoverflowdevelopersurvey2022 ' see",positive,0.9441009759902954
+2022-12-15 12:37:54+00:00,"@timClicks Export to CSV, import to SQLite",theprincessxena,1603368751705260032,https://twitter.com/theprincessxena/status/1603368751705260032,"export csv, import sqlite",neutral,0.8662380576133728
+2022-12-15 12:20:00+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release https://t.co/uE0ePWPBnq [@WPTavern] #WordPress,MsMigot,1603364247190134786,https://twitter.com/MsMigot/status/1603364247190134786,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release [] wordpress,neutral,0.8983300924301147
+2022-12-15 12:14:12+00:00,sqlite-loadable-rs (GitHub Repo) https://t.co/i0bzH5Kxga,news_overflow,1603362788252213249,https://twitter.com/news_overflow/status/1603362788252213249,sqlite-loadable-rs (github repo),neutral,0.8731685280799866
+2022-12-15 11:56:19+00:00,"Visual Table is launched https://t.co/mw8bPwWvmC 
+
+#csv #sqlite #db @database #fastreport",iconshots,1603358289932296192,https://twitter.com/iconshots/status/1603358289932296192,visual table launched csv sqlite db fastreport,neutral,0.7523727416992188
+2022-12-15 11:30:10+00:00,"GitHub Trending Archive, 13 Dec 2022, C. DarkFlippers/unleashed-firmware, albfan/miraclecast, sqlite/sqlite, fairyglade/ly, LuaJIT/LuaJIT, xiaorouji/openwrt-passwall, Mbed-TLS/mbedtls, ggerganov/whisper.cpp, TelegramMessenger/Telegram-iOS https://t.co/JyDIdguuK4",motakasoft,1603351707169083392,https://twitter.com/motakasoft/status/1603351707169083392,"github trending archive, 13 dec 2022, c. darkflippers/unleashed-firmware, albfan/miraclecast, sqlite/sqlite, fairyglade/ly, luajit/luajit, xiaorouji/openwrt-passwall, mbed-tls/mbedtls, ggerganov/whisper.cpp, telegrammessenger/telegram-ios",neutral,0.8805726170539856
+2022-12-15 11:27:14+00:00,"Yes, I much prefer GRDB. I’ve tested many SQLite wrappers over the years 💜 https://t.co/97LmEtKDiG",FullQueueDev,1603350969357684736,https://twitter.com/FullQueueDev/status/1603350969357684736,"yes, much prefer grdb. i’ve tested many sqlite wrapper year 💜",positive,0.9453455805778503
+2022-12-15 10:22:07+00:00,"😎 SQLite is loved more than #MSSQL, #MySQL and #MariaDB.
+
+Source: #StackOverFlowDeveloperSurvey2022 https://t.co/Xcq5Vx5dpx",IshSookun,1603334582421508098,https://twitter.com/IshSookun/status/1603334582421508098,"😎 sqlite loved mssql, mysql mariadb. source: stackoverflowdevelopersurvey2022",positive,0.9447005987167358
+2022-12-15 10:14:10+00:00,"Visual Table is launched https://t.co/0TEB14j2Wc 
+
+CSV, SQLIte db converter.
+
+#csv #sqlite #database",BluetailTeam,1603332582816489473,https://twitter.com/BluetailTeam/status/1603332582816489473,"visual table launched csv, sqlite db converter. csv sqlite database",neutral,0.9016743898391724
+2022-12-15 09:56:11+00:00,"A wide variety of formats is available so that anyone can use the data files as csv, #SQLite, @PostgreSQL, Parquet (@ApacheParquet) or JSON Lines as well as being able to analyse the data using #BigQuery or @Datasetteproj 
+
+🔹https://t.co/oCk2EnblyD",OpenOwnership,1603328053610004482,https://twitter.com/OpenOwnership/status/1603328053610004482,"wide variety format available anyone use data file csv, sqlite, , parquet () json line well able analyse data using bigquery 🔹",positive,0.5993388891220093
+2022-12-15 09:13:51+00:00,Sqlite billions of tests - Interview with Richard Hipp https://t.co/XmK9MXoQi7,angsuman,1603317402686484480,https://twitter.com/angsuman/status/1603317402686484480,sqlite billion test - interview richard hipp,neutral,0.8927143216133118
+2022-12-15 08:44:27+00:00,"2.0K ⭐️ sqlean brings all the missing SQLite functions together into a neat package. @ohmypy
+https://t.co/pFynsGUHtz
+
+https://t.co/t6NdS01VP9
+
+#starhistory #GitHub #OpenSource #sqlite
+ via @StarHistoryHQ https://t.co/jZQuyavYIO",StarHistoryHQ,1603310004681023488,https://twitter.com/StarHistoryHQ/status/1603310004681023488,2.0k ⭐️ sqlean brings missing sqlite function together neat package. starhistory github opensource sqlite via,neutral,0.7305899858474731
+2022-12-15 08:26:59+00:00,@MoonRiver_22 These mf still think centrism = youre in the middle on every possobke political subject.,roryos01,1603305607687200768,https://twitter.com/roryos01/status/1603305607687200768,_22 mf still think centrism = youre middle every possobke political subject.,negative,0.6405055522918701
+2022-12-15 08:09:13+00:00,Introducing sqlite-loadable-rs: A framework for building SQLite Extensions in Rust https://t.co/zKJiaMRu1s,jdecool,1603301138199191556,https://twitter.com/jdecool/status/1603301138199191556,introducing sqlite-loadable-rs: framework building sqlite extension rust,neutral,0.833185076713562
+2022-12-15 08:05:28+00:00,Sigma Bale meme actually ruined American Psycho for me,roryos01,1603300193859866627,https://twitter.com/roryos01/status/1603300193859866627,sigma bale meme actually ruined american psycho,negative,0.8419395089149475
+2022-12-15 07:53:10+00:00,@melaniemunie23 It really isn’t difficult to understand and youre so close. Poorly written show = no profit = gets cancelled. If a queer character is well written people will watch and love it.,roryos01,1603297096643256320,https://twitter.com/roryos01/status/1603297096643256320,23 really isn’t difficult understand youre close. poorly written show = profit = get cancelled. queer character well written people watch love it.,positive,0.713988184928894
+2022-12-15 07:40:26+00:00,@LogothX @Exploceebo @MrYGuy2 Hurr dur theyre both animated,roryos01,1603293892987731968,https://twitter.com/roryos01/status/1603293892987731968,2 hurr dur theyre animated,neutral,0.8273733854293823
+2022-12-15 07:40:20+00:00,"""An Introduction to SQLite with Python"" by @LabsQuokka #DEVCommunity https://t.co/QbABlae9Sg 
+ #pythoncode #pythonprogramming #Python",LabsQuokka,1603293867276500992,https://twitter.com/LabsQuokka/status/1603293867276500992,"""an introduction sqlite python"" devcommunity pythoncode pythonprogramming python",neutral,0.7922688126564026
+2022-12-15 07:33:21+00:00,Its been years and these idiots still think centrism = “both sides have a point on every topic” https://t.co/ZTU1YkeJR5,roryos01,1603292110135902214,https://twitter.com/roryos01/status/1603292110135902214,year idiot still think centrism = “both side point every topic”,negative,0.560061514377594
+2022-12-15 06:04:40+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release #dev #developer #programming #coding #webdesign #design #website https://t.co/y5MG0Yvgax,studiowebdev1,1603269790889566208,https://twitter.com/studiowebdev1/status/1603269790889566208,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release dev developer programming coding webdesign design website,neutral,0.8263965249061584
+2022-12-15 05:02:55+00:00,"CRUD tutorial on android using SQLite as database:
+
+https://t.co/514WgXZnmK
+
+#Crude #ArtificialIntelligence #HTML #HTML名刺 #javascript #pythonprogramming #sqlite #ai #machine #deeplearning #Robotics #androidapp https://t.co/Dhe989jvE2",SaifyTech,1603254252344053761,https://twitter.com/SaifyTech/status/1603254252344053761,crud tutorial android using sqlite database: crude artificialintelligence html html名刺 javascript pythonprogramming sqlite ai machine deeplearning robotics androidapp,neutral,0.8702920079231262
+2022-12-15 04:20:03+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release https://t.co/TwXR2jLd8p via @wptavern https://t.co/Icel0TBMOm,WPM_Love,1603243465756020736,https://twitter.com/WPM_Love/status/1603243465756020736,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release via,neutral,0.893677830696106
+2022-12-15 03:42:01+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release: https://t.co/pyDCHJVCe5,pushforperfect,1603233892021977088,https://twitter.com/pushforperfect/status/1603233892021977088,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release:,neutral,0.8916425704956055
+2022-12-15 03:41:34+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release https://t.co/JTvcpFKFRG https://t.co/CE17lKLYqY,HelloPeopleMAD,1603233782018232320,https://twitter.com/HelloPeopleMAD/status/1603233782018232320,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release,neutral,0.8439595103263855
+2022-12-15 03:04:06+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release https://t.co/4QVmWKI6A1 #WordPress,sachittandukar,1603224352492756994,https://twitter.com/sachittandukar/status/1603224352492756994,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release wordpress,neutral,0.8629109859466553
+2022-12-15 03:03:46+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release ➡️ https://t.co/dpRLYAJpo1 🙍🏽‍♂️#wptavern #academieweb #wordpresstraining 🙍🏽‍♂️,DianeBourque,1603224269030363136,https://twitter.com/DianeBourque/status/1603224269030363136,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release ➡️ 🙍🏽‍♂️wptavern academieweb wordpresstraining 🙍🏽‍♂️,neutral,0.8244900107383728
+2022-12-15 02:53:43+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release https://t.co/VQGPXZHYvV &gt;&gt; #seo #seonews #searchengineoptimization #sem #smm #divi #wordpress,seotradenews,1603221737449078785,https://twitter.com/seotradenews/status/1603221737449078785,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release &gt;&gt; seo seonews searchengineoptimization sem smm divi wordpress,neutral,0.8420788645744324
+2022-12-15 02:49:26+00:00,"sqlite-loadable-rs is a framework for building loadable SQLite extensions in Rust. The extensions add new scalar functions, table functions, virtual tables, virtual filesystems, and more to a SQLite database connection. https://t.co/c2CSCqbXIg",optfutureworld,1603220661773574144,https://twitter.com/optfutureworld/status/1603220661773574144,"sqlite-loadable-rs framework building loadable sqlite extension rust. extension add new scalar functions, table functions, virtual tables, virtual filesystems, sqlite database connection.",neutral,0.8010726571083069
+2022-12-15 02:49:20+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release https://t.co/zK6QMQaCXa https://t.co/sdntBoEGYi #WordPress,nilefloresmedia,1603220634225491968,https://twitter.com/nilefloresmedia/status/1603220634225491968,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release wordpress,neutral,0.8629109859466553
+2022-12-15 02:43:47+00:00,"Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release
+
+WordPress’ Performance Team contributors have merged a new experimental SQLite integration module that is on […] https://t.co/uldRuikAzY",Free_LanceTools,1603219236985389056,https://twitter.com/Free_LanceTools/status/1603219236985389056,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release wordpress’ performance team contributor merged new experimental sqlite integration module […],neutral,0.8728775382041931
+2022-12-15 02:41:33+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release https://t.co/lGndN6ZPtP https://t.co/Ylqu0P69m3,_asheeshsharma,1603218678501498880,https://twitter.com/_asheeshsharma/status/1603218678501498880,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release,neutral,0.8439595103263855
+2022-12-15 02:41:12+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release https://t.co/QiqfcC34tw,imageDpi,1603218589162639360,https://twitter.com/imageDpi/status/1603218589162639360,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release,neutral,0.8439595103263855
+2022-12-15 02:38:48+00:00,"""Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release"" from @wptavern #wordpress #info https://t.co/vI7WzPm7rq - Enjoy! @wpexpertca",wpexpertca,1603217986353078272,https://twitter.com/wpexpertca/status/1603217986353078272,"""performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release"" wordpress info - enjoy!",positive,0.9110589623451233
+2022-12-15 02:35:55+00:00,"@Amys_Kapers Azure App Service has a free tier, though database may cost money, but you could use SQLite.  Oracle cloud has a insanely generous free tier, but students may then have to deal with vms directly.",my_dev_story,1603217258079481856,https://twitter.com/my_dev_story/status/1603217258079481856,"_kapers azure app service free tier, though database may cost money, could use sqlite. oracle cloud insanely generous free tier, student may deal vms directly.",positive,0.6764108538627625
+2022-12-15 02:33:36+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release https://t.co/pMn5G2SS8E https://t.co/ZL0sttu7yX,wpatch,1603216674974732288,https://twitter.com/wpatch/status/1603216674974732288,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release,neutral,0.8439595103263855
+2022-12-15 02:30:28+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release https://t.co/RhxJckHbCv,pollyplummer,1603215888634859520,https://twitter.com/pollyplummer/status/1603215888634859520,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release,neutral,0.8439595103263855
+2022-12-15 02:29:48+00:00,Performance Lab Plugin to Add New Experimental SQLite Integration Module in Upcoming 1.8.0 Release https://t.co/TCgKOz0gcS,wptavern,1603215719767736320,https://twitter.com/wptavern/status/1603215719767736320,performance lab plugin add new experimental sqlite integration module upcoming 1.8.0 release,neutral,0.8439595103263855
+2022-12-15 02:25:27+00:00,"@RohanAlexander @djjr The syntax is easy, and your students have the problem solving skills to figure out query writing for themselves.  
+
+The key bit to teach, I think, is how to set up their own database in SQLite and Postgres, and be able to connect to it with R, Python, etc.",WillFedder,1603214626350632962,https://twitter.com/WillFedder/status/1603214626350632962,"syntax easy, student problem solving skill figure query writing themselves. key bit teach, think, set database sqlite postgres, able connect r, python, etc.",neutral,0.6548430323600769
+2022-12-15 02:23:46+00:00,"Attesting Cyptocarlo Blockchain Snapshot: {""chain"":""ccbc"",""from"":1293,""to"":1299,""at"":1671071026,""file"":""ccbc_1293-1299.sqlite"",""certificate"":""253ee3599d0b47b78552d982df92b55bb4c8dff99e7bc9e13837c289f3f1c34e"",""ipfs_cid"":""QmeRRzHnzZYSMnYB2Gzdq8KdBJrz87cPi4Jv1QNUEdRsia""}",SnapCryptocarlo,1603214202897833985,https://twitter.com/SnapCryptocarlo/status/1603214202897833985,"attesting cyptocarlo blockchain snapshot: {""chain"":""ccbc"",""from"":1293,""to"":1299,""at"":1671071026,""file"":""ccbc_1293-1299.sqlite"",""certificate"":""253ee3599d0b47b78552d982df92b55bb4c8dff99e7bc9e13837c289f3f1c34e"",""ipfs_cid"":""qmerrzhnzzysmnyb2gzdq8kdbjrz87cpi4jv1qnuedrsia""}",neutral,0.8684817552566528
+2022-12-15 02:16:46+00:00,"""How I found a bug in SQLite"" https://t.co/Yw6eanBgIC",angsuman,1603212438651879426,https://twitter.com/angsuman/status/1603212438651879426,"""how found bug sqlite""",neutral,0.7358502745628357
+2022-12-15 01:17:45+00:00,"Rust my ass. I’m learning rust using #ChatGPT as a tutor lol, turns out that thing isn’t always right, but that’s even better. Yesterday I learned that sqlite and diesel with libsqlite3 link in dependencies can give version conflict error. 0 prior code exp &amp; didn’t read rust book",cass_dio,1603197585602543616,https://twitter.com/cass_dio/status/1603197585602543616,"rust ass. i’m learning rust using chatgpt tutor lol, turn thing isn’t always right, that’s even better. yesterday learned sqlite diesel libsqlite3 link dependency give version conflict error. 0 prior code exp &amp; didn’t read rust book",negative,0.5850522518157959
+2022-12-15 01:10:28+00:00,@ccorcos i think @flydotio is basically built for this architecture. i've dreamed of a flybox (with sqlite) per user,scottonote,1603195754494967810,https://twitter.com/scottonote/status/1603195754494967810,think basically built architecture. i've dreamed flybox (with sqlite) per user,neutral,0.8101934790611267
+2022-12-15 01:00:38+00:00,@jb55 @jack Rust + Sqlite are web-scale,rot13maxi,1603193279771774980,https://twitter.com/rot13maxi/status/1603193279771774980,55 rust + sqlite web-scale,neutral,0.8314188718795776
+2022-12-15 00:52:45+00:00,@rpginabox I meant SQLite not salute. Sorry,nathan_obrennan,1603191298139500545,https://twitter.com/nathan_obrennan/status/1603191298139500545,meant sqlite salute. sorry,negative,0.4844270348548889
+2022-12-15 00:51:10+00:00,Richard Hipp Speaks Out on SQLite (2019) [pdf] https://t.co/UoEsNxhppb,angsuman,1603190898489073664,https://twitter.com/angsuman/status/1603190898489073664,richard hipp speaks sqlite (2019) [pdf],neutral,0.9225066900253296
+2022-12-15 00:42:58+00:00,"@mikaela__caron Great, fun and tough challenge! If you’re going down the DB route then Realm is very easy to work with, a lot easier than CoreData and likely than spinning up your own SQLite DB too.",ndmccormack,1603188832446599168,https://twitter.com/ndmccormack/status/1603188832446599168,"__caron great, fun tough challenge! you’re going db route realm easy work with, lot easier coredata likely spinning sqlite db too.",positive,0.9662452340126038
+2022-12-15 00:14:59+00:00,"@timClicks .xlsx to csv, and then import it to SQLite",dmatsynin,1603181793141661697,https://twitter.com/dmatsynin/status/1603181793141661697,".xlsx csv, import sqlite",neutral,0.8094687461853027
+2022-12-14 23:58:54+00:00,"@tytr_dev @timClicks @duckdb Yep, no reason you couldn't use SQLite or any other database that can import CSV files, I just suggested DuckDB because it's really quick and has pandas interop so you can very easily get the results back out!",t_sketh,1603177744954687488,https://twitter.com/t_sketh/status/1603177744954687488,"_dev yep, reason use sqlite database import csv files, suggested duckdb really quick panda interop easily get result back out!",positive,0.8364174365997314
+2022-12-14 23:58:28+00:00,real sigma males die horribly is car crashes https://t.co/Cg7x3JNZ5s,roryos01,1603177634791362562,https://twitter.com/roryos01/status/1603177634791362562,real sigma male die horribly car crash,negative,0.7621837854385376
+2022-12-14 23:52:13+00:00,"@timClicks Looks like SQLite can read xlsx with an extension! You can also then read that SQLite file with DuckDB if you want more speed, the Postgres dialiect, or more analytical functions!
+https://t.co/SdveoX80Rp
+
+https://t.co/1r8cC6XQNm",__AlexMonahan__,1603176063063891968,https://twitter.com/__AlexMonahan__/status/1603176063063891968,"look like sqlite read xlsx extension! also read sqlite file duckdb want speed, postgres dialiect, analytical functions!",neutral,0.6119089722633362
+2022-12-14 23:27:25+00:00,"This is a very interesting architecture. I'd love to see an application where each user gets their own SQLite database and ""session backends"" provide a cloud service that could easily be compatible with a self-hosted or p2p solution.
+
+https://t.co/VAo6VXf7Vm",ccorcos,1603169823046844417,https://twitter.com/ccorcos/status/1603169823046844417,"interesting architecture. i'd love see application user get sqlite database ""session backends"" provide cloud service could easily compatible self-hosted p2p solution.",positive,0.9082450866699219
+2022-12-14 23:18:46+00:00,I initially didn't think it was possible -- but I have now implemented #adventofcode day 12 in sqlite -- yes djikstra's in sqlite -- https://t.co/4WjNcStYqv,codewithanthony,1603167643699007493,https://twitter.com/codewithanthony/status/1603167643699007493,initially think possible -- implemented adventofcode day 12 sqlite -- yes djikstra's sqlite --,positive,0.5962730646133423
+2022-12-14 22:38:56+00:00,"my hatred for node.js compiled addons continues
+
+today's adventure: terminating a worker thread that has an open sqlite database segfaults the whole process",cjihrig,1603157621300727808,https://twitter.com/cjihrig/status/1603157621300727808,hatred node.js compiled addons continues today's adventure: terminating worker thread open sqlite database segfaults whole process,negative,0.6565508246421814
+2022-12-14 22:19:58+00:00,"This tutorials describes how to read data from an Excel sheet and transfer the data to an SQLite database using the pandas, xlrd and sqlite3 Python libraries.
+https://t.co/usYD43NJQc",ryanwellsr,1603152845930483714,https://twitter.com/ryanwellsr/status/1603152845930483714,"tutorial describes read data excel sheet transfer data sqlite database using pandas, xlrd sqlite3 python libraries.",neutral,0.9065641164779663
+2022-12-14 21:54:27+00:00,"Progress. A Rust function linked and loaded as an extension in WASM SQLite -- https://t.co/siulqoy6YZ
+
+Anyone out there that has done much polyglot WASM?",tantaman,1603146427198279680,https://twitter.com/tantaman/status/1603146427198279680,progress. rust function linked loaded extension wasm sqlite -- anyone done much polyglot wasm?,neutral,0.8306587934494019
+2022-12-14 21:43:15+00:00,"#DFIR SQLite Query Tip: when converting timestamps with millisecond precision, consider using the ""strftime"" function instead of ""datetime"".
+
+https://t.co/KRpyqW4pt4
+
+#digitalforensics #mobileforensics #computerforensics",jlindmar,1603143606679883784,https://twitter.com/jlindmar/status/1603143606679883784,"dfir sqlite query tip: converting timestamps millisecond precision, consider using ""strftime"" function instead ""datetime"". digitalforensics mobileforensics computerforensics",neutral,0.8641074895858765
+2022-12-14 20:56:56+00:00,@SomeBitcoiner @jack I'm using @scsibug 's nostr-rs-relay. Rust + sqlite. Its zoom zoom,jb55,1603131949866000386,https://twitter.com/jb55/status/1603131949866000386,i'm using 's nostr-rs-relay. rust + sqlite. zoom zoom,neutral,0.8938403725624084
+2022-12-14 20:41:40+00:00,"Is there a way to catch these erros with tests while still using sqlite. My current attempt was to visit that route and assertSuccesful() and assert I see some data, but that error would have not been caught with the test using sqlite.
+3/N",_3Descape,1603128109263249408,https://twitter.com/_3Descape/status/1603128109263249408,"way catch erros test still using sqlite. current attempt visit route assertsuccesful() assert see data, error would caught test using sqlite. 3/n",neutral,0.8329129815101624
+2022-12-14 20:38:06+00:00,@_georgemoller Please do you know any way to convert pdf to sqlite?,NanaAllan7,1603127212592750593,https://twitter.com/NanaAllan7/status/1603127212592750593,@_georgemoller please know way convert pdf sqlite?,neutral,0.9059632420539856
+2022-12-14 20:36:54+00:00,@RohanAlexander @michael_wiebe Why is that? I would guess that there is plenty of opportunity for students to work with larger or more complex datasets that would benefit from being in a database. Even if it's just SQLite.,vb_jens,1603126910351212545,https://twitter.com/vb_jens/status/1603126910351212545,_wiebe that? would guess plenty opportunity student work larger complex datasets would benefit database. even sqlite.,neutral,0.6121796369552612
+2022-12-14 20:36:02+00:00,"However, in a controller I had SomeModel::where('not_existing_column', true)-&gt;get(), but no error was thrown for the sqlite connection when running the tests. When changing to a mysql connection I do get correct errors saying the column does not exist.
+2/N",_3Descape,1603126689776689152,https://twitter.com/_3Descape/status/1603126689776689152,"however, controller somemodel::where('not_existing_column', true)-&gt;get(), error thrown sqlite connection running tests. changing mysql connection get correct error saying column exist. 2/n",negative,0.5149381756782532
+2022-12-14 20:33:16+00:00,"@christophrumpel May I ask you something? I am currently trying to learn TDD in Laravel by adding tests to an old project. I use DB_CONNECTION=sqlite, DB_DATABASE=:memory:
+1/N",_3Descape,1603125993820114949,https://twitter.com/_3Descape/status/1603125993820114949,"may ask something? currently trying learn tdd laravel adding test old project. use db_connection=sqlite, db_database=:memory: 1/n",neutral,0.8670096397399902
+2022-12-14 20:07:41+00:00,Benchmarking SQLite Performance in Go. Using Go's awesome built-in simple benchmarking tools to investigate SQLite https://t.co/ZAtVYepfTp,goLibHunt,1603119558008573953,https://twitter.com/goLibHunt/status/1603119558008573953,benchmarking sqlite performance go. using go's awesome built-in simple benchmarking tool investigate sqlite,positive,0.7132460474967957
+2022-12-14 19:25:30+00:00,"SQLite Scaffolding: Reverse engineer collation
+dotnet/efcore/29857 https://t.co/lZO9blQokq",efissues,1603108940862164993,https://twitter.com/efissues/status/1603108940862164993,sqlite scaffolding: reverse engineer collation dotnet/efcore/29857,neutral,0.890137791633606
+2022-12-14 19:22:11+00:00,SQLite-loadable-rs: A framework for building SQLite Extensions in Rust https://t.co/fiM6mDXudT comm: https://t.co/TxlvycQzVI,icymihn,1603108106090975232,https://twitter.com/icymihn/status/1603108106090975232,sqlite-loadable-rs: framework building sqlite extension rust comm:,neutral,0.9143953323364258
+2022-12-14 19:22:01+00:00,"In today's Learn Live session replay, we walk through storing and accessing data held in #SQLite using a #dotNETMAUI app and to interact asynchronously to make sure that UI remains responsive. 🎥 https://t.co/veeCLDQhA9 https://t.co/NJSYIpLZep",dotnet,1603108063229222912,https://twitter.com/dotnet/status/1603108063229222912,"today's learn live session replay, walk storing accessing data held sqlite using dotnetmaui app interact asynchronously make sure ui remains responsive. 🎥",neutral,0.7474270462989807
+2022-12-14 18:23:26+00:00,"Attesting Cyptocarlo Blockchain Snapshot: {""chain"":""ccbc"",""from"":1279,""to"":1285,""at"":1671042205,""file"":""ccbc_1279-1285.sqlite"",""certificate"":""56c8fc6ffa5313722ef768ef8ba7b53f5af644c0d2bc99c0eb654f48361cf386"",""ipfs_cid"":""QmZBGbDfCtgPkxSCeAT2vU2Cypx99DxNTTT5MNfd8ZopSt""}",SnapCryptocarlo,1603093320321961984,https://twitter.com/SnapCryptocarlo/status/1603093320321961984,"attesting cyptocarlo blockchain snapshot: {""chain"":""ccbc"",""from"":1279,""to"":1285,""at"":1671042205,""file"":""ccbc_1279-1285.sqlite"",""certificate"":""56c8fc6ffa5313722ef768ef8ba7b53f5af644c0d2bc99c0eb654f48361cf386"",""ipfs_cid"":""qmzbgbdfctgpkxsceat2vu2cypx99dxnttt5mnfd8zopst""}",neutral,0.8741164803504944
+2022-12-14 18:15:00+00:00,"🐼 #Golang Weekly, Gopa, is out!
+
+👉 #Go and #SQLite in the #Cloud
+
+👉 The Ups &amp; Downs of Working With #Go
+
+👉 Everything You Need To Know About Pointers In #Golang
+
+👉 and more!
+
+👀 Read it here: https://t.co/fXDyK0P0EW",joinFAUN,1603091199363104779,https://twitter.com/joinFAUN/status/1603091199363104779,"🐼 golang weekly, gopa, out! 👉 go sqlite cloud 👉 ups &amp; down working go 👉 everything need know pointer golang 👉 more! 👀 read here:",neutral,0.8676113486289978
+2022-12-14 18:14:00+00:00,"🐼 #Golang Weekly Newsletter, Gopa, is out!
+
+👉 #Go and #SQLite in the #Cloud
+
+👉 The Ups &amp; Downs of Working With #Go
+
+👉 Everything You Need To Know About Pointers In #Golang
+
+👉 and more!
+
+👀 Read it here: https://t.co/xKSD1pYfin",FAUNGopa,1603090948254310400,https://twitter.com/FAUNGopa/status/1603090948254310400,"🐼 golang weekly newsletter, gopa, out! 👉 go sqlite cloud 👉 ups &amp; down working go 👉 everything need know pointer golang 👉 more! 👀 read here:",neutral,0.8380781412124634
+2022-12-14 17:24:43+00:00,@tcurdt This old unix hack would likely just do a directory tree and symlink around or maybe get crazy modern and do keywords and categories in an sqlite 🔨,quasi42,1603078545202417665,https://twitter.com/quasi42/status/1603078545202417665,old unix hack would likely directory tree symlink around maybe get crazy modern keywords category sqlite 🔨,neutral,0.7160071134567261
+2022-12-14 17:16:30+00:00,"@kittystryker I mean yeah, you completely lack understanding of the character and made a tweet stating as such. You got baked for it and now youre mad.",roryos01,1603076478924718080,https://twitter.com/roryos01/status/1603076478924718080,"mean yeah, completely lack understanding character made tweet stating such. got baked youre mad.",negative,0.9179627299308777
+2022-12-14 17:09:08+00:00,@ios_dev_alb Real devs use SQLite,davidfekke,1603074623578464264,https://twitter.com/davidfekke/status/1603074623578464264,_dev_alb real devs use sqlite,neutral,0.7764026522636414
+2022-12-14 16:29:33+00:00,"Benchmarking SQLite Performance in Go. Using Go's awesome built-in simple benchmarking tools to investigate SQLite database performance in a couple of different benchmarks, plus a comparison to…
+
+https://t.co/2Yey5LGjpt
+
+Discussions: https://t.co/NaAGS0doTf
+
+#golang #programming",GoDiscussions,1603064660281925632,https://twitter.com/GoDiscussions/status/1603064660281925632,"benchmarking sqlite performance go. using go's awesome built-in simple benchmarking tool investigate sqlite database performance couple different benchmarks, plus comparison to… discussions: golang programming",neutral,0.6435937881469727
+2022-12-14 16:28:35+00:00,SQLite is pretty awesome.,bryson3gps,1603064419109445633,https://twitter.com/bryson3gps/status/1603064419109445633,sqlite pretty awesome.,positive,0.9748961329460144
+2022-12-14 16:20:03+00:00,"✨ Medtronic is hiring Software Engineer II 
+
+🌇 US 
+💪 #sqlite #qt 
+
+#tech #softwareengineer #jobs 
+https://t.co/umwc3KEpJr",echojobs_io,1603062268886908929,https://twitter.com/echojobs_io/status/1603062268886908929,✨ medtronic hiring software engineer ii 🌇 u 💪 sqlite qt tech softwareengineer job,neutral,0.6131505966186523
+2022-12-14 15:11:28+00:00,@LaborwaveCCCP @_pashrash Is the business we call that art theft,roryos01,1603045009632141312,https://twitter.com/roryos01/status/1603045009632141312,@_pashrash business call art theft,negative,0.5683058500289917
+2022-12-14 14:45:00+00:00,"You can store data on the user's device by using a SQLite database. You can also connect your Windows app directly to a SQL Server, Cosmos DB, MySQL, or MongoDB database without having to use an external service layer. Interested?
+
+https://t.co/9vG9j4mSWe",WindowsDocs,1603038349295591424,https://twitter.com/WindowsDocs/status/1603038349295591424,"store data user's device using sqlite database. also connect window app directly sql server, cosmos db, mysql, mongodb database without use external service layer. interested?",neutral,0.7980018854141235
+2022-12-14 14:00:43+00:00,"8. sqlean 
+ 
+The ultimate set of SQLite extensions 
+ 
+#C 
+ 
+https://t.co/NBMaFGoRez",bot_for_devs,1603027207487721472,https://twitter.com/bot_for_devs/status/1603027207487721472,8. sqlean ultimate set sqlite extension c,neutral,0.8897439241409302
+2022-12-14 13:33:03+00:00,@KittyOffRecord Good morning https://t.co/WftWz9bKnj,roryos01,1603020243298930689,https://twitter.com/roryos01/status/1603020243298930689,good morning,positive,0.8494127988815308
+2022-12-14 13:24:48+00:00,SQL Bootcamp – SQLite – Hands-On Exercises https://t.co/iIMLuyCAjN,freepaidcourse,1603018167718117379,https://twitter.com/freepaidcourse/status/1603018167718117379,sql bootcamp – sqlite – hands-on exercise,neutral,0.8837460875511169
+2022-12-14 13:11:08+00:00,Benchmarking SQLite Performance in Go. Using Go's awesome built-in simple benchmarking tools to inv… https://t.co/8fv4xyz0hh #reddit,golang_news,1603014726870523905,https://twitter.com/golang_news/status/1603014726870523905,benchmarking sqlite performance go. using go's awesome built-in simple benchmarking tool inv… reddit,positive,0.7165176868438721
+2022-12-14 12:58:07+00:00,SQL Bootcamp – SQLite – Hands-On Exercises https://t.co/EXNERo3cod,Getintocourse,1603011454516461569,https://twitter.com/Getintocourse/status/1603011454516461569,sql bootcamp – sqlite – hands-on exercise,neutral,0.8837460875511169
+2022-12-14 12:43:38+00:00,"@BrunoMyrrha I know of a FIFO queued, but not how it’s technically implemented
+
+Another person suggested making a SQLite db and saving the data in that?",mikaela__caron,1603007809326665729,https://twitter.com/mikaela__caron/status/1603007809326665729,"know fifo queued, it’s technically implemented another person suggested making sqlite db saving data that?",neutral,0.9090226292610168
+2022-12-14 12:30:56+00:00,SQL Bootcamp - SQLite - Hands-On Exercises - https://t.co/teh9sGGxnF #onlineclasses #onlinecourses #freeonlinecourses #onlinetutorials https://t.co/zOCbaBnYZF,teachemy,1603004611870220289,https://twitter.com/teachemy/status/1603004611870220289,sql bootcamp - sqlite - hands-on exercise - onlineclasses onlinecourses freeonlinecourses onlinetutorials,neutral,0.8489943146705627
+2022-12-14 12:06:13+00:00,"SQL Bootcamp - SQLite - Hands-On Exercises  
+4.5 hours | 13098 students  | October 2022 release 
+
+🆓 LINK =&gt; https://t.co/nvU8nrCbhV 
+
+#Udemy #SQL #Database #Programming #SQLite #Design https://t.co/fStBFvSnb1",comidoc,1602998390979272704,https://twitter.com/comidoc/status/1602998390979272704,sql bootcamp - sqlite - hands-on exercise 4.5 hour | 13098 student | october 2022 release 🆓 link =&gt; udemy sql database programming sqlite design,neutral,0.8908969163894653
+2022-12-14 11:44:22+00:00,"HostingbyAliTech Supports - OctoberCMS Hosting
+
+OctoberCMS is a free, open-source and self-hosted content management system (CMS) based on the PHP programming language and Laravel web application framework. It supports MySQL, SQLite and PostgreSQL...
+
+https://t.co/5pCay9NlQm https://t.co/TfJWUF5hkz",hostingalitech,1602992892431273986,https://twitter.com/hostingalitech/status/1602992892431273986,"hostingbyalitech support - octobercms hosting octobercms free, open-source self-hosted content management system (cms) based php programming language laravel web application framework. support mysql, sqlite postgresql...",neutral,0.7099254131317139
+2022-12-14 10:54:35+00:00,Node Local SQLite Database with Node for beginners ★★★★★ rated 4.8 starsExplore how to apply NodeJS to make your web content come to life - explore how to create a local database  https://t.co/Oh7k2kLu2h #courses #LAURENCESVEKIS #create,discoveryvip,1602980363697111041,https://twitter.com/discoveryvip/status/1602980363697111041,node local sqlite database node beginner ★★★★★ rated 4.8 starsexplore apply nodejs make web content come life - explore create local database course laurencesvekis create,positive,0.6058924794197083
+2022-12-14 10:36:39+00:00,"@_kirbbb I’m really worried about how he wants to switch to CloudKit, it’s a really bad idea imo since that’ll just make the reliability even worse
+
+His new SQLite stack sounds cool (and is now open source) but I doubt it’ll bring any meaningful changes to the app itself.",PatrikTheDev,1602975853528449025,https://twitter.com/PatrikTheDev/status/1602975853528449025,"@_kirbbb i’m really worried want switch cloudkit, it’s really bad idea imo since that’ll make reliability even worse new sqlite stack sound cool (and open source) doubt it’ll bring meaningful change app itself.",negative,0.9405354857444763
+2022-12-14 10:32:15+00:00,"A wider variety of formats is available so that anyone can use the data files as csv, SQLite, Postgresql, Parquet or JSON Lines as well as being able to analyse the data using Big Query or Datasette https://t.co/StzhBnlLAn",stephen_abbott,1602974745078767616,https://twitter.com/stephen_abbott/status/1602974745078767616,"wider variety format available anyone use data file csv, sqlite, postgresql, parquet json line well able analyse data using big query datasette",neutral,0.6099312901496887
+2022-12-14 10:18:48+00:00,"💻It is designed for analytical workloads and has a simple, embedded operation like SQLite.",moderndatastack,1602971360346505216,https://twitter.com/moderndatastack/status/1602971360346505216,"💻it designed analytical workload simple, embedded operation like sqlite.",neutral,0.8413547277450562
+2022-12-14 09:28:30+00:00,I got some purple mascara 😍,roryos01,1602958701425467392,https://twitter.com/roryos01/status/1602958701425467392,got purple mascara 😍,positive,0.9711262583732605
+2022-12-14 09:26:29+00:00,everyone is sqlite gangsta until they need a full text search,mr_wormhole,1602958192220282880,https://twitter.com/mr_wormhole/status/1602958192220282880,everyone sqlite gangsta need full text search,neutral,0.491006463766098
+2022-12-14 09:21:46+00:00,"Here is a list of basic SQL commands (sometimes called clauses) you should know if you are going to work with SQL.
+
+ #datalytics #SQL #SQLite #datavisualization #dataanalytics #datascience #Data #Microsoft #dataanalyst #programming #programmer #languge #sql #SQLServer https://t.co/VpLxnJv9Zl",Datalytics_IT,1602957006163394561,https://twitter.com/Datalytics_IT/status/1602957006163394561,list basic sql command (sometimes called clauses) know going work sql. datalytics sql sqlite datavisualization dataanalytics datascience data microsoft dataanalyst programming programmer languge sql sqlserver,neutral,0.8221757411956787
+2022-12-14 09:00:30+00:00,SQLite-loadable-rs: A framework for building SQLite Extensions in Rust: https://t.co/Kq5E8DMGCF ( https://t.co/Jw5KJlniWW ),HighSNHN,1602951653342253058,https://twitter.com/HighSNHN/status/1602951653342253058,sqlite-loadable-rs: framework building sqlite extension rust: ( ),neutral,0.8795425295829773
+2022-12-14 08:40:58+00:00,@Fetusberry It was from a mid to late 2000 newgrounds animation series The Lazer Collection,roryos01,1602946738788130816,https://twitter.com/roryos01/status/1602946738788130816,mid late 2000 newgrounds animation series lazer collection,neutral,0.8730208873748779
+2022-12-14 08:26:07+00:00,Walking sim thats like 80% walking with nothing to do but intermittently fight something for 2 to 3 minutes https://t.co/Q97jb7LUdi,roryos01,1602943003173310464,https://twitter.com/roryos01/status/1602943003173310464,walking sim thats like 80% walking nothing intermittently fight something 2 3 minute,neutral,0.7029000520706177
+2022-12-14 08:20:10+00:00,Brain worms https://t.co/DCtGx7IDg4,roryos01,1602941503806099456,https://twitter.com/roryos01/status/1602941503806099456,brain worm,negative,0.4870980679988861
+2022-12-14 08:19:53+00:00,"High-speed, fault-tolerant logging to databases such as MS SQL Server, Oracle, mySQL, SQL Azure, PostgreSQL, Cassandra, MongoDB, MariaDB, SQLite, InfluxDB, and Access. https://t.co/uIBZGE26oA #openautomationsoftware #iot #iiot #automation #industrialiot #internetofthings https://t.co/zyfIpWQ1vq",opcSoftware,1602941433337503745,https://twitter.com/opcSoftware/status/1602941433337503745,"high-speed, fault-tolerant logging database m sql server, oracle, mysql, sql azure, postgresql, cassandra, mongodb, mariadb, sqlite, influxdb, access. openautomationsoftware iot iiot automation industrialiot internetofthings",neutral,0.7311850786209106
+2022-12-14 08:14:26+00:00,"If you ever wanted evidence that it was never about TERFs wanting to “protect women’s spaces from men”
+
+*invites cis men into womens bathrooms to protect them from trans women cus they see them as men*
+
+Brain rot https://t.co/PHFZ0byrIH",roryos01,1602940063247204353,https://twitter.com/roryos01/status/1602940063247204353,ever wanted evidence never terfs wanting “protect women’s space men” *invites ci men woman bathroom protect trans woman cu see men* brain rot,negative,0.7055080533027649
+2022-12-14 08:00:39+00:00,@Fetusberry I do not exist https://t.co/B0Z61GRHK5,roryos01,1602936593521823744,https://twitter.com/roryos01/status/1602936593521823744,exist,neutral,0.6879366040229797
+2022-12-14 07:56:53+00:00,@Fetusberry I dno why Dr Octagonapus popped into my head https://t.co/aM8IYGbcc7,roryos01,1602935644786925568,https://twitter.com/roryos01/status/1602935644786925568,dno dr octagonapus popped head,neutral,0.7751955389976501
+2022-12-14 07:43:54+00:00,Predditor moment https://t.co/m15LEXTXiM,roryos01,1602932375910223872,https://twitter.com/roryos01/status/1602932375910223872,predditor moment,negative,0.6271141767501831
+2022-12-14 07:15:44+00:00,"#10
+
+#rqlite
+The lightweight, distributed relational database built on SQLite
+https://t.co/9yTx78kgDX",GoTrending1,1602925288073175040,https://twitter.com/GoTrending1/status/1602925288073175040,"10 rqlite lightweight, distributed relational database built sqlite",neutral,0.5728718042373657
+2022-12-14 06:45:45+00:00,@wesyang It's probably an application (installed on a local machine) that's using leveldb for internal usage. Lots of apps use sqlite or leveldb for this purpose.,jay_douglass,1602917742012780545,https://twitter.com/jay_douglass/status/1602917742012780545,probably application (installed local machine) that's using leveldb internal usage. lot apps use sqlite leveldb purpose.,neutral,0.8479639291763306
+2022-12-14 06:28:47+00:00,"Building cross-platform Ionic apps powered by PouchDB/CouchDB, PHP/MySQL, SQLite, MEAN stack &amp; Firebase: https://t.co/c7Cqkvy1XE #firebase #mongodb #MySQL #php #development #angularjs #typescript https://t.co/OyKnjHb0mt",masteringionic,1602913473654038529,https://twitter.com/masteringionic/status/1602913473654038529,"building cross-platform ionic apps powered pouchdb/couchdb, php/mysql, sqlite, mean stack &amp; firebase: firebase mongodb mysql php development angularjs typescript",neutral,0.8222166895866394
+2022-12-14 05:42:53+00:00,"Day 82 of #100DaysOfCode
+
+I had a phone screen today that went pretty well! I asked if he had any concerns about my experience &amp; he was mainly concerned I haven't worked with C# or SQL. So I built an app with C# and SQLite!
+
+Also:
+🦚 Virtual career fair
+🦚 Leetcode",valerievozza_,1602901921404448768,https://twitter.com/valerievozza_/status/1602901921404448768,day 82 100daysofcode phone screen today went pretty well! asked concern experience &amp; mainly concerned worked c sql. built app c sqlite! also: 🦚 virtual career fair 🦚 leetcode,positive,0.9156316518783569
+2022-12-14 04:17:51+00:00,"^ That's what we did in our demo: https://t.co/WzBskAXvTt
+
+- Server rendered data
+- Client rendered data
+- Access control (show email only for authenticated users)
+- Read only data (using access control) from SQLite database committed as a file to the repo
+
+Give it a go.",KeystoneJS,1602880523562803200,https://twitter.com/KeystoneJS/status/1602880523562803200,^ that's demo: - server rendered data - client rendered data - access control (show email authenticated users) - read data (using access control) sqlite database committed file repo give go.,neutral,0.9056875705718994
+2022-12-14 04:17:51+00:00,And that's not all of it. Keystone has great auth and access control built in and can use SQLite as a database. This makes Keystone an excellent tool to build demos with GraphQL and read only data from a database without connecting to an external database at all. 🤯,KeystoneJS,1602880521629216769,https://twitter.com/KeystoneJS/status/1602880521629216769,that's it. keystone great auth access control built use sqlite database. make keystone excellent tool build demo graphql read data database without connecting external database all. 🤯,positive,0.8815597891807556
+2022-12-14 04:00:32+00:00,New best story on Hacker News: I found a bug in SQLite https://t.co/DYdBIvOv9U,ens7piper,1602876166154715136,https://twitter.com/ens7piper/status/1602876166154715136,new best story hacker news: found bug sqlite,positive,0.5663962364196777
+2022-12-14 03:51:19+00:00,@mikaela__caron I mean I’ve had a few side projects but primarily working on ForeFlight as my day job since 2009. Been using SQLite for just as long :). It’s great.,afarnham,1602873846691938304,https://twitter.com/afarnham/status/1602873846691938304,__caron mean i’ve side project primarily working foreflight day job since 2009. using sqlite long :). it’s great.,positive,0.9804949760437012
+2022-12-14 03:48:16+00:00,"@afarnham Whoa you’ve only worked on one app?! 😱😱
+
+And yeah I was leaning towards SQLite too
+
+Based on this response https://t.co/V3BYsQtajf",mikaela__caron,1602873079205711872,https://twitter.com/mikaela__caron/status/1602873079205711872,whoa you’ve worked one app?! 😱😱 yeah leaning towards sqlite based response,positive,0.5473353862762451
+2022-12-14 03:46:55+00:00,"@mikaela__caron Not sure. I’ve only worked on one app my entire iOS career. I commonly use SQLite for caching. Super fast reads and writes. Writing records  to a file with common formats (json, xml, yaml, etc) can be fast, but swift decoders are not always fast and seem to slow down as size ++.",afarnham,1602872737625677824,https://twitter.com/afarnham/status/1602872737625677824,"__caron sure. i’ve worked one app entire io career. commonly use sqlite caching. super fast read writes. writing record file common format (json, xml, yaml, etc) fast, swift decoder always fast seem slow size ++.",positive,0.6059645414352417
+2022-12-14 02:58:36+00:00,"@mikaela__caron I personally use SQLite but it’s a little nerdy to setup a table 🤓
+
+I’d honestly practice separation of concern.
+
+You have a NetworkManager that tries to make a request. When it fails it calls the QueueManager and says “store this”
+
+Done.
+
+QueueManager operates independently.",MartinLasek,1602860578833588224,https://twitter.com/MartinLasek/status/1602860578833588224,__caron personally use sqlite it’s little nerdy setup table 🤓 i’d honestly practice separation concern. networkmanager try make request. fails call queuemanager say “store this” done. queuemanager operates independently.,neutral,0.6067416667938232
+2022-12-14 02:49:42+00:00,"Introducing sqlite-loadable-rs: A framework for building SQLite Extensions in Rust
+https://t.co/RUVL9gRDo0",rnella01,1602858337913249794,https://twitter.com/rnella01/status/1602858337913249794,introducing sqlite-loadable-rs: framework building sqlite extension rust,neutral,0.833185076713562
+2022-12-14 02:48:57+00:00,"@sqs “”It would be very nice to have a ""postgreSQLite"" with all functionalities of postgreSQL but could be used as sqlite when only one application use the database.””
+
+I would love this",GeoffreyHuntley,1602858148888711168,https://twitter.com/GeoffreyHuntley/status/1602858148888711168,"“”it would nice ""postgresqlite"" functionality postgresql could used sqlite one application use database.”” would love",positive,0.9525704979896545
+2022-12-14 02:27:34+00:00,@jojadev We're going to do distributed SQLite 🔥,kentcdodds,1602852771098951680,https://twitter.com/kentcdodds/status/1602852771098951680,we're going distributed sqlite 🔥,positive,0.7744324803352356
+2022-12-14 02:22:52+00:00,"Attesting Cyptocarlo Blockchain Snapshot: {""chain"":""ccbc"",""from"":1271,""to"":1272,""at"":1670984571,""file"":""ccbc_1271-1272.sqlite"",""certificate"":""c802d551f46e34249abe57bed060999a2089c6d6c2ac2be195e4fc5b044dd48c"",""ipfs_cid"":""QmdzfhMNXDepw8WaYPurqwWVSDT1vL78wbaHx3CpH4Jwiq""}",SnapCryptocarlo,1602851585595408384,https://twitter.com/SnapCryptocarlo/status/1602851585595408384,"attesting cyptocarlo blockchain snapshot: {""chain"":""ccbc"",""from"":1271,""to"":1272,""at"":1670984571,""file"":""ccbc_1271-1272.sqlite"",""certificate"":""c802d551f46e34249abe57bed060999a2089c6d6c2ac2be195e4fc5b044dd48c"",""ipfs_cid"":""qmdzfhmnxdepw8waypurqwwvsdt1vl78wbahx3cph4jwiq""}",neutral,0.8718754053115845
+2022-12-14 01:16:12+00:00,SQLite-loadable-rs: A framework for building SQLite Extensions in Rust via /r/hackernews https://t.co/aHc1LWTI7c,wvdsteen,1602834810174668807,https://twitter.com/wvdsteen/status/1602834810174668807,sqlite-loadable-rs: framework building sqlite extension rust via /r/hackernews,neutral,0.9035652875900269
+2022-12-14 00:39:49+00:00,New best story on Hacker News: I found a bug in SQLite https://t.co/jlSdhXc9tg Wordpress Freelancer https://t.co/myrtu9MwE1,rakhisharma01,1602825653061144577,https://twitter.com/rakhisharma01/status/1602825653061144577,new best story hacker news: found bug sqlite wordpress freelancer,neutral,0.5168970227241516
+2022-12-14 00:26:14+00:00,New best story on Hacker News: I found a bug in SQLite https://t.co/p3E0PZz0nX,veritopa_media,1602822236905275392,https://twitter.com/veritopa_media/status/1602822236905275392,new best story hacker news: found bug sqlite,positive,0.5663962364196777
+2022-12-14 00:11:52+00:00,I found a bug in SQLite https://t.co/nxagozA6X3 #tech #technology #news via Hacker News,DavidsonLuna,1602818617950756866,https://twitter.com/DavidsonLuna/status/1602818617950756866,found bug sqlite tech technology news via hacker news,negative,0.5024327635765076
+2022-12-14 00:10:06+00:00,@thejolson @dyingscribe also at this point it'll run on basically a potato,roryos01,1602818173887291402,https://twitter.com/roryos01/status/1602818173887291402,also point it'll run basically potato,neutral,0.5376449227333069
+2022-12-14 00:09:42+00:00,"@thejolson @dyingscribe If you can get the game working on PC (Which you should be able to, there's usually a load of guides out there, and windows 10 is pretty good for running extremely old software) then it's worth playing that.",roryos01,1602818073354014720,https://twitter.com/roryos01/status/1602818073354014720,"get game working pc (which able to, there's usually load guide there, window 10 pretty good running extremely old software) worth playing that.",positive,0.843778669834137
