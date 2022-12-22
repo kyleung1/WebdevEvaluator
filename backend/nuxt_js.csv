@@ -1,0 +1,1241 @@
+Date,Tweet,User,Tweet ID,Tweet Url,Cleaned Tweet,Sentiment,Confidence
+2022-12-22 07:07:34+00:00,"Next, Nest, Nuxt Nust? https://t.co/zwrodLTQ73",angsuman,1605822338116657152,https://twitter.com/angsuman/status/1605822338116657152,"next, nest, nuxt nust?",neutral,0.8721182346343994
+2022-12-22 06:58:19+00:00,@iPariola Nuxt might just win afterall.,lauragift_,1605820010726834176,https://twitter.com/lauragift_/status/1605820010726834176,nuxt might win afterall.,positive,0.5929287672042847
+2022-12-22 06:53:03+00:00,@lauragift_ Nuxt 👀 or Astro,iPariola,1605818681685966849,https://twitter.com/iPariola/status/1605818681685966849,_ nuxt 👀 astro,neutral,0.913550078868866
+2022-12-22 06:51:31+00:00,"Still trying to decide what stack to use, Nuxt or Sveltekit 🤔",lauragift_,1605818296674050049,https://twitter.com/lauragift_/status/1605818296674050049,"still trying decide stack use, nuxt sveltekit 🤔",neutral,0.9079821109771729
+2022-12-22 04:45:07+00:00,"@nickganter91 Mostly js. I think the latter? I’m not sure, my learning path was half nuxt half reading code from one of my org’s projects",eamonb,1605786489677152257,https://twitter.com/eamonb/status/1605786489677152257,"91 mostly js. think latter? i’m sure, learning path half nuxt half reading code one org’s project",neutral,0.8975555300712585
+2022-12-22 04:04:26+00:00,kazupon starred danielroe/vitest-environment-nuxt on github https://t.co/VwZF0oamat,kazu_pon,1605776250559135745,https://twitter.com/kazu_pon/status/1605776250559135745,kazupon starred danielroe/vitest-environment-nuxt github,neutral,0.8975463509559631
+2022-12-22 03:47:00+00:00,"#ReactJS  #Automated | Next, Nest, Nuxt… Nust? https://t.co/ZrgSvo4CmH",hasdid,1605771864139259905,https://twitter.com/hasdid/status/1605771864139259905,"reactjs automated | next, nest, nuxt… nust?",neutral,0.9258419871330261
+2022-12-22 03:15:49+00:00,@Qproject3 gimans go?,JavaNuxtCppKoa,1605764016860561408,https://twitter.com/JavaNuxtCppKoa/status/1605764016860561408,3 gimans go?,neutral,0.910950779914856
+2022-12-22 02:52:54+00:00,"I learned the basics of Vue, Vuex, Nuxt and Axios today and it was so much fun",eamonb,1605758248103059458,https://twitter.com/eamonb/status/1605758248103059458,"learned basic vue, vuex, nuxt axios today much fun",positive,0.9621277451515198
+2022-12-22 00:59:34+00:00,"front end language, Please tell me the difference between vuetify and nuxt.
+
+#frontend #FRONTEND #vue #vuetify #nuxt #js #javascript",KfzMbw,1605729724537634816,https://twitter.com/KfzMbw/status/1605729724537634816,"front end language, please tell difference vuetify nuxt. frontend frontend vue vuetify nuxt j javascript",neutral,0.8893610239028931
+2022-12-22 00:03:40+00:00,"Next, Nest, Nuxt… Nust? https://t.co/y3ITW80Uq7",noservershere,1605715659773693957,https://twitter.com/noservershere/status/1605715659773693957,"next, nest, nuxt… nust?",neutral,0.8482387661933899
+2022-12-21 23:03:51+00:00,"Working on a Nuxt/Laravel project, most fun I've had in years.",godwill_codes,1605700605070245895,https://twitter.com/godwill_codes/status/1605700605070245895,"working nuxt/laravel project, fun i've years.",positive,0.9557754397392273
+2022-12-21 21:57:39+00:00,"In review of this year, I really took a hard effort to decide what the top 2 tech things were that hyped me up the most. Of course the AI stuff was cool, but @caddyserver By @mholt6 and @nuxt_js were the 2 things that made money. And for that I’m forever grateful.",eckhardtdreyer,1605683946888433664,https://twitter.com/eckhardtdreyer/status/1605683946888433664,"review year, really took hard effort decide top 2 tech thing hyped most. course ai stuff cool, 6 _js 2 thing made money. i’m forever grateful.",positive,0.9764120578765869
+2022-12-21 21:57:14+00:00,@madsbrodt I jumped on Nuxt the second it was released and it really was a game changer from raw Vue 0.12 apps. The ability of Vue to do SSR is the best thing that happened to the community for sure 🥲,Xowap,1605683840743346178,https://twitter.com/Xowap/status/1605683840743346178,jumped nuxt second released really game changer raw vue 0.12 apps. ability vue ssr best thing happened community sure 🥲,positive,0.9672868847846985
+2022-12-21 21:42:29+00:00,"@SuhailKakar Semantic HTML
+CSS units/typography/colors
+CSS layout (box model, flexbox, grid, media queries)
+JavaScript
+DOM API
+Fetch API
+Browser APIs (@mozhacks, @ChromiumDev)
+Git
+npm
+Svelte/Solid/Vue/React
+Components/design systems
+Accessibility/ARIA
+SvelteKit/SolidStart/Nuxt/Next
+TypeScript",darryl__yeo,1605680128192831499,https://twitter.com/darryl__yeo/status/1605680128192831499,"semantic html cs units/typography/colors cs layout (box model, flexbox, grid, medium queries) javascript dom api fetch api browser apis (, ) git npm svelte/solid/vue/react components/design system accessibility/aria sveltekit/solidstart/nuxt/next typescript",neutral,0.9118136167526245
+2022-12-21 20:35:03+00:00,"@OccupyDemocrats BREAKING NEWS -  After counting mail-in ballots, Musk to remain CEO.",apux_nuxt,1605663158064013312,https://twitter.com/apux_nuxt/status/1605663158064013312,"breaking news - counting mail-in ballots, musk remain ceo.",neutral,0.9323256015777588
+2022-12-21 20:30:59+00:00,"@cronokirby Hey, thanks for retweeting this. I was setting up a nuxt blog to start blogging, but this seems like the no-setup, focus on writing thing I was looking for. 
+
+Hopefully, they can get all the latex bugs fixed soon.",whyamey,1605662136822370304,https://twitter.com/whyamey/status/1605662136822370304,"hey, thanks retweeting this. setting nuxt blog start blogging, seems like no-setup, focus writing thing looking for. hopefully, get latex bug fixed soon.",neutral,0.5447788834571838
+2022-12-21 20:00:24+00:00,"How to separate frontend   backend with Rails API, Nuxt.js and Devise-JWT (from 24/03/2018) #ruby #rubyonrails #programming #api, #backend #devise-jwt #frontend https://t.co/GxrkytBQ2P",nezirzahirovic,1605654439406276608,https://twitter.com/nezirzahirovic/status/1605654439406276608,"separate frontend backend rail api, nuxt.js devise-jwt (from 24/03/2018) ruby rubyonrails programming api, backend devise-jwt frontend",neutral,0.929487943649292
+2022-12-21 19:09:28+00:00,@TheAlexLichter @nuxt_js @nuxt_themes Thank you sir,ALIHAID40026025,1605641622552707077,https://twitter.com/ALIHAID40026025/status/1605641622552707077,_js _themes thank sir,neutral,0.5810506343841553
+2022-12-21 18:36:46+00:00,@hackmamba @chukwutosin_ @appwrite @nuxt_js Nice content!,shosenwales,1605633391616851968,https://twitter.com/shosenwales/status/1605633391616851968,_ _js nice content!,positive,0.9788357615470886
+2022-12-21 18:31:35+00:00,"Learn how to build an Intercom clone in Nuxt.js.
+
+In the first part of this series, @chukwutosin_ explains how to build a lite version of Intercom using @appwrite and @nuxt_js, a hybrid Vue framework.
+
+https://t.co/VXv8GJuma7
+
+#vuejs #developers",hackmamba,1605632086064467968,https://twitter.com/hackmamba/status/1605632086064467968,"learn build intercom clone nuxt.js. first part series, _ explains build lite version intercom using _js, hybrid vue framework. vuejs developer",neutral,0.7520122528076172
+2022-12-21 18:25:01+00:00,"The headless, API-first CMS @storyblok helps you manage your content to create digital experiences across all platforms ✍️🔀 It works perfectly with Vue &amp; Nuxt and is #madewithvuejs itself! - https://t.co/vczi5Kn2Hn https://t.co/RvUdPA5VCy",MadeWithVueJS,1605630435169533953,https://twitter.com/MadeWithVueJS/status/1605630435169533953,"headless, api-first cm help manage content create digital experience across platform ✍️🔀 work perfectly vue &amp; nuxt madewithvuejs itself! -",positive,0.9130873084068298
+2022-12-21 18:09:19+00:00,@phurlarmie @prisma @trpcio @nextauthjs @tailwindcss @github @nuxt_js @typescript @antfu7 Sure thing! Feel free to hop onto Discord if you have aby further questions: https://t.co/X3f999Uemm,sidebase_io,1605626483229106177,https://twitter.com/sidebase_io/status/1605626483229106177,_js 7 sure thing! feel free hop onto discord aby questions:,positive,0.7233604788780212
+2022-12-21 17:47:57+00:00,"I probably found major security issue in @nuxt_js but I can't check it and make PR with fix because of the terrorist attacks by the #Russians
+#RussiaIsATerroristState",alex_kozack,1605621108417466368,https://twitter.com/alex_kozack/status/1605621108417466368,probably found major security issue _js can't check make pr fix terrorist attack russian russiaisaterroriststate,negative,0.9072848558425903
+2022-12-21 17:42:27+00:00,"@sidebase_io @prisma @trpcio @nextauthjs @tailwindcss @github @nuxt_js @typescript @antfu7 Good, Thank you!",phurlarmie,1605619724598943744,https://twitter.com/phurlarmie/status/1605619724598943744,"_io _js 7 good, thank you!",positive,0.9552843570709229
+2022-12-21 17:08:27+00:00,"✨New JS Tools — #50 | 11–17 December 2022
+https://t.co/jI9O2MPdoP
+
+nuxt-seo-kit by @harlan_zw
+lande by @fabiospampinato
+docskit by @pheralb_
+prisma-import by @ajmnzb
+expo-mdx by @baconbrix
+TweetSage by @Aadarsh805
+url-cheatsheet by @azu_re
+tutorial-maker by @explain_dev",jstoolsweekly,1605611165064650758,https://twitter.com/jstoolsweekly/status/1605611165064650758,✨new j tool — 50 | 11–17 december 2022 nuxt-seo-kit _zw lande docskit _ prisma-import expo-mdx tweetsage 805 url-cheatsheet _re tutorial-maker _dev,neutral,0.9154407382011414
+2022-12-21 16:50:01+00:00,"Nuxt 3 helps you develop Vue3 based apps quickly take a look at https://t.co/MmllpGXU12 to understand the minimal project structure
+
+#javascript #typescript #vue https://t.co/FfLfBuwdcH",gary_woodfine,1605606527502585859,https://twitter.com/gary_woodfine/status/1605606527502585859,nuxt 3 help develop vue3 based apps quickly take look understand minimal project structure javascript typescript vue,positive,0.6321431398391724
+2022-12-21 16:31:30+00:00,"@phurlarmie @prisma @trpcio @nextauthjs @tailwindcss @github Hey @phurlarmie (: 
+
+Good q! Yes it is, you can just not select tailwind when the sidebase-CLI asks you and then add windicss / unocss yourself - none of the packages are mandatory (besides @nuxt_js and @typescript)
+
+See e.g., @antfu7's unocss nuxt module: https://t.co/y3ORXTAQpV",sidebase_io,1605601867509092358,https://twitter.com/sidebase_io/status/1605601867509092358,"hey (: good q! yes is, select tailwind sidebase-cli asks add windicss / unocss - none package mandatory (besides _js ) see e.g., 7's unocss nuxt module:",positive,0.6791755557060242
+2022-12-21 16:23:18+00:00,"9/ Framework API to unlock zero-config everything
+
+It’s a new architecture that streamlines integrations, up performance, reduce install size, and is 0 configuration for many popular app setups.
+
+Done:
+⚡️ Vite
+▲ NextJS
+🦾 SvelteKit
+
+Considering in 2023
+💿 Remix 
+🏔 Nuxt https://t.co/yYMrKbqIbP",storybookjs,1605599802846330881,https://twitter.com/storybookjs/status/1605599802846330881,"9/ framework api unlock zero-config everything it’s new architecture streamlines integrations, performance, reduce install size, 0 configuration many popular app setups. done: ⚡️ vite ▲ nextjs 🦾 sveltekit considering 2023 💿 remix 🏔 nuxt",positive,0.5787602066993713
+2022-12-21 16:00:20+00:00,"Building hybrid web apps with @nuxt_js with @danielcroe
+
+https://t.co/yVhUZzlJtP",Dominus_Kelvin,1605594023460098049,https://twitter.com/Dominus_Kelvin/status/1605594023460098049,building hybrid web apps _js,neutral,0.7966988682746887
+2022-12-21 15:56:24+00:00,"Welcoming Vue Core Team back to JSWorld Conference 2023
+
+⭐️Creator of Vue, Evan You 
+⭐️Creator of Pinia, @posva
+⭐️Vue Core Team, @Akryum
+⭐️Vue Core Team, @N_Tepluhina
+⭐️Vite Core Team, @antfu7
+⭐️Creator of Nuxt, Sebastian Chopin 
+
+Purchase your ticket👉 https://t.co/2zzLngqeXk https://t.co/CiRNUJKeRB",JSworldconf,1605593035303047168,https://twitter.com/JSworldconf/status/1605593035303047168,"welcoming vue core team back jsworld conference 2023 ⭐️creator vue, evan ⭐️creator pinia, ⭐️vue core team, ⭐️vue core team, _tepluhina ⭐️vite core team, 7 ⭐️creator nuxt, sebastian chopin purchase ticket👉",positive,0.5784059166908264
+2022-12-21 15:55:15+00:00,"Preconnect to required origins 
+reduces the 𝗧𝗧𝗜, 𝐋𝐂𝐏, and 𝗩𝗶𝘀𝘂𝗮𝗹 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗶𝗼𝗻 of the webpage(Framework agnostic)
+
+Result from forked @nuxt_js movie app
+
+TTI reduced by 𝟮𝟬% (𝟬.𝟳𝟴𝘀)
+Visual Complete reduced by 𝟭𝟳% (𝟬.𝟳𝟳𝘀)
+
+#WebPerf #Tips #Performance https://t.co/RdnlpcJrEo",anotherJsGuy,1605592743756984321,https://twitter.com/anotherJsGuy/status/1605592743756984321,"preconnect required origin reduces 𝗧𝗧𝗜, 𝐋𝐂𝐏, 𝗩𝗶𝘀𝘂𝗮𝗹 𝗰𝗼𝗺𝗽𝗹𝗲𝘁𝗶𝗼𝗻 webpage(framework agnostic) result forked _js movie app tti reduced 𝟮𝟬% (𝟬.𝟳𝟴𝘀) visual complete reduced 𝟭𝟳% (𝟬.𝟳𝟳𝘀) webperf tip performance",neutral,0.7824806571006775
+2022-12-21 15:53:08+00:00,"Welcoming Vue Core Team back to VueJS Amsterdam 2023
+
+⭐️Creator of Vue, Evan You 
+⭐️Creator of Pinia, @posva 
+⭐️Vue Core Team,  @Akryum
+⭐️Vue Core Team, @N_Tepluhina
+⭐️Vite Core Team, @antfu7
+⭐️Creator of Nuxt, Sebastian Chopin 
+
+Purchase your ticket👉 https://t.co/48z2PFvQEK https://t.co/vqUa2bdGeV",vuejsamsterdam,1605592211520831493,https://twitter.com/vuejsamsterdam/status/1605592211520831493,"welcoming vue core team back vuejs amsterdam 2023 ⭐️creator vue, evan ⭐️creator pinia, ⭐️vue core team, ⭐️vue core team, _tepluhina ⭐️vite core team, 7 ⭐️creator nuxt, sebastian chopin purchase ticket👉",positive,0.5612916946411133
+2022-12-21 15:35:20+00:00,"@Adarsh____gupta Web development (Vue js, Nuxtjs, Sql, Mongo, Graphql, etc)
+
+And subjects like - Comp networks, Cyber sec, NLP, contanerization(Docker).",yash3321,1605587733996457984,https://twitter.com/yash3321/status/1605587733996457984,"____gupta web development (vue js, nuxtjs, sql, mongo, graphql, etc) subject like - comp networks, cyber sec, nlp, contanerization(docker).",neutral,0.8769944310188293
+2022-12-21 15:14:00+00:00,"🔥 Investing in Vue＆Nuxt 📝
+
+We teamed up with the Vue team to build VueFire:
+
+1. A library of idiomatic composables for realtime data and other Firebase services
+2. Including support for Nuxt
+3. In your favorite CLI: firebase deploy
+
+This＆more in 4m 👇
+https://t.co/eupkXiyEf5 https://t.co/PnZYzcZ3i3",puf,1605582362879721472,https://twitter.com/puf/status/1605582362879721472,🔥 investing vue＆nuxt 📝 teamed vue team build vuefire: 1. library idiomatic composables realtime data firebase service 2. including support nuxt 3. favorite cli: firebase deploy this＆more 4m 👇,neutral,0.6985012888908386
+2022-12-21 15:13:59+00:00,"@mattpocockuk I think the power of using Next or Nuxt is the ability to share types across backend and frontend. it’s pretty incredible when it works, it gets a bit convoluted when you want to create custom response types",mynamebedan,1605582360497467393,https://twitter.com/mynamebedan/status/1605582360497467393,"think power using next nuxt ability share type across backend frontend. it’s pretty incredible works, get bit convoluted want create custom response type",positive,0.9113324880599976
+2022-12-21 15:11:24+00:00,@MasteringNuxt @nuxt_js Would be great if we could generate all the boilerplate from an openApi config !,airmoi,1605581710745223170,https://twitter.com/airmoi/status/1605581710745223170,_js would great could generate boilerplate openapi config !,positive,0.9546615481376648
+2022-12-21 14:20:54+00:00,"Metaframeworks like Next, Nuxt and SvelteKit are so awesome for productivity.
+
+They turn tools like React, Vue and Svelte into fully-fledged, production-ready applications that allow you to focus on what matters: 
+
+Building your app.
+
+Definitely check them out if you haven't!",madsbrodt,1605569000120934401,https://twitter.com/madsbrodt/status/1605569000120934401,"metaframeworks like next, nuxt sveltekit awesome productivity. turn tool like react, vue svelte fully-fledged, production-ready application allow focus matters: building app. definitely check haven't!",positive,0.9433178901672363
+2022-12-21 14:13:25+00:00,"Hello everyone 🌟
+
+We will be hosting our final sidebase weekly call (16:30 GMT +1) of the year! (This week back on Twitter!).
+
+Join us to finish the year and see what we have in store for sidebase in 2023!
+
+https://t.co/hocdMFeySy https://t.co/8y39wbxkqR",sidebase_io,1605567118233276417,https://twitter.com/sidebase_io/status/1605567118233276417,hello everyone 🌟 hosting final sidebase weekly call (16:30 gmt +1) year! (this week back twitter!). join u finish year see store sidebase 2023!,positive,0.8007165789604187
+2022-12-21 13:07:29+00:00,"Ticket sale ends in 12 hours. From €699, you can enjoy talks from
+
+🤩Creator of #Vue, Evan You in-person on the stage
+
+🔥Creator of #Vuetify, #Pinia, #Histoire,etc
+
+🥳Nuxt Core Teams and Creator of #Nuxt,Sebastien Chopin
+
+Hurry up and grab your ticket no👉https://t.co/3EdVDIrLnP https://t.co/tzPMjzdqtD",vuejsamsterdam,1605550526443028480,https://twitter.com/vuejsamsterdam/status/1605550526443028480,"ticket sale end 12 hours. €699, enjoy talk 🤩creator vue, evan in-person stage 🔥creator vuetify, pinia, histoire,etc 🥳nuxt core team creator nuxt,sebastien chopin hurry grab ticket no👉",positive,0.8551478385925293
+2022-12-21 13:01:57+00:00,@nuxt_js I love nuxt,gojanda325,1605549134517248003,https://twitter.com/gojanda325/status/1605549134517248003,_js love nuxt,positive,0.8620154857635498
+2022-12-21 13:01:24+00:00,"We might be done with CwC, but now we're getting started with the spinoff series: Unpack the Stack. This time, @timbenniks sits down with @danielcroe to discuss a @nuxt_js project he's working on. Grab the popcorn! https://t.co/MnmXJrXWKr",UniformDev,1605548996071768065,https://twitter.com/UniformDev/status/1605548996071768065,"might done cwc, we're getting started spinoff series: unpack stack. time, sits discus _js project he's working on. grab popcorn!",positive,0.5523409247398376
+2022-12-21 13:01:02+00:00,"JSWORLD Ticket Sale is ending in only 12 hours
+
+From just €199
+
+🔥45 #JavaScript Talks on #React, #Angular, #TypeScript, #VueJS , #Vite, #Turbopack, etc
+
+🚨23 Major Updates from Maintainers and Creators, Vue, #Nuxt, Vite core team members
+
+Come enjoy now👉https://t.co/Lzi4Vn0sLb https://t.co/CehazCpkqt",JSworldconf,1605548902643511296,https://twitter.com/JSworldconf/status/1605548902643511296,"jsworld ticket sale ending 12 hour €199 🔥45 javascript talk react, angular, typescript, vuejs , vite, turbopack, etc 🚨23 major update maintainer creators, vue, nuxt, vite core team member come enjoy now👉",positive,0.5355860590934753
+2022-12-21 11:55:01+00:00,"The booking platform for holiday villas Crovillas is #madewithvuejs, Tailwind &amp; Nuxt! 🏡 - https://t.co/8k5ebqf2xV https://t.co/hVUppfcxpp",MadeWithVueJS,1605532287940149248,https://twitter.com/MadeWithVueJS/status/1605532287940149248,"booking platform holiday villa crovillas madewithvuejs, tailwind &amp; nuxt! 🏡 -",neutral,0.8452330231666565
+2022-12-21 11:20:15+00:00,"Watch ""Simple, Clean, Secure API Calls with Nuxt js"" on YouTube https://t.co/ei9ZVO1Wud",cubicbase,1605523537703632896,https://twitter.com/cubicbase/status/1605523537703632896,"watch ""simple, clean, secure api call nuxt js"" youtube",neutral,0.5392817854881287
+2022-12-21 11:20:04+00:00,@therealokoro__ @storyblok @nuxt_js A bottle of soja and Wasabi for the Sir. 👨‍🍳,alvarosabu,1605523493541400577,https://twitter.com/alvarosabu/status/1605523493541400577,__ _js bottle soja wasabi sir. 👨‍🍳,neutral,0.9012233018875122
+2022-12-21 11:10:56+00:00,@alvarosabu @storyblok @nuxt_js Heading over to YouTube now. I'm gonna grab me some sushi 🍣🍥,therealokoro__,1605521195578728449,https://twitter.com/therealokoro__/status/1605521195578728449,_js heading youtube now. i'm gonna grab sushi 🍣🍥,neutral,0.7140507102012634
+2022-12-21 11:07:47+00:00,"Christmas video is out 🎄.
+
+Last video of the series @storyblok + @nuxt_js where we will generate a static site using Nuxt SSG for our Sushi Recipe website 🍣 and deploy it to Netlify. 
+
+Also we gonna cover head meta and performance tips. ✨️✌️
+
+https://t.co/PcPxRhBy6X",alvarosabu,1605520402813308930,https://twitter.com/alvarosabu/status/1605520402813308930,christmas video 🎄. last video series + _js generate static site using nuxt ssg sushi recipe website 🍣 deploy netlify. also gonna cover head meta performance tips. ✨️✌️,neutral,0.6170620322227478
+2022-12-21 11:00:11+00:00,@danielcroe @joinmastodon @nuxt_js The only mention I’ve ever seen of nitro is from the Turbopack team. I have a feeling though that turbopack is going to be complex and convoluted like webpack. But then again maybe not. 🤷🏼,davidalexr987,1605518488054947842,https://twitter.com/davidalexr987/status/1605518488054947842,_js mention i’ve ever seen nitro turbopack team. feeling though turbopack going complex convoluted like webpack. maybe not. 🤷🏼,neutral,0.7289566397666931
+2022-12-21 10:55:55+00:00,"@danielcroe @joinmastodon @nuxt_js I was watching the roundtable that you were a part of in vite conf, and you were trying to sell them on nitro and unjs no one was biting. You weren’t getting the time of day. I wonder why. The solution they’re looking is already made. Lol.",davidalexr987,1605517414392741888,https://twitter.com/davidalexr987/status/1605517414392741888,"_js watching roundtable part vite conf, trying sell nitro unjs one biting. weren’t getting time day. wonder why. solution they’re looking already made. lol.",negative,0.5056259632110596
+2022-12-21 10:40:00+00:00,"Comparing the Gatsby, Next, Nuxt, and Nest Open-source JavaScript Fram https://t.co/dseaFP9ZW0 by @twilio",mjcoder,1605513408769572865,https://twitter.com/mjcoder/status/1605513408769572865,"comparing gatsby, next, nuxt, nest open-source javascript fram",neutral,0.85336834192276
+2022-12-21 10:29:40+00:00,Build a Blog w/ Nuxt 3 Content https://t.co/MRjx6sPxv6,afrowebdesigner,1605510810230325248,https://twitter.com/afrowebdesigner/status/1605510810230325248,build blog w/ nuxt 3 content,neutral,0.7966912388801575
+2022-12-21 10:09:16+00:00,"@TedNivison BREAKING NEWS -  After counting mail-in ballots, Musk to remain CEO.",apux_nuxt,1605505674271662081,https://twitter.com/apux_nuxt/status/1605505674271662081,"breaking news - counting mail-in ballots, musk remain ceo.",neutral,0.9323256015777588
+2022-12-21 09:57:41+00:00,🤩 This is super exciting: Sidebase is bringing `create-t3-app` to the Vue/Nuxt community! https://t.co/xC69AETJKU,nikolasburk,1605502760052412416,https://twitter.com/nikolasburk/status/1605502760052412416,🤩 super exciting: sidebase bringing `create-t3-app` vue/nuxt community!,positive,0.9874565005302429
+2022-12-21 09:57:23+00:00,@MichaelThiessen nuxt :) clean ajax,breizhwave29,1605502685678927872,https://twitter.com/breizhwave29/status/1605502685678927872,nuxt :) clean ajax,neutral,0.5150055289268494
+2022-12-21 09:41:07+00:00,@sandybalduf @ksorbs @elonmusk Yet here you are spending your time replying🤣🤣🤣🤣,apux_nuxt,1605498589441974273,https://twitter.com/apux_nuxt/status/1605498589441974273,yet spending time replying🤣🤣🤣🤣,neutral,0.5433092713356018
+2022-12-21 09:39:52+00:00,@JDCocchiarella Just them? why not all? HMMM,apux_nuxt,1605498278115569664,https://twitter.com/apux_nuxt/status/1605498278115569664,them? all? hmmm,neutral,0.931801974773407
+2022-12-21 09:30:25+00:00,"@joranquinten joined Nuxt Nation in November to talk about the journey his team at Jumbo took, coming from a monolith (teams working on the same codebase) to having specific @nuxt_js apps spread across teams!
+
+Learn more about their journey ⏯️
+https://t.co/Td0AYFK6Fk",NuxtNation,1605495897957306369,https://twitter.com/NuxtNation/status/1605495897957306369,"joined nuxt nation november talk journey team jumbo took, coming monolith (teams working codebase) specific _js apps spread across teams! learn journey ⏯️",neutral,0.8292286396026611
+2022-12-21 09:16:27+00:00,"Some of the skills I want to learn next year:
+
+- TypeScript
+- Docker, Kubernetes
+- Vue 3 and Nuxt 3
+- AWS
+- Advanced Django",MuhdRahiman_,1605492382362783744,https://twitter.com/MuhdRahiman_/status/1605492382362783744,"skill want learn next year: - typescript - docker, kubernetes - vue 3 nuxt 3 - aws - advanced django",neutral,0.800981879234314
+2022-12-21 08:46:48+00:00,@danielcroe @nthonyChu @thomasgauvin @AzureStaticApps @docusaurus @AzureFunctions That I may do sir! I've just distracted myself with building a plugin that allows you to use @cloudinary on a @docusaurus site. Once I've dusted that off I'll likely circle back to this. BTW is unjs specific to Nuxt? Looks general purpose but not sure,johnny_reilly,1605484919899070466,https://twitter.com/johnny_reilly/status/1605484919899070466,may sir! i've distracted building plugin allows use site. i've dusted i'll likely circle back this. btw unjs specific nuxt? look general purpose sure,neutral,0.7774492502212524
+2022-12-21 08:39:10+00:00,"Hey @nuxt_js, is there an overview of recommended @Cloudflare page rules config? Does the recommendation for v2 applies the same?
+https://t.co/W9TVeoq3Xk",dan_charvat,1605483001252499456,https://twitter.com/dan_charvat/status/1605483001252499456,"hey _js, overview recommended page rule config? recommendation v2 applies same?",neutral,0.9458818435668945
+2022-12-21 08:11:17+00:00,"OAuth is a widely-used industry standard for securely accessing user information without giving access to their passwords.
+
+In this article written by @MichaelThiessen we'll be giving an overview of how it works in @nuxt_js 3 📚
+https://t.co/8tDQRwfjUB",MasteringNuxt,1605475984299495424,https://twitter.com/MasteringNuxt/status/1605475984299495424,oauth widely-used industry standard securely accessing user information without giving access passwords. article written we'll giving overview work _js 3 📚,neutral,0.7472544312477112
+2022-12-21 08:01:09+00:00,@schlimmson Nuxt is great too,kakha13,1605473432941912064,https://twitter.com/kakha13/status/1605473432941912064,nuxt great,positive,0.8687787652015686
+2022-12-21 07:47:28+00:00,"@DeniTechh Hey, I'm Marc - DevRel Lead at @WeAreDevs. I am helping create great events for developer as well as video content.
+
+In my free time I like to code with Vue &amp; Nuxt. I am also currently learning how to fly and won't shut up about it when someone asks about it.",themarcba,1605469989623963649,https://twitter.com/themarcba/status/1605469989623963649,"hey, i'm marc - devrel lead . helping create great event developer well video content. free time like code vue &amp; nuxt. also currently learning fly shut someone asks it.",positive,0.8559944033622742
+2022-12-21 07:38:20+00:00,tolol,JavaNuxtCppKoa,1605467691677949952,https://twitter.com/JavaNuxtCppKoa/status/1605467691677949952,tolol,neutral,0.6564107537269592
+2022-12-21 07:37:57+00:00,wtf did i do today,JavaNuxtCppKoa,1605467593153728512,https://twitter.com/JavaNuxtCppKoa/status/1605467593153728512,wtf today,negative,0.5472654104232788
+2022-12-21 06:46:20+00:00,@MichaelThiessen Learning how to use Nuxt as frontend with an external API,superstoffer,1605454606435291136,https://twitter.com/superstoffer/status/1605454606435291136,learning use nuxt frontend external api,neutral,0.8474156260490417
+2022-12-21 06:00:18+00:00,"Next, Nest, Nuxt… Nust? https://t.co/y3ITW80Uq7",noservershere,1605443019775397888,https://twitter.com/noservershere/status/1605443019775397888,"next, nest, nuxt… nust?",neutral,0.8482387661933899
+2022-12-21 05:07:39+00:00,"@johnny_reilly @thomasgauvin @AzureStaticApps @docusaurus @AzureFunctions I can’t find an example but if you look at Nuxt, it generates the config file with the Nitro preset like this: https://t.co/oXniwrZIkt
+
+And checks the header for the original url: https://t.co/DmK78d5g2h",nthonyChu,1605429770715402240,https://twitter.com/nthonyChu/status/1605429770715402240,"_reilly can’t find example look nuxt, generates config file nitro preset like this: check header original url:",negative,0.6152783036231995
+2022-12-21 04:57:47+00:00,@MichaelThiessen exploring nuxt + capacitorjs. trying to find a way to get the AVD running without installing Android Studio,SyahrulAzrai,1605427288983552000,https://twitter.com/SyahrulAzrai/status/1605427288983552000,exploring nuxt + capacitorjs. trying find way get avd running without installing android studio,neutral,0.8495075702667236
+2022-12-21 04:53:11+00:00,"Comparison of Next, Nest, Nuxt… Nust:
+
+https://t.co/aCx39g5VgU
+
+- What will be the next name for #javascript framework ? NutsJs 😅
+
+#typescript #nextjs #nestjs #nuxtjs #nustjs #programming #frontend #frontenddev https://t.co/WHEZNjo6mw",RecursiveNeuron,1605426131070771200,https://twitter.com/RecursiveNeuron/status/1605426131070771200,"comparison next, nest, nuxt… nust: - next name javascript framework ? nutsjs 😅 typescript nextjs nestjs nuxtjs nustjs programming frontend frontenddev",neutral,0.8679619431495667
+2022-12-21 03:01:26+00:00,@nuxt_js Wow!  Fantastic...  Always love vue &amp; nuxt.,ALEMRANCU,1605398007717199872,https://twitter.com/ALEMRANCU/status/1605398007717199872,_js wow! fantastic... always love vue &amp; nuxt.,positive,0.9882490634918213
+2022-12-21 02:54:27+00:00,@8machy @nuxt_js @Grammarly @code @znck0 Just checked it out...lmaoo....I could only imagine miss precious 😅😂,ChristianOputa1,1605396251872305155,https://twitter.com/ChristianOputa1/status/1605396251872305155,@8machy _js 0 checked out...lmaoo....i could imagine miss precious 😅😂,neutral,0.5037274360656738
+2022-12-21 02:13:19+00:00,@nuxt_js @danielcroe @nuxt_themes That’s was fast ! Thanks a lot ! And great work again !,flozeroo,1605385900619431937,https://twitter.com/flozeroo/status/1605385900619431937,_js _themes that’s fast ! thanks lot ! great work !,positive,0.9851486682891846
+2022-12-21 01:26:30+00:00,"@VueJSLive @danielcroe @nuxt_js I hope they have the ability to attend remotely. That one workshop in Toronto, really made a difference for me.  You have a really unique ability to hold the attention of the room. Do I hear podcast/Youtube in the future?  😎",davidalexr987,1605374115296481280,https://twitter.com/davidalexr987/status/1605374115296481280,"_js hope ability attend remotely. one workshop toronto, really made difference me. really unique ability hold attention room. hear podcast/youtube future? 😎",positive,0.9737246632575989
+2022-12-21 01:11:28+00:00,"@danielcroe @nuxt_js @supabase @stripe Prisma and zod, I can spin up a postgress or mysql db on @vultr for dirt cheap, and be connected through prisma in minutes and for me easier to use than supabase and I own the db. The server side abstractions in Nuxt really make it easy for a newb like me.",davidalexr987,1605370331706933248,https://twitter.com/davidalexr987/status/1605370331706933248,"_js prisma zod, spin postgress mysql db dirt cheap, connected prisma minute easier use supabase db. server side abstraction nuxt really make easy newb like me.",positive,0.8415980935096741
+2022-12-21 00:47:42+00:00,"@adamwathan @richeklein Fair enough. I get it. And next and nuxt are cool and all, but I think you’re missing out on a huge market for Astro and alpine versions.",awcodes1,1605364350541107200,https://twitter.com/awcodes1/status/1605364350541107200,"fair enough. get it. next nuxt cool all, think you’re missing huge market astro alpine versions.",neutral,0.5754501819610596
+2022-12-20 23:52:36+00:00,"@directus rebuild old web of my workplace
+from wordpress to nuxt + directus
+
+still on beta, next year should be officially released
+https://t.co/iSux9awWp1",chrisnaadhip,1605350484277362688,https://twitter.com/chrisnaadhip/status/1605350484277362688,"rebuild old web workplace wordpress nuxt + directus still beta, next year officially released",neutral,0.7740307450294495
+2022-12-20 23:06:12+00:00,"@7thExoplanet @MichaelThiessen Nah.....nodejs, Vue, nuxt will do just fine 🙃",therealokoro__,1605338808571990016,https://twitter.com/therealokoro__/status/1605338808571990016,"@7thexoplanet nah.....nodejs, vue, nuxt fine 🙃",neutral,0.628740131855011
+2022-12-20 22:58:14+00:00,@ALIHAID40026025 @nuxt_js @nuxt_themes NPX is no package manager though but to execute/run packages. See e.g. https://t.co/T91cQJ5ojs,TheAlexLichter,1605336806127554562,https://twitter.com/TheAlexLichter/status/1605336806127554562,40026025 _js _themes npx package manager though execute/run packages. see e.g.,neutral,0.9345344305038452
+2022-12-20 22:10:53+00:00,@TheAlexLichter @nuxt_js @nuxt_themes I am work with npm not yarn or npx,ALIHAID40026025,1605324888180281344,https://twitter.com/ALIHAID40026025/status/1605324888180281344,_js _themes work npm yarn npx,neutral,0.8628214597702026
+2022-12-20 21:50:34+00:00,"Next, Nest, Nuxt… Nust? https://t.co/AJnFuV7Ugo via @twilio",RHJOfficial,1605319776078897155,https://twitter.com/RHJOfficial/status/1605319776078897155,"next, nest, nuxt… nust? via",neutral,0.8630986213684082
+2022-12-20 21:50:27+00:00,@johnny_reilly @thomasgauvin @AzureStaticApps @docusaurus @AzureFunctions Yes. Not well documented but you can put a function route for the navigation fallback. Next.js and Nuxt 3 deployments to SWA do this behind the scenes.,nthonyChu,1605319746315988992,https://twitter.com/nthonyChu/status/1605319746315988992,_reilly yes. well documented put function route navigation fallback. next.js nuxt 3 deployment swa behind scenes.,neutral,0.8021504878997803
+2022-12-20 21:35:14+00:00,"@nextjs 🤝 @nuxt_js 
+
+SIMPLESMENTE AS MELHORES STACK  FRONT WEB PRA STARTUPS!",bragamat_,1605315915926896640,https://twitter.com/bragamat_/status/1605315915926896640,🤝 _js simplesmente melhores stack front web pra startups!,positive,0.829304039478302
+2022-12-20 21:27:29+00:00,@dubem_design @nuxt_js It may be added as a provider at some point but I personally prefer not to have to use jsx / react syntax for a solution that doesn't provide full html / CSS support,harlan_zw,1605313965839355904,https://twitter.com/harlan_zw/status/1605313965839355904,_design _js may added provider point personally prefer use jsx / react syntax solution provide full html / cs support,neutral,0.7865169644355774
+2022-12-20 21:14:40+00:00,"@MathieuJ85 @prisma @trpcio @nextauthjs @tailwindcss @github We actually found the repo, it stm atill uses nuxt-auth and the setup is looking solid: https://t.co/qzYs6onE6y",sidebase_io,1605310740356890626,https://twitter.com/sidebase_io/status/1605310740356890626,"85 actually found repo, stm atill us nuxt-auth setup looking solid:",positive,0.8438470959663391
+2022-12-20 21:11:36+00:00,"@sidebase_io @prisma @trpcio @nextauthjs @tailwindcss @github Had freinds so couldn't watch more, but i think he went for nuxi &amp; nuxt-auth standalone",MathieuJ85,1605309969921937410,https://twitter.com/MathieuJ85/status/1605309969921937410,"_io freinds watch more, think went nuxi &amp; nuxt-auth standalone",neutral,0.836561918258667
+2022-12-20 20:44:15+00:00,"I'm just going to throw this out there, twitter do your thing I guess.
+
+Did anyone succesfully deploy @nuxt_js with @supabase on @Cloudflare workers? 
+
+It looks like when deployed on Cloudflare, nuxt doesn't want to save the auth cookies to my domain, but it does locally? HALP",altryne,1605303087983362048,https://twitter.com/altryne/status/1605303087983362048,"i'm going throw there, twitter thing guess. anyone succesfully deploy _js workers? look like deployed cloudflare, nuxt want save auth cooky domain, locally? halp",neutral,0.7587071061134338
+2022-12-20 20:07:24+00:00,@Rodrigo_P27 @trpcio @t3dotgg @vuejs @nuxt_js Thank you for supporting us ❤️,sidebase_io,1605293812808663040,https://twitter.com/sidebase_io/status/1605293812808663040,_p27 3dotgg _js thank supporting u ❤️,positive,0.9263188242912292
+2022-12-20 20:05:44+00:00,"Finally figured out how I will try to make my first product as a solo developer. Nuxt 3 for the frontend, A Nodejs express backend, which will talk to the python toolkit that contains the stable diffusion code. Still thinking a about Go programming language and koa vs express",ThimoDEV,1605293392963031041,https://twitter.com/ThimoDEV/status/1605293392963031041,"finally figured try make first product solo developer. nuxt 3 frontend, nodejs express backend, talk python toolkit contains stable diffusion code. still thinking go programming language koa v express",neutral,0.6683144569396973
+2022-12-20 20:04:02+00:00,@danielcroe @nuxt_js @supabase @stripe Hopefully I’ll be there!,jdhillen,1605292963738931230,https://twitter.com/jdhillen/status/1605292963738931230,_js hopefully i’ll there!,positive,0.9639859795570374
+2022-12-20 19:44:12+00:00,"@sidebase_io @prisma @trpcio @nextauthjs @tailwindcss @github Maybe the option to choose for unocss/windicss, the option to enable reactivity transform, the option to choose backend: supabase/nuxt-strapi/firebase etc, have  pinia, vueuse. Things I can think of for now as suggestions 😄",ThimoDEV,1605287972919824399,https://twitter.com/ThimoDEV/status/1605287972919824399,"_io maybe option choose unocss/windicss, option enable reactivity transform, option choose backend: supabase/nuxt-strapi/firebase etc, pinia, vueuse. thing think suggestion 😄",neutral,0.7588284015655518
+2022-12-20 19:43:09+00:00,@brandontroberts Will angular some day has a solution similar to next or nuxt?,henricustodia,1605287708695621632,https://twitter.com/henricustodia/status/1605287708695621632,angular day solution similar next nuxt?,neutral,0.9144926071166992
+2022-12-20 19:40:04+00:00,@ALIHAID40026025 @nuxt_js @nuxt_themes create-nuxt-app is for Nuxt 2 - you want to use `npx nuxi init`,TheAlexLichter,1605286934473056258,https://twitter.com/TheAlexLichter/status/1605286934473056258,40026025 _js _themes create-nuxt-app nuxt 2 - want use `npx nuxi init`,neutral,0.8953733444213867
+2022-12-20 18:57:47+00:00,"Most of the time you don't set up all of the configs by yourself.
+There are templates and often reuse them.
+Otherwise, there are many libraries that can generate configs like Nuxt for example.",saltyAom,1605276293452271616,https://twitter.com/saltyAom/status/1605276293452271616,"time set configs yourself. template often reuse them. otherwise, many library generate configs like nuxt example.",neutral,0.8832071423530579
+2022-12-20 18:56:50+00:00,"@mattmaribojoc 💚 Hahaha I was actually reacting to the unofficial Nuxt mascot. This is Nuxty
+
+At least we all agree that the mascot should be a cat 😹 https://t.co/CJ4annUsot",alvarosabu,1605276054448443392,https://twitter.com/alvarosabu/status/1605276054448443392,💚 hahaha actually reacting unofficial nuxt mascot. nuxty least agree mascot cat 😹,positive,0.7036914229393005
+2022-12-20 18:55:13+00:00,"👉 If you haven't booked yet, now is the time! 🇳🇱
+
+I'll be taking about real world lessons from #elk, a @joinmastodon client built with @nuxt_js 3. (We already have over 30 contributors and it's not even open-sourced yet!) https://t.co/N2ZRY4YIC5",danielcroe,1605275645860356097,https://twitter.com/danielcroe/status/1605275645860356097,"👉 booked yet, time! 🇳🇱 i'll taking real world lesson elk, client built _js 3. (we already 30 contributor even open-sourced yet!)",positive,0.6182668805122375
+2022-12-20 18:45:38+00:00,"@harlan_zw @nuxt_js Oh, true. One can optimize using a local chrome bin. I was just sharing about the potential of other faster screenshot solutions. Maybe not now, but someone might know an alternative to Puppeteer.
+
+Maybe something like: https://t.co/cGt5LdNkLn",dubem_design,1605273233481146410,https://twitter.com/dubem_design/status/1605273233481146410,"_zw _js oh, true. one optimize using local chrome bin. sharing potential faster screenshot solutions. maybe now, someone might know alternative puppeteer. maybe something like:",neutral,0.609862744808197
+2022-12-20 18:29:39+00:00,"Looking forward to https://t.co/Elt56wnZbj!
+
+👉 I'll be giving a practical workshop on @nuxt_js 3, building a real SaaS app and a module together. (Would love to see you there!)
+
+Let me know any tech/provider stack you want to see. Currently it's @supabase and @stripe 💫 https://t.co/5dzkZOyrLc",danielcroe,1605269214050516994,https://twitter.com/danielcroe/status/1605269214050516994,"looking forward 👉 i'll giving practical workshop _js 3, building real saas app module together. (would love see there!) let know tech/provider stack want see. currently 💫",positive,0.9736427664756775
+2022-12-20 18:00:17+00:00,"Next, Nest, Nuxt… Nust? https://t.co/y3ITW80Uq7",noservershere,1605261823116189719,https://twitter.com/noservershere/status/1605261823116189719,"next, nest, nuxt… nust?",neutral,0.8482387661933899
+2022-12-20 17:52:05+00:00,Nuxt.js App: Redeploy causes payload.js 404 Not found https://t.co/de0iKkh0LD https://t.co/vozJojFHEu,pwa_help,1605259757253951488,https://twitter.com/pwa_help/status/1605259757253951488,nuxt.js app: redeploy cause payload.js 404 found,negative,0.680764377117157
+2022-12-20 17:45:04+00:00,@_phzn @nuxt_js Yep! Would love to see!,HaimantikaM,1605257991904669697,https://twitter.com/HaimantikaM/status/1605257991904669697,@_phzn _js yep! would love see!,positive,0.9716662168502808
+2022-12-20 17:31:53+00:00,I'm live on Twitch to choose a Full Stack framework. Trying Nuxt 3 (Vue.js) today. Come hang out: https://t.co/37wHHZ5yfv,coding_garden,1605254674197651463,https://twitter.com/coding_garden/status/1605254674197651463,i'm live twitch choose full stack framework. trying nuxt 3 (vue.js) today. come hang out:,neutral,0.5222136974334717
+2022-12-20 17:15:34+00:00,I hope Nuxt.js is the last fronted framework I’ll ever need to learn.,musicalmathmind,1605250569706373122,https://twitter.com/musicalmathmind/status/1605250569706373122,hope nuxt.js last fronted framework i’ll ever need learn.,positive,0.5605084896087646
+2022-12-20 17:01:06+00:00,@Arushi_2610 nuxt js,Verma_arp,1605246928270548995,https://twitter.com/Verma_arp/status/1605246928270548995,_2610 nuxt j,neutral,0.890692412853241
+2022-12-20 16:50:03+00:00,"🐬 LTK is hiring Staff Frontend Engineer  
+
+🛖 #remote #wfh 
+💪 #Frontend #vue #vuejs #aws #nuxt.js 
+
+#tech #softwareengineer #jobs 
+https://t.co/nmn7uZabYx",echojobs_io,1605244146842755074,https://twitter.com/echojobs_io/status/1605244146842755074,🐬 ltk hiring staff frontend engineer 🛖 remote wfh 💪 frontend vue vuejs aws nuxt.js tech softwareengineer job,neutral,0.7982521653175354
+2022-12-20 16:50:01+00:00,"Nuxt 3 helps you develop Vue3 based apps quickly take a look at https://t.co/MmllpGXU12 to understand the minimal project structure
+
+#javascript #typescript #vue https://t.co/0ztIrCPaRN",gary_woodfine,1605244137720188929,https://twitter.com/gary_woodfine/status/1605244137720188929,nuxt 3 help develop vue3 based apps quickly take look understand minimal project structure javascript typescript vue,positive,0.6321431398391724
+2022-12-20 16:34:00+00:00,"Hiring: Too Good To Go - Front End Developer - Temporary Position 
+
+Location: Remote - Spain 
+
+https://t.co/obT0lbxGfw 
+
+#javascript #jobs #nuxtjs #vuejs",Javascriptjobbs,1605240108055150595,https://twitter.com/Javascriptjobbs/status/1605240108055150595,hiring: good go - front end developer - temporary position location: remote - spain javascript job nuxtjs vuejs,neutral,0.6635758876800537
+2022-12-20 16:27:07+00:00,@itsJeffTiedrich @MayoIsSpicyy SO MUCH LEFT DERANGEMENT.. ASK WHY.,apux_nuxt,1605238377049391104,https://twitter.com/apux_nuxt/status/1605238377049391104,much left derangement.. ask why.,negative,0.6748045682907104
+2022-12-20 16:26:59+00:00,@MayoIsSpicyy SO MUCH LEFT DERANGEMENT.. ASK WHY.,apux_nuxt,1605238343511703553,https://twitter.com/apux_nuxt/status/1605238343511703553,much left derangement.. ask why.,negative,0.6748045682907104
+2022-12-20 16:26:52+00:00,@MayoIsSpicyy SO MUCH LEFT DERANGEMENT.. ASK WHY.,apux_nuxt,1605238312612286464,https://twitter.com/apux_nuxt/status/1605238312612286464,much left derangement.. ask why.,negative,0.6748045682907104
+2022-12-20 16:26:29+00:00,@dhtoomey @MayoIsSpicyy SO MUCH LEFT DERANGEMENT.. ASK WHY.,apux_nuxt,1605238215375728640,https://twitter.com/apux_nuxt/status/1605238215375728640,much left derangement.. ask why.,negative,0.6748045682907104
+2022-12-20 16:26:14+00:00,@MayoIsSpicyy SO MUCH LEFT DERANGEMENT.. ASK WHY.,apux_nuxt,1605238153111285760,https://twitter.com/apux_nuxt/status/1605238153111285760,much left derangement.. ask why.,negative,0.6748045682907104
+2022-12-20 16:26:06+00:00,@MayoIsSpicyy SO MUCH LEFT DERANGEMENT.. ASK WHY.,apux_nuxt,1605238121146494976,https://twitter.com/apux_nuxt/status/1605238121146494976,much left derangement.. ask why.,negative,0.6748045682907104
+2022-12-20 16:23:32+00:00,"@realJojoJerz @MayoIsSpicyy Are you angry because you're white...  why is this ""mayo"" account relevant?",apux_nuxt,1605237473671778305,https://twitter.com/apux_nuxt/status/1605237473671778305,"angry white... ""mayo"" account relevant?",negative,0.5231849551200867
+2022-12-20 15:43:12+00:00,"@MichaelThiessen Sveltekit, so far, liking it much more than nuxt 3",nirjan_dev,1605227324102053888,https://twitter.com/nirjan_dev/status/1605227324102053888,"sveltekit, far, liking much nuxt 3",positive,0.7643177509307861
+2022-12-20 15:36:07+00:00,@me_jd_solanki @danielcroe Congratulations. Up next @nuxt_js,therealokoro__,1605225539916136450,https://twitter.com/therealokoro__/status/1605225539916136450,_jd_solanki congratulations. next _js,positive,0.9254829287528992
+2022-12-20 15:32:47+00:00,"@sidebase_io @trpcio @t3dotgg @vuejs @nuxt_js Massive. Thank you.
+
+@t3dotgg this deserves a shoutout don't you think? 👀",Rodrigo_P27,1605224701428637697,https://twitter.com/Rodrigo_P27/status/1605224701428637697,_io 3dotgg _js massive. thank you. 3dotgg deserves shoutout think? 👀,positive,0.957942545413971
+2022-12-20 15:25:30+00:00,"Firebase Release Notes Dec 2022: Vue ＆Nuxt, Firestore index limits, and ... https://t.co/JO3TyMppGb via @YouTube",YellowDraqon,1605222869113479168,https://twitter.com/YellowDraqon/status/1605222869113479168,"firebase release note dec 2022: vue ＆nuxt, firestore index limits, ... via",neutral,0.9575935006141663
+2022-12-20 14:51:54+00:00,re-taro starred nuxt/nuxt.new on Github https://t.co/lW7DSG7Q4C,10969_rintaro,1605214416257138690,https://twitter.com/10969_rintaro/status/1605214416257138690,re-taro starred nuxt/nuxt.new github,neutral,0.8875457644462585
+2022-12-20 14:45:14+00:00,"@nuxt_js Thanks for all the likes / RTs! 
+
+Will be working on improving the documentation for this and drop #3 until the new year 🙂",harlan_zw,1605212736513720327,https://twitter.com/harlan_zw/status/1605212736513720327,_js thanks like / rts! working improving documentation drop 3 new year 🙂,positive,0.96368008852005
+2022-12-20 14:44:17+00:00,@harlan_zw @nuxt_js Ah I see! Understand your point too 😊 was just the first thing that popped into mind when reading through 🙌,eckhardtdreyer,1605212497342087169,https://twitter.com/eckhardtdreyer/status/1605212497342087169,_zw _js ah see! understand point 😊 first thing popped mind reading 🙌,positive,0.8725273609161377
+2022-12-20 14:42:49+00:00,"@eckhardtdreyer @nuxt_js Not against the idea though, it doesn't really matter where the config comes from. For example, I intend to resolve from the default Docus config as a fallback",harlan_zw,1605212130046709761,https://twitter.com/harlan_zw/status/1605212130046709761,"_js idea though, really matter config come from. example, intend resolve default docus config fallback",neutral,0.8459181189537048
+2022-12-20 14:41:24+00:00,"@vanHunselM @eckhardtdreyer @nuxt_js The issue with app config is that modules and nitro need this data too, app config is only exposed on the app (as you might figure)",harlan_zw,1605211773111791616,https://twitter.com/harlan_zw/status/1605211773111791616,"_js issue app config module nitro need data too, app config exposed app (as might figure)",neutral,0.7444923520088196
+2022-12-20 14:41:00+00:00,"@eckhardtdreyer @nuxt_js The point of the layer is to reduce boilerplate config, so this sounds counterproductive. The site prefix also acts as the namespace as a flat config is a nicer DX",harlan_zw,1605211672863739907,https://twitter.com/harlan_zw/status/1605211672863739907,"_js point layer reduce boilerplate config, sound counterproductive. site prefix also act namespace flat config nicer dx",negative,0.667446494102478
+2022-12-20 14:30:37+00:00,"🔥📝 Release Notes
+
+🫵 Investing in Vue＆Nuxt
+🙋 Report state of your Extension
+📬 Firestore index quota increase
+⏲ Deploy TTL policies from CLI
+📰 Personalization list view
+🏁 startAfter/endBefore in RTDB
+✅ Firestore onboarding checklist
+
+Watch @puf 👉 https://t.co/DXqxybg8IJ https://t.co/es5InqI7Xx",Firebase,1605209059522666499,https://twitter.com/Firebase/status/1605209059522666499,🔥📝 release note 🫵 investing vue＆nuxt 🙋 report state extension 📬 firestore index quota increase ⏲ deploy ttl policy cli 📰 personalization list view 🏁 startafter/endbefore rtdb ✅ firestore onboarding checklist watch 👉,neutral,0.9462109804153442
+2022-12-20 14:30:17+00:00,"New lessons are OUT 🥳
+
+This week, we are digging into @supabase and @prisma- we learn how to install the Prisma VSCode extension, and configure it to auto-format our Prisma schema file!
+
+We also look into what the Prisma schema does, how it works, + more!
+https://t.co/gQMtzpaj28",MasteringNuxt,1605208973573079040,https://twitter.com/MasteringNuxt/status/1605208973573079040,"new lesson 🥳 week, digging - learn install prisma vscode extension, configure auto-format prisma schema file! also look prisma schema does, works, + more!",positive,0.9177002310752869
+2022-12-20 14:26:42+00:00,"@HaimantikaM @nuxt_js Happy to show you around what I've built, but it is (and will remain) a private repo.",_phzn,1605208070765813761,https://twitter.com/_phzn/status/1605208070765813761,"_js happy show around i've built, (and remain) private repo.",positive,0.9482845067977905
+2022-12-20 14:25:13+00:00,@_phzn @nuxt_js I think I will go with either Nuxt or Next! Yet to try my hands on these,HaimantikaM,1605207699767324674,https://twitter.com/HaimantikaM/status/1605207699767324674,@_phzn _js think go either nuxt next! yet try hand,neutral,0.7991417050361633
+2022-12-20 14:24:16+00:00,@HaimantikaM Custom build with @nuxt_js and Nuxt Content.,_phzn,1605207459567747074,https://twitter.com/_phzn/status/1605207459567747074,custom build _js nuxt content.,neutral,0.8723207712173462
+2022-12-20 14:01:43+00:00,"JSWORLD Amsterdam Ticket Sales closing down on 21 December🔥
+
+🚀Don't miss out before prices increase in the New Year!
+
+🎟️https://t.co/2zzLngqeXk
+📚Creator of Vue, Vuetify, Pinia, Histoire, Nuxt, etc
+🤩 45 JavaScript Talks on React, Angular, TypeScript, Vue, Vite, Turbopack, etc https://t.co/VTCZQiuTiH",JSworldconf,1605201785412456448,https://twitter.com/JSworldconf/status/1605201785412456448,"jsworld amsterdam ticket sale closing 21 december🔥 🚀don't miss price increase new year! 🎟️ 📚creator vue, vuetify, pinia, histoire, nuxt, etc 🤩 45 javascript talk react, angular, typescript, vue, vite, turbopack, etc",positive,0.9198635220527649
+2022-12-20 13:54:45+00:00,"§ @VitalikButerin overseas EVM integration and decentralization. Also, design of merch and apparel.
+§ Development of a web-only operating system and a web-native app (based on @nuxt_js of course) to circumvent AppStore T&amp;C.",toniengelhardt,1605200033426595841,https://twitter.com/toniengelhardt/status/1605200033426595841,"§ overseas evm integration decentralization. also, design merch apparel. § development web-only operating system web-native app (based _js course) circumvent appstore t&amp;c.",neutral,0.8943653106689453
+2022-12-20 13:51:12+00:00,@me_jd_solanki @danielcroe I just came across anu yesterday. It’s pretty nice. Finally a UI library with a proper phone input and date picker. My only issue was dayjs doesn’t work in nuxt. :( Overall a pretty nice library though.,davidalexr987,1605199138672762881,https://twitter.com/davidalexr987/status/1605199138672762881,_jd_solanki came across anu yesterday. it’s pretty nice. finally ui library proper phone input date picker. issue dayjs doesn’t work nuxt. :( overall pretty nice library though.,positive,0.8738960027694702
+2022-12-20 13:50:34+00:00,"https://t.co/myMnUnKCaQ repository is now open source 💚
+
+🚀 Zero-JS at runtime
+💪 SVG sprite map to reduce DOM size
+🎨 Inlined CSS to reduce network requests
+🆎 Generated font fallback metrics to reduce CLS
+⚗️ Nitro server routes
+
+https://t.co/9U1T1mWiwo",nuxt_js,1605198980379312129,https://twitter.com/nuxt_js/status/1605198980379312129,repository open source 💚 🚀 zero-js runtime 💪 svg sprite map reduce dom size 🎨 inlined cs reduce network request 🆎 generated font fallback metric reduce cl ⚗️ nitro server route,neutral,0.675612211227417
+2022-12-20 13:46:14+00:00,"@vanHunselM @harlan_zw @nuxt_js I would still consider namespacing under e.g. seoKit property or similar, no? `site` seems a little broad and a potential pain point.",eckhardtdreyer,1605197888522539009,https://twitter.com/eckhardtdreyer/status/1605197888522539009,"_zw _js would still consider namespacing e.g. seokit property similar, no? `site` seems little broad potential pain point.",neutral,0.6882357597351074
+2022-12-20 13:45:40+00:00,"Vuejs Amsterdam Ticket Sales closing down on 21 December 🔥
+
+🚀Don't miss out before prices increase in the New Year!
+
+🎟️ https://t.co/6npvQaEvdU
+🤩 Creator of Vue, Evan You
+🥳 Nuxt Core Team and Creator of Nuxt
+🔥 Creator of Vuetify 
+📚 Creator of Pinia, Histoire and many more https://t.co/QD9KSFUpgg",vuejsamsterdam,1605197745400094720,https://twitter.com/vuejsamsterdam/status/1605197745400094720,"vuejs amsterdam ticket sale closing 21 december 🔥 🚀don't miss price increase new year! 🎟️ 🤩 creator vue, evan 🥳 nuxt core team creator nuxt 🔥 creator vuetify 📚 creator pinia, histoire many",positive,0.9531071782112122
+2022-12-20 13:38:58+00:00,@eckhardtdreyer @harlan_zw @nuxt_js Already found out that you can use this in app.config.ts - site.siteUrl,vanHunselM,1605196060456255488,https://twitter.com/vanHunselM/status/1605196060456255488,_zw _js already found use app.config.ts - site.siteurl,neutral,0.8940243124961853
+2022-12-20 13:06:16+00:00,"@hackSultan I started with Nuxt, a friend of mine has encouraged me to try my hands on React. As there are more opportunities. My laptop turned bad, the battery is now weak and has a screen problem, it also lags when I try to use one part of the screen.  Thank you for all you do. 🙏🏽🙇🏽‍♂️ https://t.co/P1Igna71ue",atimeforglory,1605187830170394624,https://twitter.com/atimeforglory/status/1605187830170394624,"started nuxt, friend mine encouraged try hand react. opportunities. laptop turned bad, battery weak screen problem, also lag try use one part screen. thank do. 🙏🏽🙇🏽‍♂️",neutral,0.4356236159801483
+2022-12-20 12:59:16+00:00,"@flozeroo @nuxt_js @danielcroe @nuxt_themes It’s updated thanks to @danielcroe 🤍
+
+https://t.co/2K51gw7ckh",Atinux,1605186071104552960,https://twitter.com/Atinux/status/1605186071104552960,_js _themes it’s updated thanks 🤍,positive,0.8262022137641907
+2022-12-20 12:56:25+00:00,@eckhardtdreyer @harlan_zw @nuxt_js Maybe even better to use the App Config file: https://t.co/wL27cXp1Az?,vanHunselM,1605185353765249024,https://twitter.com/vanHunselM/status/1605185353765249024,_zw _js maybe even better use app config file:,positive,0.6116692423820496
+2022-12-20 12:55:15+00:00,"create-sidebase now supports:
+- @prisma 
+- @trpcio 
+- @nextauthjs via nuxt-auth
+- @tailwindcss for CSS utils
+- @github actions based CI
+- Naive UI for for UI components
+
+🎊🎊🎊🎊🎊🎊🎊🎊
+
+Let us know if you're missing something from this list ❓",sidebase_io,1605185060147273728,https://twitter.com/sidebase_io/status/1605185060147273728,create-sidebase supports: - - - via nuxt-auth - cs utils - action based ci - naive ui ui component 🎊🎊🎊🎊🎊🎊🎊🎊 let u know missing something list ❓,neutral,0.5416115522384644
+2022-12-20 12:55:15+00:00,"🐝 @trpcio added as well, check it out:
+
+""npm create sidebase@latest""
+
+is now at about feature parity with create-t3-app by @t3dotgg - we hope that it will be an enormous help for people building apps in the @vuejs and @nuxt_js ecosystem 🚀 https://t.co/Ucuuegqa3g",sidebase_io,1605185057047576578,https://twitter.com/sidebase_io/status/1605185057047576578,"🐝 added well, check out: ""npm create sidebase"" feature parity create-t3-app 3dotgg - hope enormous help people building apps _js ecosystem 🚀",positive,0.9527120590209961
+2022-12-20 12:42:49+00:00,"@ayoayco @timetcetera If you're refering to Elk app: prompt for update strategy with push notifications on Nuxt 3 using vite-plugin-pwa, I've configured a few PWA out there ;)",userquin,1605181929254428673,https://twitter.com/userquin/status/1605181929254428673,"refering elk app: prompt update strategy push notification nuxt 3 using vite-plugin-pwa, i've configured pwa ;)",neutral,0.5789541006088257
+2022-12-20 12:25:36+00:00,"@wobsoriano @Zain_Wania @trpcio @t3dotgg @nuxt_js As promised: tRPC is now part of sidebase, thanks to the module of @wobsoriano ❤️",sidebase_io,1605177596463009793,https://twitter.com/sidebase_io/status/1605177596463009793,"_wania 3dotgg _js promised: trpc part sidebase, thanks module ❤️",positive,0.866750955581665
+2022-12-20 12:09:11+00:00,"@harlan_zw @nuxt_js Just about to ship a website, this came at the right time 🤘🏻",Ben_Wortley,1605173464125652993,https://twitter.com/Ben_Wortley/status/1605173464125652993,"_zw _js ship website, came right time 🤘🏻",positive,0.9226372838020325
+2022-12-20 12:08:09+00:00,@MichaelThiessen supabase. To use in nuxt 3,mavisidoro,1605173203558666242,https://twitter.com/mavisidoro/status/1605173203558666242,supabase. use nuxt 3,neutral,0.8265073895454407
+2022-12-20 12:01:32+00:00,"Vue reactivity debugging tip:
+Debug watchers with onTrack and onTrigger options:
+Reference: https://t.co/gdrSiOznKM  #javascript #vue #vuejs #reactivity #webdev #frontend #svelte #react #nuxt  #tweet100 https://t.co/ugEVla8h42",DamianoMe,1605171539162583040,https://twitter.com/DamianoMe/status/1605171539162583040,vue reactivity debugging tip: debug watcher ontrack ontrigger options: reference: javascript vue vuejs reactivity webdev frontend svelte react nuxt tweet100,neutral,0.9000632762908936
+2022-12-20 12:01:12+00:00,@MichaelThiessen nuxt-content,qdnvubp,1605171456081801219,https://twitter.com/qdnvubp/status/1605171456081801219,nuxt-content,neutral,0.8338171243667603
+2022-12-20 12:01:07+00:00,@T_Zahil Nuxt the other side of the street😄,FernandoPs26,1605171436720635907,https://twitter.com/FernandoPs26/status/1605171436720635907,_zahil nuxt side street😄,neutral,0.7082266211509705
+2022-12-20 11:57:19+00:00,@full_stack_jack @nuxt_js @mattmaribojoc Soo cute,AlexanderOpalic,1605170478301200386,https://twitter.com/AlexanderOpalic/status/1605170478301200386,_stack_jack _js soo cute,positive,0.8873969912528992
+2022-12-20 11:56:51+00:00,"@harlan_zw @nuxt_js Bro, you're the love of a Seo specialist ))",ereslear,1605170359938191361,https://twitter.com/ereslear/status/1605170359938191361,"_zw _js bro, love seo specialist ))",positive,0.7752119898796082
+2022-12-20 11:43:21+00:00,@harlan_zw @nuxt_js Perhaps consider using the runtimeConfig vars under a namespace instead of the root object to avoid possible clashes users might have?,eckhardtdreyer,1605166963617054721,https://twitter.com/eckhardtdreyer/status/1605166963617054721,_zw _js perhaps consider using runtimeconfig var namespace instead root object avoid possible clash user might have?,neutral,0.8800055384635925
+2022-12-20 11:41:23+00:00,Really nice to see that all the #nostr clients are built with @vuejs and @nuxt_js,toniengelhardt,1605166468034969601,https://twitter.com/toniengelhardt/status/1605166468034969601,really nice see nostr client built _js,positive,0.9751155376434326
+2022-12-20 11:30:42+00:00,@harlan_zw @nuxt_js This came at the best time. Thank you!,korosibalint,1605163782636175360,https://twitter.com/korosibalint/status/1605163782636175360,_zw _js came best time. thank you!,positive,0.9847393035888672
+2022-12-20 11:23:00+00:00,@ramsesgarate @nuxt_js Thanks! 💚Tedious as heck,harlan_zw,1605161842078232576,https://twitter.com/harlan_zw/status/1605161842078232576,_js thanks! 💚tedious heck,positive,0.9757785201072693
+2022-12-20 11:22:46+00:00,"Had quite some issues making post requests on Nuxt work with Cloudflare workers.
+
+Using quite an ugly solution to fix the issue, but it works at least.
+
+Next point of focus is SEO",sam_odo,1605161786138918914,https://twitter.com/sam_odo/status/1605161786138918914,"quite issue making post request nuxt work cloudflare workers. using quite ugly solution fix issue, work least. next point focus seo",negative,0.8990000486373901
+2022-12-20 11:20:00+00:00,"@FernandoPs26 Perfect 🙌 I use almost the same, except Nuxt instead of Next :p",T_Zahil,1605161088735383552,https://twitter.com/T_Zahil/status/1605161088735383552,"26 perfect 🙌 use almost same, except nuxt instead next :p",positive,0.9748151302337646
+2022-12-20 11:16:41+00:00,"@harlan_zw @nuxt_js Great job 😱, SEO is something that has always been neglected by the developer because of how tedious it can be, I can't wait to try it on my website 😍",ramsesgarate,1605160253334687744,https://twitter.com/ramsesgarate/status/1605160253334687744,"_zw _js great job 😱, seo something always neglected developer tedious be, can't wait try website 😍",positive,0.9854633808135986
+2022-12-20 11:04:06+00:00,"@harlan_zw @nuxt_js Look cool, i think i will give a shoot.
+We have to rebuild our landing page 🤔",MathieuJ85,1605157088551911424,https://twitter.com/MathieuJ85/status/1605157088551911424,"_zw _js look cool, think give shoot. rebuild landing page 🤔",positive,0.6323365569114685
+2022-12-20 11:03:20+00:00,@harlan_zw @nuxt_js Congratulations Buddy. This looks great!,jacobandrewsky,1605156891864469505,https://twitter.com/jacobandrewsky/status/1605156891864469505,_zw _js congratulation buddy. look great!,positive,0.9852967858314514
+2022-12-20 11:02:11+00:00,"@nuxt_js Made possible by the 4 modules I built in the last week:
+
+- nuxt-simple-sitemap
+- nuxt-simple-robots
+- nuxt-link-checker
+- nuxt-og-image",harlan_zw,1605156605409906689,https://twitter.com/harlan_zw/status/1605156605409906689,_js made possible 4 module built last week: - nuxt-simple-sitemap - nuxt-simple-robots - nuxt-link-checker - nuxt-og-image,neutral,0.528363049030304
+2022-12-20 10:33:33+00:00,"@nuxt_js EOY Drop #2 and it's a BIG one! 🎅
+
+I've been working with SEO in Nuxt for a while now and I'm tired of all the boilerplate required to get set up.
+
+Time to solve it. 
+
+Introducing Nuxt SEO Kit: The all-in-one layer to grow your site's traffic.
+
+https://t.co/r0SGFjU6BD https://t.co/TdoH1IM8nC",harlan_zw,1605149399910215680,https://twitter.com/harlan_zw/status/1605149399910215680,_js eoy drop 2 big one! 🎅 i've working seo nuxt i'm tired boilerplate required get set up. time solve it. introducing nuxt seo kit: all-in-one layer grow site's traffic.,neutral,0.4142106771469116
+2022-12-20 10:33:26+00:00,"As a professional travel data hoarder (citation needed), I built a visited countries tracker website for myself 🗺
+
+Link: https://t.co/pqFyUJjPCh
+GitHub: https://t.co/N64XKvTsyq
+
+So, where should I go next? 🌎🌍🌏
+
+#Nuxtjs #TailwindCSS https://t.co/RrIg6bu47r",henrylim96,1605149367572336642,https://twitter.com/henrylim96/status/1605149367572336642,"professional travel data hoarder (citation needed), built visited country tracker website 🗺 link: github: so, go next? 🌎🌍🌏 nuxtjs tailwindcss",neutral,0.8725337982177734
+2022-12-20 08:12:45+00:00,@DashDobrofsky Oh the derangement.. 🤣🤣,apux_nuxt,1605113965302153217,https://twitter.com/apux_nuxt/status/1605113965302153217,oh derangement.. 🤣🤣,negative,0.4688093960285187
+2022-12-20 04:29:23+00:00,When do I get to use the cool @nuxt_studio? Still waiting on my beta access. Anyone get their hands on it yet?,bbekstha,1605057753243959296,https://twitter.com/bbekstha/status/1605057753243959296,get use cool _studio? still waiting beta access. anyone get hand yet?,neutral,0.6427592039108276
+2022-12-20 04:02:16+00:00,"Does anyone know why this happened?
+
+I can't get the attribute request order value, but when I display the attribute's parent ( object ), it displays the value ( request_order ) that I want. 🤔
+
+#TypeScript #NuxtJS https://t.co/t11qAFqdXS",zeinersyad,1605050930067812352,https://twitter.com/zeinersyad/status/1605050930067812352,"anyone know happened? can't get attribute request order value, display attribute's parent ( object ), display value ( request_order ) want. 🤔 typescript nuxtjs",negative,0.7101733088493347
+2022-12-20 02:30:05+00:00,@anotherJsGuy @nuxt_js very cool!,gabrielgueedes,1605027731661418496,https://twitter.com/gabrielgueedes/status/1605027731661418496,_js cool!,positive,0.9588821530342102
+2022-12-20 02:00:28+00:00,"Next, Nest, Nuxt… Nust? What should you choose?
+https://t.co/tKWFpUeNW5 
+
+Thank you, @IObert_ 👍 
+
+#webdev #ReactJS #NextJS https://t.co/9eupq1fU6u",nghuuphuoc,1605020276198096903,https://twitter.com/nghuuphuoc/status/1605020276198096903,"next, nest, nuxt… nust? choose? thank you, _ 👍 webdev reactjs nextjs",positive,0.8691145777702332
+2022-12-20 01:59:58+00:00,"Currently, my favorite tech stack is the following:
+
+Laravel / Symfony
+Nuxt
+TailwindCSS
+MySQL
+Redis
+ElasticSearch
+LogStash
+Kibana
+NGINX
+
+I focus mostly on the backend development these days.",davorminchorov,1605020151237287938,https://twitter.com/davorminchorov/status/1605020151237287938,"currently, favorite tech stack following: laravel / symfony nuxt tailwindcss mysql redis elasticsearch logstash kibana nginx focus mostly backend development days.",positive,0.7828278541564941
+2022-12-20 00:03:45+00:00,"Next, Nest, Nuxt… Nust? https://t.co/y3ITW80Uq7",noservershere,1604990903462072321,https://twitter.com/noservershere/status/1604990903462072321,"next, nest, nuxt… nust?",neutral,0.8482387661933899
+2022-12-19 23:47:57+00:00,"@scrumtuous I’ve been coding since 1999, writing a large open source project to easily build websites that result in a website builder UI. PHP, Symfony/API platform, Nuxt/Vue. Be great to network more here. Thanks for the space to share.",developer_west,1604986927861862400,https://twitter.com/developer_west/status/1604986927861862400,"i’ve coding since 1999, writing large open source project easily build website result website builder ui. php, symfony/api platform, nuxt/vue. great network here. thanks space share.",positive,0.963240921497345
+2022-12-19 23:20:58+00:00,Absolutely love how my FIL’s nuxt/material ui/contentful/netlify site just fucking works. Good stack. Solid 7.,Blake_Petersen,1604980137019052032,https://twitter.com/Blake_Petersen/status/1604980137019052032,absolutely love fil’s nuxt/material ui/contentful/netlify site fucking works. good stack. solid 7.,positive,0.9775786399841309
+2022-12-19 22:02:59+00:00,@sidebase_io @nuxt_js @prisma @sidestream_tech @bracket_john_ Our projects usually ranging ~500-1000 person days before production ready. Sounds great! Thaks!,il_thoughts,1604960512252399616,https://twitter.com/il_thoughts/status/1604960512252399616,_io _js _tech _john_ project usually ranging ~500-1000 person day production ready. sound great! thaks!,positive,0.9524511694908142
+2022-12-19 21:59:22+00:00,"@il_thoughts @nuxt_js @prisma Depends - we usually have 3-6 projects running at a time ranging from ~5-500 person days. You can check out more here if youre interested: @sidestream_tech 
+
+TLDR: Should be suitable for any scale of project. Feel free to DM @bracket_john_ if you want to discuss more via DM (:",sidebase_io,1604959602365419534,https://twitter.com/sidebase_io/status/1604959602365419534,_thoughts _js depends - usually 3-6 project running time ranging ~5-500 person days. check youre interested: _tech tldr: suitable scale project. feel free dm _john_ want discus via dm (:,neutral,0.718095600605011
+2022-12-19 21:59:07+00:00,"My latest Nuxt + Tailwind project for a personal website with my custom GitHub theme is going well 🙌
+
+What do you think? 😉 https://t.co/o0eOSaxTh5",SergiiKirianov,1604959541149442048,https://twitter.com/SergiiKirianov/status/1604959541149442048,latest nuxt + tailwind project personal website custom github theme going well 🙌 think? 😉,positive,0.9162008166313171
+2022-12-19 21:50:54+00:00,@sidebase_io @nuxt_js @prisma Thx for answer) We are risky and use Nuxt 3 in production last 8 months) How big your projects? How many devs working on it?,il_thoughts,1604957470975483906,https://twitter.com/il_thoughts/status/1604957470975483906,_io _js thx answer) risky use nuxt 3 production last 8 months) big projects? many devs working it?,neutral,0.6201016306877136
+2022-12-19 21:39:06+00:00,"@il_thoughts @nuxt_js @prisma We also continuously develop sidebase to ensure that bugs are squashed + the best modules are used. Does this help? 
+
+2/2",sidebase_io,1604954501290643465,https://twitter.com/sidebase_io/status/1604954501290643465,_thoughts _js also continuously develop sidebase ensure bug squashed + best module used. help? 2/2,neutral,0.764544665813446
+2022-12-19 21:38:55+00:00,"@il_thoughts @nuxt_js @prisma Haha, good q (: What to use in production depends on you / your companies risk profile 
+
+We’ve successfully used sidebase and the modules it uses in prod for about a year + all modules added by the CLI are trusted by us and are also community-trusted (AF as we can tell)
+
+1/2",sidebase_io,1604954453785939968,https://twitter.com/sidebase_io/status/1604954453785939968,"_thoughts _js haha, good q (: use production depends / company risk profile we’ve successfully used sidebase module us prod year + module added cli trusted u also community-trusted (af tell) 1/2",positive,0.9088950753211975
+2022-12-19 21:31:05+00:00,"Tune in on Twitch this week to watch me evaluate the SvelteKit, Nuxt, Remix and Next.js ecosystems.
+
+View the schedule here: https://t.co/XH2z7BRSMl
+
+Follow on Twitch: https://t.co/Q5r5awtCf2
+
+Read the weekly update: https://t.co/CToUT6IXNp",coding_garden,1604952484342124559,https://twitter.com/coding_garden/status/1604952484342124559,"tune twitch week watch evaluate sveltekit, nuxt, remix next.js ecosystems. view schedule here: follow twitch: read weekly update:",neutral,0.932895839214325
+2022-12-19 21:28:48+00:00,@sidebase_io @nuxt_js @prisma Is it production ready or i should use it only during hackatons?),il_thoughts,1604951908279635977,https://twitter.com/il_thoughts/status/1604951908279635977,_io _js production ready use hackatons?),neutral,0.9185599088668823
+2022-12-19 21:21:27+00:00,"@flozeroo @nuxt_js @danielcroe @nuxt_themes Agree, will improve thanks for the feedback Florent!",Atinux,1604950059833085960,https://twitter.com/Atinux/status/1604950059833085960,"_js _themes agree, improve thanks feedback florent!",positive,0.9399147033691406
+2022-12-19 20:00:11+00:00,Finally had a chance to sit down with Nuxt 3 this week to build out something I've been dreaming of doing for a while now and I can't wait to get it out into the wild.,fusrodope,1604929606808526848,https://twitter.com/fusrodope/status/1604929606808526848,finally chance sit nuxt 3 week build something i've dreaming can't wait get wild.,positive,0.9753329753875732
+2022-12-19 19:55:30+00:00,"Some of Nuxt interesting features
+
+https://t.co/IsfARtD8Uw",developerBolu,1604928429207461896,https://twitter.com/developerBolu/status/1604928429207461896,nuxt interesting feature,positive,0.8325366973876953
+2022-12-19 19:29:45+00:00,"Stack will be:
+
+Nodejs/Deno/Bun
+React/Vue
+Or 
+Next/Nuxt/Remix
+with
+PostgreSQL/MongoDB",maxifjaved,1604921951545225216,https://twitter.com/maxifjaved/status/1604921951545225216,stack be: nodejs/deno/bun react/vue next/nuxt/remix postgresql/mongodb,neutral,0.8648692965507507
+2022-12-19 18:18:15+00:00,Someone experience with reusable components in #Vue or #Nuxt where the #CSS (#tailwindCSS) is composed inside of a #Typescript class in order to make the component as well as the styling reusable and flexible?,tpotjj,1604903955154116609,https://twitter.com/tpotjj/status/1604903955154116609,someone experience reusable component vue nuxt cs (tailwindcss) composed inside typescript class order make component well styling reusable flexible?,neutral,0.8876452445983887
+2022-12-19 18:16:13+00:00,@nuxt_js @danielcroe @nuxt_themes Thats cool but you need to explain what is what in the page. Nuxt layer mean nothing if you have never see it in the doc,flozeroo,1604903446611693590,https://twitter.com/flozeroo/status/1604903446611693590,_js _themes thats cool need explain page. nuxt layer mean nothing never see doc,neutral,0.5195154547691345
+2022-12-19 17:49:57+00:00,"@Atinux @nuxt_js Looks promising!
+Here is a minimal reproduction with SvelteKit: https://t.co/CWbagTx4bN",MaOberlehner,1604896834413072390,https://twitter.com/MaOberlehner/status/1604896834413072390,_js look promising! minimal reproduction sveltekit:,positive,0.9608356356620789
+2022-12-19 17:47:27+00:00,@nuxt_js @nuxt_themes Amazing 🔥,gaetansenn,1604896205120540672,https://twitter.com/gaetansenn/status/1604896205120540672,_js _themes amazing 🔥,positive,0.9630929827690125
+2022-12-19 17:47:22+00:00,@sidebase_io @nuxt_js @prisma tRPC next up… I like the sound of that😍,cammy_dev,1604896185621569536,https://twitter.com/cammy_dev/status/1604896185621569536,_io _js trpc next up… like sound that😍,positive,0.9157689213752747
+2022-12-19 17:40:13+00:00,"@demonicious_ @kossycodes Apart from the syntax, so you don't have to study anything:
+- The output is smaller
+- You can split bundles
+- Define components in files where they are used
+- It's easy to configure
+- It's a standalone lib, not plugin (except those as integration into Nuxt for example)",stylifycss,1604894384163475456,https://twitter.com/stylifycss/status/1604894384163475456,"_ apart syntax, study anything: - output smaller - split bundle - define component file used - easy configure - standalone lib, plugin (except integration nuxt example)",neutral,0.8674511909484863
+2022-12-19 17:33:44+00:00,I am almost finished with @tailwindcss. Next is going to be @nuxt_js. Agreed? https://t.co/ITRDzFr0lm,blackevilgoblin,1604892751505592330,https://twitter.com/blackevilgoblin/status/1604892751505592330,almost finished . next going _js. agreed?,neutral,0.6658654808998108
+2022-12-19 17:03:19+00:00,"Meet Nuxi, the unofficial mascot of the Nuxt 3 cli. 😀 
+
+Also, my most loved @nuxt_js Features Video is live. In collaboration with @mattmaribojoc from Learn Vue. 
+
+https://t.co/EBeaRSitUd https://t.co/FInUvQQvbf",full_stack_jack,1604885100184879116,https://twitter.com/full_stack_jack/status/1604885100184879116,"meet nuxi, unofficial mascot nuxt 3 cli. 😀 also, loved _js feature video live. collaboration learn vue.",positive,0.969918966293335
+2022-12-19 16:50:01+00:00,"Nuxt 3 helps you develop Vue3 based apps quickly take a look at https://t.co/MmllpGXU12 to understand the minimal project structure
+
+#javascript #typescript #vue https://t.co/5x9CTYIX5t",gary_woodfine,1604881750802440192,https://twitter.com/gary_woodfine/status/1604881750802440192,nuxt 3 help develop vue3 based apps quickly take look understand minimal project structure javascript typescript vue,positive,0.6321431398391724
+2022-12-19 16:48:00+00:00,@wobsoriano @nuxt_js @trpcio @t3dotgg @danielcroe @Atinux Yay ☺️. Thanks mate,therealokoro__,1604881243778125824,https://twitter.com/therealokoro__/status/1604881243778125824,_js 3dotgg yay ☺️. thanks mate,positive,0.9831337332725525
+2022-12-19 16:46:08+00:00,@therealokoro__ @nuxt_js @trpcio @t3dotgg @danielcroe @Atinux I like it!,wobsoriano,1604880772464529408,https://twitter.com/wobsoriano/status/1604880772464529408,__ _js 3dotgg like it!,positive,0.9162073731422424
+2022-12-19 16:41:51+00:00,"🔐 auth is now part of create-sidebase 
+
+In the screenshot below create-sidebase create a @nuxt_js 3 app with pre-configured @prisma and nuxt-auth in &lt;120 seconds. Should be plenty fast for your next hackathon (;
+
+Run: `npm create sidebase@latest` to see it live
+
+Next up tRPC ✨ https://t.co/MhH7cnIK7y",sidebase_io,1604879694402408457,https://twitter.com/sidebase_io/status/1604879694402408457,🔐 auth part create-sidebase screenshot create-sidebase create _js 3 app pre-configured nuxt-auth &lt;120 seconds. plenty fast next hackathon (; run: `npm create sidebase` see live next trpc ✨,positive,0.7270314693450928
+2022-12-19 15:47:42+00:00,"@MaOberlehner @sveltejs ah I see! Thanks for the illustration. Very helpful. 
+I'd love to see a nuxt module for this!",danielkelly_io,1604866071101669377,https://twitter.com/danielkelly_io/status/1604866071101669377,ah see! thanks illustration. helpful. i'd love see nuxt module this!,positive,0.9779213070869446
+2022-12-19 15:35:50+00:00,"@MaOberlehner @nuxt_js Oh, also you get built in mutation and fetcher support 🤩",brophdawg11,1604863082546724867,https://twitter.com/brophdawg11/status/1604863082546724867,"_js oh, also get built mutation fetcher support 🤩",positive,0.9489986300468445
+2022-12-19 15:20:19+00:00,"🚨 HERE WE GO, Nuxt &amp; Tailwind Templates
+
+Building the Breakdown pt. 9
+
+https://t.co/qLVyxKZZaF
+
+#Twitch #Live #Streaming #BuildingTheBreakdown",tpotjj,1604859177398157313,https://twitter.com/tpotjj/status/1604859177398157313,"🚨 go, nuxt &amp; tailwind template building breakdown pt. 9 twitch live streaming buildingthebreakdown",neutral,0.9422160387039185
+2022-12-19 15:15:21+00:00,"@MaOberlehner @nuxt_js What about this? Using a global middleware that can read the `data` function from each matched page and run them in parallel.
+
+The component waterfall is normal since it's due to suspense and has to wait for component to be created.
+
+https://t.co/sSp6NOkizS",Atinux,1604857928913195009,https://twitter.com/Atinux/status/1604857928913195009,_js this? using global middleware read `data` function matched page run parallel. component waterfall normal since due suspense wait component created.,neutral,0.8914793133735657
+2022-12-19 15:15:05+00:00,"💡 Server routes (aka API routes) in @nuxt_js 3 work the same as Page routes.
+
+It’s all based on the filename.
+
+👉 You can add dynamic segments with [squareBrackets].
+👉 You can even specify the HTTP method in the filename:
+
+server/api/post.get.ts
+server/api/post.post.ts https://t.co/IbBJlcrZdD",MasteringNuxt,1604857861808525312,https://twitter.com/MasteringNuxt/status/1604857861808525312,💡 server route (aka api routes) _js 3 work page routes. it’s based filename. 👉 add dynamic segment [squarebrackets]. 👉 even specify http method filename: server/api/post.get.ts server/api/post.post.ts,neutral,0.9018430113792419
+2022-12-19 15:08:52+00:00,"𝗠𝗮𝗱𝗲 𝘄𝗶𝘁𝗵 @nuxt_js 3
+
+#Web #webperf #FCP #LCP #TTI https://t.co/zac9ViP0OA",anotherJsGuy,1604856295089393664,https://twitter.com/anotherJsGuy/status/1604856295089393664,𝗠𝗮𝗱𝗲 𝘄𝗶𝘁𝗵 _js 3 web webperf fcp lcp tti,neutral,0.9036564230918884
+2022-12-19 15:07:45+00:00,"𝗠𝗮𝗱𝗲 𝘄𝗶𝘁𝗵 @nuxt_js 3
+
+#Mobile #webperf #FCP #LCP #TTI https://t.co/4HAkGAE7n7",anotherJsGuy,1604856016650539010,https://twitter.com/anotherJsGuy/status/1604856016650539010,𝗠𝗮𝗱𝗲 𝘄𝗶𝘁𝗵 _js 3 mobile webperf fcp lcp tti,neutral,0.910468339920044
+2022-12-19 15:07:01+00:00,"@MaOberlehner @nuxt_js Will update your example, can you share the Svelekit example too?",Atinux,1604855829169143809,https://twitter.com/Atinux/status/1604855829169143809,"_js update example, share svelekit example too?",neutral,0.9381661415100098
+2022-12-19 14:27:11+00:00,"Nuxt.js , nest.Js , Next.js… Bro ? We tired",RizSauceTomate1,1604845807240347650,https://twitter.com/RizSauceTomate1/status/1604845807240347650,"nuxt.js , nest.js , next.js… bro ? tired",neutral,0.5729748606681824
+2022-12-19 14:17:31+00:00,"So since Twitter still allows me to promote my own content on Youtube 🤦‍♂️, today is a good day to share one of the most viewed videos of this year
+
+Join me to learn how to use Nuxt Server Routes and fetch data from the client. 💚🤩
+
+https://t.co/Ji3M0dOcom",alvarosabu,1604843374384943104,https://twitter.com/alvarosabu/status/1604843374384943104,"since twitter still allows promote content youtube 🤦‍♂️, today good day share one viewed video year join learn use nuxt server route fetch data client. 💚🤩",positive,0.9205891489982605
+2022-12-19 14:13:58+00:00,"Shoot us with your sidebase issues🚀
+
+Our network of people who build production grade apps with sidebase everyday is big. And they're all ready to support other @nuxt_js/@vuejs devs on their sidebase journey. You get help, we learn.
+
+Join our Discord👇🏽✨ https://t.co/AJUzN3qyWY",sidebase_io,1604842478443847681,https://twitter.com/sidebase_io/status/1604842478443847681,"shoot u sidebase issues🚀 network people build production grade apps sidebase everyday big. they're ready support _js/ devs sidebase journey. get help, learn. join discord👇🏽✨",positive,0.6040921807289124
+2022-12-19 13:51:33+00:00,@T_Zahil Rails + Nuxt 😁,AlexandreBorie,1604836837620682754,https://twitter.com/AlexandreBorie/status/1604836837620682754,_zahil rail + nuxt 😁,positive,0.5809663534164429
+2022-12-19 13:51:01+00:00,@MentorWebDev As a front-end dev it’s not a necessity to know a framework and things you mentioned are not frameworks but libraries. Next and Nuxt are frameworks. Your mentoring is bad you should know these things,0xkhani,1604836704677937153,https://twitter.com/0xkhani/status/1604836704677937153,front-end dev it’s necessity know framework thing mentioned framework libraries. next nuxt frameworks. mentoring bad know thing,neutral,0.5939479470252991
+2022-12-19 13:16:25+00:00,https://t.co/myMnUo2dzq now includes the possibility to start from a layer or a @nuxt_themes ✨ https://t.co/oF3rJ854qr,nuxt_js,1604827997059563521,https://twitter.com/nuxt_js/status/1604827997059563521,includes possibility start layer _themes ✨,neutral,0.7399966716766357
+2022-12-19 13:09:29+00:00,Going live with @TheAlexLichter  in 15 mins join and learn more about @nuxt_js  @PrantikSeal,josehub121,1604826254099845122,https://twitter.com/josehub121/status/1604826254099845122,going live 15 min join learn _js,neutral,0.7632773518562317
+2022-12-19 12:31:52+00:00,"💰 Apparently, on average, @FastAPI pays more than:
+
+Flask
+Node.js
+Next.js
+Angular
+Vue.js
+Django
+Express
+Nuxt.js
+Laravel
+
+https://t.co/RyAVoLU9RE https://t.co/h5WIk1iovw",tiangolo,1604816786876256258,https://twitter.com/tiangolo/status/1604816786876256258,"💰 apparently, average, pay than: flask node.js next.js angular vue.js django express nuxt.js laravel",neutral,0.7734737992286682
+2022-12-19 12:31:50+00:00,"❤️ People seem to love @FastAPI more than:
+
+Node.js
+Nuxt.js
+Vue.js
+Express
+Ruby on Rails
+Laravel
+Django
+Angular
+Symfony
+Flask
+Gatsby
+Drupal
+
+https://t.co/simJ1vBI0h https://t.co/GbAreu4vt9",tiangolo,1604816778349408256,https://twitter.com/tiangolo/status/1604816778349408256,❤️ people seem love than: node.js nuxt.js vue.js express ruby rail laravel django angular symfony flask gatsby drupal,positive,0.9182006120681763
+2022-12-19 12:31:48+00:00,"🚀 It seems @FastAPI is used more than:
+
+Ruby on Rails
+Svelte
+Nuxt.js
+Symfony
+Gatsby
+Drupal
+Deno
+
+https://t.co/IhUI4TIWoj https://t.co/4LWjqZiLJS",tiangolo,1604816770459926529,https://twitter.com/tiangolo/status/1604816770459926529,🚀 seems used than: ruby rail svelte nuxt.js symfony gatsby drupal deno,neutral,0.6829030513763428
+2022-12-19 12:29:54+00:00,@danielcroe @wobsoriano @nuxt_js @trpcio @t3dotgg @Atinux Thank you sir 😊. Glad you like it,therealokoro__,1604816291734372353,https://twitter.com/therealokoro__/status/1604816291734372353,_js 3dotgg thank sir 😊. glad like,positive,0.9667931795120239
+2022-12-19 12:23:10+00:00,@therealokoro__ @wobsoriano @nuxt_js @trpcio @t3dotgg @Atinux Nice! 😍,danielcroe,1604814598472810498,https://twitter.com/danielcroe/status/1604814598472810498,__ _js 3dotgg nice! 😍,positive,0.9803594350814819
+2022-12-19 12:08:20+00:00,@Atinux @nuxt_js Hmm same result after a first test: https://t.co/mnwxdlhLRa https://t.co/lrBlxAWmtH,MaOberlehner,1604810864954970112,https://twitter.com/MaOberlehner/status/1604810864954970112,_js hmm result first test:,neutral,0.9128867983818054
+2022-12-19 11:51:36+00:00,"@chrisvisserdev @Carwack @vuejsamsterdam @_pi0_ @guillaume @VueSchool_io @VueMastery or use @cloudinary then you never have to worry about this stuff ;)
+
+or take a took at Nuxt Image module as it should provide a fallback for webp",debs_obrien,1604806653991612416,https://twitter.com/debs_obrien/status/1604806653991612416,@_pi0_ _io use never worry stuff ;) take took nuxt image module provide fallback webp,positive,0.6133819818496704
+2022-12-19 11:15:52+00:00,"So I created these logo ideas for tRPC-nuxt module by @wobsoriano for @nuxt_js .
+
+Available in SVG too.
+I hope y'all like it 🙈🙈. https://t.co/MEiiEDoApL",therealokoro__,1604797660065517568,https://twitter.com/therealokoro__/status/1604797660065517568,created logo idea trpc-nuxt module _js . available svg too. hope y'all like 🙈🙈.,positive,0.9145796895027161
+2022-12-19 10:25:17+00:00,@PovilasKorop When you try to compare jQuery to Vue/React. jQuery is more of a utility. It helps you manage little things on a page. Vue lets you build applications and @nuxt_js takes it to the next level and guides your application with opinionated decisions.,SlyFireFox,1604784930277539840,https://twitter.com/SlyFireFox/status/1604784930277539840,try compare jquery vue/react. jquery utility. help manage little thing page. vue let build application _js take next level guide application opinionated decisions.,neutral,0.8222730755805969
+2022-12-19 10:22:04+00:00,"Next, Nest, Nuxt Nust? https://t.co/SbDSa9YmzE comm: https://t.co/Kcltv2AZBI",icymihn,1604784120424448000,https://twitter.com/icymihn/status/1604784120424448000,"next, nest, nuxt nust? comm:",neutral,0.8584249019622803
+2022-12-19 10:00:02+00:00,"🌅 Samsara is hiring Web Developer 
+
+🛖 #remote #wfh 
+💪 #Frontend #javascript #css #nuxt.js #gatsby #vue 
+
+#tech #softwareengineer #jobs 
+https://t.co/UDBCz6zkGq",echojobs_io,1604778574153662468,https://twitter.com/echojobs_io/status/1604778574153662468,🌅 samsara hiring web developer 🛖 remote wfh 💪 frontend javascript cs nuxt.js gatsby vue tech softwareengineer job,neutral,0.5930339694023132
+2022-12-19 10:00:00+00:00,"Join #vuejs conference for hearing 🎟 an engaging presentation from @Atinux, author of @nuxt_com and CEO at @nuxtlabs.
+
+Sebastien is committed to improving #web performance and fostering a sense of flow for #developers by creating the best tools to fully unleash their creativity.",VueJSLive,1604778567316803584,https://twitter.com/VueJSLive/status/1604778567316803584,"join vuejs conference hearing 🎟 engaging presentation , author _com ceo . sebastien committed improving web performance fostering sense flow developer creating best tool fully unleash creativity.",positive,0.8318936824798584
+2022-12-19 09:59:15+00:00,"@arvindhsv Tbh, I suck at most options (design-wise), but if given personal choice, I’d just create a static site with Nuxt/Vue.
+
+Even doing something with Notion + maybe @potion_so sounds better.",vovahimself,1604778380402036736,https://twitter.com/vovahimself/status/1604778380402036736,"tbh, suck option (design-wise), given personal choice, i’d create static site nuxt/vue. even something notion + maybe _so sound better.",neutral,0.4797941744327545
+2022-12-19 09:34:40+00:00,"BlogiNote is a Nuxt theme to build a blog, I make a demo to combine it with Pagefind  https://t.co/NPWVPMGSnF and the result is so awesome🤩
+I think anyone build a static website with @nuxt_js Nuxt Content should have a try on it",Benbinbin_fun,1604772191823724544,https://twitter.com/Benbinbin_fun/status/1604772191823724544,"bloginote nuxt theme build blog, make demo combine pagefind result awesome🤩 think anyone build static website _js nuxt content try",positive,0.8976508975028992
+2022-12-19 09:26:54+00:00,"@MaOberlehner @nuxt_js You can achieve this by using a middleware logic and adding data in definePageMeta, similar to how Nuxt 2 worked.
+
+Do you have a demo with Sveltkit so I can show you with Nuxt?",Atinux,1604770237626343424,https://twitter.com/Atinux/status/1604770237626343424,"_js achieve using middleware logic adding data definepagemeta, similar nuxt 2 worked. demo sveltkit show nuxt?",neutral,0.772243320941925
+2022-12-19 09:02:29+00:00,"Improve Your Next.js App’s Performance in 10 Minutes
+
+Introduction
+
+We all know Next.js is quite heavyweight, especially compared to Svelte Kit or Nuxt.js and optimization is not everyone’s favorite thing. Your product owner might not want to waste time on optimization and p… https://t.co/x9xLWyyD55",4dollarwebsite,1604764091381420034,https://twitter.com/4dollarwebsite/status/1604764091381420034,"improve next.js app’s performance 10 minute introduction know next.js quite heavyweight, especially compared svelte kit nuxt.js optimization everyone’s favorite thing. product owner might want waste time optimization p…",neutral,0.4988763630390167
+2022-12-19 09:02:26+00:00,"Better DX in JS apps with unplugin-auto-import
+
+When developing projects, I always like to choose the tools that deliver the best Developer Experience possible. That is also why my favourite web framework currently is Nuxt.js (especially with the release of stable 3.0.0 vers… https://t.co/DOGg9COzN8",4dollarwebsite,1604764080828456961,https://twitter.com/4dollarwebsite/status/1604764080828456961,"better dx j apps unplugin-auto-import developing projects, always like choose tool deliver best developer experience possible. also favourite web framework currently nuxt.js (especially release stable 3.0.0 vers…",positive,0.9116370677947998
+2022-12-19 08:59:12+00:00,@MaOberlehner @nuxt_js Interesting like a solution for this too 😁,Clex1o1,1604763267989372928,https://twitter.com/Clex1o1/status/1604763267989372928,_js interesting like solution 😁,positive,0.9500741958618164
+2022-12-19 08:30:31+00:00,"Better DX in JS apps with unplugin-auto-import
+https://t.co/O2TFSgbqMo
+When developing projects, I always like to choose the tools that deliver the best Developer Experience possible. That is also why my favourite web framework currently is Nuxt.js (espec
+https://t.co/8JYb0v7mwS",M157q_News_RSS,1604756047381819393,https://twitter.com/M157q_News_RSS/status/1604756047381819393,"better dx j apps unplugin-auto-import developing projects, always like choose tool deliver best developer experience possible. also favourite web framework currently nuxt.js (espec",positive,0.9228485226631165
+2022-12-19 08:28:38+00:00,Nuxt js makes me crazy 😬,cadetcoderr,1604755575405154305,https://twitter.com/cadetcoderr/status/1604755575405154305,nuxt j make crazy 😬,neutral,0.6734171509742737
+2022-12-19 08:16:01+00:00,"@stauffermatt I've worked in apps where we served a Nuxt app's index.html via a Laravel fallback route.
+
+Valet has proxy (so I can use the Vue dev server). A proxy fallback would be sweet. I.e. if there is nothing running on port 8080, then serve the Laravel project.",adrianb93,1604752399041982464,https://twitter.com/adrianb93/status/1604752399041982464,"i've worked apps served nuxt app's index.html via laravel fallback route. valet proxy (so use vue dev server). proxy fallback would sweet. i.e. nothing running port 8080, serve laravel project.",positive,0.7346974611282349
+2022-12-19 08:15:42+00:00,"Improve Your Next.js App’s Performance in 10 Minutes
+https://t.co/ntiDg05c5b
+Introduction  We all know Next.js is quite heavyweight, especially compared to Svelte Kit or Nuxt.js and optimization is not everyone’s favorite thing. Your product owner might n
+https://t.co/jw13Cissdg",M157q_News_RSS,1604752320494858240,https://twitter.com/M157q_News_RSS/status/1604752320494858240,"improve next.js app’s performance 10 minute introduction know next.js quite heavyweight, especially compared svelte kit nuxt.js optimization everyone’s favorite thing. product owner might n",positive,0.7469547390937805
+2022-12-19 08:07:38+00:00,@Zain_Wania @trpcio @sidebase_io @t3dotgg @nuxt_js You're like oliver twist 😅....You want it all,therealokoro__,1604750291471138816,https://twitter.com/therealokoro__/status/1604750291471138816,_wania _io 3dotgg _js like oliver twist 😅....you want,neutral,0.8342580199241638
+2022-12-19 07:52:05+00:00,"@Zain_Wania @trpcio @sidebase_io @t3dotgg @nuxt_js Client module was added just now :)
+
+https://t.co/wUpNfT9rOw https://t.co/WKE42rAGuR",wobsoriano,1604746374196518913,https://twitter.com/wobsoriano/status/1604746374196518913,_wania _io 3dotgg _js client module added :),positive,0.7002933621406555
+2022-12-19 07:51:16+00:00,"[#Remote] Hiring Senior Frontend Engineer (3-7 years) with experience in VueJS, NuxtJS, and Javascript.
+
+To know more, email me at amit@therecruitingbox.com.",amitrajtyagi,1604746168755421185,https://twitter.com/amitrajtyagi/status/1604746168755421185,"[remote] hiring senior frontend engineer (3-7 years) experience vuejs, nuxtjs, javascript. know more, email amit.com.",neutral,0.8046629428863525
+2022-12-19 06:03:22+00:00,"@mastercorg @vite_js @sveltejs @nuxt_js @nextjs Amazing, would love to see @storybookjs v7 added to this list!",itsezc,1604719014995189761,https://twitter.com/itsezc/status/1604719014995189761,"_js _js amazing, would love see v7 added list!",positive,0.9849655628204346
+2022-12-19 06:01:25+00:00,"Next, Nest, Nuxt… Nust? https://t.co/y3ITW80Uq7",noservershere,1604718527302320128,https://twitter.com/noservershere/status/1604718527302320128,"next, nest, nuxt… nust?",neutral,0.8482387661933899
+2022-12-19 05:21:06+00:00,"Made a PR to @nuxt_js image to add @supabase new storage image resize :
+https://t.co/kw3KuzxjCV
+Both tools i use for @Capgo_app, if the PR is accepted my SEO will directly be upgraded !
+#buildinpublic",martindonadieu,1604708381440512000,https://twitter.com/martindonadieu/status/1604708381440512000,"made pr _js image add new storage image resize : tool use _app, pr accepted seo directly upgraded ! buildinpublic",neutral,0.7818129062652588
+2022-12-19 03:16:18+00:00,@vite_js @sveltejs @nuxt_js @nextjs Next.js v13 https://t.co/mj4sGID0oC,mastercorg,1604676973506498560,https://twitter.com/mastercorg/status/1604676973506498560,_js _js next.js v13,neutral,0.8898279070854187
+2022-12-19 03:15:24+00:00,"We've recently improved the way Master CSS AOT scans source code for more reliable output.
+Overnight, the latest versions of mainstream frameworks and build tools have also been supported 🎉
+
+@vite_js v4
+@sveltejs kit v1
+@nuxt_js v3
+@nextjs v13
+
+Check out the example and guide 👇🏻",mastercorg,1604676745881604096,https://twitter.com/mastercorg/status/1604676745881604096,"we've recently improved way master cs aot scan source code reliable output. overnight, latest version mainstream framework build tool also supported 🎉 _js v4 kit v1 _js v3 v13 check example guide 👇🏻",positive,0.9385017156600952
+2022-12-19 02:26:04+00:00,@nudoru I like nuxt for Vue (or Next for React).,tarwin,1604664330468749312,https://twitter.com/tarwin/status/1604664330468749312,like nuxt vue (or next react).,neutral,0.9094220399856567
+2022-12-19 00:51:06+00:00,"@savvasdev Nice. Yeah Nuxt is a quality framework. I expect you can do this with all modern frameworks, I just happen to be using Next in this project.",chambaz,1604640432650162178,https://twitter.com/chambaz/status/1604640432650162178,"nice. yeah nuxt quality framework. expect modern frameworks, happen using next project.",positive,0.964923083782196
+2022-12-19 00:39:03+00:00,"@chambaz You can also do this in Nuxt with ""Unknown Dynamic Nested Routes"" btw.",savvasdev,1604637399425830912,https://twitter.com/savvasdev/status/1604637399425830912,"also nuxt ""unknown dynamic nested routes"" btw.",neutral,0.8624966740608215
+2022-12-18 23:26:57+00:00,@hdjirdeh other frameworks call it partytown though :) like Astro and Nuxt https://t.co/eSHNNF4Hsg,JLarky,1604619256133431297,https://twitter.com/JLarky/status/1604619256133431297,framework call partytown though :) like astro nuxt,positive,0.5306052565574646
+2022-12-18 22:54:00+00:00,"Definitely converting the new @tailwindcss protocol template to @nuxt_js + Nuxt Content v2 🤩 
+
+Now we can seamlessly integrate it into our ecosystem for docs.
+
+Already converted the syntax template 100% and it works perfect 🙂",danpastori,1604610961876275201,https://twitter.com/danpastori/status/1604610961876275201,definitely converting new protocol template _js + nuxt content v2 🤩 seamlessly integrate ecosystem docs. already converted syntax template 100% work perfect 🙂,positive,0.9752988815307617
+2022-12-18 22:47:11+00:00,@Shpigford A lot of this is because of familiarity with Nuxt auth options.,BenjamminHeller,1604609248532791296,https://twitter.com/BenjamminHeller/status/1604609248532791296,lot familiarity nuxt auth options.,neutral,0.7177603840827942
+2022-12-18 22:45:45+00:00,"@Shpigford With what I currently know, Laravel + Nuxt. I know there are faster ways but not for me.
+
+One of my plans is to play with next js more.",BenjamminHeller,1604608887944278016,https://twitter.com/BenjamminHeller/status/1604608887944278016,"currently know, laravel + nuxt. know faster way me. one plan play next j more.",neutral,0.8014264702796936
+2022-12-18 22:09:04+00:00,"I struggled quite a bit to get Nuxt 3 working on Cloudflare Pages.
+
+First, I made use of @nuxt_js Images, but that interferes with Cloudflare Workers.
+
+Then there was an issue with Cloudflare who didn’t allow me to upload a 4mb JSON file. Fixed it by downsizing it to ~1.5MB",sam_odo,1604599656276561920,https://twitter.com/sam_odo/status/1604599656276561920,"struggled quite bit get nuxt 3 working cloudflare pages. first, made use _js images, interferes cloudflare workers. issue cloudflare didn’t allow upload 4mb json file. fixed downsizing ~1.5mb",negative,0.6707559823989868
+2022-12-18 21:54:26+00:00,"@hackSultan Hi @hackSultan 
+
+I'm currently learning vue/nuxt. I've been on/off for a while because off pc issues.
+
+I recently got this PC from a close relative. DELL XPS 17 L702X Workstation, after a long while of being without a PC. https://t.co/wOQmsgCGI2",pianomann_,1604595973912760320,https://twitter.com/pianomann_/status/1604595973912760320,"hi i'm currently learning vue/nuxt. i've on/off pc issues. recently got pc close relative. dell xps 17 l702x workstation, long without pc.",neutral,0.6382980942726135
+2022-12-18 21:47:00+00:00,"#JavaScript  #Automated | Next, Nest, Nuxt… Nust? https://t.co/EgQovmR0j0",hasdid,1604594103219535873,https://twitter.com/hasdid/status/1604594103219535873,"javascript automated | next, nest, nuxt… nust?",neutral,0.9261945486068726
+2022-12-18 21:22:26+00:00,"Finishing up the docs for our new @nuxt_js 3 CLI. You can already bootstrap an app with Prisma and others in seconds:
+
+npm create sidebase@latest already 
+
+Focus now is docs, happy with them atm, the stacks concept borrowed from @remix_run works great: https://t.co/tbflDBYABh https://t.co/CGNypzC1mM",bracket_john_,1604587917808132099,https://twitter.com/bracket_john_/status/1604587917808132099,"finishing doc new _js 3 cli. already bootstrap app prisma others seconds: npm create sidebase already focus docs, happy atm, stack concept borrowed _run work great:",positive,0.9366175532341003
+2022-12-18 20:16:07+00:00,"Getting Started with Nuxt3  
+https://t.co/JGusTuoeSV  
+#dev #javascript #nuxt
+December 18, 2022",gary_woodfine,1604571231709282312,https://twitter.com/gary_woodfine/status/1604571231709282312,"getting started nuxt3 dev javascript nuxt december 18, 2022",neutral,0.8803859353065491
+2022-12-18 19:35:01+00:00,"For the gamers: Buy, sell or rent CS:GO skins on the @appLootBear marketplace – #madewithvuejs &amp; Nuxt! 🎮️🔥 - https://t.co/055ptWtJzo https://t.co/YCVCvRBFbP",MadeWithVueJS,1604560888119320576,https://twitter.com/MadeWithVueJS/status/1604560888119320576,"gamers: buy, sell rent cs:go skin marketplace – madewithvuejs &amp; nuxt! 🎮️🔥 -",neutral,0.8256624937057495
+2022-12-18 19:31:00+00:00,"Next, Nest, Nuxt Nust?
+https://t.co/LpMI5RC2nS
+Article URL: https://t.co/LpMI5RC2nS Comments URL: https://t.co/WfGT1Whyp9 Points: 78 # Comments: 102",M157q_News_RSS,1604559875199053825,https://twitter.com/M157q_News_RSS/status/1604559875199053825,"next, nest, nuxt nust? article url: comment url: points: 78 comments: 102",neutral,0.9434524178504944
+2022-12-18 18:34:54+00:00,"@danielkelly_io @sveltejs All of the boxes with (fetch /x) are async setup page components fetching data from the respective endpoint. In Nuxt, this creates waterfall loading. Other frameworks load data in parallel. Idk how to achieve this in Nuxt except with loading spinners. https://t.co/qbKKKsk9Re",MaOberlehner,1604545758312759298,https://twitter.com/MaOberlehner/status/1604545758312759298,"_io box (fetch /x) async setup page component fetching data respective endpoint. nuxt, creates waterfall loading. framework load data parallel. idk achieve nuxt except loading spinners.",neutral,0.8799545168876648
+2022-12-18 18:30:53+00:00,"@JLarky Meanwhile nuxt used nuxt-partytown.
+
+Vercel is all about marketing, like they compared Vite with Turbopack. They should have actually compared esbuild with turbopack 😅",kasvith,1604544749150433281,https://twitter.com/kasvith/status/1604544749150433281,"meanwhile nuxt used nuxt-partytown. vercel marketing, like compared vite turbopack. actually compared esbuild turbopack 😅",neutral,0.8393393754959106
+2022-12-18 18:00:18+00:00,"Next, Nest, Nuxt… Nust? https://t.co/y3ITW80Uq7",noservershere,1604537050774003715,https://twitter.com/noservershere/status/1604537050774003715,"next, nest, nuxt… nust?",neutral,0.8482387661933899
+2022-12-18 16:53:44+00:00,@MaOberlehner @sveltejs What’s the value add that you don’t get with Nuxt?,danielkelly_io,1604520297214140417,https://twitter.com/danielkelly_io/status/1604520297214140417,what’s value add don’t get nuxt?,neutral,0.8251661062240601
+2022-12-18 16:50:01+00:00,"Nuxt 3 helps you develop Vue3 based apps quickly take a look at https://t.co/MmllpGXU12 to understand the minimal project structure
+
+#javascript #typescript #vue https://t.co/w4M38hBPsL",gary_woodfine,1604519362962014208,https://twitter.com/gary_woodfine/status/1604519362962014208,nuxt 3 help develop vue3 based apps quickly take look understand minimal project structure javascript typescript vue,positive,0.6321431398391724
+2022-12-18 16:28:32+00:00,"After struggling with this video edit, I finally finished &amp; published it to #Youtube. This time, I'm #refactoring the small #Nuxt codebase, based on the #VueJS #styleguide. It would be great if you could show some love on this one❤️
+https://t.co/izrkPXlTL7",tpotjj,1604513958307983360,https://twitter.com/tpotjj/status/1604513958307983360,"struggling video edit, finally finished &amp; published youtube. time, i'm refactoring small nuxt codebase, based vuejs styleguide. would great could show love one❤️",positive,0.9394786953926086
+2022-12-18 16:24:03+00:00,"Next, Nest, Nuxt… Nust?
+ https://t.co/VCCmhFo0lw",frontender_ua,1604512827892547584,https://twitter.com/frontender_ua/status/1604512827892547584,"next, nest, nuxt… nust?",neutral,0.8482387661933899
+2022-12-18 16:02:42+00:00,@MaOberlehner @nuxt_js For SPA's you can check out https://t.co/lDbBBRt3c7.  Probably wouldn't be too hard to wire up manual SSR using the remix router createStaticHandler (unstable but not for long!).  Additional framework support for Remix is on the roadmap as well 😀,brophdawg11,1604507454775009283,https://twitter.com/brophdawg11/status/1604507454775009283,_js spa's check probably hard wire manual ssr using remix router createstatichandler (unstable long!). additional framework support remix roadmap well 😀,positive,0.5078184008598328
+2022-12-18 16:01:56+00:00,"Which meta-framework is your favorite? 🧑‍💻
+Tell us why in the comments below 👇!
+1. Next.js
+2. Nuxt.js
+3. SvelteKit
+4. Other
+#js #poll",bryntum,1604507264924422151,https://twitter.com/bryntum/status/1604507264924422151,meta-framework favorite? 🧑‍💻 tell u comment 👇! 1. next.js 2. nuxt.js 3. sveltekit 4. j poll,neutral,0.8320357799530029
+2022-12-18 15:50:00+00:00,"@Zain_Wania @trpcio @t3dotgg @nuxt_js Great suggestion! We also love the idea of trpc and it’s on our roadmap to add it. For now we kept the scope small though, to get something useful out of the door more quickly (: 
+
+trpc will likely be the next module we add, thx to @wobsoriano it should be simple enough!",sidebase_io,1604504261362176001,https://twitter.com/sidebase_io/status/1604504261362176001,"_wania 3dotgg _js great suggestion! also love idea trpc it’s roadmap add it. kept scope small though, get something useful door quickly (: trpc likely next module add, thx simple enough!",positive,0.9812846779823303
+2022-12-18 15:42:48+00:00,"Been working learning Frontend development with the Nuxt framework, Telegram bots, API integration, I will be going into Blockchain development. My laptop has and bad screen, a low Ram and a poor battery state. 
+/1 https://t.co/0kbkEaQLQb https://t.co/gwMNrGkbNK",atimeforglory,1604502446985838597,https://twitter.com/atimeforglory/status/1604502446985838597,"working learning frontend development nuxt framework, telegram bots, api integration, going blockchain development. laptop bad screen, low ram poor battery state. /1",negative,0.6664082407951355
+2022-12-18 15:13:55+00:00,"Next, Nest, Nuxt Nust? via /r/hackernews https://t.co/gcIaHWkVAA",wvdsteen,1604495178009657344,https://twitter.com/wvdsteen/status/1604495178009657344,"next, nest, nuxt nust? via /r/hackernews",neutral,0.9215118288993835
+2022-12-18 14:21:33+00:00,@trpcio @sidebase_io @t3dotgg @nuxt_js as i say this i now see the composable they added which is great! i guess the tanstasck-query &lt;-&gt; trpc flow in create-t3-app is what im looking to figure out while respecting nuxts data fetching pattern,Zain_Wania,1604481999540224000,https://twitter.com/Zain_Wania/status/1604481999540224000,_io 3dotgg _js say see composable added great! guess tanstasck-query &lt;-&gt; trpc flow create-t3-app im looking figure respecting nuxts data fetching pattern,positive,0.8974432945251465
+2022-12-18 14:19:18+00:00,@trpcio @sidebase_io @t3dotgg @nuxt_js for sure! i'm trying to figure out more of how nuxts useFetch and useAsyncData can be wrapped in a nice way or implement a tanstack-query wrapper. Trying to figure out what the client side fetching should be like. i want all the features from tanstack query but the option to SSR,Zain_Wania,1604481432600154113,https://twitter.com/Zain_Wania/status/1604481432600154113,_io 3dotgg _js sure! i'm trying figure nuxts usefetch useasyncdata wrapped nice way implement tanstack-query wrapper. trying figure client side fetching like. want feature tanstack query option ssr,positive,0.5904204249382019
+2022-12-18 14:12:10+00:00,@Zain_Wania @sidebase_io @t3dotgg @nuxt_js Like this? https://t.co/qqAZWXBOuM,trpcio,1604479638407086080,https://twitter.com/trpcio/status/1604479638407086080,_wania _io 3dotgg _js like this?,neutral,0.7295756340026855
+2022-12-18 14:03:43+00:00,"@sidebase_io @t3dotgg @nuxt_js so happy to see this for the Nuxt Ecosystem, hopefully someone can get some @trpcio into it in a nuxt-y way",Zain_Wania,1604477510921916418,https://twitter.com/Zain_Wania/status/1604477510921916418,"_io 3dotgg _js happy see nuxt ecosystem, hopefully someone get nuxt-y way",positive,0.9652350544929504
+2022-12-18 13:48:33+00:00,"Next, Nest, Nuxt Nust? https://t.co/H6azgQALBR (https://t.co/lw52aoSkBG)",betterhn50,1604473695518412801,https://twitter.com/betterhn50/status/1604473695518412801,"next, nest, nuxt nust? (",neutral,0.8562024831771851
+2022-12-18 12:50:08+00:00,"Is there a Vue-based framework similar to SvelteKit and Remix (with non-waterfall nested data loading)?
+
+(Or how can I prevent waterfall loading with nested routes in @nuxt_js?)",MaOberlehner,1604458996643295232,https://twitter.com/MaOberlehner/status/1604458996643295232,vue-based framework similar sveltekit remix (with non-waterfall nested data loading)? (or prevent waterfall loading nested route _js?),neutral,0.9059193134307861
+2022-12-18 12:40:04+00:00,Where is @fireship_dev when you need him whats Nuxt :) https://t.co/Vu1NUbfNzf,hasokeric,1604456461689655302,https://twitter.com/hasokeric/status/1604456461689655302,_dev need whats nuxt :),neutral,0.6649358868598938
+2022-12-18 12:10:59+00:00,"Next and Nuxt (Vue) are both amazing.
+
+But thinking you can dumb down the backend to a simple data store is where I think a lot of problems will come from. 
+
+Separation of concerns is still a very valid concept. https://t.co/Vw4lUOQmFg",TadejKrevh,1604449144306892801,https://twitter.com/TadejKrevh/status/1604449144306892801,next nuxt (vue) amazing. thinking dumb backend simple data store think lot problem come from. separation concern still valid concept.,positive,0.8277581334114075
+2022-12-18 12:10:27+00:00,"@rauchg Next and Nuxt (Vue) are both amazing.
+
+But thinking you can dumb down the backend to a simple data store is where I think a lot of problems will come from. 
+
+Separation of concerns is still a very valid concept.",TadejKrevh,1604449010517180417,https://twitter.com/TadejKrevh/status/1604449010517180417,next nuxt (vue) amazing. thinking dumb backend simple data store think lot problem come from. separation concern still valid concept.,positive,0.8277581334114075
+2022-12-18 11:00:38+00:00,"Next, Nest, Nuxt Nust? https://t.co/d50IzG32mH (https://t.co/NsFNeoVJX7)",betterhn20,1604431438421676032,https://twitter.com/betterhn20/status/1604431438421676032,"next, nest, nuxt nust? (",neutral,0.8562024831771851
+2022-12-18 10:59:26+00:00,"I’m trying to understand the difference between @cloudflare workers and Cloudflare functions.
+
+It seems like it’s possible since a month to host a @nuxt_js SSR site on CF pages, but I can’t make it work.
+
+@CloudflareDev @CloudflareHelp",sam_odo,1604431137266405376,https://twitter.com/sam_odo/status/1604431137266405376,"i’m trying understand difference worker cloudflare functions. seems like it’s possible since month host _js ssr site cf pages, can’t make work.",negative,0.5255506634712219
+2022-12-18 10:41:21+00:00,"Next, Nest, Nuxt Nust? Mass surveillance says the Missing and Murdered Indigenous Movement is a SCAM by a CULT.  https://t.co/oD5KrQzhdK  #MMIWG  #mmiwg2s @EntICOnc #ezramiller 17 #MMIW",ImmaMannlicher,1604426584156405761,https://twitter.com/ImmaMannlicher/status/1604426584156405761,"next, nest, nuxt nust? mass surveillance say missing murdered indigenous movement scam cult. mmiwg mmiwg2s ezramiller 17 mmiw",negative,0.8100579977035522
+2022-12-18 10:35:49+00:00,"New top story on Hacker News: Next, Nest, Nuxt Nust? https://t.co/CFF9962Lx6",KamariaKusmawa1,1604425192012488704,https://twitter.com/KamariaKusmawa1/status/1604425192012488704,"new top story hacker news: next, nest, nuxt nust?",neutral,0.8920555114746094
+2022-12-18 10:35:30+00:00,"Next, Nest, Nuxt Nust? https://t.co/kw5cT9OqeS 
+14",tammeke140674,1604425114778583043,https://twitter.com/tammeke140674/status/1604425114778583043,"next, nest, nuxt nust? 14",neutral,0.8649458289146423
+2022-12-18 10:34:37+00:00,"Next, Nest, Nuxt Nust? https://t.co/osA8qKWoXv 
+14",InfernalZoltan,1604424892635660288,https://twitter.com/InfernalZoltan/status/1604424892635660288,"next, nest, nuxt nust? 14",neutral,0.8649458289146423
+2022-12-18 10:34:12+00:00,"Next, Nest, Nuxt Nust? https://t.co/iYwajcZ0cq 
+14",Hamoudy0001,1604424786066788352,https://twitter.com/Hamoudy0001/status/1604424786066788352,"next, nest, nuxt nust? 14",neutral,0.8649458289146423
+2022-12-18 10:34:09+00:00,"Next, Nest, Nuxt Nust? https://t.co/ImjkfbTJOS 
+14",undefined_ady,1604424775874629633,https://twitter.com/undefined_ady/status/1604424775874629633,"next, nest, nuxt nust? 14",neutral,0.8649458289146423
+2022-12-18 10:21:43+00:00,"New top story on Hacker News: Next, Nest, Nuxt Nust? https://t.co/h1XUy2GwO6",stockmaven2,1604421645665533959,https://twitter.com/stockmaven2/status/1604421645665533959,"new top story hacker news: next, nest, nuxt nust?",neutral,0.8920555114746094
+2022-12-18 10:20:50+00:00,"Next, Nest, Nuxt Nust?  - https://t.co/06b69O88Qg
+12 points - 3 comments - https://t.co/BBXFYZJmAg",CommentsHn,1604421424604712964,https://twitter.com/CommentsHn/status/1604421424604712964,"next, nest, nuxt nust? - 12 point - 3 comment -",neutral,0.916092038154602
+2022-12-18 10:19:04+00:00,@melvynxdev Effet Nuxt.js ?,quentin__js,1604420976149549056,https://twitter.com/quentin__js/status/1604420976149549056,effet nuxt.js ?,neutral,0.8651468753814697
+2022-12-18 10:12:00+00:00,"Next, Nest, Nuxt Nust?
+
+#javascript #server #comparing #opensource #page #static #frameworks #fram #user #nuxt #paint #framework #client #rendering #nest #gatsby #web
+
+https://t.co/9cHJokAFy6 https://t.co/4OUXUF9tMM",Hacker__News,1604419201027805184,https://twitter.com/Hacker__News/status/1604419201027805184,"next, nest, nuxt nust? javascript server comparing opensource page static framework fram user nuxt paint framework client rendering nest gatsby web",neutral,0.9002004861831665
+2022-12-18 10:09:38+00:00,"Next, Nest, Nuxt Nust? https://t.co/mta9kiimdn 
+10",SquareFpv,1604418602152632322,https://twitter.com/SquareFpv/status/1604418602152632322,"next, nest, nuxt nust? 10",neutral,0.856461763381958
+2022-12-18 10:08:16+00:00,"Next, Nest, Nuxt Nust? https://t.co/NvoLYTwhX9 
+6",cevaboyz,1604418260132306946,https://twitter.com/cevaboyz/status/1604418260132306946,"next, nest, nuxt nust? 6",neutral,0.8373335003852844
+2022-12-18 10:08:14+00:00,"https://t.co/nB1gimaAyP #domain #hosting #crypto #seo #trending #coupon
+News: Next, Nest, Nuxt Nust? https://t.co/iGRRMXDWeO",timesofnews_,1604418250678435841,https://twitter.com/timesofnews_/status/1604418250678435841,"domain hosting crypto seo trending coupon news: next, nest, nuxt nust?",neutral,0.941188395023346
+2022-12-18 10:06:58+00:00,"Next, Nest, Nuxt Nust? https://t.co/VYoNun0rZR 
+6",superstarphilko,1604417931080863744,https://twitter.com/superstarphilko/status/1604417931080863744,"next, nest, nuxt nust? 6",neutral,0.8373335003852844
+2022-12-18 10:05:44+00:00,kazupon starred nuxt-modules/partytown on github https://t.co/v38VjyCZlX,kazu_pon,1604417622921060354,https://twitter.com/kazu_pon/status/1604417622921060354,kazupon starred nuxt-modules/partytown github,neutral,0.9235215187072754
+2022-12-18 10:02:28+00:00,"New top story on Hacker News: Next, Nest, Nuxt Nust? https://t.co/HQ0KZrcOgc",newsvogueindia,1604416801827340290,https://twitter.com/newsvogueindia/status/1604416801827340290,"new top story hacker news: next, nest, nuxt nust?",neutral,0.8920555114746094
+2022-12-18 10:02:22+00:00,"New top story on Hacker News: Next, Nest, Nuxt Nust? https://t.co/8fOipUP6O1",FatigaMentalFM,1604416776615477251,https://twitter.com/FatigaMentalFM/status/1604416776615477251,"new top story hacker news: next, nest, nuxt nust?",neutral,0.8920555114746094
+2022-12-18 10:01:14+00:00,"Next, Nest, Nuxt Nust? https://t.co/LpGTdDpfoO",newsycombinator,1604416490752864256,https://twitter.com/newsycombinator/status/1604416490752864256,"next, nest, nuxt nust?",neutral,0.8721182346343994
+2022-12-18 10:00:04+00:00,"Next, Nest, Nuxt Nust? https://t.co/TwahTmCdg3 
+6",edmlmd,1604416196669050884,https://twitter.com/edmlmd/status/1604416196669050884,"next, nest, nuxt nust? 6",neutral,0.8373335003852844
+2022-12-18 10:00:03+00:00,"Next, Nest, Nuxt Nust: https://t.co/4KooLhXQGj Comments: https://t.co/dVkpyUvjAH",HNTweets,1604416190646034433,https://twitter.com/HNTweets/status/1604416190646034433,"next, nest, nuxt nust: comments:",neutral,0.9089082479476929
+2022-12-18 09:59:15+00:00,"New top story on #HackerNews: Next, Nest, Nuxt Nust? EntICOnc
+ https://t.co/mta9kiimdn",SquareFpv,1604415990883835904,https://twitter.com/SquareFpv/status/1604415990883835904,"new top story hackernews: next, nest, nuxt nust? enticonc",neutral,0.8877221941947937
+2022-12-18 09:57:03+00:00,"Next, Nest, Nuxt Nust? https://t.co/fSrTiTWpwV #news #technology #TechnologyNews #infosec #cybersecurity #hacking",bartezzini,1604415437990772737,https://twitter.com/bartezzini/status/1604415437990772737,"next, nest, nuxt nust? news technology technologynews infosec cybersecurity hacking",neutral,0.8796331286430359
+2022-12-18 09:57:02+00:00,"Next, Nest, Nuxt Nust? https://t.co/KxDbf92SNS",winsontang,1604415434924908544,https://twitter.com/winsontang/status/1604415434924908544,"next, nest, nuxt nust?",neutral,0.8721182346343994
+2022-12-18 09:55:53+00:00,"Next, Nest, Nuxt Nust? https://t.co/tt8rLTe2tS 
+4",sjoerdapp,1604415141671477249,https://twitter.com/sjoerdapp/status/1604415141671477249,"next, nest, nuxt nust? 4",neutral,0.8295862674713135
+2022-12-18 09:54:39+00:00,"Next, Nest, Nuxt Nust? https://t.co/bjlhldkZiO 
+3",knelsonvsi,1604414834820489216,https://twitter.com/knelsonvsi/status/1604414834820489216,"next, nest, nuxt nust? 3",neutral,0.8308954834938049
+2022-12-18 09:52:31+00:00,"Next, Nest, Nuxt Nust? https://t.co/HHRprJJFQj 
+3",radoncnotes,1604414297106432001,https://twitter.com/radoncnotes/status/1604414297106432001,"next, nest, nuxt nust? 3",neutral,0.8308954834938049
+2022-12-18 09:52:25+00:00,"Next, Nest, Nuxt Nust? https://t.co/9sq7Huj0is 
+3",jslauria,1604414273333116929,https://twitter.com/jslauria/status/1604414273333116929,"next, nest, nuxt nust? 3",neutral,0.8308954834938049
+2022-12-18 09:51:37+00:00,"Next, Nest, Nuxt Nust? https://t.co/CKOCSV2T1l 
+3",Rgaloz07,1604414070085619712,https://twitter.com/Rgaloz07/status/1604414070085619712,"next, nest, nuxt nust? 3",neutral,0.8308954834938049
+2022-12-18 09:50:56+00:00,"Next, Nest, Nuxt Nust?
+Link: https://t.co/msLTZxxovR
+Comments: https://t.co/cdAt2wtPiI",HackerNewsTop10,1604413895896186883,https://twitter.com/HackerNewsTop10/status/1604413895896186883,"next, nest, nuxt nust? link: comments:",neutral,0.9183299541473389
+2022-12-18 09:50:35+00:00,"Next, Nest, Nuxt Nust? https://t.co/fZjmQ32Wj2",Its502geekguy,1604413809849942016,https://twitter.com/Its502geekguy/status/1604413809849942016,"next, nest, nuxt nust?",neutral,0.8721182346343994
+2022-12-18 09:50:19+00:00,"Next, Nest, Nuxt Nust? https://t.co/WZqFKTbxxT 
+3",terrypferguson,1604413742565007360,https://twitter.com/terrypferguson/status/1604413742565007360,"next, nest, nuxt nust? 3",neutral,0.8308954834938049
+2022-12-18 09:49:16+00:00,"Next, Nest, Nuxt Nust?
+L: https://t.co/tBMEpoWVBf
+C: https://t.co/OOR8cEp7Tk",hn_frontpage,1604413478273519619,https://twitter.com/hn_frontpage/status/1604413478273519619,"next, nest, nuxt nust? l: c:",neutral,0.8813968300819397
+2022-12-18 09:43:34+00:00,"Next, Nest, Nuxt Nust? https://t.co/1VhvY6MBqE",CybervanUsa,1604412045213982721,https://twitter.com/CybervanUsa/status/1604412045213982721,"next, nest, nuxt nust?",neutral,0.8721182346343994
+2022-12-18 09:19:27+00:00,"Anyone worked with @CreativeTim templates? Most interested in Nuxt but general feedback useful as well.
+
+They now have a lifetime bundle with access to all curent &amp; future products for $349, and I’m wondering if it’s worth it? https://t.co/8ynyNaClOT",vovahimself,1604405973203968000,https://twitter.com/vovahimself/status/1604405973203968000,"anyone worked templates? interested nuxt general feedback useful well. lifetime bundle access curent &amp; future product $349, i’m wondering it’s worth it?",neutral,0.6420802474021912
+2022-12-18 09:00:13+00:00,node.js - How to use vuetify in nuxt js as plugin? - Stack Overflow https://t.co/GG4jryCZGr,Zect3279,1604401135603023875,https://twitter.com/Zect3279/status/1604401135603023875,node.js - use vuetify nuxt j plugin? - stack overflow,neutral,0.9386201500892639
+2022-12-18 08:58:41+00:00,"Nuxt devs, does Copilot “know” version 3?
+
+I mean, it obviously can “learn” any language/framework as you use it, but is it good right out of the box?",vovahimself,1604400748111994880,https://twitter.com/vovahimself/status/1604400748111994880,"nuxt devs, copilot “know” version 3? mean, obviously “learn” language/framework use it, good right box?",positive,0.586015522480011
+2022-12-18 06:05:35+00:00,I have finally launched my personal blog  (https://t.co/vbya6VVqvY) site using @nuxt_js. It was a great learning experience. I would like to thank @vercel for hosting my site. The site uses @tailwindcss for styles. Thanks everyone!,prashantnix,1604357187404300288,https://twitter.com/prashantnix/status/1604357187404300288,finally launched personal blog ( site using _js. great learning experience. would like thank hosting site. site us styles. thanks everyone!,positive,0.9787260293960571
+2022-12-18 06:04:53+00:00,"mungkin sedikit nirempati, but we can see how well they handle this situation. https://t.co/z5yf8eVlQi",JavaNuxtCppKoa,1604357008567607296,https://twitter.com/JavaNuxtCppKoa/status/1604357008567607296,"mungkin sedikit nirempati, see well handle situation.",neutral,0.7148697376251221
+2022-12-18 06:00:17+00:00,"Next, Nest, Nuxt… Nust? https://t.co/y3ITW80Uq7",noservershere,1604355851581628417,https://twitter.com/noservershere/status/1604355851581628417,"next, nest, nuxt… nust?",neutral,0.8482387661933899
+2022-12-18 02:09:45+00:00,@iambenjamen Yeah nuxt/image has had it for a while.,htmleverything,1604297838879739904,https://twitter.com/htmleverything/status/1604297838879739904,yeah nuxt/image while.,neutral,0.8859258890151978
+2022-12-18 01:26:35+00:00,@heygambo @flaviocopes I'm waiting for an updated version for this one but with Next/Nuxt and modern-day frameworks,_84436,1604286973036072960,https://twitter.com/_84436/status/1604286973036072960,i'm waiting updated version one next/nuxt modern-day framework,neutral,0.7927785515785217
+2022-12-17 23:00:13+00:00,"@ShawnaStaffReal Doing goood ☺️ some progress on my portfolio with Nuxt and vacation going chill so far 😍
+
+What about you?",SergiiKirianov,1604250141669658631,https://twitter.com/SergiiKirianov/status/1604250141669658631,goood ☺️ progress portfolio nuxt vacation going chill far 😍 you?,positive,0.9794061779975891
+2022-12-17 22:57:01+00:00,Upgraded world's fastest flight distance calculator to Nuxt 3. Pretty happy with the performance. Check it out: https://t.co/HkCryPHYKy https://t.co/NgCXeJSCga,MarcoNL88,1604249334664507392,https://twitter.com/MarcoNL88/status/1604249334664507392,upgraded world's fastest flight distance calculator nuxt 3. pretty happy performance. check out:,positive,0.9854855537414551
+2022-12-17 22:44:45+00:00,"Note: People with good 👀 or clever🧠 may be able to figure out the command already (; 
+
+We hope that this tool can make a big difference in people starting to use @vuejs / @nuxt_js for work, hackathons, ...",sidebase_io,1604246249040777216,https://twitter.com/sidebase_io/status/1604246249040777216,"note: people good 👀 clever🧠 may able figure command already (; hope tool make big difference people starting use / _js work, hackathons, ...",positive,0.9559318423271179
+2022-12-17 22:44:44+00:00,"Inspired by @t3dotgg we're building create-sidebase to create fullstack typesafe @nuxt_js 3 apps in seconds
+
+The CLI is almost ready and we're already testing it with our Discord server 🐑🐑
+
+Stay tuned for the release or join the alpha here: https://t.co/X3f999CDuO https://t.co/eEkTeqK8Oi",sidebase_io,1604246243634462721,https://twitter.com/sidebase_io/status/1604246243634462721,inspired 3dotgg we're building create-sidebase create fullstack typesafe _js 3 apps second cli almost ready we're already testing discord server 🐑🐑 stay tuned release join alpha here:,positive,0.6695243120193481
+2022-12-17 20:43:08+00:00,"I am new to strapi but I started to play around with it for a nuxt app.
+Bumped into a few strange bugs, but seems to be a starting of a long friendship.",radharadhya,1604215641258483714,https://twitter.com/radharadhya/status/1604215641258483714,"new strapi started play around nuxt app. bumped strange bugs, seems starting long friendship.",neutral,0.7066206932067871
+2022-12-17 20:08:32+00:00,@nosajio @jarredsumner Hope one framework can be @nuxt_js 🚀,noisedotbar,1604206933329580033,https://twitter.com/noisedotbar/status/1604206933329580033,hope one framework _js 🚀,positive,0.8193017840385437
+2022-12-17 19:28:41+00:00,@jarredsumner I belive nuxt team would love to work with you,MathieuJ85,1604196907126923265,https://twitter.com/MathieuJ85/status/1604196907126923265,belive nuxt team would love work,positive,0.9148695468902588
+2022-12-17 18:51:20+00:00,"I'm live on Twitch to choose a Full Stack framework. Next.js, Remix, Nuxt and Sveltekit are all in the running. Come hang out: https://t.co/37wHHYNWQV",coding_garden,1604187508069134337,https://twitter.com/coding_garden/status/1604187508069134337,"i'm live twitch choose full stack framework. next.js, remix, nuxt sveltekit running. come hang out:",neutral,0.5932552218437195
+2022-12-17 17:55:37+00:00,"The fact that I just had to include the env variables for @supabase and @nuxt_js did the heavy lifting of creating the client for me and I can just use it anywhere with a neat ""hook"" is dope 🔥#coding #javascript #vuejs https://t.co/5E7AjQdQVt https://t.co/yz2zRe2TLk",iam_johannesm,1604173484967755776,https://twitter.com/iam_johannesm/status/1604173484967755776,"fact include env variable _js heavy lifting creating client use anywhere neat ""hook"" dope 🔥coding javascript vuejs",positive,0.8852359056472778
+2022-12-17 17:50:36+00:00,Cozymart NuxtJs WebSite Application by Bambang Setyawan https://t.co/lu8HtcZ0J7,cozymart,1604172223165919232,https://twitter.com/cozymart/status/1604172223165919232,cozymart nuxtjs website application bambang setyawan,neutral,0.8828614950180054
+2022-12-17 16:57:48+00:00,@devagrawal09 Tailwind integration has never been so easy as Nuxt 3 does it,icarusgkx,1604158932741767168,https://twitter.com/icarusgkx/status/1604158932741767168,09 tailwind integration never easy nuxt 3,negative,0.6247843503952026
+2022-12-17 16:50:01+00:00,"Nuxt 3 helps you develop Vue3 based apps quickly take a look at https://t.co/MmllpGYrQA to understand the minimal project structure
+
+#javascript #typescript #vue https://t.co/PZlL6DnAtG",gary_woodfine,1604156975331577857,https://twitter.com/gary_woodfine/status/1604156975331577857,nuxt 3 help develop vue3 based apps quickly take look understand minimal project structure javascript typescript vue,positive,0.6321431398391724
+2022-12-17 16:46:00+00:00,"Hey NFT fam
+Happy weekend 💜
+
+So glad I finally had the time to work on my portfolio. Im building an OpenSource fullstack server side rendering template on nuxt.js, integrating API, blockchain, creative coding sketches…
+
+Let me know if interested fam!
+
+#webdev https://t.co/umEr0SeXxL",philmo_mu,1604155965892435968,https://twitter.com/philmo_mu/status/1604155965892435968,"hey nft fam happy weekend 💜 glad finally time work portfolio. im building opensource fullstack server side rendering template nuxt.js, integrating api, blockchain, creative coding sketches… let know interested fam! webdev",positive,0.9806488752365112
+2022-12-17 15:10:13+00:00,"So you can pretty much make a website in Vue (and maybe Nuxt as well) and the stack will be pretty much up-to-date for *a long* time.
+
+Whereas in React, if you pick a project up after one year, you're on for some fun time updating dependencies. Specially with version conflicts.",kyranet_,1604131861047177219,https://twitter.com/kyranet_/status/1604131861047177219,"pretty much make website vue (and maybe nuxt well) stack pretty much up-to-date *a long* time. whereas react, pick project one year, fun time updating dependencies. specially version conflicts.",neutral,0.6429396867752075
+2022-12-17 15:06:59+00:00,"@alakbarnurul @shuding_ I think there are two definitions, one narrow, that only applies to SSR frameworks like next/nuxt/SvelteKit. But wider definition covers any JavaScript that is running to make your app interactive (to add event handlers). So it fits the second one, but doesn't fit the first one",ParasocialFix,1604131048144572416,https://twitter.com/ParasocialFix/status/1604131048144572416,"_ think two definitions, one narrow, applies ssr framework like next/nuxt/sveltekit. wider definition cover javascript running make app interactive (to add event handlers). fit second one, fit first one",neutral,0.8654688000679016
+2022-12-17 14:33:56+00:00,"@alvarosabu @jacobandrewsky Oops it looks like I've had a stroke, autocorrect 🙄 I meant to say 'preload my three.js ASSETS in NUXT with VUE useHead'",felixthehat,1604122728688123904,https://twitter.com/felixthehat/status/1604122728688123904,"oops look like i've stroke, autocorrect 🙄 meant say 'preload three.js asset nuxt vue usehead'",neutral,0.4976508617401123
+2022-12-17 14:15:14+00:00,"@DevTobs I started learning frontend at the beginning of the year, Nuxtjs, then Nodejs, now I want to further my knowledge into block chain development.",Idonges70465054,1604118022263738369,https://twitter.com/Idonges70465054/status/1604118022263738369,"started learning frontend beginning year, nuxtjs, nodejs, want knowledge block chain development.",neutral,0.6618036031723022
+2022-12-17 14:09:00+00:00,NuxtJS version 3 has been released - Announcing 3.0 · Nuxt https://t.co/nnZ6Nrc4Nf #nuxtjs #Vuejs #javascript,paulund,1604116455150297088,https://twitter.com/paulund/status/1604116455150297088,nuxtjs version 3 released - announcing 3.0 · nuxt nuxtjs vuejs javascript,neutral,0.8786162734031677
+2022-12-17 14:07:07+00:00,"@hackSultan From beginning of the year I set out to learn Frontend, Nuxtjs. Then to Nodejs and create few projects with the help of @theZuriTeam , via their i4gxZuri training, I want to proceed to Blockchain this holiday period. I have been have issues keeping up with data. All year round.",Idonges70465054,1604115982187888640,https://twitter.com/Idonges70465054/status/1604115982187888640,"beginning year set learn frontend, nuxtjs. nodejs create project help , via i4gxzuri training, want proceed blockchain holiday period. issue keeping data. year round.",neutral,0.8040334582328796
+2022-12-17 12:51:05+00:00,"Next 13, Nuxt, Svelte-kit, React-Native... These are the tools that I spend this holiday with., 🎵",hazemid_o,1604096845894111233,https://twitter.com/hazemid_o/status/1604096845894111233,"next 13, nuxt, svelte-kit, react-native... tool spend holiday with., 🎵",neutral,0.5581187009811401
+2022-12-17 12:01:22+00:00,"Next, Nest, Nuxt… Nust? https://t.co/y3ITW80Uq7",noservershere,1604084335556034561,https://twitter.com/noservershere/status/1604084335556034561,"next, nest, nuxt… nust?",neutral,0.8482387661933899
+2022-12-17 08:58:53+00:00,This Friday I had time to migrate personal site to new tech stack. This time its @vuejs @nuxt_js &amp; #nuxtcontent @tailwindcss.,bruno__alfred,1604038409781231616,https://twitter.com/bruno__alfred/status/1604038409781231616,friday time migrate personal site new tech stack. time _js &amp; nuxtcontent .,neutral,0.9067639112472534
+2022-12-17 08:30:19+00:00,"@maxedapps Hi Max, Thankyou so much for the vue courses, i really loved it. And i am about to ask you about nuxt js course update, are you have any plan to update the course into nuxt 3. I really enjoy to learn programming things with your course :).",imadegautama,1604031224086814720,https://twitter.com/imadegautama/status/1604031224086814720,"hi max, thankyou much vue courses, really loved it. ask nuxt j course update, plan update course nuxt 3. really enjoy learn programming thing course :).",positive,0.9867000579833984
+2022-12-17 06:17:47+00:00,"@nilansaha - Frontend - Nuxt
+- Backend - Nodejs / python
+- DB - Firebase
+- Hosting - Netlify",matifanger,1603997868989333504,https://twitter.com/matifanger/status/1603997868989333504,- frontend - nuxt - backend - nodejs / python - db - firebase - hosting - netlify,neutral,0.8977768421173096
+2022-12-17 05:22:24+00:00,@danpastori @nuxt_js Yay! Perfect timing for me 😅,jameshull,1603983931262410758,https://twitter.com/jameshull/status/1603983931262410758,_js yay! perfect timing 😅,positive,0.9859837889671326
+2022-12-17 05:12:55+00:00,"@zhengqbbb @nuxt_js Feel free to read the code 😛
+
+The screenshot mode is very simple, just playwright taking screenshots of every pre-rendered page.
+
+The Nuxt Islands is a bit more complex but overall still simple. Just inserting payloads into HTML and using them as props when rendering the islands",harlan_zw,1603981543122223104,https://twitter.com/harlan_zw/status/1603981543122223104,"_js feel free read code 😛 screenshot mode simple, playwright taking screenshots every pre-rendered page. nuxt island bit complex overall still simple. inserting payload html using prop rendering island",neutral,0.5168883204460144
+2022-12-17 05:06:44+00:00,"@dubem_design @nuxt_js By default, it tries to use your local chrome binary if available.
+
+Or are you trying to get it to generate images without running a headless browser?",harlan_zw,1603979990785462272,https://twitter.com/harlan_zw/status/1603979990785462272,"_design _js default, try use local chrome binary available. trying get generate image without running headless browser?",neutral,0.8914110660552979
+2022-12-17 04:56:26+00:00,"@harlan_zw @nuxt_js Wow this is awesome. Let me test this.  Am thinking, is there an alternative for puppeteer?",dubem_design,1603977396939620352,https://twitter.com/dubem_design/status/1603977396939620352,"_zw _js wow awesome. let test this. thinking, alternative puppeteer?",positive,0.9699325561523438
+2022-12-17 04:29:15+00:00,@harlan_zw @nuxt_js Wow!!! how it work ?🤩,zhengqbbb,1603970556075773953,https://twitter.com/zhengqbbb/status/1603970556075773953,_zw _js wow!!! work ?🤩,positive,0.981635332107544
+2022-12-17 04:28:50+00:00,@JoJoFromJerz Such rage..... LEFTIST DERANGEMENT IS QUITE COMICAL! 🤣🤣🤣🤣,apux_nuxt,1603970451369504768,https://twitter.com/apux_nuxt/status/1603970451369504768,rage..... leftist derangement quite comical! 🤣🤣🤣🤣,negative,0.82737797498703
+2022-12-17 04:25:06+00:00,@FrankMikeDavis1 @JoJoFromJerz Want a list? 🤣🤣,apux_nuxt,1603969512361324544,https://twitter.com/apux_nuxt/status/1603969512361324544,1 want list? 🤣🤣,neutral,0.7903660535812378
+2022-12-17 04:20:26+00:00,@JoJoFromJerz How are all the liberals enjoying Twitter now its not SO much of a left wing echo chamber?.....  im seeing a fair bit of panicked DERANGEMENT!  🤣🤣🤣🤣,apux_nuxt,1603968337297694720,https://twitter.com/apux_nuxt/status/1603968337297694720,liberal enjoying twitter much left wing echo chamber?..... im seeing fair bit panicked derangement! 🤣🤣🤣🤣,negative,0.6831456422805786
+2022-12-17 04:14:19+00:00,"@JoJoFromJerz SUCH LIBERAL DERANGEMENT.
+
+WOW.",apux_nuxt,1603966798730530816,https://twitter.com/apux_nuxt/status/1603966798730530816,liberal derangement. wow.,negative,0.8825821280479431
+2022-12-17 03:47:31+00:00,"@caslernoel @elonmusk Oh noel.... those panties need untangling.
+🤣",apux_nuxt,1603960055338274817,https://twitter.com/apux_nuxt/status/1603960055338274817,oh noel.... panty need untangling. 🤣,neutral,0.5337216854095459
+2022-12-17 03:45:55+00:00,"@MayoIsSpicyy REEEEE  
+PANIC ON THE DNC DANCE FLOOR🤣🤣🤣🤣",apux_nuxt,1603959648834703360,https://twitter.com/apux_nuxt/status/1603959648834703360,reeeee panic dnc dance floor🤣🤣🤣🤣,neutral,0.5736710429191589
+2022-12-17 02:29:29+00:00,"@Timb03 @nuxt_js @render No man, I used it to tried out the magick, and exploring some ideas for a project Im baking. 
+I feel very inspired for all other things you have build like Pallyy, it's huge, how it got started ? if it's ok to ask",daguitosama,1603940415593390082,https://twitter.com/daguitosama/status/1603940415593390082,"03 _js man, used tried magick, exploring idea project im baking. feel inspired thing build like pallyy, huge, got started ? ok ask",positive,0.6847686767578125
+2022-12-17 01:35:00+00:00,@RukhsarMan @nuxt_js Will have a components demo once I can get docus working with 3.1,harlan_zw,1603926705495715840,https://twitter.com/harlan_zw/status/1603926705495715840,_js component demo get docus working 3.1,neutral,0.673799455165863
+2022-12-17 01:33:22+00:00,"@RukhsarMan @nuxt_js All of my doc sites are using the screenshot feature 
+
+https://t.co/z7nV49vF6R",harlan_zw,1603926292235108352,https://twitter.com/harlan_zw/status/1603926292235108352,_js doc site using screenshot feature,neutral,0.8608391284942627
+2022-12-17 01:19:54+00:00,@Shpigford can you store the shuffled text in another field on `paragraph` instead of calling the method in markup?  i don't know react/next (just vue/nuxt),J0hnBryant,1603922902902276096,https://twitter.com/J0hnBryant/status/1603922902902276096,store shuffled text another field `paragraph` instead calling method markup? know react/next (just vue/nuxt),neutral,0.825206458568573
+2022-12-17 00:45:35+00:00,"Write your next, nuxt, svelte, astro app in vanilla JS, only then can you begin to convince me how bad tailwind is. If you want to be a purist so be it, but don’t pick and choose what to be pure about.",awcodes1,1603914266842497024,https://twitter.com/awcodes1/status/1603914266842497024,"write next, nuxt, svelte, astro app vanilla js, begin convince bad tailwind is. want purist it, don’t pick choose pure about.",negative,0.5390550494194031
+2022-12-17 00:32:57+00:00,"@vercel_support how can i override package config? i.e. locally i use a local path:
+
+    ""nuxt-dsi"": ""file:../../../nuxt/nuxt-dsi"",
+
+...but i want to use the npm version on vercel",l422y,1603911088558448647,https://twitter.com/l422y/status/1603911088558448647,"_support override package config? i.e. locally use local path: ""nuxt-dsi"": ""file:../../../nuxt/nuxt-dsi"", ...but want use npm version vercel",neutral,0.907164454460144
+2022-12-17 00:00:17+00:00,"Next, Nest, Nuxt… Nust? https://t.co/y3ITW80Uq7",noservershere,1603902869324939264,https://twitter.com/noservershere/status/1603902869324939264,"next, nest, nuxt… nust?",neutral,0.8482387661933899
+2022-12-16 23:08:03+00:00,@harlan_zw @nuxt_js 😍 is amazing,ramsesgarate,1603889722858045440,https://twitter.com/ramsesgarate/status/1603889722858045440,_zw _js 😍 amazing,positive,0.9714615941047668
+2022-12-16 22:33:41+00:00,"G'day!
+New #replitbounty Add OpenAI whisper to Vue.js app by https://t.co/ZgSQp8gH4O
+
+I built this GPT driven language learning web app in Vue.js and Nuxt 3:
+https://www....
+
+Earn 9900 cycles ($99.00)!
+
+https://t.co/gnUSea1AYe",gdaybot,1603881075381501952,https://twitter.com/gdaybot/status/1603881075381501952,g'day! new replitbounty add openai whisper vue.js app built gpt driven language learning web app vue.js nuxt 3: earn 9900 cycle ($99.00)!,positive,0.5457159280776978
+2022-12-16 22:20:37+00:00,"Getting Started with Nuxt3  
+https://t.co/JGusTuoeSV  
+#dev #javascript #nuxt
+December 16, 2022",gary_woodfine,1603877786351009794,https://twitter.com/gary_woodfine/status/1603877786351009794,"getting started nuxt3 dev javascript nuxt december 16, 2022",neutral,0.8830788731575012
+2022-12-16 21:52:31+00:00,@harlan_zw @nuxt_js Wow! Is there any working demo repo?,RukhsarMan,1603870715882659863,https://twitter.com/RukhsarMan/status/1603870715882659863,_zw _js wow! working demo repo?,positive,0.8441410660743713
+2022-12-16 21:42:34+00:00,@Atinux @nuxt_js @alvarosabu Issue created 👉: https://t.co/4ASYnevUTv,dev_adeyemi,1603868210520104960,https://twitter.com/dev_adeyemi/status/1603868210520104960,_js issue created 👉:,neutral,0.6944406032562256
+2022-12-16 21:33:43+00:00,"@alex_kozack Wowza, thanks for the long-form explanation! Good points, we’ll look into this (: Maybe also something that @tannerlinsley may want to look at hinself for the vue/nuxt integration 🌈
+
+We’ll get back to you when we move ahead with something here (: Have a good night 🌙",sidebase_io,1603865982790950918,https://twitter.com/sidebase_io/status/1603865982790950918,"_kozack wowza, thanks long-form explanation! good points, we’ll look (: maybe also something may want look hinself vue/nuxt integration 🌈 we’ll get back move ahead something (: good night 🌙",positive,0.9769198894500732
+2022-12-16 21:16:41+00:00,"Quick and easy introduction to #JAMstack - read our blogpost 👉 https://t.co/DIB7UeUGCH
+
+#javascript #HTML #React #Vue #css #webdev #nosql #startups #nextjs #nuxt #docusaurus #backend #FrontEndDeveloper",codehooksio,1603861696388423689,https://twitter.com/codehooksio/status/1603861696388423689,quick easy introduction jamstack - read blogpost 👉 javascript html react vue cs webdev nosql startup nextjs nuxt docusaurus backend frontenddeveloper,neutral,0.7651637196540833
+2022-12-16 21:10:56+00:00,@taylorotwell This is so crazy! State management like Next or Nuxt? Wow 😂,yehanny,1603860250158850051,https://twitter.com/yehanny/status/1603860250158850051,crazy! state management like next nuxt? wow 😂,positive,0.4564388692378998
+2022-12-16 20:45:09+00:00,"@Atinux @nuxt_js @alvarosabu Ok, Will do!",dev_adeyemi,1603853761402834953,https://twitter.com/dev_adeyemi/status/1603853761402834953,"_js ok, do!",positive,0.5461359620094299
+2022-12-16 20:40:07+00:00,"So stoked to be working on our API book today, aiming of a full launch date of Q1 2023. 
+
+Using @nuxt_js 3 stable is so rewarding!",danpastori,1603852496220393487,https://twitter.com/danpastori/status/1603852496220393487,"stoked working api book today, aiming full launch date q1 2023. using _js 3 stable rewarding!",positive,0.9452481865882874
+2022-12-16 20:29:28+00:00,@dev_adeyemi @nuxt_js @alvarosabu Then can you please create an issue in Nuxt Content so I can keep track of it (weekend is coming),Atinux,1603849815724478464,https://twitter.com/Atinux/status/1603849815724478464,_adeyemi _js please create issue nuxt content keep track (weekend coming),neutral,0.8700753450393677
+2022-12-16 20:26:00+00:00,@Ashishjas2002 Vue 2/Nuxt 2. Upgrading soon to Vue3/Nuxt3,designcoursecom,1603848943217086477,https://twitter.com/designcoursecom/status/1603848943217086477,2002 vue 2/nuxt 2. upgrading soon vue3/nuxt3,neutral,0.7884811162948608
+2022-12-16 20:22:58+00:00,"Very good chance this experiment is never released. However, I just want to share some pure cosmic Laravel energy with you on this fine Friday. ⚡
+
+Single-file anonymous Livewire components with page based routing a la Next / Nuxt, etc? Don't mind if I do. 👽
+
+🏄‍♂️ https://t.co/E2DgjpLP5L",taylorotwell,1603848180596035584,https://twitter.com/taylorotwell/status/1603848180596035584,"good chance experiment never released. however, want share pure cosmic laravel energy fine friday. ⚡ single-file anonymous livewire component page based routing la next / nuxt, etc? mind do. 👽 🏄‍♂️",neutral,0.7191572189331055
+2022-12-16 20:15:26+00:00,"@Atinux @nuxt_js @alvarosabu Was developing locally cause the template ain't ready yet, just pushed to a REPO now. 
+
+HERE -&gt; https://t.co/bT2iIdtRjv",dev_adeyemi,1603846282828779530,https://twitter.com/dev_adeyemi/status/1603846282828779530,"_js developing locally cause template ain't ready yet, pushed repo now. -&gt;",neutral,0.499044805765152
+2022-12-16 20:10:43+00:00,@dev_adeyemi @nuxt_js @alvarosabu Can you share with me the repo?,Atinux,1603845096105185280,https://twitter.com/Atinux/status/1603845096105185280,_adeyemi _js share repo?,neutral,0.9443355202674866
+2022-12-16 20:09:08+00:00,"@nuxt_js @Atinux ... me trying to use the &lt;ContentDoc /&gt; component to display the blog post body and the second frame is the error I'm getting.
+
+Already searched Github, Issues and StackOverflow. Been stuck for 4 days now, HELPPPPP.
+
+@alvarosabu",dev_adeyemi,1603844696077438985,https://twitter.com/dev_adeyemi/status/1603844696077438985,"_js ... trying use &lt;contentdoc /&gt; component display blog post body second frame error i'm getting. already searched github, issue stackoverflow. stuck 4 day now, helppppp.",negative,0.8898244500160217
+2022-12-16 20:08:36+00:00,"@RyanCarniato You did Qwik City, Next, Solid Start Nuxt, Astro, and now @angular will @\svelekit be next. The Big Frameworks streams era would be complete for me if you do.",SheltonLouisX,1603844562623074322,https://twitter.com/SheltonLouisX/status/1603844562623074322,"qwik city, next, solid start nuxt, astro, @\svelekit next. big framework stream era would complete do.",positive,0.6445930600166321
+2022-12-16 20:06:06+00:00,"@nuxt_js @Atinux 
+
+Hey guys 👋, I'm trying to make a Nuxt starter blog template for free use with Nuxt V3 and Content module V2.
+
+Everything is working fine until I tried to make a *Catch All Route** Vue file to display individual blog post body.
+
+The first frame is me simply.. https://t.co/Ty5hYEXio9",dev_adeyemi,1603843934534438913,https://twitter.com/dev_adeyemi/status/1603843934534438913,"_js hey guy 👋, i'm trying make nuxt starter blog template free use nuxt v3 content module v2. everything working fine tried make *catch route** vue file display individual blog post body. first frame simply..",positive,0.7306584715843201
+2022-12-16 19:33:49+00:00,it seems that @designcoursecom website  build with Vue js. For static site generators-: nuxt js. I am not pretty sure though.,Ashishjas2002,1603835807961583616,https://twitter.com/Ashishjas2002/status/1603835807961583616,seems website build vue js. static site generators-: nuxt js. pretty sure though.,neutral,0.8865044116973877
+2022-12-16 19:31:46+00:00,@Nuxtusjs @nuxt_js @directus I hope that be built in to the core someday. I’d love to ditch wp and elementor for these.,vazarks,1603835292707848211,https://twitter.com/vazarks/status/1603835292707848211,_js hope built core someday. i’d love ditch wp elementor these.,positive,0.536484956741333
+2022-12-16 17:19:26+00:00,@reinink Do you have plans to make something for nuxt?,ArielMejiaDev,1603801989401702400,https://twitter.com/ArielMejiaDev/status/1603801989401702400,plan make something nuxt?,neutral,0.9163364171981812
+2022-12-16 16:55:50+00:00,"@fryingneurons Ahahah you should use whatever you comfortable with IMO!
+
+I use Nuxt and Supabase :)",T_Zahil,1603796053001650177,https://twitter.com/T_Zahil/status/1603796053001650177,ahahah use whatever comfortable imo! use nuxt supabase :),positive,0.7605153918266296
+2022-12-16 16:40:58+00:00,@harlan_zw @nuxt_js I was actually thinking of building something similar with vercels satori for Nuxt.,fayazara,1603792308641869829,https://twitter.com/fayazara/status/1603792308641869829,_zw _js actually thinking building something similar vercels satori nuxt.,neutral,0.9093302488327026
+2022-12-16 16:03:47+00:00,"Today, mostly been converting @nuxt_js 2 to Nuxt 3. Seems to work now.
+
+Tomorrow final testing and then making the frontend ready for launch.",sam_odo,1603782954618011649,https://twitter.com/sam_odo/status/1603782954618011649,"today, mostly converting _js 2 nuxt 3. seems work now. tomorrow final testing making frontend ready launch.",neutral,0.6353569030761719
+2022-12-16 15:28:25+00:00,"I created a monorepo to demonstrate an example of using Elysia / Eden connector for various frontend frameworks.
+Including:
+- React / Next 12 (app directory)
+- Vue / Nuxt 3
+- Svelte / SvelteKit
+See: https://t.co/dCyOQ35Txx https://t.co/aX1scfnkQc",saltyAom,1603774051196973056,https://twitter.com/saltyAom/status/1603774051196973056,created monorepo demonstrate example using elysia / eden connector various frontend frameworks. including: - react / next 12 (app directory) - vue / nuxt 3 - svelte / sveltekit see:,neutral,0.8251928687095642
+2022-12-16 15:21:18+00:00,"☢️ SvelteKit 1.0 
+
+SvelteKit implements file-system based router very similar to the one from Next.js and Nuxt https://t.co/8t3X4zZ2Xy",TomekBorowicz,1603772261894332416,https://twitter.com/TomekBorowicz/status/1603772261894332416,☢️ sveltekit 1.0 sveltekit implement file-system based router similar one next.js nuxt,neutral,0.7851071953773499
+2022-12-16 14:54:57+00:00,@yungifez @mahsamiiiir @flaviocopes @Alpine_JS Same here. Or nuxt for small static pages.,OksidDisko,1603765632377528322,https://twitter.com/OksidDisko/status/1603765632377528322,_js here. nuxt small static pages.,neutral,0.9302008748054504
+2022-12-16 14:45:53+00:00,"The @nuxt_js Insiders Live panel is up on YouTube 🔥
+
+Join @li_hbr, @KiaKing85, @posva, @TheAlexLichter, and @jacobandrewsky and learn more about the work of Nuxt Insiders 🧑‍💻
+
+https://t.co/dZyqsUqq27",NuxtNation,1603763347232530434,https://twitter.com/NuxtNation/status/1603763347232530434,"_js insider live panel youtube 🔥 join _hbr, 85, , , learn work nuxt insider 🧑‍💻",neutral,0.6819965243339539
+2022-12-16 14:45:08+00:00,@Dev_Tom_Co I asked to write a nuxt 3 component that gets data from an api when the user is within 10% of the botyom of the page. It only had one variable wrong 🙌,ThimoDEV,1603763161223643137,https://twitter.com/ThimoDEV/status/1603763161223643137,_tom_co asked write nuxt 3 component get data api user within 10% botyom page. one variable wrong 🙌,neutral,0.5926693081855774
+2022-12-16 14:43:31+00:00,@G3rgoPasztor Whats nuxt?,ThimoDEV,1603762753637961728,https://twitter.com/ThimoDEV/status/1603762753637961728,3rgopasztor whats nuxt?,neutral,0.8600410223007202
+2022-12-16 14:25:30+00:00,"@reactive_dude Plus, the codebase is in Nuxt(VueJS) which I know nothing..so learning plus trying to contribute!",AmanMandal_,1603758217183760385,https://twitter.com/AmanMandal_/status/1603758217183760385,"_dude plus, codebase nuxt(vuejs) know nothing..so learning plus trying contribute!",neutral,0.4996229410171509
+2022-12-16 14:11:58+00:00,"Super excited to announce these full-day workshops at https://t.co/jbhXYquxJR in May.
+
+Reactivity Deep Dive with Evan You
+@nuxt_js 3 - Inside &amp; Out
+@playwrightweb for Testing Vue 3 Applications
+Testing Vue 3 w @Cypress_io 
+State Management in @vuejs w Pinia
+Getting Started w Vue https://t.co/Zz716dGcfu",vueconfus,1603754815275773952,https://twitter.com/vueconfus/status/1603754815275773952,super excited announce full-day workshop may. reactivity deep dive evan _js 3 - inside &amp; testing vue 3 application testing vue 3 w _io state management w pinia getting started w vue,positive,0.9576574563980103
+2022-12-16 13:59:55+00:00,"Understanding Nuxt 3 minimal project structure  
+https://t.co/MmllpGXU12  
+#dev #nuxt #nuxt3
+December 16, 2022",gary_woodfine,1603751779790995456,https://twitter.com/gary_woodfine/status/1603751779790995456,"understanding nuxt 3 minimal project structure dev nuxt nuxt3 december 16, 2022",neutral,0.851004958152771
+2022-12-16 13:23:46+00:00,@MathieuJ85 @nuxt_js @vuejs Right back at ya! https://t.co/soi8AjOMiY,sidebase_io,1603742685034070017,https://twitter.com/sidebase_io/status/1603742685034070017,85 _js right back ya!,positive,0.5494517087936401
+2022-12-16 13:23:00+00:00,A perfect long weekend to play around with @nuxt_js &amp; @tailwindcss. It has been a while since I touched some @vuejs based tech. Let us see what we can do with @supabase. #coding #javascript #CodeNewbie #webdevelopment #codinglife https://t.co/xMwWN3ZFOM,iam_johannesm,1603742489604947968,https://twitter.com/iam_johannesm/status/1603742489604947968,perfect long weekend play around _js &amp; . since touched based tech. let u see . coding javascript codenewbie webdevelopment codinglife,positive,0.9567182660102844
+2022-12-16 12:33:18+00:00,"@OksidDisko @yungifez @flaviocopes @Alpine_JS No baby, I use Vue and Nuxt for my projects I don need to use anything else",mahsamiiiir,1603729982811000833,https://twitter.com/mahsamiiiir/status/1603729982811000833,"_js baby, use vue nuxt project need use anything else",neutral,0.6704290509223938
+2022-12-16 12:28:11+00:00,"I have 3 exciting @nuxt_js updates to share before EOY. First drop:
+
+🖼️ Nuxt Og:Image
+
+Generate open-graph images for every page on your site in minutes.
+
+📸 Lazy mode: Screenshots
+🏝️ Creative mode: Vue Components /w Nuxt Islands
+🍒CAPI &amp; Components
+
+https://t.co/Kuq9hMLlWL",harlan_zw,1603728696833060865,https://twitter.com/harlan_zw/status/1603728696833060865,3 exciting _js update share eoy. first drop: 🖼️ nuxt og:image generate open-graph image every page site minutes. 📸 lazy mode: screenshots 🏝️ creative mode: vue component /w nuxt island 🍒capi &amp; component,positive,0.8382874727249146
+2022-12-16 12:24:23+00:00,@josehub121 @TheAlexLichter @nuxt_js @MasteringNuxt @tapasadhikary Wohoo😍😍,PrantikSeal,1603727737633796096,https://twitter.com/PrantikSeal/status/1603727737633796096,121 _js wohoo😍😍,positive,0.9713597893714905
+2022-12-16 11:54:29+00:00,"@alvarosabu @jacobandrewsky Nuxt preloads critical bundles by default, for others use head properly in config :)
+
+Don't overuse it tho. It should be used ONLY for critical resources.",filrakowski,1603720215593996288,https://twitter.com/filrakowski/status/1603720215593996288,"nuxt preloads critical bundle default, others use head properly config :) overuse tho. used critical resources.",neutral,0.60515958070755
+2022-12-16 11:34:37+00:00,"sidebase is not just a pet project to us!
+
+Our mission is to help more @nuxt_js/@vuejs devs build professional grade apps with open source.
+
+And we're doing all the work that comes with it: packaging, finishing and testing a library👨🏽‍💻
+
+Show your support⭐️❤️https://t.co/Wm8svd7v9b",sidebase_io,1603715213907435520,https://twitter.com/sidebase_io/status/1603715213907435520,"sidebase pet project us! mission help _js/ devs build professional grade apps open source. we're work come it: packaging, finishing testing library👨🏽‍💻 show support⭐️❤️",positive,0.9345687627792358
+2022-12-16 11:34:17+00:00,"@danielcroe @developerBolu @danielcroe, inline with this, I will like to also have a one on one discussion with you about nuxt and some ideas in my mind. 🙏
+Thanks.",phurlarmie,1603715132370128902,https://twitter.com/phurlarmie/status/1603715132370128902,", inline this, like also one one discussion nuxt idea mind. 🙏 thanks.",positive,0.6053683161735535
+2022-12-16 11:29:01+00:00,Looks like RTE is using Nuxt 💚 https://t.co/63zEo5K1Hp,icesofty,1603713804390604800,https://twitter.com/icesofty/status/1603713804390604800,look like rte using nuxt 💚,neutral,0.5310600399971008
+2022-12-16 11:25:34+00:00,@jacobandrewsky Amazing tip! How would you do it in Nuxt for example? Using the head composable or the nuxt.config?,alvarosabu,1603712936714846209,https://twitter.com/alvarosabu/status/1603712936714846209,amazing tip! would nuxt example? using head composable nuxt.config?,positive,0.9669422507286072
+2022-12-16 11:09:28+00:00,@sidebase_io Also nuxt doesn't provide some analogue `useMutation`.,alex_kozack,1603708886158041088,https://twitter.com/alex_kozack/status/1603708886158041088,_io also nuxt provide analogue `usemutation`.,neutral,0.9147825241088867
+2022-12-16 11:06:45+00:00,"@sidebase_io useAsyncData may be used as alternative vue-query useQuery. But useAsyncData have a bit more features and just more integrated with nuxt workflow, i feel",alex_kozack,1603708200372633601,https://twitter.com/alex_kozack/status/1603708200372633601,"_io useasyncdata may used alternative vue-query usequery. useasyncdata bit feature integrated nuxt workflow, feel",neutral,0.9376847147941589
+2022-12-16 11:04:35+00:00,"Oh man Harlan knows how to give you the butterflies in the belly! 🦋😳
+
+It's amazing to be preparing how the @nuxt_themes org will be empowering your next Nuxt projects!
+
+Special props to @sergeybedritsky for Docus as well, this is our work from the past year that shines here! https://t.co/SDCuMOuXfE",yaeeelglx,1603707657331916802,https://twitter.com/yaeeelglx/status/1603707657331916802,"oh man harlan know give butterfly belly! 🦋😳 amazing preparing _themes org empowering next nuxt projects! special prop docus well, work past year shine here!",positive,0.9826152324676514
+2022-12-16 11:01:18+00:00,@sidebase_io 2. As I understand vue-query use own cache-storage. So in app we will have two different caches one for nuxt and one for vue-query,alex_kozack,1603706830370312194,https://twitter.com/alex_kozack/status/1603706830370312194,_io 2. understand vue-query use cache-storage. app two different cache one nuxt one vue-query,neutral,0.9109243154525757
+2022-12-16 11:00:08+00:00,"@sidebase_io 1. it require i little complicated setup for nuxt
+https://t.co/lEV23EDT8F",alex_kozack,1603706535284285440,https://twitter.com/alex_kozack/status/1603706535284285440,_io 1. require little complicated setup nuxt,neutral,0.8457006812095642
+2022-12-16 10:48:07+00:00,@mhadaily The initial loading time for web is really slow in third world countries where the internet speeds are not as fast as other countries. I legit had to rewrite a 2 page dashboard in nuxtjs after testing it on my uni network. Other than this you have done more than enough 😊,hamza_imran75,1603703514080976897,https://twitter.com/hamza_imran75/status/1603703514080976897,initial loading time web really slow third world country internet speed fast countries. legit rewrite 2 page dashboard nuxtjs testing uni network. done enough 😊,negative,0.47569799423217773
+2022-12-16 10:15:10+00:00,@daguitosama @nuxt_js @render Glad it helped Dago. Did you register it?,Timb03,1603695220239249408,https://twitter.com/Timb03/status/1603695220239249408,_js glad helped dago. register it?,positive,0.9395166635513306
+2022-12-16 10:13:18+00:00,"@nuxt_js 3 gives us a nice shorthand if our route middleware is just validating route parameters.
+
+If the route is *not* valid, the router will continue looking for a match.
+
+Keep in mind: you can’t use this in combination with other middleware on a page.
+
+https://t.co/oVGuZ96tu7 https://t.co/GRDfsXR5dG",MasteringNuxt,1603694749084434432,https://twitter.com/MasteringNuxt/status/1603694749084434432,"_js 3 give u nice shorthand route middleware validating route parameters. route *not* valid, router continue looking match. keep mind: can’t use combination middleware page.",negative,0.6056801080703735
+2022-12-16 10:03:00+00:00,"Vue.js Nation 2023 is here 🔥
+
+🎙️ Learn from the greatest industry speakers &amp; educators!
+
+😍 Topics cover @vuejs, @vuetifyjs, @nuxt_js, @quasarframework, @useFormKit + more!
+
+Don't miss out on this exciting event and enhance your Vue game this January.
+
+✍️ https://t.co/i1H8vvcrdp https://t.co/b4DApOLGkH",vuejsnation,1603692159647072256,https://twitter.com/vuejsnation/status/1603692159647072256,"vue.js nation 2023 🔥 🎙️ learn greatest industry speaker &amp; educators! 😍 topic cover , , _js, , + more! miss exciting event enhance vue game january. ✍️",positive,0.9832078218460083
+2022-12-16 09:52:25+00:00,"Over the reactive js/web ui libraries, from one that heavily transpiles, one that uses an explicit rerender call, I prefer the one that uses a language feature to do it. I did try nuxt a year back, it just doesn't have the same dx spark as next 😢, hope it gets better",majudhu,1603689493617598464,https://twitter.com/majudhu/status/1603689493617598464,"reactive js/web ui libraries, one heavily transpiles, one us explicit rerender call, prefer one us language feature it. try nuxt year back, dx spark next 😢, hope get better",neutral,0.4866305887699127
+2022-12-16 09:45:54+00:00,@florinpop1705 A card game (Nuxt + Firebase),elidrissi_med,1603687855120850944,https://twitter.com/elidrissi_med/status/1603687855120850944,1705 card game (nuxt + firebase),neutral,0.9204715490341187
+2022-12-16 09:42:42+00:00,"Build your next Vue.js application with confidence using Nuxt. An open source framework under MIT license that makes web development simple and powerful.
+👉 https://t.co/G2NyW8rc3B with @TheAlexLichter @nuxt_js @MasteringNuxt @PrantikSeal  @tapasadhikary see you folks []:) https://t.co/wuNYSkzVmH",josehub121,1603687051936907264,https://twitter.com/josehub121/status/1603687051936907264,build next vue.js application confidence using nuxt. open source framework mit license make web development simple powerful. 👉 _js see folk []:),positive,0.8019993305206299
+2022-12-16 09:30:16+00:00,"GitHub Trending Archive, 14 Dec 2022, TypeScript. react-native-webview/react-native-webview, elastic/eui, vuejs/vitepress, actions/starter-workflows, typestack/class-validator, ag-grid/ag-grid, lensterxyz/lenster, nuxt/framework, facebook/flipper https://t.co/iLnQHBDDq3",motakasoft,1603683919471472640,https://twitter.com/motakasoft/status/1603683919471472640,"github trending archive, 14 dec 2022, typescript. react-native-webview/react-native-webview, elastic/eui, vuejs/vitepress, actions/starter-workflows, typestack/class-validator, ag-grid/ag-grid, lensterxyz/lenster, nuxt/framework, facebook/flipper",neutral,0.8983235359191895
+2022-12-16 09:12:50+00:00,"@alex_kozack We see, thanks! What do you dislike about the @tanstack/vue-query implementation that you think could be done better in Nuxt 3? (: 
+
+Just so that we do it right 😉",sidebase_io,1603679535148531712,https://twitter.com/sidebase_io/status/1603679535148531712,"_kozack see, thanks! dislike /vue-query implementation think could done better nuxt 3? (: right 😉",positive,0.8770798444747925
+2022-12-16 08:11:35+00:00,"@reinink Hey, what is the reason templates are made with next and not nuxt or even both maybe? 😅",MariusGecas,1603664119227367424,https://twitter.com/MariusGecas/status/1603664119227367424,"hey, reason template made next nuxt even maybe? 😅",neutral,0.812432050704956
+2022-12-16 07:55:18+00:00,@flaviocopes Time to switch to @vuejs and @nuxt_js,fedeanimation,1603660022948536325,https://twitter.com/fedeanimation/status/1603660022948536325,time switch _js,neutral,0.8452818989753723
+2022-12-16 07:53:02+00:00,"Migrated Unlighthouse to Docus.
+
+https://t.co/aTKrZFbIdR
+
+Docus is such a treat, have four sites using it now. It's got amazing DX and just keeps getting better.
+
+Thank you @yaeeelglx and team Nuxt 👏 https://t.co/mpahNadgx4",harlan_zw,1603659452837941249,https://twitter.com/harlan_zw/status/1603659452837941249,"migrated unlighthouse docus. docus treat, four site using now. got amazing dx keep getting better. thank team nuxt 👏",positive,0.9775535464286804
+2022-12-16 06:44:02+00:00,@balazsorban44 @nextauthjs Lazy Q: Will there be a guide for using it independent of the larger Next/Svelte/Nuxt/Solid frameworks?,Ceige_M,1603642088985612288,https://twitter.com/Ceige_M/status/1603642088985612288,44 lazy q: guide using independent larger next/svelte/nuxt/solid frameworks?,neutral,0.8707151412963867
+2022-12-16 06:22:18+00:00,How to Use Environment Variables in Nuxt.js Web Applications https://t.co/XwtBWu4x0R,dykraf,1603636616341647360,https://twitter.com/dykraf/status/1603636616341647360,use environment variable nuxt.js web application,neutral,0.9057841300964355
+2022-12-16 06:00:17+00:00,"Next, Nest, Nuxt… Nust? https://t.co/y3ITW80Uq7",noservershere,1603631075808485376,https://twitter.com/noservershere/status/1603631075808485376,"next, nest, nuxt… nust?",neutral,0.8482387661933899
+2022-12-16 05:19:19+00:00,"@splinetool Are u support vue js , nuxtjs and safari browsers",Mal03938356,1603620768285327363,https://twitter.com/Mal03938356/status/1603620768285327363,"u support vue j , nuxtjs safari browser",neutral,0.8451942801475525
+2022-12-16 04:48:29+00:00,@MHosseinAmri @scrumtuous @solid_js @angular @vuejs @sveltejs @reactjs @Meta @appwrite @routifyjs @kevinrwhitley @tan_stack @nextjs @vercel @Rich_Harris @dummdidumm_ Like I said routers are a part of meta frameworks like Nuxt or Next choose one that you like if routify isn’t cutting it then like I suggested there’s Itty or even the agnostic tan stack router,Th3_Antonio,1603613007405322244,https://twitter.com/Th3_Antonio/status/1603613007405322244,_js _stack _harris _ like said router part meta framework like nuxt next choose one like routify isn’t cutting like suggested there’s itty even agnostic tan stack router,neutral,0.6476070880889893
+2022-12-16 04:09:03+00:00,@GoGalaMusic @nuxt_js @tailwindcss You need taster sounds to encourage new sign ups and free sign up notice,wwwCryptoTimes,1603603083396878336,https://twitter.com/wwwCryptoTimes/status/1603603083396878336,_js need taster sound encourage new sign ups free sign notice,neutral,0.8025006055831909
+2022-12-16 01:49:38+00:00,"@GoGalaMusic @nuxt_js @tailwindcss Love it 💕 , cheer up https://t.co/PB4jjWCzjT",KoMnz,1603567998140153856,https://twitter.com/KoMnz/status/1603567998140153856,"_js love 💕 , cheer",positive,0.9581566452980042
+2022-12-16 01:03:37+00:00,@ruanyf how about nuxt？,baojunmo,1603556418249904128,https://twitter.com/baojunmo/status/1603556418249904128,nuxt？,neutral,0.7679349184036255
+2022-12-16 01:01:45+00:00,@Strandjunker The derangement is strong with this one🤣🤣,apux_nuxt,1603555950102974464,https://twitter.com/apux_nuxt/status/1603555950102974464,derangement strong one🤣🤣,neutral,0.5337651968002319
+2022-12-16 00:52:03+00:00,@MarkHamill I like actors that aren't paedophiles.,apux_nuxt,1603553508858671105,https://twitter.com/apux_nuxt/status/1603553508858671105,like actor paedophiles.,negative,0.8329484462738037
+2022-12-16 00:31:05+00:00,"2.) There are thankfully great resources out there for Nuxt... The documentation is actually fantastic, annnnddd YouTube university is filling a lot of blanks.",mr_winbush,1603548232591753217,https://twitter.com/mr_winbush/status/1603548232591753217,"2.) thankfully great resource nuxt... documentation actually fantastic, annnnddd youtube university filling lot blanks.",positive,0.9818469882011414
+2022-12-16 00:31:05+00:00,"So here I am, building a Nuxt 3 app, to deliver a basic MVP. I've never worked with nuxt and I am 7 years removed from any and all web development. This experience is teaching me a few things.",mr_winbush,1603548229454499840,https://twitter.com/mr_winbush/status/1603548229454499840,"am, building nuxt 3 app, deliver basic mvp. i've never worked nuxt 7 year removed web development. experience teaching things.",neutral,0.7122353315353394
+2022-12-16 00:13:14+00:00,"@TheAlexLichter @nuxt_js @render Thanks for the heads up, fixed!",Timb03,1603543738005204998,https://twitter.com/Timb03/status/1603543738005204998,"_js thanks head up, fixed!",positive,0.8761811256408691
+2022-12-15 23:25:53+00:00,"Hey @nuxt_js ... we just launched the Gala Music Beta on Nuxt3.  Let us know what you think!
+https://t.co/CJvSZ4B51q
+@tailwindcss",GoGalaMusic,1603531825120411649,https://twitter.com/GoGalaMusic/status/1603531825120411649,hey _js ... launched gala music beta nuxt3. let u know think!,neutral,0.8343058228492737
+2022-12-15 23:15:26+00:00,"@Atinux @journalisticapp My first Vue/Nuxt app in fact. I started Journalistic to learn it, while solving another problem as well 🦜🦜🪨",toniengelhardt,1603529192804597760,https://twitter.com/toniengelhardt/status/1603529192804597760,"first vue/nuxt app fact. started journalistic learn it, solving another problem well 🦜🦜🪨",positive,0.9143305420875549
+2022-12-15 22:37:00+00:00,"3 frameworks and 1 runtime developers should know in 2022 | https://t.co/P6TZ3U1S1C
+
+#nodejs #nextjs #nuxtjs #nuxt #svelte #react #developers #codenewbies https://t.co/tjilFHas0w",FathymIt,1603519520626266112,https://twitter.com/FathymIt/status/1603519520626266112,3 framework 1 runtime developer know 2022 | nodejs nextjs nuxtjs nuxt svelte react developer codenewbies,neutral,0.8761599659919739
+2022-12-15 22:29:18+00:00,I just published How to Install Headless UI in Nuxt.js (Nuxt 3) https://t.co/8jrBl9TYEu,Akr4mKhan,1603517584737193984,https://twitter.com/Akr4mKhan/status/1603517584737193984,published install headless ui nuxt.js (nuxt 3),neutral,0.8886029124259949
+2022-12-15 21:50:48+00:00,@sidebase_io I imagine something like @tanstack/vue-query but working around nuxt's native functions,alex_kozack,1603507894007242776,https://twitter.com/alex_kozack/status/1603507894007242776,_io imagine something like /vue-query working around nuxt's native function,neutral,0.8947780728340149
+2022-12-15 21:43:50+00:00,@leemartin @Netlify @nuxt_js @eddievedder @threejs @metronomy @Medium @CodePen @paparoach @Twitter @mourner @florencemachine @Spotify I still play the game I'm ngl,flomachinenews,1603506142553972750,https://twitter.com/flomachinenews/status/1603506142553972750,_js still play game i'm ngl,neutral,0.6827554702758789
+2022-12-15 20:46:22+00:00,@Timb03 @nuxt_js @render FYI: App breaks when using an adblock 👀 https://t.co/wR47Y3ZpFY,TheAlexLichter,1603491679612329998,https://twitter.com/TheAlexLichter/status/1603491679612329998,03 _js fyi: app break using adblock 👀,neutral,0.835976779460907
+2022-12-15 20:43:23+00:00,"@davmuz @nuxt_js @render Yep, you can tell by looking at it haha.",Timb03,1603490929188667392,https://twitter.com/Timb03/status/1603490929188667392,"_js yep, tell looking haha.",positive,0.49304553866386414
+2022-12-15 20:39:16+00:00,@adamwathan Still waiting for nuxt template availability 🥺,phojiee,1603489894436720640,https://twitter.com/phojiee/status/1603489894436720640,still waiting nuxt template availability 🥺,neutral,0.7228440046310425
+2022-12-15 20:20:07+00:00,Have some fun migrating an old personal project with Express API and Nuxt CMS from Heroku to @render and @Netlify! My head hurts 😅,_syl_vain_,1603485075437387776,https://twitter.com/_syl_vain_/status/1603485075437387776,fun migrating old personal project express api nuxt cm heroku ! head hurt 😅,neutral,0.401117205619812
+2022-12-15 20:09:57+00:00,"@alex_kozack Hey @alex_kozack 👋 
+
+We’re listening - what do you mean with nuxt-query? (:",sidebase_io,1603482514408017921,https://twitter.com/sidebase_io/status/1603482514408017921,_kozack hey _kozack 👋 we’re listening - mean nuxt-query? (:,neutral,0.6667971611022949
+2022-12-15 19:59:43+00:00,@Netlify @nuxt_js @eddievedder @threejs @metronomy @Medium @CodePen @paparoach @Twitter @mourner @florencemachine @Spotify @LordHuron @Apple @ambre I completed my space concept hat trick 👾 with a pair of apps for @shinedown including the Planet Zero observer which plotted the orbit of a virtual planet around the earth. https://t.co/CUH4daooKs,leemartin,1603479938920857600,https://twitter.com/leemartin/status/1603479938920857600,_js completed space concept hat trick 👾 pair apps including planet zero observer plotted orbit virtual planet around earth.,positive,0.6092391610145569
+2022-12-15 19:32:16+00:00,@Netlify @nuxt_js @eddievedder @threejs @metronomy @Medium @CodePen @paparoach @Twitter @mourner @florencemachine @Spotify @LordHuron I had a lot of fun integrating @apple WeatherKit immediately after it's release at #WWDC22 for @ambre in an app that adjusts your access to content based on your local temperature. The Ambré team is still using this app! https://t.co/uIVPBuS2hj,leemartin,1603473031329943566,https://twitter.com/leemartin/status/1603473031329943566,_js lot fun integrating weatherkit immediately release wwdc22 app adjusts access content based local temperature. ambré team still using app!,positive,0.9565873146057129
+2022-12-15 19:28:40+00:00,"Hey, @sidebase_io, How about nuxt-query intergation with trpc-nuxt ?☺😇",alex_kozack,1603472127558094869,https://twitter.com/alex_kozack/status/1603472127558094869,"hey, _io, nuxt-query intergation trpc-nuxt ?☺😇",neutral,0.536549985408783
+2022-12-15 19:20:59+00:00,"@Netlify @nuxt_js @eddievedder @threejs @metronomy @Medium @CodePen @paparoach @Twitter @mourner @florencemachine @Spotify Then came my ""Project of the Year."" The ""Your Other Life"" / ""Ton Autre Vie"" multidimensional video player for @LordHuron. This one was so precious to me. https://t.co/QeqFJAkJhX",leemartin,1603470193749069840,https://twitter.com/leemartin/status/1603470193749069840,"_js came ""project year."" ""your life"" / ""ton autre vie"" multidimensional video player . one precious me.",neutral,0.6204823851585388
+2022-12-15 19:12:36+00:00,@Netlify @nuxt_js @eddievedder @threejs @metronomy @Medium @CodePen @paparoach @Twitter @mourner I'll never forget being embraced by the @florencemachine fan base for the @spotify powered Dance Fever reading app. Nor will I forget that I built a Super Mario 3 inspired @codepen right after. https://t.co/Xa72vsmgTE,leemartin,1603468081745235969,https://twitter.com/leemartin/status/1603468081745235969,_js i'll never forget embraced fan base powered dance fever reading app. forget built super mario 3 inspired right after.,positive,0.4855974316596985
+2022-12-15 18:59:00+00:00,"@Netlify @nuxt_js @eddievedder @threejs @metronomy @Medium @CodePen @paparoach @Twitter By using @mourner's inspiring suncalc library, Jack White was able to premiere unreleased music from Fear of the Dawn to fans who work up at dawn and faced the sun. https://t.co/1ffI1HX0qQ",leemartin,1603464660690341895,https://twitter.com/leemartin/status/1603464660690341895,"_js using 's inspiring suncalc library, jack white able premiere unreleased music fear dawn fan work dawn faced sun.",neutral,0.854629635810852
+2022-12-15 18:55:41+00:00,@Netlify @nuxt_js @eddievedder @threejs @metronomy @Medium @CodePen We allowed @paparoach fans to cut their life into pieces live on @twitter. #LastResort https://t.co/ygqRX2YkX5,leemartin,1603463824715177985,https://twitter.com/leemartin/status/1603463824715177985,_js allowed fan cut life piece live . lastresort,neutral,0.8822748064994812
+2022-12-15 18:52:45+00:00,@Netlify @nuxt_js @eddievedder A simple @threejs powered app for @metronomy's Small World led to a lot of traction on both @medium and @codepen for the simple dev work. https://t.co/yyA0UjO9b3,leemartin,1603463087704707073,https://twitter.com/leemartin/status/1603463087704707073,_js simple powered app 's small world led lot traction simple dev work.,neutral,0.629277229309082
+2022-12-15 18:49:54+00:00,"@Netlify @nuxt_js I was finally able to build my ""Message in a Space Bottle"" idea for @EddieVedder's Earthling release. 🛰 https://t.co/kbnEFlG7rK",leemartin,1603462371443462144,https://twitter.com/leemartin/status/1603462371443462144,"_js finally able build ""message space bottle"" idea 's earthling release. 🛰",positive,0.6295833587646484
+2022-12-15 18:45:33+00:00,@Netlify @nuxt_js 🧵 Here's a few highlights:,leemartin,1603461276679737359,https://twitter.com/leemartin/status/1603461276679737359,_js 🧵 here's highlights:,neutral,0.916387140750885
+2022-12-15 18:40:44+00:00,This is my Spotify Wrapped! Thanks @Netlify for another incredible year of development! #netlifriend My loyalty to @nuxt_js cannot be questioned. https://t.co/k0W18O9cd9,leemartin,1603460062365859843,https://twitter.com/leemartin/status/1603460062365859843,spotify wrapped! thanks another incredible year development! netlifriend loyalty _js cannot questioned.,positive,0.9884229302406311
+2022-12-15 18:25:00+00:00,"If I were to build a Nuxt 3 Shopify template, what UI framework/library would you prefer to use?",joshwcorbett,1603456104054534145,https://twitter.com/joshwcorbett/status/1603456104054534145,"build nuxt 3 shopify template, ui framework/library would prefer use?",neutral,0.9231407046318054
+2022-12-15 18:24:01+00:00,"📕 Event Bus Pattern in Nuxt 3 with Full TypeScript Support
+
+👉🏻 Using an Event Bus is an easy way to communicate different parts of our application. 
+👉🏻 In this article, Isreal learns us how to implement it with Nuxt 3 and TypeScript.
+
+https://t.co/PyWV9kl8X3",Mokkapps,1603455857118875662,https://twitter.com/Mokkapps/status/1603455857118875662,"📕 event bus pattern nuxt 3 full typescript support 👉🏻 using event bus easy way communicate different part application. 👉🏻 article, isreal learns u implement nuxt 3 typescript.",neutral,0.5488120913505554
+2022-12-15 18:00:16+00:00,"Next, Nest, Nuxt… Nust? https://t.co/y3ITW80Uq7",noservershere,1603449880101502993,https://twitter.com/noservershere/status/1603449880101502993,"next, nest, nuxt… nust?",neutral,0.8482387661933899
+2022-12-15 16:30:40+00:00,"Nuxt Ionic is an out-of-the-box integration that lets you build @nuxt_js apps with a native look and feel, leveraging @Ionicframework components, composables, and icons.
+
+@ceceliacreates explains features and use cases of Nuxt Ionic - tune in! 🔥
+https://t.co/hmChFTG7Gj",NuxtNation,1603427331900686340,https://twitter.com/NuxtNation/status/1603427331900686340,"nuxt ionic out-of-the-box integration let build _js apps native look feel, leveraging components, composables, icons. explains feature use case nuxt ionic - tune in! 🔥",positive,0.749740481376648
+2022-12-15 16:14:30+00:00,"When you decide that the logic was all a bit muddled so you spend 3 days re-writing 2,000+ lines of code because the underlying data structure needs to be better. But.. nearly all of this is tested now. Core functionality for the new CWA loading resources from the API @nuxt_js https://t.co/NkcyPC7qAN",developer_west,1603423260137656321,https://twitter.com/developer_west/status/1603423260137656321,"decide logic bit muddled spend 3 day re-writing 2,000+ line code underlying data structure need better. but.. nearly tested now. core functionality new cwa loading resource api _js",neutral,0.49569207429885864
+2022-12-15 16:08:58+00:00,"@2co_p @remix_run True, that's a gap in @nextjs...
+There are comparable methods in Nuxt 3 (https://t.co/nONxfyWQ9R) and SvelteKit (https://t.co/kbYelvCdGC), but Next.js feels like it's lower level in that regard.",rozrozelad,1603421870467928065,https://twitter.com/rozrozelad/status/1603421870467928065,"@2co_p _run true, that's gap ... comparable method nuxt 3 ( sveltekit ( next.js feel like lower level regard.",neutral,0.7305104732513428
+2022-12-15 16:06:15+00:00,"Vuejs Amsterdam Ticket Sales closing down on 21 December 🔥
+
+🚀Don't miss out before prices increase in the New Year!
+
+🎟️ https://t.co/yKnmkkQafI
+🤩 Creator of Vue, Evan You
+🥳 Nuxt Core Team and Creator of Nuxt
+🔥 Creator of Vuetify 
+📚 Creator of Pinia, Histoire and many more https://t.co/xYG8thvHUJ",vuejsamsterdam,1603421184867143680,https://twitter.com/vuejsamsterdam/status/1603421184867143680,"vuejs amsterdam ticket sale closing 21 december 🔥 🚀don't miss price increase new year! 🎟️ 🤩 creator vue, evan 🥳 nuxt core team creator nuxt 🔥 creator vuetify 📚 creator pinia, histoire many",positive,0.9531071782112122
+2022-12-15 15:15:01+00:00,"The beautiful website of fintech startup @fundbox was rebuilt with Vue, Nuxt &amp; the headless CMS @storyblok - a solution loved by the tech &amp; marketing team alike 💚 - https://t.co/NJykjNFbQy https://t.co/f2mlWRL7u5",MadeWithVueJS,1603408290892992512,https://twitter.com/MadeWithVueJS/status/1603408290892992512,"beautiful website fintech startup rebuilt vue, nuxt &amp; headless cm - solution loved tech &amp; marketing team alike 💚 -",positive,0.981046199798584
+2022-12-15 15:11:28+00:00,":rotating_light: HERE WE GO, Nuxt &amp; TailwindCC &amp; Vue Router
+
+Building the Breakdown pt. 7
+
+#Twitch #Live #Streaming #BuildingTheBreakdown
+
+https://t.co/UKhsAWzhDg",tpotjj,1603407397472686080,https://twitter.com/tpotjj/status/1603407397472686080,":rotating_light: go, nuxt &amp; tailwindcc &amp; vue router building breakdown pt. 7 twitch live streaming buildingthebreakdown",neutral,0.9016607403755188
+2022-12-15 15:02:46+00:00,"@journalisticapp Congrats! Started using it and enjoyed, and just discovered it's made with Nuxt 💚",Atinux,1603405209228623872,https://twitter.com/Atinux/status/1603405209228623872,"congrats! started using enjoyed, discovered made nuxt 💚",positive,0.9778645634651184
+2022-12-15 14:47:06+00:00,"@_amm834 @nuxt_js @storyblok @antfu7 @Netlify @danielcroe @filrakowski Hey there! Thanks for reporting it, could you give me more info? Device, browser etc? Thanks!",alvarosabu,1603401265320443905,https://twitter.com/alvarosabu/status/1603401265320443905,"@_amm834 _js 7 hey there! thanks reporting it, could give info? device, browser etc? thanks!",positive,0.8770663142204285
+2022-12-15 14:14:20+00:00,"@nuxt_js 3 comes with a nice error page by default.
+
+But we want our error page to match the rest of the app.
+It’s not too complicated, either.
+
+✅ Step 1: Create an error.vue file in the root of your app.
+
+✅ Step 2: Done.
+
+https://t.co/oVGuZ96tu7 https://t.co/QBsyXuMgbq",MasteringNuxt,1603393020853948418,https://twitter.com/MasteringNuxt/status/1603393020853948418,"_js 3 come nice error page default. want error page match rest app. it’s complicated, either. ✅ step 1: create error.vue file root app. ✅ step 2: done.",neutral,0.5749321579933167
+2022-12-15 13:46:30+00:00,"@mulung_kang @sidebase_io @nuxt_js @prisma Ha I see, my colleague @ruheni_alex recently built a tool that lets you generate up and down migrations for Prisma. 
+
+Also, what exactly is your use case for down migrations? Are you using these in production or when are they typically useful to you?
+
+https://t.co/xPaiInnmdN",nikolasburk,1603386016240488450,https://twitter.com/nikolasburk/status/1603386016240488450,"_kang _io _js ha see, colleague _alex recently built tool let generate migration prisma. also, exactly use case migrations? using production typically useful you?",neutral,0.9005582928657532
+2022-12-15 13:36:06+00:00,@designcoursecom Love to see everyone using Nuxt now,OkonoDestine,1603383398453723138,https://twitter.com/OkonoDestine/status/1603383398453723138,love see everyone using nuxt,positive,0.9504083395004272
+2022-12-15 12:55:30+00:00,"@nikolasburk @sidebase_io @nuxt_js @prisma I’ve been using prisma lately and absolutely love it, but the lack of down migration or revert latest migration that makes me stick with typeorm.",mulung_kang,1603373180105953281,https://twitter.com/mulung_kang/status/1603373180105953281,"_io _js i’ve using prisma lately absolutely love it, lack migration revert latest migration make stick typeorm.",positive,0.9545976519584656
+2022-12-15 12:40:17+00:00,"@Dev_Tom_Co What made you choose for those?
+
+I would say for me frontend: Nuxt 3, backend/DB: strapi/nodejs, hosting still comparing..",ThimoDEV,1603369352476217345,https://twitter.com/ThimoDEV/status/1603369352476217345,"_tom_co made choose those? would say frontend: nuxt 3, backend/db: strapi/nodejs, hosting still comparing..",neutral,0.9057757258415222
+2022-12-15 12:12:50+00:00,@1stevengrant @VueSchool_io They did the same with the Mastering Nuxt course. Also unsubscribed.,phpastes,1603362444025511936,https://twitter.com/phpastes/status/1603362444025511936,@1stevengrant _io mastering nuxt course. also unsubscribed.,neutral,0.8375643491744995
+2022-12-15 11:56:58+00:00,"@mulung_kang @sidebase_io @nuxt_js @prisma Out of curiosity, what do you miss in Prisma that makes you prefer TypeORM? 🙂",nikolasburk,1603358453615017986,https://twitter.com/nikolasburk/status/1603358453615017986,"_kang _io _js curiosity, miss prisma make prefer typeorm? 🙂",neutral,0.8385851383209229
+2022-12-15 11:23:58+00:00,"Dutch newspaper @volkskrant wrote about a website I created to find and compare supermarket promotions. The site was created in a single weekend. Vue + Nuxt 3 with Firebase and Google cloud functions that run every morning to scrape new promotions.
+
+https://t.co/XE2QhN1WfL",NvdB31,1603350145349058560,https://twitter.com/NvdB31/status/1603350145349058560,dutch newspaper wrote website created find compare supermarket promotions. site created single weekend. vue + nuxt 3 firebase google cloud function run every morning scrape new promotions.,neutral,0.9155452251434326
+2022-12-15 11:19:50+00:00,"In 2022 i learnt so in 2023 i wanna continue to lean and practice 💙💙, and surely earn money 🤣🤣🤣
+
+#dart #flutter #mobileapps #nodejs #nuxtjs",gael_vinou,1603349105756995585,https://twitter.com/gael_vinou/status/1603349105756995585,"2022 learnt 2023 wanna continue lean practice 💙💙, surely earn money 🤣🤣🤣 dart flutter mobileapps nodejs nuxtjs",positive,0.8824130892753601
+2022-12-15 11:04:16+00:00,@KumushOy_ @elzodxon_me @nuxt_js @danielcroe @_pi0_ I believe you,Jahongi37241661,1603345189627744256,https://twitter.com/Jahongi37241661/status/1603345189627744256,_ _me _js @_pi0_ believe,neutral,0.8740496635437012
+2022-12-15 10:58:09+00:00,@elzodxon_me @nuxt_js @danielcroe @_pi0_ Omads,KumushOy_,1603343650464956417,https://twitter.com/KumushOy_/status/1603343650464956417,_me _js @_pi0_ omads,neutral,0.8875730037689209
+2022-12-15 10:49:12+00:00,"I am going to have a presentation about @nuxt_js at UzGeeks.
+
+I will talk about Nuxt 3 and new features;) Hope, it will be fun.
+
+@danielcroe @_pi0_ you guys are amazing.",elzodxon_me,1603341396764954624,https://twitter.com/elzodxon_me/status/1603341396764954624,"going presentation _js uzgeeks. talk nuxt 3 new features;) hope, fun. @_pi0_ guy amazing.",positive,0.9867234826087952
+2022-12-15 10:45:57+00:00,@Timb03 @nuxt_js @render Wonderful!! Just 2 hours? 🤩,davmuz,1603340577814323203,https://twitter.com/davmuz/status/1603340577814323203,03 _js wonderful!! 2 hours? 🤩,positive,0.986745297908783
+2022-12-15 10:41:52+00:00,Local Nuxt 3 Application with HTTPS https://t.co/iaYsbIC4by via @YouTube  #nuxt #nuxt3,pkej,1603339550364942336,https://twitter.com/pkej/status/1603339550364942336,local nuxt 3 application http via nuxt nuxt3,neutral,0.9103938937187195
+2022-12-15 09:37:49+00:00,"@khabubu_phathu @sduduzo_g @nuxt_js No, it's entirely tree-shaken out of the built version of your site.",danielcroe,1603323433513021440,https://twitter.com/danielcroe/status/1603323433513021440,"_phathu _g _js no, entirely tree-shaken built version site.",neutral,0.7100719213485718
+2022-12-15 09:32:56+00:00,"@michaelpumo @nuxt_js Legend! Thank you, buddy. I’ve applied 🤞",JackBarham,1603322205013970944,https://twitter.com/JackBarham/status/1603322205013970944,"_js legend! thank you, buddy. i’ve applied 🤞",positive,0.9831210374832153
+2022-12-15 09:32:05+00:00,"@JackBarham @nuxt_js Yeah, here…
+
+https://t.co/nfPusr2FJw",michaelpumo,1603321990554730496,https://twitter.com/michaelpumo/status/1603321990554730496,"_js yeah, here…",neutral,0.8434194922447205
+2022-12-15 09:31:19+00:00,@michaelpumo @nuxt_js No. Is there a separate community?,JackBarham,1603321796438237186,https://twitter.com/JackBarham/status/1603321796438237186,_js no. separate community?,neutral,0.6771356463432312
+2022-12-15 09:30:17+00:00,@JackBarham @nuxt_js Are you in the Vue community on Twitter? Worth asking in there maybe?,michaelpumo,1603321536194101248,https://twitter.com/michaelpumo/status/1603321536194101248,_js vue community twitter? worth asking maybe?,neutral,0.9474360346794128
+2022-12-15 09:30:16+00:00,"GitHub Trending Archive, 13 Dec 2022, TypeScript. actions/starter-workflows, typestack/class-validator, lensterxyz/lenster, nuxt/framework, facebook/flipper, BuilderIO/qwik, wechaty/wechaty, colinhacks/zod, medusajs/medusa, desktop/desktop https://t.co/KWKK2FqKlO",motakasoft,1603321532411154432,https://twitter.com/motakasoft/status/1603321532411154432,"github trending archive, 13 dec 2022, typescript. actions/starter-workflows, typestack/class-validator, lensterxyz/lenster, nuxt/framework, facebook/flipper, builderio/qwik, wechaty/wechaty, colinhacks/zod, medusajs/medusa, desktop/desktop",neutral,0.9024152159690857
+2022-12-15 09:21:16+00:00,@SupernovaZona JS &amp; Nuxt,xilem89,1603319269281783808,https://twitter.com/xilem89/status/1603319269281783808,j &amp; nuxt,neutral,0.8286454081535339
+2022-12-15 08:48:55+00:00,"Excited to welcome back @_pi0_  at Vuejs Amsterdam 2023 about UnJS: Universal JavaScript Tools
+
+🎟️ https://t.co/yKnmkkQafI
+
+🚀 JS can run almost anywhere in the browser. The goal of UnJS is to keep the core lean and release additional functionalities as Nuxt modules or separate https://t.co/IgeP7s2wRc",vuejsamsterdam,1603311126866976768,https://twitter.com/vuejsamsterdam/status/1603311126866976768,excited welcome back @_pi0_ vuejs amsterdam 2023 unjs: universal javascript tool 🎟️ 🚀 j run almost anywhere browser. goal unjs keep core lean release additional functionality nuxt module separate,positive,0.9770334362983704
+2022-12-15 08:46:35+00:00,"@SupernovaZona Unity C# for XR projects, javascript for back and frontend, with Nuxt, vuetify and socket io to make it all work together 😅",ThimoDEV,1603310541023641600,https://twitter.com/ThimoDEV/status/1603310541023641600,"unity c xr projects, javascript back frontend, nuxt, vuetify socket io make work together 😅",neutral,0.653846263885498
+2022-12-15 08:40:03+00:00,"New version of @nuxt module with @meilisearch 
+0.30.x ready ! 
+
+https://t.co/nCFiC3Bc62",xlanex6,1603308895392382977,https://twitter.com/xlanex6/status/1603308895392382977,new version module 0.30.x ready !,positive,0.5145887732505798
+2022-12-15 08:28:36+00:00,@dev_rolandi @nuxt_js @storyblok @antfu7 @Netlify @danielcroe @filrakowski ☺️ Thanks for the star,alvarosabu,1603306014849351681,https://twitter.com/alvarosabu/status/1603306014849351681,_rolandi _js 7 ☺️ thanks star,positive,0.8983603715896606
+2022-12-15 08:22:22+00:00,@alvarosabu @nuxt_js @storyblok @antfu7 @Netlify @danielcroe @filrakowski Awesome! Found and starred the repo -&gt; https://t.co/84yIzyAWRu,dev_rolandi,1603304443872690182,https://twitter.com/dev_rolandi/status/1603304443872690182,_js 7 awesome! found starred repo -&gt;,positive,0.9870489239692688
+2022-12-15 07:49:37+00:00,"@khabubu_phathu @nuxt_js I actually don't know, it will be also hard to check because the build produced lazy loaded chunks by default, which by the way will make performance the same regardless",sduduzo_g,1603296205953441792,https://twitter.com/sduduzo_g/status/1603296205953441792,"_phathu _js actually know, also hard check build produced lazy loaded chunk default, way make performance regardless",neutral,0.4883829355239868
+2022-12-15 07:47:43+00:00,"@Mukondli @code_savant @nuxt_js But look at it this way, you're adding a big red button on the home page, and because it's a long running task, you wrap it with the dev-only component. You can deploy these changes to production without affecting how production looks.",sduduzo_g,1603295726800445440,https://twitter.com/sduduzo_g/status/1603295726800445440,"_savant _js look way, adding big red button home page, long running task, wrap dev-only component. deploy change production without affecting production looks.",neutral,0.7556864619255066
+2022-12-15 07:14:42+00:00,"@maya_ndljk @nuxt_js @storyblok @antfu7 @Netlify @danielcroe @filrakowski Hi Maya, thanks a lot 💚.
+
+Yes ☺️, I crafted my own small design system on Figma so it's always aligned with my personal branding https://t.co/sBzrJxwxQm",alvarosabu,1603287416483217409,https://twitter.com/alvarosabu/status/1603287416483217409,"_ndljk _js 7 hi maya, thanks lot 💚. yes ☺️, crafted small design system figma always aligned personal branding",positive,0.9334802031517029
+2022-12-15 07:01:50+00:00,@mulung_kang @nuxt_js @prisma Yes! Just uninstall nuxt-prisma and add your typeorm setup (:,sidebase_io,1603284179554340864,https://twitter.com/sidebase_io/status/1603284179554340864,_kang _js yes! uninstall nuxt-prisma add typeorm setup (:,neutral,0.619123101234436
+2022-12-15 06:56:54+00:00,"@alvarosabu @nuxt_js @storyblok @antfu7 @Netlify @danielcroe @filrakowski Beautiful portfolio! While everyone's ogling over the performance, I gotta ask: did you also do the design? It's so sleek ✨",maya_ndljk,1603282937956470791,https://twitter.com/maya_ndljk/status/1603282937956470791,"_js 7 beautiful portfolio! everyone's ogling performance, gotta ask: also design? sleek ✨",positive,0.9828201532363892
+2022-12-15 06:20:37+00:00,@sduduzo_g @nuxt_js Does this contribute to the production bundle size?,khabubu_phathu,1603273804591005696,https://twitter.com/khabubu_phathu/status/1603273804591005696,_g _js contribute production bundle size?,neutral,0.923636794090271
+2022-12-15 05:56:22+00:00,"19 min of @nuxt_js with @drehimself made my morning seem productive 🤞. 
+
+#laracasts 🚀
+
+https://t.co/qBATqqD48C",bruno__alfred,1603267702512144385,https://twitter.com/bruno__alfred/status/1603267702512144385,19 min _js made morning seem productive 🤞. laracasts 🚀,positive,0.939217209815979

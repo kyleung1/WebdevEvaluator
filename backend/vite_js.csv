@@ -1,0 +1,1120 @@
+Date,Tweet,User,Tweet ID,Tweet Url,Cleaned Tweet,Sentiment,Confidence
+2022-12-22 05:30:25+00:00,"@_georgemoller Frontend: React, Vitejs
+Backend: Express.js on Google App Engine
+Database: Google Cloud Datastore
+
+What's interesting about this stack is that it's all JavaScript and the hosting is completely free for a small amount of traffic, which works extremely well for side projects.",hieunio,1605797888885342208,https://twitter.com/hieunio/status/1605797888885342208,"@_georgemoller frontend: react, vitejs backend: express.js google app engine database: google cloud datastore what's interesting stack javascript hosting completely free small amount traffic, work extremely well side projects.",positive,0.8763783574104309
+2022-12-22 02:04:49+00:00,@moshyfawn @tammergard @tannerlinsley @tan_stack @RollupJS @evanwallace @vite_js i believe its the opposite esbuild for dev and rollup for build,akramd3v,1605746147917811712,https://twitter.com/akramd3v/status/1605746147917811712,_stack _js believe opposite esbuild dev rollup build,neutral,0.8530821800231934
+2022-12-22 01:09:10+00:00,"I love using @vite_js and 
+ npm create vite@latest
+ to create React projects faster 
+Just recently #Vite4 was released and offers a new React plugin using #SWC instead of #Babel.
+I let you discover it
+#webdevelopment  👨‍💻 
+
+https://t.co/oXlSgrOY6o",BenDevweb89,1605732142817808384,https://twitter.com/BenDevweb89/status/1605732142817808384,love using _js npm create vite create react project faster recently vite4 released offer new react plugin using swc instead babel. let discover webdevelopment 👨‍💻,positive,0.9726696014404297
+2022-12-21 22:15:01+00:00,https://t.co/f3mODE1lqh - a quick intro to #ViteJS. Great video @odoenet. Rather read? https://t.co/jtJKYWxpe3 https://t.co/yOufdbbIQv,rob_rich,1605688316283731968,https://twitter.com/rob_rich/status/1605688316283731968,- quick intro vitejs. great video . rather read?,positive,0.9781509637832642
+2022-12-21 22:06:17+00:00,@tammergard @tannerlinsley @tan_stack @RollupJS @evanwallace @vite_js It uses Rollup in dev and bundles with esbuild (by default),moshyfawn,1605686117558124545,https://twitter.com/moshyfawn/status/1605686117558124545,_stack _js us rollup dev bundle esbuild (by default),neutral,0.9204285144805908
+2022-12-21 21:38:56+00:00,"ViteJS is simply the best thing to ever happen on our slow PCs.
+#vite #react #CRA #webdevelopment #100DaysOfCode",R3f1lvv3_M,1605679233799401472,https://twitter.com/R3f1lvv3_M/status/1605679233799401472,vitejs simply best thing ever happen slow pcs. vite react cra webdevelopment 100daysofcode,positive,0.9762917160987854
+2022-12-21 21:08:39+00:00,@moshyfawn @tannerlinsley @tan_stack @RollupJS @evanwallace @vite_js Vite is using Rollup rather than ESbuild right?,tammergard,1605671615768952832,https://twitter.com/tammergard/status/1605671615768952832,_stack _js vite using rollup rather esbuild right?,neutral,0.9432129859924316
+2022-12-21 21:00:04+00:00,"@tannerlinsley @tan_stack @RollupJS @evanwallace @vite_js Ok, fair enough! I was experimenting with Vite configs not so long ago and it looked like whatever you wanna configure Rollup to do you can pass to the Vite config",moshyfawn,1605669452724326400,https://twitter.com/moshyfawn/status/1605669452724326400,"_stack _js ok, fair enough! experimenting vite configs long ago looked like whatever wanna configure rollup pas vite config",neutral,0.8203107714653015
+2022-12-21 20:58:28+00:00,@moshyfawn @tan_stack @RollupJS @evanwallace @vite_js Yeah.... we have some pretty custom requirements though,tannerlinsley,1605669050666737664,https://twitter.com/tannerlinsley/status/1605669050666737664,_stack _js yeah.... pretty custom requirement though,neutral,0.6367465257644653
+2022-12-21 20:57:11+00:00,@tannerlinsley @tan_stack @RollupJS @evanwallace Isn't it what @vite_js does? There's a lib mode config and it bundles your package(s) with esbuild,moshyfawn,1605668729882304515,https://twitter.com/moshyfawn/status/1605668729882304515,_stack _js does? there's lib mode config bundle package(s) esbuild,neutral,0.9262852668762207
+2022-12-21 20:31:48+00:00,"Using @vite_js has changed my life 🙌🙌
+
+#vite",i_am_meph,1605662342687113217,https://twitter.com/i_am_meph/status/1605662342687113217,using _js changed life 🙌🙌 vite,positive,0.970171332359314
+2022-12-21 19:37:44+00:00,"I compared deploy speeds for Reflame, Vercel, Netlify, Cloudflare Pages on the same repo by @lewisl9029 at #ITNEXT. #netlify #cloudflarepages #react #vitejs #vercel https://t.co/tmNLCSMPaX (t)",itnext_js,1605648732866940932,https://twitter.com/itnext_js/status/1605648732866940932,"compared deploy speed reflame, vercel, netlify, cloudflare page repo 9029 itnext. netlify cloudflarepages react vitejs vercel (t)",neutral,0.908987283706665
+2022-12-21 19:19:37+00:00,Been  using @vite_js  of late and I can say it's quite faster than CRA,theevincekimani,1605644174023217152,https://twitter.com/theevincekimani/status/1605644174023217152,using _js late say quite faster cra,neutral,0.8383219242095947
+2022-12-21 17:08:18+00:00,"ts-rest by @ts_rest
+makemd by Make-md
+trpc-sveltekit by @icflorescu
+vite-plugin-react-swc by @vite_js
+swr-devtools by @koba04
+DenoGres by open-source-labs
+tuple-database by @ccorcos
+ts-sql-query by juanluispaz
+Simple-webgpu by @adnan_wahab_
+openOutpaint by @djabacus",jstoolsweekly,1605611128641490945,https://twitter.com/jstoolsweekly/status/1605611128641490945,ts-rest _rest makemd make-md trpc-sveltekit vite-plugin-react-swc _js swr-devtools 04 denogres open-source-labs tuple-database ts-sql-query juanluispaz simple-webgpu _wahab_ openoutpaint,neutral,0.8703988194465637
+2022-12-21 12:35:30+00:00,can @astrodotbuild dev build perform like @vite_js,reactporiyalar,1605542477443739648,https://twitter.com/reactporiyalar/status/1605542477443739648,dev build perform like _js,neutral,0.7613598704338074
+2022-12-21 09:51:56+00:00,"Released a new mayor version of my create-vite-ts npm package. Scaffold new projects with @vite_js &amp;&amp; (#litelement || @reactjs || @vuejs || @sveltejs) &amp;&amp; (@Cypress_io || @playwrightweb) &amp;&amp; (@storybookjs || @histoire_dev)
+
+https://t.co/8jpbhML2HS",Froko,1605501311771742208,https://twitter.com/Froko/status/1605501311771742208,released new mayor version create-vite-ts npm package. scaffold new project _js &amp;&amp; (litelement || || || ) &amp;&amp; (_io || ) &amp;&amp; ( || _dev),neutral,0.828748345375061
+2022-12-21 03:38:42+00:00,"Let me mention the tech stack: @preactjs FTW, signal is extremely helpful, @vite_js @tailwindcss @tailwindui @_sqlite_ @chartjs @maplibre @papaparse",mikoding9,1605407385237229568,https://twitter.com/mikoding9/status/1605407385237229568,"let mention tech stack: ftw, signal extremely helpful, _js @_sqlite_",positive,0.9702810049057007
+2022-12-21 00:07:46+00:00,"@pheteles @GoHugoIO @ilesjs @vite_js Hugo definitely still rules that set of use cases, no doubt. But probably not for long given how powerful that combination of fast, compiled languages and JS/TS has become. I think Hugo will only resurge if it becomes a kind of runtime for logic in JS or Lua or something.",lucperkins,1605354304247848961,https://twitter.com/lucperkins/status/1605354304247848961,"_js hugo definitely still rule set use cases, doubt. probably long given powerful combination fast, compiled language js/ts become. think hugo resurge becomes kind runtime logic j lua something.",neutral,0.539105236530304
+2022-12-21 00:05:17+00:00,"@pheteles @GoHugoIO @ilesjs Yep, that’s exactly it. Even a year or so ago the JS options were too slow to consider but now with options like @vite_js and SWC exploding onto the scene the game is changed. I’d only consider Hugo now for an enormous site with thousands of pages.",lucperkins,1605353676532772864,https://twitter.com/lucperkins/status/1605353676532772864,"yep, that’s exactly it. even year ago j option slow consider option like _js swc exploding onto scene game changed. i’d consider hugo enormous site thousand pages.",neutral,0.720025897026062
+2022-12-20 23:29:14+00:00,"Today, I worked in my personal portafolio, The P.P is going to have:
+- React 
+- ViteJs
+- React Int ( Multiple Language)
+- Redux
+- BEM Css
+- Styled Component
+- Firebase
+- Atomic Design
+First Day, I designed many views in Figma. I searched some personal portafolio examples.",frideldev,1605344605607706625,https://twitter.com/frideldev/status/1605344605607706625,"today, worked personal portafolio, p.p going have: - react - vitejs - react int ( multiple language) - redux - bem cs - styled component - firebase - atomic design first day, designed many view figma. searched personal portafolio examples.",neutral,0.6891047358512878
+2022-12-20 20:40:03+00:00,"@sebastienlorber @QwikDev Actually, I think this is a feature they inherited from @vite_js, it's just that their usage was the first time I'd seen it in the wild.",markdalgleish,1605302027419938817,https://twitter.com/markdalgleish/status/1605302027419938817,"actually, think feature inherited _js, usage first time i'd seen wild.",neutral,0.8631371259689331
+2022-12-20 18:52:18+00:00,@patak_dev @vite_js @vuejs Thanks to you 🤍,nuxtlabs,1605274912465342480,https://twitter.com/nuxtlabs/status/1605274912465342480,_dev _js thanks 🤍,positive,0.8830394148826599
+2022-12-20 18:17:31+00:00,"@patak_dev @nuxtlabs @vite_js @vuejs Well deserved, I know! 😊🙌",danielcroe,1605266157673521166,https://twitter.com/danielcroe/status/1605266157673521166,"_dev _js well deserved, know! 😊🙌",positive,0.9827507138252258
+2022-12-20 17:33:02+00:00,The developer experience is so fantastic with @vite_js that I'm probably never switching back to Create React App.,VBhabhra,1605254963374198785,https://twitter.com/VBhabhra/status/1605254963374198785,developer experience fantastic _js i'm probably never switching back create react app.,positive,0.9457196593284607
+2022-12-20 16:39:09+00:00,"Such a wholesome gift to finish the year ☺️
+Thanks a lot for starting to sponsor me @nuxtlabs 🙏
+And thanks for setting an example and supporting so many Open Source Devs in the @vite_js and @vuejs ecosystems 💚",patak_dev,1605241403931766784,https://twitter.com/patak_dev/status/1605241403931766784,wholesome gift finish year ☺️ thanks lot starting sponsor 🙏 thanks setting example supporting many open source devs _js ecosystem 💚,positive,0.9866020679473877
+2022-12-20 15:44:25+00:00,@histoire_dev @vite_js @sveltejs React when ?,NFS__21,1605227629438992386,https://twitter.com/NFS__21/status/1605227629438992386,_dev _js react ?,neutral,0.9140196442604065
+2022-12-20 15:31:04+00:00,"Level up your @vuejs skills!
+
+This extensive course on @vitest_dev, the testing framework built specifically for @vite_js, will have you writing bulletproof code in no time.
+
+And the best part is learning from the creator of Vitest himself - @antfu7 ⚡
+https://t.co/YN9MH5KGq2",vuejsfeed,1605224269180461057,https://twitter.com/vuejsfeed/status/1605224269180461057,"level skills! extensive course _dev, testing framework built specifically _js, writing bulletproof code time. best part learning creator vitest - 7 ⚡",positive,0.9639445543289185
+2022-12-20 14:45:33+00:00,"@muenzpraeger @altius_rup @SalesforceDevs @diervo @RollupJS @vite_js Ok, thanks !",FabienTaillon,1605212817216245760,https://twitter.com/FabienTaillon/status/1605212817216245760,"_rup _js ok, thanks !",positive,0.6216194033622742
+2022-12-20 14:35:31+00:00,"and ES6 classes feature class constructors, methods, and class inheritance. Additionally, using Vite and using it on my smartphone today allowed me to work with React in a novel way.
+#Github #ReactJS #DeveloperSardius #KingSardius @JavaScript @reactjs @vite_js https://t.co/18l6i2lSBr",SardiusJay,1605210292673183746,https://twitter.com/SardiusJay/status/1605210292673183746,"es6 class feature class constructors, methods, class inheritance. additionally, using vite using smartphone today allowed work react novel way. github reactjs developersardius kingsardius _js",neutral,0.5036957263946533
+2022-12-20 14:00:52+00:00,@vite_js The struggle to come up with a title has turned into a struggle to choose one 👀 https://t.co/QbTEcfgkSG,juristr,1605201573323632640,https://twitter.com/juristr/status/1605201573323632640,_js struggle come title turned struggle choose one 👀,neutral,0.8149855732917786
+2022-12-20 13:33:01+00:00,"@FabienTaillon @altius_rup @SalesforceDevs @diervo Lastly it depends on what seems most feasible to you to get your job done. My personal advice would be to go deep bundling via @RollupJS  et al - to build transferable skills. For example, @vite_js' plugin API is build upon it. You can always switch later. ;-)",muenzpraeger,1605194563857121280,https://twitter.com/muenzpraeger/status/1605194563857121280,"_rup lastly depends seems feasible get job done. personal advice would go deep bundling via et al - build transferable skills. example, _js' plugin api build upon it. always switch later. ;-)",neutral,0.542788028717041
+2022-12-20 11:46:37+00:00,Pepsi Ball is a mini-game made for Pepsi Senegal for the 2022 Qatar World Cup. This was possible with the help of @PixiJS @vite_js @greensock @liabru #gamedev #webgl #tl221 #senegal https://t.co/9f95AwxXdf,bayelayelaye,1605167787055648768,https://twitter.com/bayelayelaye/status/1605167787055648768,pepsi ball mini-game made pepsi senegal 2022 qatar world cup. possible help _js gamedev webgl tl221 senegal,neutral,0.7829709053039551
+2022-12-20 10:00:16+00:00,"ChatGPT has spoken. Coming to a blog near you soon 😎.
+
+Which one do you like most?
+
+@vite_js #vitest #react https://t.co/omb7daFIZ5",juristr,1605141021951565826,https://twitter.com/juristr/status/1605141021951565826,chatgpt spoken. coming blog near soon 😎. one like most? _js vitest react,positive,0.5838636755943298
+2022-12-20 08:44:49+00:00,"@t3dotgg @CoduxIDE How about an IDE where you can convert your Figma design to a component-based ReactJS source code with dynamic props?
+
+You can tweak CSS like padding, margin, Grid/Flex, typography, borders, and mixins.
+
+With @TailwindCSS &amp; @storybookjs! and @vite_js 
+
+https://t.co/O3DShIDkeX",iRakeshPurohit,1605122034647777280,https://twitter.com/iRakeshPurohit/status/1605122034647777280,"3dotgg ide convert figma design component-based reactjs source code dynamic props? tweak cs like padding, margin, grid/flex, typography, borders, mixins. &amp; ! _js",neutral,0.8613460659980774
+2022-12-20 07:48:13+00:00,"@vite_js Then again it seems that it's an antipattern if I understood this correctly:
+
+https://t.co/s20Yn4P7pD https://t.co/636yJp5vOH",_baxuz,1605107790363512832,https://twitter.com/_baxuz/status/1605107790363512832,_js seems antipattern understood correctly:,positive,0.5392166972160339
+2022-12-20 07:44:01+00:00,"The main issue is types, as I'm using @vite_js already to bundle the lib in a cjs+umd format.
+
+Is https://t.co/tZuvQknIiK a good choice here?",_baxuz,1605106735588450304,https://twitter.com/_baxuz/status/1605106735588450304,"main issue types, i'm using _js already bundle lib cjs+umd format. good choice here?",neutral,0.7055765390396118
+2022-12-20 05:49:07+00:00,@histoire_dev @Akryum @vite_js @sveltejs Cool! Yet it breaks in pnpm workspace environment. https://t.co/LCV0ImJOrU,davay42,1605077817653227521,https://twitter.com/davay42/status/1605077817653227521,_dev _js cool! yet break pnpm workspace environment.,positive,0.8983547687530518
+2022-12-20 04:37:05+00:00,"Since I discovered @Vite_JS, I’ve felt that using ‘create-react-app’ is morally wrong.",OmbuWebDev,1605059692266496000,https://twitter.com/OmbuWebDev/status/1605059692266496000,"since discovered _js, i’ve felt using ‘create-react-app’ morally wrong.",negative,0.8101257085800171
+2022-12-20 03:54:14+00:00,"Just discovered Vite.js for building lightning-fast, reactive web apps and I am blown away by its performance! The hot module reloading and optimized build times make development a breeze.",hii_mohit,1605048906668474369,https://twitter.com/hii_mohit/status/1605048906668474369,"discovered vite.js building lightning-fast, reactive web apps blown away performance! hot module reloading optimized build time make development breeze.",positive,0.954764187335968
+2022-12-20 02:11:00+00:00,@histoire_dev @vite_js @sveltejs Is React on roadmap?,lcssbr,1605022928361226240,https://twitter.com/lcssbr/status/1605022928361226240,_dev _js react roadmap?,neutral,0.9397924542427063
+2022-12-19 21:25:37+00:00,"https://t.co/84u9HjRLZC now officially supports @vite_js 4.0 and @sveltejs kit 1.0! ⚡️
+https://t.co/5AYU6BiTbd",histoire_dev,1604951110262919168,https://twitter.com/histoire_dev/status/1604951110262919168,officially support _js 4.0 kit 1.0! ⚡️,positive,0.8555798530578613
+2022-12-19 18:27:59+00:00,"Just dropped webpack in favor of @vite_js and its blazingly fast
+#programmer",astudentinearth,1604906406179733514,https://twitter.com/astudentinearth/status/1604906406179733514,dropped webpack favor _js blazingly fast programmer,positive,0.680976152420044
+2022-12-19 13:53:53+00:00,@vite_js is on another level in bundling,jacobkyalo202,1604837426978910208,https://twitter.com/jacobkyalo202/status/1604837426978910208,_js another level bundling,neutral,0.5502411127090454
+2022-12-19 13:33:00+00:00,"Wanna learn something new in the #webdev? Check out our weekly post on the Web stack.
+
+https://t.co/Avlo18LFNP
+
+Featuring @SvelteSociety @jquery @vite_js @Do10X @matryer @simonswine @kkakkoyun @bwplotka",canopassoftware,1604832169901301760,https://twitter.com/canopassoftware/status/1604832169901301760,wanna learn something new webdev? check weekly post web stack. featuring _js 10x,positive,0.5179153084754944
+2022-12-19 12:57:21+00:00,"#Vite has launched it's latest version and #FrontEnd #development community is excited than ever
+
+Check out Vite 4.0 details here
+
+#javascript #js #technology #business #frontenddev #100daysofcoding #coding #developers #developerslife #vitejs https://t.co/A59XwvwMOi",Net_Programmer,1604823198050451458,https://twitter.com/Net_Programmer/status/1604823198050451458,vite launched latest version frontend development community excited ever check vite 4.0 detail javascript j technology business frontenddev 100daysofcoding coding developer developerslife vitejs,positive,0.9629824757575989
+2022-12-19 12:05:04+00:00,"I compared deploy speeds for Reflame, Vercel, Netlify, Cloudflare Pages on the same repo - by @lewisl9029 
+#React #Vitejs #Vercel #Netlify #Cloudflare #CloudflarePages #JavaScript #webDevelopment #fronendDevelopment 
+https://t.co/WVyJ0vJ6XF",ITNEXT_io,1604810039616749571,https://twitter.com/ITNEXT_io/status/1604810039616749571,"compared deploy speed reflame, vercel, netlify, cloudflare page repo - 9029 react vitejs vercel netlify cloudflare cloudflarepages javascript webdevelopment fronenddevelopment",neutral,0.8905150294303894
+2022-12-19 10:57:30+00:00,"Just completed a #frontend coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://t.co/JIngydYbmz
+
+For this project I've used @reactjs @tailwindcss @vite_js  Any suggestions on how I can improve are welcome!
+
+#FrontendMentor #CodeChallenge",imtusharbiswas,1604793038730977280,https://twitter.com/imtusharbiswas/status/1604793038730977280,completed frontend coding challenge ! 🎉 see solution here: project i've used _js suggestion improve welcome! frontendmentor codechallenge,positive,0.9672081470489502
+2022-12-19 06:03:22+00:00,"@mastercorg @vite_js @sveltejs @nuxt_js @nextjs Amazing, would love to see @storybookjs v7 added to this list!",itsezc,1604719014995189761,https://twitter.com/itsezc/status/1604719014995189761,"_js _js amazing, would love see v7 added list!",positive,0.9849655628204346
+2022-12-19 05:23:28+00:00,"Vite has gained immense popularity in the front-end #development #community and with the release of Vite 4.0 it is expected to increase beyond the limits.
+
+Check everything about Vite 4.0 here : https://t.co/SjGEd89X4O
+
+#Vite #vitejs #FrontEndDeveloper #frontenddevelopment",radixweb,1604708977090011137,https://twitter.com/radixweb/status/1604708977090011137,vite gained immense popularity front-end development community release vite 4.0 expected increase beyond limits. check everything vite 4.0 : vite vitejs frontenddeveloper frontenddevelopment,positive,0.964103639125824
+2022-12-19 03:16:18+00:00,@vite_js @sveltejs @nuxt_js @nextjs Next.js v13 https://t.co/mj4sGID0oC,mastercorg,1604676973506498560,https://twitter.com/mastercorg/status/1604676973506498560,_js _js next.js v13,neutral,0.8898279070854187
+2022-12-19 03:15:24+00:00,"We've recently improved the way Master CSS AOT scans source code for more reliable output.
+Overnight, the latest versions of mainstream frameworks and build tools have also been supported 🎉
+
+@vite_js v4
+@sveltejs kit v1
+@nuxt_js v3
+@nextjs v13
+
+Check out the example and guide 👇🏻",mastercorg,1604676745881604096,https://twitter.com/mastercorg/status/1604676745881604096,"we've recently improved way master cs aot scan source code reliable output. overnight, latest version mainstream framework build tool also supported 🎉 _js v4 kit v1 _js v3 v13 check example guide 👇🏻",positive,0.9385017156600952
+2022-12-19 01:39:12+00:00,@vite_js give us a backend build tool plz,d0rio,1604652538233593856,https://twitter.com/d0rio/status/1604652538233593856,_js give u backend build tool plz,neutral,0.6816611886024475
+2022-12-18 21:54:43+00:00,"About lost 10 years of my life trying to figure out the best way to write a @vite_js plugin to resolve modules from the @deno_land cache without also rewriting the node resolver.
+
+Going nowhere fast 🤪",itsdouges,1604596042720153600,https://twitter.com/itsdouges/status/1604596042720153600,lost 10 year life trying figure best way write _js plugin resolve module _land cache without also rewriting node resolver. going nowhere fast 🤪,negative,0.6716769337654114
+2022-12-18 19:05:32+00:00,"https://t.co/TfHap5W0I3
+#vite4 has been released 
+@vite_js",ardaorkin,1604553466889773056,https://twitter.com/ardaorkin/status/1604553466889773056,vite4 released _js,neutral,0.8483479022979736
+2022-12-18 15:52:27+00:00,@vite_js I think the gear should accelerate 2x in every major version. You should set this as a goal.,productdevbook,1604504875286814720,https://twitter.com/productdevbook/status/1604504875286814720,_js think gear accelerate 2x every major version. set goal.,neutral,0.8279883861541748
+2022-12-18 08:28:52+00:00,"I created a browser based tool to download videos from HLS. I'm really happy to experiment with new browsers capabilities. 
+https://t.co/lyOUrs9cUv
+
+Upvote it:
+https://t.co/tZImfzejgn
+
+Made with @reactjs + @vite_js &amp; Hosted @vercel
+#video  #technology  #hls #Vite #ReactJS",jeeetpaul,1604393243663560705,https://twitter.com/jeeetpaul/status/1604393243663560705,created browser based tool download video hls. i'm really happy experiment new browser capabilities. upvote it: made + _js &amp; hosted video technology hl vite reactjs,positive,0.9682655334472656
+2022-12-18 03:56:55+00:00,"7- I have just started to code the @cronohooks's UI. Tech-stack is very simple and so powerful for the frontend: @vite_js, @tailwindcss, @reactjs 🚀 
+
+#buildinpublic #SaaS #indiedev #solodev #Growth",egesabanci0,1604324808786747392,https://twitter.com/egesabanci0/status/1604324808786747392,"7- started code 's ui. tech-stack simple powerful frontend: _js, , 🚀 buildinpublic saas indiedev solodev growth",positive,0.5664731860160828
+2022-12-17 22:40:55+00:00,@manucorporat @vite_js @astrodotbuild @QwikDev Oh yea. Last year I had a similar fun with gingerbread frameworks 😁🎉 https://t.co/exrL1elXIn,KrisPlatis,1604245281771589633,https://twitter.com/KrisPlatis/status/1604245281771589633,_js oh yea. last year similar fun gingerbread framework 😁🎉,positive,0.9851740002632141
+2022-12-17 21:55:28+00:00,@manucorporat @vite_js @astrodotbuild @QwikDev Nice 😊,Dominus_Kelvin,1604233846073032704,https://twitter.com/Dominus_Kelvin/status/1604233846073032704,_js nice 😊,positive,0.9592607021331787
+2022-12-17 21:38:56+00:00,Celebrating with @vite_js and @astrodotbuild and @QwikDev 🎉🍪 https://t.co/z9p6VNAKGT,manucorporat,1604229683456917511,https://twitter.com/manucorporat/status/1604229683456917511,celebrating _js 🎉🍪,positive,0.9554248452186584
+2022-12-17 20:27:45+00:00,another release weekend @QwikDev HQ 🚀 v0.16.0 and 0.16.1 just got published 🤩 now supporting @vite_js  at v4! thanks to everybody involved and happy testing 🙏 https://t.co/QouOPICy3m,roman_zanettin,1604211771786543106,https://twitter.com/roman_zanettin/status/1604211771786543106,another release weekend hq 🚀 v0.16.0 0.16.1 got published 🤩 supporting _js v4! thanks everybody involved happy testing 🙏,positive,0.9892740845680237
+2022-12-17 18:05:59+00:00,"The latest Vite reduced my bundle size almost 10%. Thank you, @vite_js .",nottooeccentric,1604176092150910976,https://twitter.com/nottooeccentric/status/1604176092150910976,"latest vite reduced bundle size almost 10%. thank you, _js .",positive,0.9501424431800842
+2022-12-17 17:24:40+00:00,"@tsudotki @vite_js @storybookjs We support both Vite and Webpack 5! 
+
+Lots of love for where Webpack brought the ecosystem",domyen,1604165697390743552,https://twitter.com/domyen/status/1604165697390743552,_js support vite webpack 5! lot love webpack brought ecosystem,positive,0.9799540042877197
+2022-12-17 16:28:10+00:00,@vite_js @storybookjs Webpack L 😂,tsudotki,1604151479069048832,https://twitter.com/tsudotki/status/1604151479069048832,_js webpack l 😂,neutral,0.8242018818855286
+2022-12-17 15:33:03+00:00,"Hey @vite_js 👋
+
+What do we need to do to make an official vite template for  @solid_js happen? 🙌 https://t.co/EG42a3kgwc",radubrehar,1604137604886061056,https://twitter.com/radubrehar/status/1604137604886061056,hey _js 👋 need make official vite template _js happen? 🙌,neutral,0.5392541289329529
+2022-12-17 14:59:12+00:00,"@vite_js @storybookjs It's all good with all those victory laps.
+Ping me when you figure out how to integrate ""monero-javascript"" into svelte/sveltekit. I'm stuck-",TrasherDK,1604129089291399168,https://twitter.com/TrasherDK/status/1604129089291399168,"_js good victory laps. ping figure integrate ""monero-javascript"" svelte/sveltekit. i'm stuck-",positive,0.5845467448234558
+2022-12-17 13:03:52+00:00,"As *demanded* by @ivankrisdotcom, I've just published a sample #WordPress plugin with @vite_js integration. This time it's Vanilla JS.
+
+https://t.co/O5uQOWJrPM",kucrut,1604100065236516865,https://twitter.com/kucrut/status/1604100065236516865,"*demanded* , i've published sample wordpress plugin _js integration. time vanilla js.",neutral,0.8903104066848755
+2022-12-17 13:00:02+00:00,"📦 Which bundler do you use?
+✍ Comment below
+
+I tried a lot of bundler but there's just one that I absolutely love: @vite_js !
+I still use Webpack and Grunt for a lot of projects.
+#techtwitter #webdevs #javascript",PierpaoloW,1604099098730147840,https://twitter.com/PierpaoloW/status/1604099098730147840,📦 bundler use? ✍ comment tried lot bundler there's one absolutely love: _js ! still use webpack grunt lot projects. techtwitter webdevs javascript,positive,0.9009354114532471
+2022-12-17 10:01:45+00:00,@robdmoore @arggrande ESM is the future. I used to have troubles but then changed the tooling to parceljs or vitejs and things have just worked,dennisroche,1604054230507323392,https://twitter.com/dennisroche/status/1604054230507323392,esm future. used trouble changed tooling parceljs vitejs thing worked,neutral,0.7007589936256409
+2022-12-17 06:11:22+00:00,@vite_js @ericsimons40 @storybookjs A huge win!!,setemiojo,1603996254870024192,https://twitter.com/setemiojo/status/1603996254870024192,_js 40 huge win!!,positive,0.980281412601471
+2022-12-17 02:12:16+00:00,"Storybook 7 is a really impressive upgrade ❤
+Can't wait for the plugin ecosystem to catch up so we can switch to alternative builders.
+
+We're currently using @webpack + ESBuild. The @vite_js builder is much faster but then a couple plugins (e.g. a11y) break in our codebase. https://t.co/yuRatSsNLw",kaelig,1603936081212235781,https://twitter.com/kaelig/status/1603936081212235781,storybook 7 really impressive upgrade ❤ can't wait plugin ecosystem catch switch alternative builders. we're currently using + esbuild. _js builder much faster couple plugins (e.g. a11y) break codebase.,positive,0.9816194772720337
+2022-12-16 23:40:10+00:00,"@vite_js @storybookjs I'm happy there is competition to VITEjs, competition is never a bad thing, but seems odd for NextJS to make Turbopack when Vite is just SOOOO good.",f0ckAddiction11,1603897805369638913,https://twitter.com/f0ckAddiction11/status/1603897805369638913,"_js i'm happy competition vitejs, competition never bad thing, seems odd nextjs make turbopack vite soooo good.",positive,0.9507060647010803
+2022-12-16 22:34:19+00:00,@RyanCarniato @ipradeepmishra @radubrehar @solid_js @vite_js Downloading now. I'm doing my part.,ValadezThom,1603881234144415744,https://twitter.com/ValadezThom/status/1603881234144415744,_js _js downloading now. i'm part.,neutral,0.8096960186958313
+2022-12-16 21:02:29+00:00,@storybookjs Finally @vite_js is here.,smucahityilmaz,1603858122732445696,https://twitter.com/smucahityilmaz/status/1603858122732445696,finally _js here.,positive,0.5679283738136292
+2022-12-16 20:56:52+00:00,"Congrats to the @storybookjs team! ⚡️
+&gt; First-class Vite support. Vite is a next-gen build tool that gives Storybook 7.0 fast startup and instant reloads. We now support automatic configuration from your Vite config, and Webpack is no longer installed into your projects. https://t.co/XKOa3zRM5P",vite_js,1603856710749274112,https://twitter.com/vite_js/status/1603856710749274112,"congrats team! ⚡️ &gt; first-class vite support. vite next-gen build tool give storybook 7.0 fast startup instant reloads. support automatic configuration vite config, webpack longer installed projects.",positive,0.976738691329956
+2022-12-16 20:28:03+00:00,"Keep up with the latest updates to @vite_js, @Ionicframework, @RedwoodJS, @tan_stack, &amp; #HarlemJS in our #JSMINUTE series!
+
+You can find more on our YouTube page as well!
+https://t.co/3r2QQjKBt4 https://t.co/utVlczLdrN",ThisDotMedia,1603849456755085312,https://twitter.com/ThisDotMedia/status/1603849456755085312,"keep latest update _js, , , _stack, &amp; harlemjs jsminute series! find youtube page well!",neutral,0.5504733324050903
+2022-12-16 17:31:02+00:00,@ipradeepmishra @radubrehar @solid_js @vite_js You mean from their official templates. Yeah all our stuff is built on @vite_js but to become an official template you need to reach a certain level of adoption. We need to 4x our NPM downloads to get there I believe.,RyanCarniato,1603804908989206529,https://twitter.com/RyanCarniato/status/1603804908989206529,_js _js mean official templates. yeah stuff built _js become official template need reach certain level adoption. need 4x npm downloads get believe.,neutral,0.8520078063011169
+2022-12-16 17:29:27+00:00,@RyanCarniato @radubrehar @solid_js it would be nice if @vite_js would add support for solidjs as well.,ipradeepmishra,1603804511750868992,https://twitter.com/ipradeepmishra/status/1603804511750868992,_js would nice _js would add support solidjs well.,positive,0.8606757521629333
+2022-12-16 16:48:36+00:00,"It's been a magical year for me.I have experienced and learned a lot from the open source community.
+Thanks:
+I learned a lot from @antfu7  in the @vuejs  and @vite_js  ecosystem.
+About the vue-termui's journey with @posva,Some of his ideas are very inspiring to me.",webfansplz,1603794232342245376,https://twitter.com/webfansplz/status/1603794232342245376,"magical year me.i experienced learned lot open source community. thanks: learned lot 7 _js ecosystem. vue-termui's journey ,some idea inspiring me.",positive,0.9780324697494507
+2022-12-16 16:23:54+00:00,"3/N) 2022/03/21 - Wrote a @vite_js plugin related to @vuejs.This was my first experience of @vite_js ecosystem.
+https://t.co/0Js7tDwET7",webfansplz,1603788017197404166,https://twitter.com/webfansplz/status/1603788017197404166,3/n) 2022/03/21 - wrote _js plugin related .this first experience _js ecosystem.,neutral,0.8782961368560791
+2022-12-16 13:22:23+00:00,@psybercity @NxDevTools @vite_js Ah damn 😁,dominik_pieper,1603742335275356161,https://twitter.com/dominik_pieper/status/1603742335275356161,_js ah damn 😁,positive,0.47916579246520996
+2022-12-16 13:21:46+00:00,"@dominik_pieper @NxDevTools @vite_js hehe no, not yet!! :D",psybercity,1603742180757102593,https://twitter.com/psybercity/status/1603742180757102593,"_pieper _js hehe no, yet!! :d",positive,0.8511427640914917
+2022-12-16 13:21:12+00:00,@dominik_pieper @NxDevTools @vite_js ohhh fun!,psybercity,1603742038322823168,https://twitter.com/psybercity/status/1603742038322823168,_pieper _js ohhh fun!,positive,0.9496582746505737
+2022-12-16 12:48:26+00:00,@psybercity @NxDevTools @vite_js @psybercity is there a new framework support coming? I saw some variables you added 🤔,dominik_pieper,1603733790827896832,https://twitter.com/dominik_pieper/status/1603733790827896832,_js new framework support coming? saw variable added 🤔,neutral,0.8473485112190247
+2022-12-16 12:23:38+00:00,"It looks like adding @vite_js to rollupOptions.output.manualChunk will cause this problem, removing it solved the issue 
+
+(/¯◡ ‿ ◡)/¯ ~ ┻━┻ https://t.co/wvr07pc6yA",zaherg,1603727551771418627,https://twitter.com/zaherg/status/1603727551771418627,"look like adding _js rollupoptions.output.manualchunk cause problem, removing solved issue (/¯◡ ‿ ◡)/¯ ~ ┻━┻",neutral,0.6442911028862
+2022-12-16 12:17:34+00:00,"@psybercity @NxDevTools @vite_js On the way, we are migrating all the Vite-based plugins. So far all smooth 😄",dominik_pieper,1603726024956575745,https://twitter.com/dominik_pieper/status/1603726024956575745,"_js way, migrating vite-based plugins. far smooth 😄",positive,0.8939282298088074
+2022-12-16 12:14:05+00:00,"@tailwindcss @vite_js I don't think it has anything with Tailwind, as each build will produce the same error but from different libraries",zaherg,1603725145285091328,https://twitter.com/zaherg/status/1603725145285091328,"_js think anything tailwind, build produce error different library",neutral,0.664485514163971
+2022-12-16 12:09:41+00:00,"anyone is having problems getting @tailwindcss to work with @vite_js 4 ?
+
+I am getting this error https://t.co/xlof1S7SHQ",zaherg,1603724037749968896,https://twitter.com/zaherg/status/1603724037749968896,anyone problem getting work _js 4 ? getting error,negative,0.6205773949623108
+2022-12-16 10:55:34+00:00,"Every day I wake up with a new idea for the @NxDevTools @vite_js plugin.
+
+It's SO exciting to work on something new, that's evolving!",psybercity,1603705386430865409,https://twitter.com/psybercity/status/1603705386430865409,"every day wake new idea _js plugin. exciting work something new, that's evolving!",positive,0.9510521292686462
+2022-12-16 10:17:59+00:00,"I have updated my blog generator to #vitejs (https://t.co/gKEnuwxnHl).
+I planed to do it in February. But  was too distracted by the war and spent a lot of time scrolling news.
+Since then Vite has been changed. So I have to find new solution.",qwertovsky,1603695930707804160,https://twitter.com/qwertovsky/status/1603695930707804160,updated blog generator vitejs ( planed february. distracted war spent lot time scrolling news. since vite changed. find new solution.,negative,0.8010455369949341
+2022-12-16 07:46:57+00:00,"🤯 What!? 
+
+📦 git clone
++ 🛠 yarn install
++ 🚀 yarn start 
+
+             👇
+.... in ~10 Seconds? 👈
+             👆
+
+Is this sci-fi... or just Versatile #Angular + #Yarn PnP + @vite_js...
+
+#javascript https://t.co/fTJPDVgFJj",yjaaidi,1603657919517556738,https://twitter.com/yjaaidi/status/1603657919517556738,🤯 what!? 📦 git clone + 🛠 yarn install + 🚀 yarn start 👇 .... ~10 seconds? 👈 👆 sci-fi... versatile angular + yarn pnp + _js... javascript,neutral,0.688061535358429
+2022-12-16 07:02:52+00:00,"@Iampatelajeet Use vite.js 
+Very useful",AdiZende23,1603646825097203712,https://twitter.com/AdiZende23/status/1603646825097203712,use vite.js useful,positive,0.56944340467453
+2022-12-16 02:30:05+00:00,"GitHub Trending Archive, 14 Dec 2022, JavaScript. gencay/vscode-chatgpt, ikechan8370/chatgpt-plugin, vitejs/vite-plugin-react-swc, rxzyx/Blooket-Hacks, memochou1993/gpt-ai-assistant, pulsar-edit/pulsar, gragland/chatgpt-chrome-extension https://t.co/RaUYPxNaY3",motakasoft,1603578179566043137,https://twitter.com/motakasoft/status/1603578179566043137,"github trending archive, 14 dec 2022, javascript. gencay/vscode-chatgpt, ikechan8370/chatgpt-plugin, vitejs/vite-plugin-react-swc, rxzyx/blooket-hacks, memochou1993/gpt-ai-assistant, pulsar-edit/pulsar, gragland/chatgpt-chrome-extension",neutral,0.8942436575889587
+2022-12-15 20:53:13+00:00,My favorite and least-favorite thing about @vite_js was how strict it is about staying true to standards and not polyfilling everything. https://t.co/dbCGPaPDSf,_jessicasachs,1603493402737348608,https://twitter.com/_jessicasachs/status/1603493402737348608,favorite least-favorite thing _js strict staying true standard polyfilling everything.,neutral,0.5584068894386292
+2022-12-15 19:41:54+00:00,I think it's pretty cool that @sveltejs and @vite_js teamed up for #sveltekit 👏,Riefer02,1603475456627511300,https://twitter.com/Riefer02/status/1603475456627511300,think pretty cool _js teamed sveltekit 👏,positive,0.9534571170806885
+2022-12-15 19:28:20+00:00,"@ericsimons40 @vite_js @stackblitz Back at you Eric! ❤️
+I couldn't imagine one year ago how much alignment and chances to collaborate we end up having. Thanks again for everything StackBlitz did for Vite and its ecosystem this year. Excited to see how 2023 will play out, so many interesting things are in motion!",patak_dev,1603472043495854085,https://twitter.com/patak_dev/status/1603472043495854085,"40 _js back eric! ❤️ imagine one year ago much alignment chance collaborate end having. thanks everything stackblitz vite ecosystem year. excited see 2023 play out, many interesting thing motion!",positive,0.9860085844993591
+2022-12-15 19:26:03+00:00,"@mhevery @coolaj86 @vite_js and qwik optimizer in Rust, will deal with TS just fine, in theory not even need to install typescript",manucorporat,1603471468058316814,https://twitter.com/manucorporat/status/1603471468058316814,"86 _js qwik optimizer rust, deal t fine, theory even need install typescript",neutral,0.6076697111129761
+2022-12-15 19:00:03+00:00,"@patak_dev @vite_js @stackblitz Unbelievable how much you and the Vite team accomplished this year. (And also, ViteConf!!!)
+
+So grateful to work with you sir ❤️ Can't believe it's been a year already. Cheers to many more! 🍻",ericsimons40,1603464925795549185,https://twitter.com/ericsimons40/status/1603464925795549185,"_dev _js unbelievable much vite team accomplished year. (and also, viteconf!!!) grateful work sir ❤️ can't believe year already. cheer many more! 🍻",positive,0.9902079701423645
+2022-12-15 18:38:33+00:00,@patak_dev @vite_js @ericsimons40 @stackblitz I only can say... Well deserved pibe!! ⚡⚡,alexjoverm,1603459513796988932,https://twitter.com/alexjoverm/status/1603459513796988932,_dev _js 40 say... well deserved pibe!! ⚡⚡,positive,0.9724384546279907
+2022-12-15 17:39:58+00:00,@wesscope @appwrite @vite_js I'll slide into your DMs. 😉,dustinsgoodman,1603444769874649088,https://twitter.com/dustinsgoodman/status/1603444769874649088,_js i'll slide dms. 😉,positive,0.6575443744659424
+2022-12-15 16:49:08+00:00,I finally added one more way to buy the books. in addition to Leanpub now you can buy them directly from my website: https://t.co/b57NBLZeK6 #vue #svelte #react #vuejs #vite #webdev #javascript #typescript #vitejs #tailwindcss #100DaysOfCode #buildinpublic #tweet100 https://t.co/WvWWZiukqy,DamianoMe,1603431977088081920,https://twitter.com/DamianoMe/status/1603431977088081920,finally added one way buy books. addition leanpub buy directly website: vue svelte react vuejs vite webdev javascript typescript vitejs tailwindcss 100daysofcode buildinpublic tweet100,positive,0.6008754372596741
+2022-12-15 15:22:44+00:00,"✨👾 Count all the words you want 👾✨
+
+Built a word counter with @vite_js and @SvelteSociety. Deployed on @vercel https://t.co/dp6b1xP2uV",MariyamJoory,1603410236291051522,https://twitter.com/MariyamJoory/status/1603410236291051522,✨👾 count word want 👾✨ built word counter _js . deployed,neutral,0.8037973642349243
+2022-12-15 15:11:20+00:00,"Thanks also to @youyuxi, for his continuous trust and guidance. To @antfu7 for keep involving me in his adventures. And to the whole @vite_js team for the massive amount of hours they poured into improving it this year. And a special shoutout to @bluwyoo and @sapphi_red 🙌",patak_dev,1603407366946713600,https://twitter.com/patak_dev/status/1603407366946713600,"thanks also , continuous trust guidance. 7 keep involving adventures. whole _js team massive amount hour poured improving year. special shoutout _red 🙌",positive,0.9759536981582642
+2022-12-15 15:11:20+00:00,"The @stackblitz team is amazing. They gave me their full support this year to work on @vite_js. They also sponsored @ViteConf and went out of their way to make the event special. I'm incredibly grateful and forever impressed by WebContainers, CodeFlow, and everything you build ❤️",patak_dev,1603407364182491136,https://twitter.com/patak_dev/status/1603407364182491136,"team amazing. gave full support year work _js. also sponsored went way make event special. i'm incredibly grateful forever impressed webcontainers, codeflow, everything build ❤️",positive,0.9872120022773743
+2022-12-15 15:11:19+00:00,"Vite 4 and SvelteKit 1 are a great close to an incredible year for the @vite_js ecosystem. Also, personally, time to reflect on a year beyond my wildest dreams. First, a big shoutout to @ericsimons40 and the whole @stackblitz team for allowing me to work full-time on @vite_js ⚡️",patak_dev,1603407362253021184,https://twitter.com/patak_dev/status/1603407362253021184,"vite 4 sveltekit 1 great close incredible year _js ecosystem. also, personally, time reflect year beyond wildest dreams. first, big shoutout 40 whole team allowing work full-time _js ⚡️",positive,0.9841296672821045
+2022-12-15 14:11:02+00:00,"Brand-new docs live at https://t.co/ezJki1wly6, thank you, @BotteroEmerson and @sidv42! 
+Build with #vitepress @vite_js... https://t.co/y5vPNm8D41",mermaidjs_,1603392189534437376,https://twitter.com/mermaidjs_/status/1603392189534437376,"brand-new doc live thank you, 42! build vitepress _js...",positive,0.9736589193344116
+2022-12-15 13:25:16+00:00,"@dustinsgoodman @appwrite @vite_js of course, anything i can do to contribute :)",wesscope,1603380674064416770,https://twitter.com/wesscope/status/1603380674064416770,"_js course, anything contribute :)",positive,0.8537187576293945
+2022-12-15 13:18:50+00:00,"Resources
+
+Official documentation (https://t.co/35yXpSNPSs)
+
+The program to download (https://t.co/CM9FYYJks7)
+
+Vite.js to set up React (https://t.co/J3lUpo60SJ)",DineshForIT,1603379053058293760,https://twitter.com/DineshForIT/status/1603379053058293760,resource official documentation ( program download ( vite.js set react (,neutral,0.9183717966079712
+2022-12-15 12:13:34+00:00,"@astrodotbuild @nannoucc @vite_js @rustlang Here it is 🤤
+https://t.co/BHCBilkd8s",Julian_Cataldo,1603362628528734208,https://twitter.com/Julian_Cataldo/status/1603362628528734208,_js 🤤,positive,0.6144564747810364
+2022-12-15 12:12:29+00:00,"It works 🫣!!
+
+Nannou x Astro, via WASM, with HMR, multiples crates/sketches as linked pnpm packages…
+
+@astrodotbuild x @nannoucc x @vite_js x @rustlang  #Rust #WASM #creativecoding… https://t.co/m9s8rvrKWs",Julian_Cataldo,1603362355160780801,https://twitter.com/Julian_Cataldo/status/1603362355160780801,"work 🫣!! nannou x astro, via wasm, hmr, multiple crates/sketches linked pnpm packages… x x _js x rust wasm creativecoding…",neutral,0.7989669442176819
+2022-12-15 11:36:50+00:00,"Today, I tried @vitest_dev to test my vitejs plugin. And it was wow, everything work just like that, it's too cool !",EmilienLeroyIT,1603353383460655104,https://twitter.com/EmilienLeroyIT/status/1603353383460655104,"today, tried _dev test vitejs plugin. wow, everything work like that, cool !",positive,0.9850406050682068
+2022-12-15 09:04:28+00:00,"Everything that uses @vite_js really hates Windows, don't know how many packages that can't prefix a file path correctly. Time lost getting it working might end up beeing more than webpack bundling.",indiehjaerta,1603315039620026368,https://twitter.com/indiehjaerta/status/1603315039620026368,"everything us _js really hate windows, know many package can't prefix file path correctly. time lost getting working might end beeing webpack bundling.",negative,0.9095631241798401
+2022-12-15 08:32:44+00:00,"Good Morning 🌞
+Who is playing with the new 🆕 SvelteKit?
+
+- SvelteKit 1.0 (👋)
+- Vite 4 (🏎️)
+- Svelte 3.55 (🧡)
+
+#sveltekit #svelte #javascript #newrelease #vitejs @SvelteSociety https://t.co/m8t5m189gn",RmeetsH,1603307054537506817,https://twitter.com/RmeetsH/status/1603307054537506817,good morning 🌞 playing new 🆕 sveltekit? - sveltekit 1.0 (👋) - vite 4 (🏎️) - svelte 3.55 (🧡) sveltekit svelte javascript newrelease vitejs,positive,0.5429893136024475
+2022-12-15 02:30:05+00:00,"GitHub Trending Archive, 13 Dec 2022, JavaScript. ed-roh/fullstack-admin, sunshanpeng/wechaty-chatgpt, gencay/vscode-chatgpt, ikechan8370/chatgpt-plugin, kxxt/chatgpt-action, SamPandey001/Secktor-Md, vitejs/vite-plugin-react-swc, rxzyx/Blooket-Hacks https://t.co/QpT1Fuahwj",motakasoft,1603215792631259137,https://twitter.com/motakasoft/status/1603215792631259137,"github trending archive, 13 dec 2022, javascript. ed-roh/fullstack-admin, sunshanpeng/wechaty-chatgpt, gencay/vscode-chatgpt, ikechan8370/chatgpt-plugin, kxxt/chatgpt-action, sampandey001/secktor-md, vitejs/vite-plugin-react-swc, rxzyx/blooket-hacks",neutral,0.8795596957206726
+2022-12-15 00:06:09+00:00,"Just published new marketing site. 🙌 https://t.co/26sw1H6YCP
+
+Built by @jwarnow in @webflow with a bit of typescript transformed with @vite_js. It's a good stack. 
+
+The typescript pieces were only needed to make me feel better about no-code platforms making my skills obsolete.",woodhull,1603179566926741504,https://twitter.com/woodhull/status/1603179566926741504,published new marketing site. 🙌 built bit typescript transformed _js. good stack. typescript piece needed make feel better no-code platform making skill obsolete.,positive,0.9381917715072632
+2022-12-14 21:14:59+00:00,@wesscope @appwrite @vite_js Have you heard of or seen https://t.co/Fnj1F6jyPW? Would love to collab and include this if you had any interest. Let me know!,dustinsgoodman,1603136495375769600,https://twitter.com/dustinsgoodman/status/1603136495375769600,_js heard seen would love collab include interest. let know!,positive,0.8518637418746948
+2022-12-14 18:42:06+00:00,@vite_js is awesome 🤩,bradymholt,1603098020966531073,https://twitter.com/bradymholt/status/1603098020966531073,_js awesome 🤩,positive,0.981802761554718
+2022-12-14 18:32:19+00:00,@wesscope @appwrite @vite_js That's a nice combo you got there!,eldadfux,1603095557425319937,https://twitter.com/eldadfux/status/1603095557425319937,_js that's nice combo got there!,positive,0.9791617393493652
+2022-12-14 16:27:45+00:00,"@abdellahjs @vite_js @RollupJS Yes, no code changes
+Before, I only used rollup 2 without Vite.
+
+Better, before I just compiled in format 1 (ES). Now I also compile in CJS and still the bundle size is lighter
+
+https://t.co/KaiGpTtzS4",maz__ui,1603064206798061568,https://twitter.com/maz__ui/status/1603064206798061568,"_js yes, code change before, used rollup 2 without vite. better, compiled format 1 (es). also compile cjs still bundle size lighter",positive,0.6043355464935303
+2022-12-14 16:07:23+00:00,"I created a template for the project setup I use over and over. Featuring: React, Appwrite, Vite, ChakraUI and a few more, thought i would share as I have used the setup quite a bit.
+
+#ReactJS #vite #appwrite 
+
+/cc @appwrite @vite_js
+
+https://t.co/2vAtZ0WWwJ",wesscope,1603059084453879814,https://twitter.com/wesscope/status/1603059084453879814,"created template project setup use over. featuring: react, appwrite, vite, chakraui more, thought would share used setup quite bit. reactjs vite appwrite /cc _js",neutral,0.8146552443504333
+2022-12-14 15:48:36+00:00,"yolo. updated vue &amp; vuetify to latest and brought in @vitejs/plugin-vue. 
+
+The resolver from  unplugin-vue-components needs to be the proper one ofc
+
+So far so good https://t.co/9p0uqx7KGC",AndreiTerecoasa,1603054355703336961,https://twitter.com/AndreiTerecoasa/status/1603054355703336961,yolo. updated vue &amp; vuetify latest brought /plugin-vue. resolver unplugin-vue-components need proper one ofc far good,positive,0.7684504985809326
+2022-12-14 15:29:03+00:00,"Using the power of Vite.js, we received Astro: an agnostic framework that can work as SSG (static site generator) and provide SSR (server-side rendering). https://t.co/5xwGKuWjUm
+#typescript #javascript #webdev https://t.co/Sgu6R2Zv6f",mwycliffe_dev,1603049436116140032,https://twitter.com/mwycliffe_dev/status/1603049436116140032,"using power vite.js, received astro: agnostic framework work ssg (static site generator) provide ssr (server-side rendering). typescript javascript webdev",neutral,0.7917998433113098
+2022-12-14 13:56:30+00:00,"Will there by any direct ESM module support in Vite in the future?
+@vite_js #javascript",imsabodetocode,1603026146496434176,https://twitter.com/imsabodetocode/status/1603026146496434176,direct esm module support vite future? _js javascript,neutral,0.90605628490448
+2022-12-14 12:33:01+00:00,What's you go to guide to write a @vite_js plugin? I'm talking about the real thing not just a super basic tutorial. Also how to get the roll-up plugin context from the vite plugin?,PaoloRicciuti,1603005136422735873,https://twitter.com/PaoloRicciuti/status/1603005136422735873,what's go guide write _js plugin? i'm talking real thing super basic tutorial. also get roll-up plugin context vite plugin?,neutral,0.8582500219345093
+2022-12-14 11:01:09+00:00,"🧵 Vite 4.0 is out! - @patak_dev @bluwyoo
+
+Upgrade to Rollup 3, simplifies internal assets handling
+
+For React devs: we now have to pick one of the 2 existing plugins:
+
+- vitejs/plugin-react
+- vitejs/plugin-react-swc (new)
+
+https://t.co/DWMdSemM9Y https://t.co/8jHQ6bjPmH",sebastienlorber,1602982017846607872,https://twitter.com/sebastienlorber/status/1602982017846607872,"🧵 vite 4.0 out! - _dev upgrade rollup 3, simplifies internal asset handling react devs: pick one 2 existing plugins: - vitejs/plugin-react - vitejs/plugin-react-swc (new)",positive,0.5155338048934937
+2022-12-14 09:30:05+00:00,"GitHub Trending Archive, 12 Dec 2022, TypeScript. koishijs/chatgpt-bot, vitejs/vite-plugin-react, wsdo/gptapi, stonith404/pingvin-share, catppuccin/wallpapers, LokerL/tts-vue, shinework/photoshot, AutumnWhj/ChatGPT-wechat-bot, vercel/examples https://t.co/CcGwsG8CjJ",motakasoft,1602959100056285184,https://twitter.com/motakasoft/status/1602959100056285184,"github trending archive, 12 dec 2022, typescript. koishijs/chatgpt-bot, vitejs/vite-plugin-react, wsdo/gptapi, stonith404/pingvin-share, catppuccin/wallpapers, lokerl/tts-vue, shinework/photoshot, autumnwhj/chatgpt-wechat-bot, vercel/examples",neutral,0.8976384401321411
+2022-12-14 09:14:17+00:00,@maz__ui @vite_js @RollupJS wait wut? with no code changes? how's that possible?,abdellahjs,1602955122451128321,https://twitter.com/abdellahjs/status/1602955122451128321,__ui _js wait wut? code changes? how's possible?,neutral,0.6360056400299072
+2022-12-14 08:17:12+00:00,My second project 😀 -&gt; Built a simple calculator with @vite_js and @SvelteSociety. Deployed on @vercel https://t.co/eU3nd92yhF,MariyamJoory,1602940757597622272,https://twitter.com/MariyamJoory/status/1602940757597622272,second project 😀 -&gt; built simple calculator _js . deployed,positive,0.8005910515785217
+2022-12-13 23:02:02+00:00,"With Studio v3, we include @vite_js as the default tooling: it’s much faster, easier to customise, and has better treeshaking for lighter production builds. A significant upgrade to Developer Experience!",sanity_io,1602801046174277632,https://twitter.com/sanity_io/status/1602801046174277632,"studio v3, include _js default tooling: it’s much faster, easier customise, better treeshaking lighter production builds. significant upgrade developer experience!",positive,0.9663096070289612
+2022-12-13 22:55:06+00:00,"Thanks @vite_js 4 &amp; @RollupJS 3!
+
+I divided by 2 my bundle size and my build configuration! https://t.co/0o9Wap4tpa",maz__ui,1602799298831319040,https://twitter.com/maz__ui/status/1602799298831319040,thanks _js 4 &amp; 3! divided 2 bundle size build configuration!,positive,0.8662492632865906
+2022-12-13 22:51:01+00:00,"Deploy React everywhere with @vite_js and react-to-webcomponent 🌅
+Learn how in this blog post 🔽
+https://t.co/sI7KF3dsAx https://t.co/jZENJcgfs5",bitovi,1602798271398805508,https://twitter.com/bitovi/status/1602798271398805508,deploy react everywhere _js react-to-webcomponent 🌅 learn blog post 🔽,neutral,0.784804105758667
+2022-12-13 20:33:57+00:00,@RyanCarniato @solid_js @vite_js Is the source code for this Hackernews demo available?,RATIU51,1602763780462551041,https://twitter.com/RATIU51/status/1602763780462551041,_js _js source code hackernews demo available?,neutral,0.94120192527771
+2022-12-13 19:42:52+00:00,"@schlimmson @preactjs with @vite_js 
+Smaller (even than solid in some cases) and often as fast.
+With the huge advantage that you can still use react components!!",runjep,1602750925579354112,https://twitter.com/runjep/status/1602750925579354112,_js smaller (even solid cases) often fast. huge advantage still use react components!!,positive,0.9322595000267029
+2022-12-13 19:22:50+00:00,@vite_js is very helpful,Arsalan_0101,1602745880603287552,https://twitter.com/Arsalan_0101/status/1602745880603287552,_js helpful,positive,0.8194965720176697
+2022-12-13 17:17:27+00:00,"Just completed a #frontend coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://t.co/vYoptacMbF
+
+For this project I've used @tailwindcss and @vite_js Any suggestions on how I can improve are welcome!
+
+#FrontendMentor #CodeChallenge",imtusharbiswas,1602714328095809536,https://twitter.com/imtusharbiswas/status/1602714328095809536,completed frontend coding challenge ! 🎉 see solution here: project i've used _js suggestion improve welcome! frontendmentor codechallenge,positive,0.9672081470489502
+2022-12-13 16:51:58+00:00,"📝 New post! Build Realtime and Authenticated Apps with @Firebase + @vite_js.
+
+My two favorite topics on one of my favorite sites of all time: @eggheadio.
+
+https://t.co/vpsXRobXQ8",_davideast,1602707913960816642,https://twitter.com/_davideast/status/1602707913960816642,📝 new post! build realtime authenticated apps + _js. two favorite topic one favorite site time: .,positive,0.8828073143959045
+2022-12-13 16:35:15+00:00,@vite_js is there any way to get the development server to log out requests being made to it?,kieranbenton,1602703708504170497,https://twitter.com/kieranbenton/status/1602703708504170497,_js way get development server log request made it?,neutral,0.9212315082550049
+2022-12-13 12:33:04+00:00,@ArmandSalle @webflow @vite_js This cleared my confusion for over two years. Thank you so much! And great video on youtube,yeshen,1602642762318643200,https://twitter.com/yeshen/status/1602642762318643200,_js cleared confusion two years. thank much! great video youtube,positive,0.9834838509559631
+2022-12-13 09:40:20+00:00,"@denoland @vite_js Oops, @deno_land ... ! Anyway looks like https://t.co/3qhsHpC4tw it might work, I'll report back.",itsdouges,1602599291901673472,https://twitter.com/itsdouges/status/1602599291901673472,"_js oops, _land ... ! anyway look like might work, i'll report back.",positive,0.7279874682426453
+2022-12-13 09:30:05+00:00,"GitHub Trending Archive, 11 Dec 2022, TypeScript. vitejs/vite-plugin-react, wsdo/gptapi, wesbos/pommade, abielzulio/chatgpt-raycast, shinework/photoshot, catppuccin/wallpapers, Tencent/tdesign-vue-next, AutumnWhj/ChatGPT-wechat-bot https://t.co/rl3JMQzijN",motakasoft,1602596711247278082,https://twitter.com/motakasoft/status/1602596711247278082,"github trending archive, 11 dec 2022, typescript. vitejs/vite-plugin-react, wsdo/gptapi, wesbos/pommade, abielzulio/chatgpt-raycast, shinework/photoshot, catppuccin/wallpapers, tencent/tdesign-vue-next, autumnwhj/chatgpt-wechat-bot",neutral,0.8969137072563171
+2022-12-13 08:14:31+00:00,Has anyone made a @denoland module resolution plugin for @vite_js,itsdouges,1602577694385836032,https://twitter.com/itsdouges/status/1602577694385836032,anyone made module resolution plugin _js,neutral,0.8608317375183105
+2022-12-12 22:32:55+00:00,"@MatteoRigoni @vite_js @RollupJS @nuxt_js Lots of fixes (so greater stability and more extensibility with the new rollup version), but I'm not seeing significant performance improvement apart from the reduced dependency size.
+
+https://t.co/T2NdHey4jr",danielcroe,1602431329232388098,https://twitter.com/danielcroe/status/1602431329232388098,"_js _js lot fix (so greater stability extensibility new rollup version), i'm seeing significant performance improvement apart reduced dependency size.",positive,0.9277501106262207
+2022-12-12 21:56:08+00:00,@danielcroe @vite_js @RollupJS @nuxt_js Any significant perf improvements?,MatteoRigoni,1602422074412253184,https://twitter.com/MatteoRigoni/status/1602422074412253184,_js _js significant perf improvements?,neutral,0.9061236381530762
+2022-12-12 21:17:28+00:00,"✨ If you'd like to try out the latest @vite_js and @RollupJS releases in your @nuxt_js v3 project, you can do so already in the Nuxt Edge Channel.
+
+👉 More details here: https://t.co/y6SOJj8HeP https://t.co/rSBgcUK9Lw",danielcroe,1602412344163835904,https://twitter.com/danielcroe/status/1602412344163835904,"✨ like try latest _js release _js v3 project, already nuxt edge channel. 👉 detail here:",neutral,0.6849490404129028
+2022-12-12 17:04:02+00:00,We migrated from Webpack to @vite_js and our Time to Interactive went from 3.0s to 1.9s on our most important page. Dev server startup went from 30s to less than 5s. It's not even the slowest part of the startup any more. (graphql codgen),jimbolla,1602348563064934405,https://twitter.com/jimbolla/status/1602348563064934405,migrated webpack _js time interactive went 3.0s 1.9s important page. dev server startup went 30 le 5s. even slowest part startup more. (graphql codgen),negative,0.5146106481552124
+2022-12-12 16:00:05+00:00,"My take:
+
+👩🏻‍💻 JavaScript → @TypeScript
+
+✍🏻 Create-React-App → @vite_js
+
+🌐 REST → @GraphQL
+
+🧵 Gatsby → @nextjs
+
+💅 CSS/Bootstrap → @tailwindcss",danipass0s,1602332471747493888,https://twitter.com/danipass0s/status/1602332471747493888,take: 👩🏻‍💻 javascript → ✍🏻 create-react-app → _js 🌐 rest → 🧵 gatsby → 💅 css/bootstrap →,neutral,0.8681560158729553
+2022-12-12 15:02:18+00:00,"Get ready for the most exciting news to start the week!
+
+@vite_js 4 has just been released, and it's packed with incredible new features and improvements. With Rollup 3 for internal asset handling and so much more, this release is not to be missed!
+https://t.co/nCGWcrdjsj",vuejsfeed,1602317930162700289,https://twitter.com/vuejsfeed/status/1602317930162700289,"get ready exciting news start week! _js 4 released, packed incredible new feature improvements. rollup 3 internal asset handling much more, release missed!",positive,0.9849511384963989
+2022-12-12 13:44:18+00:00,"@TheFlatEgg @javascriptd @vite_js There's always a learning curve. I feel like I'm restarting my skill set every time I change jobs. Envious of your longevity in selected tech, but grateful to have a little spread.",chuckwilliams37,1602298297951178753,https://twitter.com/chuckwilliams37/status/1602298297951178753,"_js there's always learning curve. feel like i'm restarting skill set every time change jobs. envious longevity selected tech, grateful little spread.",negative,0.5276474356651306
+2022-12-12 13:39:43+00:00,This used to get me upset not until I got to know about Vitejs☺️☺️ https://t.co/ihlQusXTxT,__chuksco,1602297144542695426,https://twitter.com/__chuksco/status/1602297144542695426,used get upset got know vitejs☺️☺️,neutral,0.5391644239425659
+2022-12-12 13:38:34+00:00,@alx_africa have you tried vitejs? It is very fast and easier to use,__chuksco,1602296858302447616,https://twitter.com/__chuksco/status/1602296858302447616,_africa tried vitejs? fast easier use,positive,0.6217166781425476
+2022-12-12 13:24:55+00:00,"@vite_js 4 is out! 
+Congratulations to the team 👏
+
+Have you already started playing with Vite 4? https://t.co/YP4LwlXMUy",VueSchool_io,1602293422932606976,https://twitter.com/VueSchool_io/status/1602293422932606976,_js 4 out! congratulation team 👏 already started playing vite 4?,positive,0.9660625457763672
+2022-12-12 07:48:48+00:00,When we creating new #ReactJS project using #vitejs now we can select JS + SWC or TS + SWC. This is the new plugin that uses #esbuild during the build. https://t.co/DkuPokW7C5 https://t.co/WtU2uWfUwd,KasunLuckshitha,1602208836156559360,https://twitter.com/KasunLuckshitha/status/1602208836156559360,creating new reactjs project using vitejs select j + swc t + swc. new plugin us esbuild build.,neutral,0.7348874807357788
+2022-12-12 02:59:22+00:00,"Giving @vite_js a try after having heard so much about it, and wow — this is awesome. Native TS compilation, support for #rollup plugins, and just a seamless DX. Loving it so much:
+https://t.co/5I0bnyIhX9",caleb531,1602135998615343107,https://twitter.com/caleb531/status/1602135998615343107,"giving _js try heard much it, wow — awesome. native t compilation, support rollup plugins, seamless dx. loving much:",positive,0.982761800289154
+2022-12-11 15:20:10+00:00,Add Vite.js in Project 😸  https://t.co/gSQl8UeQX7 #github #CSS #HTML,first_issues,1601960039031353345,https://twitter.com/first_issues/status/1601960039031353345,add vite.js project 😸 github cs html,neutral,0.60834139585495
+2022-12-11 15:01:27+00:00,How to add a search component in VitePress? Documentation is pending since long! Any idea @vite_js @youyuxi,ScriptMint,1601955326185836544,https://twitter.com/ScriptMint/status/1601955326185836544,add search component vitepress? documentation pending since long! idea _js,neutral,0.71415776014328
+2022-12-11 14:54:11+00:00,"This weekend's project was a small tool to convert all the different #DnD units. 🎉🐲⚔️🛡️
+Simple tech-stack: #HTML, @Alpine_JS , @tailwindcss, @vite_js and deployed on @Netlify . 🚀
+
+https://t.co/uKnGu8zwBK",devgummibeer,1601953499977228329,https://twitter.com/devgummibeer/status/1601953499977228329,"weekend's project small tool convert different dnd units. 🎉🐲⚔️🛡️ simple tech-stack: html, _js , , _js deployed . 🚀",positive,0.8589642643928528
+2022-12-11 13:59:55+00:00,Thinking about using @vite_js @ build time and somehow @webpack delegate modules/federation @ runtime 🤔,SirSeanOfLoxley,1601939840613945346,https://twitter.com/SirSeanOfLoxley/status/1601939840613945346,thinking using _js @ build time somehow delegate modules/federation @ runtime 🤔,neutral,0.9029527306556702
+2022-12-11 11:19:29+00:00,@vite_js Now I can completely understand why modern software companies take ages to realize a web project.,TheFlatEgg,1601899465392136192,https://twitter.com/TheFlatEgg/status/1601899465392136192,_js completely understand modern software company take age realize web project.,neutral,0.5542595386505127
+2022-12-11 11:17:18+00:00,"I have been programming with #JavaScript and #JQuery on a daily basis for ~10 years. 
+
+Today is the first time I want to use ""modern JavaScript"" (ES6 Modules, @vite_js, SCSS  &amp; Co.) - and I hate it! 
+
+It feels much more complicated and takes forever to get started with a project.",TheFlatEgg,1601898917418893313,https://twitter.com/TheFlatEgg/status/1601898917418893313,"programming javascript jquery daily basis ~10 years. today first time want use ""modern javascript"" (es6 modules, _js, sc &amp; co.) - hate it! feel much complicated take forever get started project.",negative,0.909431517124176
+2022-12-11 10:10:44+00:00,"I have considered modern bundlers such as @vite_js - I am still convinced this buildless workflow building on js tech require.js from more than a decade ago is far superior to any build chain - flexible and easy setup, supports both node and browser.",randomhero42,1601882166325313536,https://twitter.com/randomhero42/status/1601882166325313536,"considered modern bundlers _js - still convinced buildless workflow building j tech require.js decade ago far superior build chain - flexible easy setup, support node browser.",positive,0.5798520445823669
+2022-12-11 01:28:13+00:00,"@mshilman @vite_js @storybookjs @IanVanSchooten Awesome 👏🏾 
+
+Thanks for sharing this. 
+
+I know what I am gonna do on Monday 😇😇😇",iamsasivarnan,1601750670981607424,https://twitter.com/iamsasivarnan/status/1601750670981607424,_js awesome 👏🏾 thanks sharing this. know gonna monday 😇😇😇,positive,0.9891780614852905
+2022-12-10 21:34:06+00:00,Finally upgraded my project from Snowpack to Vite. Loving it. 👍 #javascript @vite_js,imsabodetocode,1601691750950895616,https://twitter.com/imsabodetocode/status/1601691750950895616,finally upgraded project snowpack vite. loving it. 👍 javascript _js,positive,0.9876888394355774
+2022-12-10 20:30:19+00:00,@vite_js Also I'm amazed by how many genius and talented engineers are out there building stuff like https://t.co/M6lLeBD55A. Internet is beautiful,zoroo_zuro,1601675701328916480,https://twitter.com/zoroo_zuro/status/1601675701328916480,_js also i'm amazed many genius talented engineer building stuff like internet beautiful,positive,0.9706074595451355
+2022-12-10 20:29:07+00:00,"While I was doing the POC, the wasm support of @vite_js surprised me. It just worked. super.",zoroo_zuro,1601675397535391744,https://twitter.com/zoroo_zuro/status/1601675397535391744,"poc, wasm support _js surprised me. worked. super.",positive,0.962925910949707
+2022-12-10 19:32:29+00:00,"@sheremet_va @vitest_dev @vite_js I know there weren't many breaking changes, BUT DAMN THIS WAS FAST, great job",Zeko369,1601661147068801024,https://twitter.com/Zeko369/status/1601661147068801024,"_va _dev _js know many breaking changes, damn fast, great job",positive,0.8435275554656982
+2022-12-10 19:29:54+00:00,".@vitest_dev now supports @vite_js v4 🎉
+https://t.co/yyprwqH5d4",sheremet_va,1601660495991185408,https://twitter.com/sheremet_va/status/1601660495991185408,._dev support _js v4 🎉,positive,0.9489656686782837
+2022-12-10 16:26:33+00:00,"https://t.co/BbKhhXRGK8 is now powered by 
+⚡️ Vite 4  
+
+#vite #vitejs #vue #vuejs",vernaillen,1601614355283709952,https://twitter.com/vernaillen/status/1601614355283709952,powered ⚡️ vite 4 vite vitejs vue vuejs,neutral,0.5527543425559998
+2022-12-10 15:15:03+00:00,"@winkler1 @vite_js @RollupJS Good catch! That was a wrong link, fixed now",vituum_dev,1601596362180952064,https://twitter.com/vituum_dev/status/1601596362180952064,"1 _js good catch! wrong link, fixed",positive,0.6075125336647034
+2022-12-10 15:11:15+00:00,@vituum_dev @vite_js @RollupJS your link from Github to https://t.co/cLQwuAY57K wants auth... can't use... says it was a Stackblitz link?,winkler1,1601595405115924482,https://twitter.com/winkler1/status/1601595405115924482,_dev _js link github want auth... can't use... say stackblitz link?,negative,0.544569194316864
+2022-12-10 14:04:13+00:00,@vite_js Zamn nice,Omkar_K45,1601578534988021765,https://twitter.com/Omkar_K45/status/1601578534988021765,_js zamn nice,positive,0.8837659955024719
+2022-12-10 13:08:24+00:00,"@viistorrr @IAmJakeDamon @vite_js @nextjs Simple projects like tutorials, small apps etc.",DThompsonDev,1601564489870364674,https://twitter.com/DThompsonDev/status/1601564489870364674,"_js simple project like tutorials, small apps etc.",neutral,0.5919740200042725
+2022-12-10 13:05:23+00:00,@DThompsonDev @IAmJakeDamon @vite_js @nextjs what smaller size means?🤔,viistorrr,1601563729770196994,https://twitter.com/viistorrr/status/1601563729770196994,_js smaller size means?🤔,neutral,0.8912701606750488
+2022-12-10 13:01:16+00:00,"@IAmJakeDamon @vite_js @nextjs I think both are great and I use both. But if I am doing something on the smaller side, I just want to throw it together quickly, so for me, Vite seems like the easier option. Anything midsize or larger, then I do it with Next.",DThompsonDev,1601562695010234368,https://twitter.com/DThompsonDev/status/1601562695010234368,"_js think great use both. something smaller side, want throw together quickly, me, vite seems like easier option. anything midsize larger, next.",positive,0.8761672377586365
+2022-12-10 12:58:08+00:00,@DThompsonDev Kewl! But why @vite_js vs @nextjs ?,IAmJakeDamon,1601561906774364161,https://twitter.com/IAmJakeDamon/status/1601561906774364161,kewl! _js v ?,neutral,0.8616799712181091
+2022-12-10 12:49:20+00:00,@vituum_dev @vite_js @RollupJS Thanks for the update,dev_dahniel,1601559689090637825,https://twitter.com/dev_dahniel/status/1601559689090637825,_dev _js thanks update,positive,0.6354799270629883
+2022-12-10 12:30:44+00:00,"⚡ Vituum is now updated with the @vite_js v4 and @RollupJS v3 release. Also a few issues were fixed. Take a spin on the template engines in Vituum right now on https://t.co/7hxfjzHPKk!
+
+#Nunjucks #LiquidJS #Twig #Latte #Handlebars #PostHTML with Vite!
+
+https://t.co/aPhx098vCZ",vituum_dev,1601555010474889217,https://twitter.com/vituum_dev/status/1601555010474889217,⚡ vituum updated _js v4 v3 release. also issue fixed. take spin template engine vituum right nunjucks liquidjs twig latte handlebar posthtml vite!,neutral,0.5256189703941345
+2022-12-10 11:17:35+00:00,"@iamsasivarnan @vite_js @storybookjs Already supported thanks to @IanVanSchooten !!!
+
+https://t.co/fytDIX2dG4",mshilman,1601536602639323136,https://twitter.com/mshilman/status/1601536602639323136,_js already supported thanks !!!,positive,0.9638621807098389
+2022-12-10 08:59:55+00:00,"@vite_js Vite makes programming fun again, keep up the great work!",5F8575tree,1601501954487697408,https://twitter.com/5F8575tree/status/1601501954487697408,"_js vite make programming fun again, keep great work!",positive,0.9797545075416565
+2022-12-10 07:52:00+00:00,@dev_rolandi @KaminskyPavel @vite_js @RollupJS @youyuxi @patak_dev The difference is minimal. I'd ignore it for the win in compilation time.,ScottMolinari,1601484862674063360,https://twitter.com/ScottMolinari/status/1601484862674063360,_rolandi _js _dev difference minimal. i'd ignore win compilation time.,neutral,0.5014145374298096
+2022-12-10 07:30:49+00:00,@KaminskyPavel @vite_js @RollupJS @youyuxi @patak_dev What's the reason you ship more kB with Vite 4 compared to Vite 3? Shouldn't that be the same?,dev_rolandi,1601479533328072704,https://twitter.com/dev_rolandi/status/1601479533328072704,_js _dev what's reason ship kb vite 4 compared vite 3? same?,neutral,0.9056472182273865
+2022-12-10 06:58:03+00:00,@vite_js @storybookjs When can we expect vite bundler to support vite v4? 🙏🏾🙏🏾🙏🏾,iamsasivarnan,1601471288727699456,https://twitter.com/iamsasivarnan/status/1601471288727699456,_js expect vite bundler support vite v4? 🙏🏾🙏🏾🙏🏾,positive,0.5208027362823486
+2022-12-10 05:18:37+00:00,@patak_dev @vite_js I need shirt.,alvaisy,1601446264389849089,https://twitter.com/alvaisy/status/1601446264389849089,_dev _js need shirt.,neutral,0.8261446952819824
+2022-12-10 04:42:23+00:00,"To make up for my slowness, I’m upgrading our stack to use @vite_js 4! Let’s see how this goes 😄",tazsingh,1601437143808999425,https://twitter.com/tazsingh/status/1601437143808999425,"make slowness, i’m upgrading stack use _js 4! let’s see go 😄",positive,0.8103165030479431
+2022-12-10 04:00:22+00:00,@KaminskyPavel @patak_dev @vite_js @RollupJS @youyuxi ~10 second https://t.co/rg2aT879pj,productdevbook,1601426570043789313,https://twitter.com/productdevbook/status/1601426570043789313,_dev _js ~10 second,neutral,0.9035761952400208
+2022-12-10 03:21:12+00:00,"@vite_js Vite is amazing,  good job 👏👏👏",erickdevup,1601416715895988224,https://twitter.com/erickdevup/status/1601416715895988224,"_js vite amazing, good job 👏👏👏",positive,0.9807144999504089
+2022-12-10 01:09:35+00:00,@vite_js @youyuxi This explains the weird css warnings I started to get today when I decided to go all in on ‘yarn upgrade’ 😂,ScriptedPixels,1601383595083698176,https://twitter.com/ScriptedPixels/status/1601383595083698176,_js explains weird cs warning started get today decided go ‘yarn upgrade’ 😂,negative,0.7542597055435181
+2022-12-10 00:57:32+00:00,@diegodeblasm @vite_js Reason why Im reading comments 😂,adel_chemi,1601380561573974017,https://twitter.com/adel_chemi/status/1601380561573974017,_js reason im reading comment 😂,neutral,0.7425751090049744
+2022-12-10 00:55:02+00:00,@vite_js @lukastaegert @RollupJS Just updated my app to use it. So far working great. Congrats!,markbokil,1601379929467539456,https://twitter.com/markbokil/status/1601379929467539456,_js updated app use it. far working great. congrats!,positive,0.9889006614685059
+2022-12-09 22:32:43+00:00,@vite_js @reactjs @swc_rs I would better like using swc to implement legacy plugin，transfer + polyfill + minify all by one instead of babel + terser,YuTengjing,1601344116696420357,https://twitter.com/YuTengjing/status/1601344116696420357,_js _rs would better like using swc implement legacy plugin，transfer + polyfill + minify one instead babel + terser,neutral,0.7399023175239563
+2022-12-09 22:07:25+00:00,Vite 4.0 Officially Released! https://t.co/41rDS2hALw by @vite_js,jsLibHunt,1601337747486040066,https://twitter.com/jsLibHunt/status/1601337747486040066,vite 4.0 officially released! _js,positive,0.7290757298469543
+2022-12-09 21:22:14+00:00,"@bradleybernard @vite_js @RollupJS Bug fixes 😉 But there are also some minor speed improvements, and some dev ex improvements. I usually try to release the good stuff without breaking changes. Here is everything: https://t.co/oEFOx6vNXc",lukastaegert,1601326378044964864,https://twitter.com/lukastaegert/status/1601326378044964864,"_js bug fix 😉 also minor speed improvements, dev ex improvements. usually try release good stuff without breaking changes. everything:",positive,0.8216573596000671
+2022-12-09 21:07:37+00:00,"@vite_js @lukastaegert @RollupJS Are the main improvements from leveraging Rollup 3: speed, bundle size, dev ex, compatibility, or something else? Curious 👀",bradleybernard,1601322701385510914,https://twitter.com/bradleybernard/status/1601322701385510914,"_js main improvement leveraging rollup 3: speed, bundle size, dev ex, compatibility, something else? curious 👀",neutral,0.8515375256538391
+2022-12-09 19:46:48+00:00,@patak_dev @vite_js Thats too much stickers to print 😛. Can I get some as well 🙈,harishkumar_s_s,1601302360290390017,https://twitter.com/harishkumar_s_s/status/1601302360290390017,_dev _js thats much sticker print 😛. get well 🙈,positive,0.756085991859436
+2022-12-09 19:30:10+00:00,So... who will create and sell the @vite_js ecosystem stickers set? 🥰 https://t.co/WTq2Tx8oJp,patak_dev,1601298175859445761,https://twitter.com/patak_dev/status/1601298175859445761,so... create sell _js ecosystem sticker set? 🥰,positive,0.7350143790245056
+2022-12-09 18:52:41+00:00,"@gualison @vite_js @typescript ""vite"" you in the ass?",acelayaa,1601288743302103041,https://twitter.com/acelayaa/status/1601288743302103041,"_js ""vite"" ass?",negative,0.5616764426231384
+2022-12-09 18:42:08+00:00,@productdevbook @patak_dev @vite_js @RollupJS @youyuxi you can fork the repo and try it yourself! I think it'd be interesting to see if your assumption is correct..,KaminskyPavel,1601286087879823360,https://twitter.com/KaminskyPavel/status/1601286087879823360,_dev _js fork repo try yourself! think it'd interesting see assumption correct..,positive,0.6470611095428467
+2022-12-09 18:18:04+00:00,".@vite_js + @RollupJS = ❤️
+
+I love when the ecosystem collaborates 🫱🏾‍🫲🏿
+
+Exciting times!
+
+https://t.co/kraOwGYprK",HamatoYogi,1601280031275495424,https://twitter.com/HamatoYogi/status/1601280031275495424,._js + = ❤️ love ecosystem collaborates 🫱🏾‍🫲🏿 exciting times!,positive,0.9812896847724915
+2022-12-09 18:05:27+00:00,"My @vite_js + @electronjs template just migrated to Vite v4. Automatically! Nice job, Vite team!
+https://t.co/xkcjEn6lqv",alex_kozack,1601276857952849920,https://twitter.com/alex_kozack/status/1601276857952849920,"_js + template migrated vite v4. automatically! nice job, vite team!",positive,0.9823075532913208
+2022-12-09 17:58:58+00:00,"If you're working with @vite_js and @typescript: don't forget about setting isolatedModules in your compiler options or it will bite you in the ass as it happened to me today 😬🍑😩
+
+https://t.co/RET6OAgYTm",gualison,1601275225353912322,https://twitter.com/gualison/status/1601275225353912322,working _js : forget setting isolatedmodules compiler option bite as happened today 😬🍑😩,negative,0.8280724883079529
+2022-12-09 17:51:15+00:00,@vite_js Are you keeping score? ;),diegodeblasm,1601273281986048000,https://twitter.com/diegodeblasm/status/1601273281986048000,_js keeping score? ;),neutral,0.7262299060821533
+2022-12-09 17:36:56+00:00,@vite_js Super excited to have someone else on the team who's motivated to make the Vite React experience better than ever 🥰,retropragma,1601269679024406530,https://twitter.com/retropragma/status/1601269679024406530,_js super excited someone else team who's motivated make vite react experience better ever 🥰,positive,0.9895960688591003
+2022-12-09 17:34:14+00:00,@vite_js Congrats ✨,ErvinIsmu,1601269001250017280,https://twitter.com/ErvinIsmu/status/1601269001250017280,_js congrats ✨,positive,0.9770227670669556
+2022-12-09 16:55:49+00:00,"We're happy to welcome https://t.co/goPbWGoXwh to the @vite_js team, author of the original vite-plugin-swc-react-refresh project that has now been transferred to the vitejs org.",vite_js,1601259331210870784,https://twitter.com/vite_js/status/1601259331210870784,"we're happy welcome _js team, author original vite-plugin-swc-react-refresh project transferred vitejs org.",positive,0.959701657295227
+2022-12-09 16:53:52+00:00,"For @reactjs apps, Vite now officially supports two plugins with different tradeoffs. For large applications, Vite offers a new plugin that replaces Babel with @swc_rs during development, so cold start and HMR are significantly faster 🦀
+https://t.co/N1oWS8dcIT",vite_js,1601258842699878401,https://twitter.com/vite_js/status/1601258842699878401,"apps, vite officially support two plugins different tradeoffs. large applications, vite offer new plugin replaces babel _rs development, cold start hmr significantly faster 🦀",positive,0.8230001926422119
+2022-12-09 16:42:20+00:00,"@KaminskyPavel @patak_dev @vite_js @RollupJS @youyuxi There is an interesting slowness, I think you seem to be using windows. On Ubuntu 22.04 this will be 3-4x faster.",productdevbook,1601255938157346816,https://twitter.com/productdevbook/status/1601255938157346816,"_dev _js interesting slowness, think seem using windows. ubuntu 22.04 3-4x faster.",neutral,0.5482689738273621
+2022-12-09 16:32:36+00:00,"just took @vite_js 4 for a ride on my opensource  
+https://t.co/yb1fEtOhn7
+
+Almost 40% cut in build time, just from this upgrade, wow ⚡⚡
+
+kudos to : @vite_js &amp; @RollupJS teams! @youyuxi @patak_dev and all the maintainers! https://t.co/v08ZxCDQ6M",KaminskyPavel,1601253490155991040,https://twitter.com/KaminskyPavel/status/1601253490155991040,"took _js 4 ride opensource almost 40% cut build time, upgrade, wow ⚡⚡ kudos : _js &amp; teams! _dev maintainers!",positive,0.9849505424499512
+2022-12-09 16:08:54+00:00,"💎✨New Release✨💎
+
+Happy to announce that Vite Ruby will now install @vitejs 4 by default.
+
+You can upgrade your #ruby and #rails projects by running:
+
+⌨️ bin/vite upgrade https://t.co/vIruXYyoNA",MaximoMussini,1601247525075554304,https://twitter.com/MaximoMussini/status/1601247525075554304,💎✨new release✨💎 happy announce vite ruby install 4 default. upgrade ruby rail project running: ⌨️ bin/vite upgrade,positive,0.9687323570251465
+2022-12-09 16:08:37+00:00,@vite_js @lukastaegert @RollupJS Crazy ! Can’t wait to test it 🔥,gaetansenn,1601247453918789632,https://twitter.com/gaetansenn/status/1601247453918789632,_js crazy ! can’t wait test 🔥,positive,0.980857253074646
+2022-12-09 15:44:08+00:00,"✨ New Release ✨
+
+🏝 @ilesjs 0.9 now runs in @vite_js 4",ilesjs,1601241292226596867,https://twitter.com/ilesjs/status/1601241292226596867,✨ new release ✨ 🏝 0.9 run _js 4,neutral,0.5131581425666809
+2022-12-09 15:32:06+00:00,@vite_js Nice! 🎉🎉🎉,wind_8866,1601238263892615168,https://twitter.com/wind_8866/status/1601238263892615168,_js nice! 🎉🎉🎉,positive,0.9854249358177185
+2022-12-09 15:05:51+00:00,@MbounaU @nuxt_js @vuejs @vite_js It's a really great choice 👏🏻,therealdanvega,1601231658069659654,https://twitter.com/therealdanvega/status/1601231658069659654,_js _js really great choice 👏🏻,positive,0.9857271313667297
+2022-12-09 15:01:15+00:00,"@therealdanvega Ah ok , I see, that's super
+
+I plan to use @nuxt_js @vuejs and @vite_js for my next platform project.
+
+ Hopping it will be the good stack choice.",MbounaU,1601230501649731587,https://twitter.com/MbounaU/status/1601230501649731587,"ah ok , see, that's super plan use _js _js next platform project. hopping good stack choice.",positive,0.94925457239151
+2022-12-09 14:57:32+00:00,Projects in the ecosystem have been working alongside the @vite_js team to be ready for this new major. Most frameworks and plugins are already compatible or will release compatible versions in the next few days. Kudos to y'all for another Major milestone! https://t.co/QoF5BhAtsH https://t.co/RdKggYg6Rt,vite_js,1601229563581071362,https://twitter.com/vite_js/status/1601229563581071362,project ecosystem working alongside _js team ready new major. framework plugins already compatible release compatible version next days. kudos y'all another major milestone!,positive,0.9810453653335571
+2022-12-09 14:51:30+00:00,"#elxir #myelixirstatus friends, have you or your team found a need to use Vite.js over straight esbuild for your @elixirphoenix projects? Just asking generally.",megalithic,1601228046656327680,https://twitter.com/megalithic/status/1601228046656327680,"elxir myelixirstatus friends, team found need use vite.js straight esbuild projects? asking generally.",neutral,0.8900411128997803
+2022-12-09 14:46:57+00:00,"The main focus of Vite 4 is updating to Rollup 3, which brings many improvements. We're thankful for the work that @lukastaegert and the @RollupJS team keep pouring into one of the key pieces of the build tooling ecosystem ❤️
+https://t.co/eLh47xbqNg",vite_js,1601226901221040128,https://twitter.com/vite_js/status/1601226901221040128,"main focus vite 4 updating rollup 3, brings many improvements. we're thankful work team keep pouring one key piece build tooling ecosystem ❤️",positive,0.9726681113243103
+2022-12-09 14:30:34+00:00,"⚡️ Vite 4 is out!
+
+From all of us on the Vite team, thanks a lot to everyone that contributed to Core, pushed improvements from your frameworks upstream, expanded the ever-growing plugin ecosystem, and triaged, tested, or helped others in our community 💜
+https://t.co/yZTwuKPpl9",vite_js,1601222777197166593,https://twitter.com/vite_js/status/1601222777197166593,"⚡️ vite 4 out! u vite team, thanks lot everyone contributed core, pushed improvement framework upstream, expanded ever-growing plugin ecosystem, triaged, tested, helped others community 💜",positive,0.9810259938240051
+2022-12-09 13:44:51+00:00,"@thedamon @vite_js @PostCSS Ah. Yeah, that checks out",heyAustinGil,1601211274729517057,https://twitter.com/heyAustinGil/status/1601211274729517057,"_js ah. yeah, check",neutral,0.7958069443702698
+2022-12-09 13:32:28+00:00,"@heyAustinGil @vite_js @PostCSS Mostly time to coordinate. And multiple monorepos. Our webpack 4 setup is pretty complex w custom plugins, a custom ssr server  and legacy stuff that we ultimately want to leave behind.",thedamon,1601208155819495425,https://twitter.com/thedamon/status/1601208155819495425,"_js mostly time coordinate. multiple monorepos. webpack 4 setup pretty complex w custom plugins, custom ssr server legacy stuff ultimately want leave behind.",neutral,0.7432957291603088
+2022-12-09 13:29:01+00:00,"@thedamon @vite_js @PostCSS It's pretty good. Not gonna lie.
+
+What's stopping you from jumping in? I think the migration can be reasonable.",heyAustinGil,1601207289595465728,https://twitter.com/heyAustinGil/status/1601207289595465728,_js pretty good. gonna lie. what's stopping jumping in? think migration reasonable.,positive,0.7955746650695801
+2022-12-09 13:23:55+00:00,@heyAustinGil @vite_js @PostCSS I haven’t. I’m still on the outside of vite looking in. With a tear in my eye.,thedamon,1601206004170903552,https://twitter.com/thedamon/status/1601206004170903552,_js haven’t. i’m still outside vite looking in. tear eye.,neutral,0.49561429023742676
+2022-12-09 13:12:48+00:00,"@thedamon @vite_js @PostCSS Yeah, that looks like it pretty much does what I was describing. Have you tried enabling PostCSS in Vite and using this plugin? Maybe it just works?",heyAustinGil,1601203209061924864,https://twitter.com/heyAustinGil/status/1601203209061924864,"_js yeah, look like pretty much describing. tried enabling postcss vite using plugin? maybe works?",neutral,0.8092756867408752
+2022-12-09 13:10:56+00:00,"@thedamon @vite_js @PostCSS I think you can use PostCSS with Vite, so maybe not that hard. I think the hardest part would be telling Vite where to include the extra files",heyAustinGil,1601202738628792322,https://twitter.com/heyAustinGil/status/1601202738628792322,"_js think use postcss vite, maybe hard. think hardest part would telling vite include extra file",neutral,0.5623791813850403
+2022-12-09 12:47:13+00:00,@heyAustinGil @vite_js @PostCSS https://t.co/nsPIpocd4Z how hard is it to turn a postcss plugin into a vite plugin?,thedamon,1601196771173990400,https://twitter.com/thedamon/status/1601196771173990400,_js hard turn postcss plugin vite plugin?,neutral,0.8866254687309265
+2022-12-08 22:14:38+00:00,@vite_js @vitest_dev @LogRocket ☝️ Recording live here if ya missed it! A lot of knowledge nuggets in this one,BHolmesDev,1600977177377660928,https://twitter.com/BHolmesDev/status/1600977177377660928,_js _dev ☝️ recording live ya missed it! lot knowledge nugget one,neutral,0.44213709235191345
+2022-12-08 21:25:43+00:00,"🙌 Shoutout to @sheremet_va for making @vitest_dev CI green with Vite 4 on vite-ecosystem-ci for tomorrow's release! 💚
+And to everyone working on downstream projects during these past weeks to ensure we have a smooth upgrade path for @vite_js new major! 
+https://t.co/UXc1XNLQTK",patak_dev,1600964869066731522,https://twitter.com/patak_dev/status/1600964869066731522,🙌 shoutout _va making _dev ci green vite 4 vite-ecosystem-ci tomorrow's release! 💚 everyone working downstream project past week ensure smooth upgrade path _js new major!,positive,0.969965934753418
+2022-12-08 20:40:24+00:00,@Chris_Perry_61 @vite_js @PostCSS That's it. It's just an idea. Lol,heyAustinGil,1600953462032064512,https://twitter.com/heyAustinGil/status/1600953462032064512,_perry_61 _js that's it. idea. lol,neutral,0.7198134660720825
+2022-12-08 20:24:28+00:00,"Hi, I've published a little Github action to marketplace that deploy Firebase functions with Firebase environement as argument.
+
+Chekout =&gt; https://t.co/0AEF5XeNuD
+
+@Firebase @github @vite_js",jb_thery,1600949453153632257,https://twitter.com/jb_thery/status/1600949453153632257,"hi, i've published little github action marketplace deploy firebase function firebase environement argument. chekout =&gt; _js",neutral,0.859804630279541
+2022-12-08 19:34:50+00:00,@heyAustinGil @vite_js @PostCSS I’m still listening…,Chris_Perry_61,1600936962168586242,https://twitter.com/Chris_Perry_61/status/1600936962168586242,_js i’m still listening…,neutral,0.8226879239082336
+2022-12-08 19:24:25+00:00,"@mauriziovitale_ @vite_js Yeah that one is amazing!! For those wondering, here you go
+https://t.co/D8Jue8QX9a",NxDevTools,1600934340522872865,https://twitter.com/NxDevTools/status/1600934340522872865,"_ _js yeah one amazing!! wondering, go",positive,0.9765510559082031
+2022-12-08 19:22:45+00:00,"@aaronmcadam @vite_js Yeah you need to have some sort of `nx: {}` node there, s.t. Nx recognizes that root-level package.json as a ""project"". Usually more stuff will be in that node anyway, like customizing/fine-tuning inputs/outputs for caching etc of those root-level scripts",NxDevTools,1600933920165531650,https://twitter.com/NxDevTools/status/1600933920165531650,"_js yeah need sort `nx: {}` node there, s.t. nx recognizes root-level package.json ""project"". usually stuff node anyway, like customizing/fine-tuning inputs/outputs caching etc root-level script",neutral,0.8493485450744629
+2022-12-08 19:17:10+00:00,Seems like something a @vite_js + @PostCSS plugin could do... :),heyAustinGil,1600932515791122432,https://twitter.com/heyAustinGil/status/1600932515791122432,seems like something _js + plugin could do... :),positive,0.7228288054466248
+2022-12-08 18:38:23+00:00,@_davideast It is powered by @vite_js ⚡️,patak_dev,1600922756987596800,https://twitter.com/patak_dev/status/1600922756987596800,@_davideast powered _js ⚡️,neutral,0.8668450713157654
+2022-12-08 16:14:15+00:00,@BHolmesDev @vite_js @vitest_dev @LogRocket I'm literally just getting into using Vitest...I will *definitely* be tuning in. GLHF Ben!!,Nateemerson,1600886482524196869,https://twitter.com/Nateemerson/status/1600886482524196869,_js _dev i'm literally getting using vitest...i *definitely* tuning in. glhf ben!!,positive,0.8959411382675171
+2022-12-08 15:44:39+00:00,"Hey psst, did you know there's a new @vite_js-powered testing tool around? It's called @vitest_dev, and I'm giving a lil @LogRocket to talk all about it ⚡️
+
+There will be whiteboards and Jest comparisons so come thruuu 👀
+https://t.co/aOBVruDJi7",BHolmesDev,1600879033780441088,https://twitter.com/BHolmesDev/status/1600879033780441088,"hey psst, know there's new _js-powered testing tool around? called _dev, i'm giving lil talk ⚡️ whiteboards jest comparison come thruuu 👀",neutral,0.5563551187515259
+2022-12-08 11:43:09+00:00,"@makneta @frontendmentor For advanced level, I am starting “rest countries api switcher.” (Something like that). Just downloaded the files and scaffolded react project with #vitejs (1st time in vite). That is it for now.",maisdev,1600818261528293378,https://twitter.com/maisdev/status/1600818261528293378,"advanced level, starting “rest country api switcher.” (something like that). downloaded file scaffolded react project vitejs (1st time vite). now.",neutral,0.7271721363067627
+2022-12-08 09:54:59+00:00,"If you are using snowpack for module bundling in your project, pls try to upgrade to Vite or Webpack as snowpack is not being actively maintained. Just FYI. 👍
+#javascript @vite_js @snowpackjs https://t.co/rzpUc5U6SM",imsabodetocode,1600791039085752322,https://twitter.com/imsabodetocode/status/1600791039085752322,"using snowpack module bundling project, pls try upgrade vite webpack snowpack actively maintained. fyi. 👍 javascript _js",positive,0.6353440880775452
+2022-12-08 08:15:46+00:00,@its_mavi_dev @scrimba @vite_js Never seen Vite before! What it is used for?,milky_raven_,1600766070071078913,https://twitter.com/milky_raven_/status/1600766070071078913,_mavi_dev _js never seen vite before! used for?,neutral,0.8162983655929565
+2022-12-08 08:01:30+00:00,"My first webdev project - A simple stopwatch
+This is built in plain JS and uses @vite_js . Vite web server is so freaking fast. https://t.co/bwKKqPhtjL",MariyamJoory,1600762478849204224,https://twitter.com/MariyamJoory/status/1600762478849204224,first webdev project - simple stopwatch built plain j us _js . vite web server freaking fast.,positive,0.7917608618736267
+2022-12-08 07:11:10+00:00,@xerosanyam @SvelteSociety @sveltejs @Rich_Harris @sveltejobs @MadeWithSvelte @vite_js One undocumented glitch is $env/dynamic/public behave like $env/static/public when pre-rendering is enabled.,xmlking,1600749812906803200,https://twitter.com/xmlking/status/1600749812906803200,_harris _js one undocumented glitch $env/dynamic/public behave like $env/static/public pre-rendering enabled.,neutral,0.49015575647354126
+2022-12-08 05:14:05+00:00,"Launched our new website, built with Laravel &amp; TailwindCSS, using Vite for build. Loading speed has increased 20x than earlier. 
+https://t.co/1CvNjfvpb8
+@laravelphp @LaravelLivewire @tailwindcss @vite_js https://t.co/wzuDGHchIQ",KodemintDev,1600720346088321024,https://twitter.com/KodemintDev/status/1600720346088321024,"launched new website, built laravel &amp; tailwindcss, using vite build. loading speed increased 20x earlier. _js",positive,0.7704938650131226
+2022-12-08 02:22:53+00:00,@pavankjadda @analogjs @vite_js @angular Going into beta soon. All the initial functionality is there. Need more people to use it and provide feedback.,brandontroberts,1600677264303460353,https://twitter.com/brandontroberts/status/1600677264303460353,_js going beta soon. initial functionality there. need people use provide feedback.,neutral,0.7897560596466064
+2022-12-07 22:55:52+00:00,@QueenAkpan_ Use vite.js it's faster,ocxigin,1600625167826305026,https://twitter.com/ocxigin/status/1600625167826305026,_ use vite.js faster,neutral,0.7930119633674622
+2022-12-07 20:06:22+00:00,"@lasarkolja @sveltejs @Rich_Harris @SvelteSociety @sveltejobs @MadeWithSvelte @vite_js Good idea! I will share it tomorrow :)
+
+Maybe I'll try to contribute to the core documentation",xerosanyam,1600582511456755714,https://twitter.com/xerosanyam/status/1600582511456755714,_harris _js good idea! share tomorrow :) maybe i'll try contribute core documentation,positive,0.9571549296379089
+2022-12-07 19:55:09+00:00,@fwouts @michaelrambeau @hung_dev @vite_js @patak_dev @previewjs Do you need thumbnails...?,antorbilash12,1600579686849212416,https://twitter.com/antorbilash12/status/1600579686849212416,_dev _js _dev need thumbnails...?,neutral,0.9036446213722229
+2022-12-07 19:15:13+00:00,"@xerosanyam @sveltejs @Rich_Harris @SvelteSociety @sveltejobs @MadeWithSvelte @vite_js Great, more of it.
+But could you please offer the tables in a repo or gist.
+Maybe someone will extend them 😇",lasarkolja,1600569639523729410,https://twitter.com/lasarkolja/status/1600569639523729410,"_harris _js great, it. could please offer table repo gist. maybe someone extend 😇",positive,0.9750825762748718
+2022-12-07 18:29:38+00:00,"Quick summary about environment variables in @sveltejs kit.
+
+cc #sveltekit #svelte #100daysofcode #javascript @Rich_Harris @SvelteSociety @sveltejobs @MadeWithSvelte @vite_js https://t.co/kuYdG1zSzu",xerosanyam,1600558166710030337,https://twitter.com/xerosanyam/status/1600558166710030337,quick summary environment variable kit. cc sveltekit svelte 100daysofcode javascript _harris _js,neutral,0.8703886270523071
+2022-12-07 17:41:38+00:00,@NxDevTools @vite_js What benefits NX adds to non-monorepo projects?,bikzara,1600546088657862670,https://twitter.com/bikzara/status/1600546088657862670,_js benefit nx add non-monorepo projects?,neutral,0.8912860751152039
+2022-12-07 16:39:12+00:00,@MichaelDrogalis @parceljs would recommend taking a look at vite.js too,_anmonteiro,1600530374270287873,https://twitter.com/_anmonteiro/status/1600530374270287873,would recommend taking look vite.js,positive,0.8085601925849915
+2022-12-07 15:11:13+00:00,"vtui-repl by @webfansplz
+nuxt-remote-fn by @wobsoriano
+eslint-plugin-remix-react-routes by @jenseng
+noble-curves by @paulmillr
+open-next by @SST_dev
+strid by @fabiospampinato
+vite-plugin-react by @vite_js
+vite-plugin-vue by @vite_js
+logseq-memos-sync by @eindex_li",jstoolsweekly,1600508232002408452,https://twitter.com/jstoolsweekly/status/1600508232002408452,vtui-repl nuxt-remote-fn eslint-plugin-remix-react-routes noble-curves open-next _dev strid vite-plugin-react _js vite-plugin-vue _js logseq-memos-sync _li,neutral,0.8914752006530762
+2022-12-07 14:01:06+00:00,@brandontroberts @analogjs @vite_js @angular Thank you for the response and honest answers. I really like to see flavours of build tooling with Angular. Great work btw.,FasidMpm,1600490587052015618,https://twitter.com/FasidMpm/status/1600490587052015618,_js thank response honest answers. really like see flavour build tooling angular. great work btw.,positive,0.9720007181167603
+2022-12-07 13:58:57+00:00,"@FasidMpm @analogjs @vite_js @angular Yes, you can use it today, and no its not stable enough for enterprise use unless you stay on the bleeding edge which is unlikely. If you have lots of custom transforms already, those might need to get ported over. Its suitable for smaller projects to get feedback right now",brandontroberts,1600490045382828037,https://twitter.com/brandontroberts/status/1600490045382828037,"_js yes, use today, stable enough enterprise use unless stay bleeding edge unlikely. lot custom transforms already, might need get ported over. suitable smaller project get feedback right",positive,0.5366142392158508
+2022-12-07 12:59:00+00:00,"@brandontroberts @analogjs @vite_js @angular Very nice. We are using Angular at enterprise level. Huge project. Do you think analog is stable enogubh. And we can use analog today?  
+
+What are the things we may have to struggle with. ?",FasidMpm,1600474960191164416,https://twitter.com/FasidMpm/status/1600474960191164416,_js nice. using angular enterprise level. huge project. think analog stable enogubh. use analog today? thing may struggle with. ?,positive,0.9227661490440369
+2022-12-07 12:55:32+00:00,@FasidMpm @analogjs @vite_js @angular Yes. Analog uses Vite which supports plugins to do custom transforms,brandontroberts,1600474088870273025,https://twitter.com/brandontroberts/status/1600474088870273025,_js yes. analog us vite support plugins custom transforms,neutral,0.8078237175941467
+2022-12-07 11:58:54+00:00,@vite_js Nope,psylar_,1600459834033590273,https://twitter.com/psylar_/status/1600459834033590273,_js nope,neutral,0.7256360650062561
+2022-12-07 09:53:59+00:00,"⚡️ Follow us on Mastodon too
+🐘 https://t.co/XfFd943GxL",vite_js,1600428400652320768,https://twitter.com/vite_js/status/1600428400652320768,⚡️ follow u mastodon 🐘,neutral,0.7306722402572632
+2022-12-07 08:03:41+00:00,@EnderAgent @NxDevTools @vite_js Cheers for clarifying 😊,aaronmcadam,1600400642211708928,https://twitter.com/aaronmcadam/status/1600400642211708928,_js cheer clarifying 😊,positive,0.8436603546142578
+2022-12-07 04:07:16+00:00,"Is import-maps on the roadmap for @vite_js @RollupJS @sveltejs ?
+I am thinking using it for implementing micro-frontends with Svelte.",xmlking,1600341144264593408,https://twitter.com/xmlking/status/1600341144264593408,import-maps roadmap _js ? thinking using implementing micro-frontends svelte.,neutral,0.9082093238830566
+2022-12-07 03:23:27+00:00,"I'm experimenting a little with the nightly version of #renpy 8.1 to see if I can make it a little compatible with ReactJS (vitejs), this is an experiment I did out of curiosity. But I hit a wall, and I can't get the ""https://t.co/TE1ytAjTEU"" path to run in the project. https://t.co/LOdt5Riih4",Neyunse,1600330119343546368,https://twitter.com/Neyunse/status/1600330119343546368,"i'm experimenting little nightly version renpy 8.1 see make little compatible reactjs (vitejs), experiment curiosity. hit wall, can't get "" path run project.",neutral,0.604070246219635
+2022-12-07 03:21:25+00:00,@brandontroberts @analogjs @vite_js @angular How far are we from using Analog in Production?,pavankjadda,1600329606824747009,https://twitter.com/pavankjadda/status/1600329606824747009,_js far using analog production?,neutral,0.9361440539360046
+2022-12-07 01:59:37+00:00,@NxDevTools @vite_js Where do i see step by step post about adding nx to non monorepo projects ?,seong67062822,1600309021277589504,https://twitter.com/seong67062822/status/1600309021277589504,_js see step step post adding nx non monorepo project ?,neutral,0.9031878113746643
+2022-12-07 01:16:32+00:00,@NxDevTools @vite_js Another successful upgrade. Thanks for making it easy.,KentorThames,1600298180217823234,https://twitter.com/KentorThames/status/1600298180217823234,_js another successful upgrade. thanks making easy.,positive,0.9743271470069885
+2022-12-07 01:07:49+00:00,"@aaronmcadam @NxDevTools @vite_js Yeah, we don't automatically infer the root package.json as a project for a few reasons. You opt in either via an empty nx property or an adjacent project.json file",EnderAgent,1600295984809902080,https://twitter.com/EnderAgent/status/1600295984809902080,"_js yeah, automatically infer root package.json project reasons. opt either via empty nx property adjacent project.json file",neutral,0.8570976257324219
+2022-12-06 23:40:19+00:00,"Congrats to vitejs/vite, which has grown by 235 stars in the last 7 days and has reached 50.2K stars. 
+
+Thanks to the contributors: @patak_dev @antfu7 @yoho_po @retropragma @Shini_92
+
+ https://t.co/vkITwBMUnu
+#TypeScript https://t.co/wkpAtGUoXb",ossinsight_bot,1600273964441702400,https://twitter.com/ossinsight_bot/status/1600273964441702400,"congrats vitejs/vite, grown 235 star last 7 day reached 50.2k stars. thanks contributors: _dev 7 _po _92 typescript",positive,0.9695473313331604
+2022-12-06 23:07:48+00:00,"@NxDevTools @vite_js Amazing release!!! 👏👏👏
+
+Is the paragraph on root level scripts correct? Do we add an empty nx block to package.json? https://t.co/TjcP9TX5qd",aaronmcadam,1600265782876721152,https://twitter.com/aaronmcadam/status/1600265782876721152,_js amazing release!!! 👏👏👏 paragraph root level script correct? add empty nx block package.json?,positive,0.9814110398292542
+2022-12-06 22:05:15+00:00,@Lachlan19900 @vite_js Of course! I didn't have a chance to look at the examples - surely there's more out there somewhere :D,LaneParton,1600250038659137537,https://twitter.com/LaneParton/status/1600250038659137537,19900 _js course! chance look example - surely there's somewhere :d,positive,0.7289734482765198
+2022-12-06 22:01:00+00:00,"Ops, we have Vite4 in beta.1 : https://t.co/YUFyLW5J2Q
+
+#vite #vitejs #frontend #javascript https://t.co/Ag5zNGygQt",RmeetsH,1600248972458631168,https://twitter.com/RmeetsH/status/1600248972458631168,"ops, vite4 beta.1 : vite vitejs frontend javascript",neutral,0.777337372303009
+2022-12-06 21:20:22+00:00,@NxDevTools @vite_js I was waiting for the Task Graph Visualization!,mauriziovitale_,1600238745634029570,https://twitter.com/mauriziovitale_/status/1600238745634029570,_js waiting task graph visualization!,positive,0.5662693977355957
+2022-12-06 21:12:24+00:00,"Nx 15.3 is here, a lot of news: Standalone Projects, @vite_js, Task Graph and more!"" thanks @juristr for the  content  and @NxDevTools for this incredibile release 🚀
+
+https://t.co/0O9FLVMw4g 
+
+#DEVCommunity #nx #react #angular #vite",puppo92,1600236739783577600,https://twitter.com/puppo92/status/1600236739783577600,"nx 15.3 here, lot news: standalone projects, _js, task graph more!"" thanks content incredibile release 🚀 devcommunity nx react angular vite",positive,0.9773997068405151
+2022-12-06 20:37:07+00:00,"@LaneParton @vite_js Oh snap, I did not. Thanks!",Lachlan19900,1600227862396928000,https://twitter.com/Lachlan19900/status/1600227862396928000,"_js oh snap, not. thanks!",positive,0.5588579177856445
+2022-12-06 20:12:55+00:00,@NxDevTools @vite_js That's THE release! Congrats! 🎉 🚀,sebastiandg7,1600221769289170945,https://twitter.com/sebastiandg7/status/1600221769289170945,_js that's release! congrats! 🎉 🚀,positive,0.9884783625602722
+2022-12-06 19:56:29+00:00,@mwycliffe_dev @Bitcollage @vite_js awesome!,NxDevTools,1600217635819356160,https://twitter.com/NxDevTools/status/1600217635819356160,_dev _js awesome!,positive,0.981485903263092
+2022-12-06 19:55:41+00:00,"@to_dariusz @vite_js Not yet, but you might be interested in @brandontroberts's work
+https://t.co/lGg9Et6TTb",NxDevTools,1600217434316685312,https://twitter.com/NxDevTools/status/1600217434316685312,"_dariusz _js yet, might interested 's work",neutral,0.8266589641571045
+2022-12-06 19:21:45+00:00,@NxDevTools @vite_js Vite and Angular is a thing ?,to_dariusz,1600208893761966081,https://twitter.com/to_dariusz/status/1600208893761966081,_js vite angular thing ?,neutral,0.9088212251663208
+2022-12-06 18:45:01+00:00,"Finally, i finished my shopping cart with @chakra_ui
+, @vite_js, @reactjs and zustand. This stack is very incredible to use fast, simpler, and fun. I release project on my github. 
+
+CHAKRA UI + VITE + REACT JS + ZUSTAND is INCREDIBLE
+#100DaysOfCode 
+#ReactJS https://t.co/8o8iijbo5F",dicky_fattah,1600199649909886977,https://twitter.com/dicky_fattah/status/1600199649909886977,"finally, finished shopping cart _ui , _js, zustand. stack incredible use fast, simpler, fun. release project github. chakra ui + vite + react j + zustand incredible 100daysofcode reactjs",positive,0.9587791562080383
+2022-12-06 18:20:29+00:00,@Bitcollage @NxDevTools @vite_js This is something I have been missing... creating an empty project and adding a standalone app wasn't much fan.,mwycliffe_dev,1600193477274349568,https://twitter.com/mwycliffe_dev/status/1600193477274349568,_js something missing... creating empty project adding standalone app much fan.,negative,0.8697754144668579
+2022-12-06 18:18:16+00:00,@NxDevTools @vite_js Standalone Projects 💯,Bitcollage,1600192918693609475,https://twitter.com/Bitcollage/status/1600192918693609475,_js standalone project 💯,positive,0.7052858471870422
+2022-12-06 17:43:05+00:00,@NxDevTools @vite_js Time to transform my workflow https://t.co/NHQSr0iJRj,SOverlayPro,1600184065977556992,https://twitter.com/SOverlayPro/status/1600184065977556992,_js time transform workflow,neutral,0.7945780754089355
+2022-12-06 17:40:29+00:00,@NxDevTools @vite_js congratulations 🎉🍾🎈🎊,Bitcollage,1600183408851812358,https://twitter.com/Bitcollage/status/1600183408851812358,_js congratulation 🎉🍾🎈🎊,positive,0.9769659638404846
+2022-12-06 17:27:23+00:00,@brandontroberts @analogjs @vite_js @angular I know where my money is on the next big thing for Angular. 🫡,KyleRyanBanks,1600180112887926784,https://twitter.com/KyleRyanBanks/status/1600180112887926784,_js know money next big thing angular. 🫡,neutral,0.6136805415153503
+2022-12-06 17:10:13+00:00,@hypeddev @fwouts @sveltejs @vuejs @solid_js @preactjs @reactjs @vite_js @mshilman Yep I heard of that too after I saw it in React Brussels (I think). Can't wait to see how it compares but it seems to be in a similar domain.,bluwyoo,1600175793384001536,https://twitter.com/bluwyoo/status/1600175793384001536,_js _js yep heard saw react brussels (i think). can't wait see compare seems similar domain.,positive,0.9656453132629395
+2022-12-06 16:36:12+00:00,@NxDevTools @vite_js Great release 🎉,Rai_Siqueira,1600167232700440576,https://twitter.com/Rai_Siqueira/status/1600167232700440576,_js great release 🎉,positive,0.9852331280708313
+2022-12-06 16:11:01+00:00,@juristr @NxDevTools @vite_js Sure! Every time again if I can offer help 😁,dominik_pieper,1600160893563678720,https://twitter.com/dominik_pieper/status/1600160893563678720,_js sure! every time offer help 😁,positive,0.9562654495239258
+2022-12-06 16:10:30+00:00,"@juristr @NxDevTools @vite_js I'm in the @solid_js camp now :D
+
+What I could really use is a blog post with compiling an e emscripten package in a monorepo with cmake!",_baxuz,1600160766505603081,https://twitter.com/_baxuz/status/1600160766505603081,_js i'm _js camp :d could really use blog post compiling e emscripten package monorepo cmake!,positive,0.7978324294090271
+2022-12-06 16:06:52+00:00,@_baxuz @NxDevTools @vite_js I'll have a dedicated blog post + video coming soon about just Vite + React :),juristr,1600159849064837122,https://twitter.com/juristr/status/1600159849064837122,@_baxuz _js i'll dedicated blog post + video coming soon vite + react :),positive,0.7656928896903992
+2022-12-06 16:06:28+00:00,@dominik_pieper @NxDevTools @vite_js thanks for the support with the Vite plugin!!,juristr,1600159748120199169,https://twitter.com/juristr/status/1600159748120199169,_pieper _js thanks support vite plugin!!,positive,0.959756076335907
+2022-12-06 15:59:53+00:00,@NxDevTools @vite_js Great release 🥳,dominik_pieper,1600158092238278656,https://twitter.com/dominik_pieper/status/1600158092238278656,_js great release 🥳,positive,0.9865744709968567
+2022-12-06 15:55:28+00:00,"@getsentry @vite_js @RollupJS And big shoutout to @antfu7 and team, at @unjsio for their work on unplugin to make this possible
+
+https://t.co/qRKZ6NAAyJ",steven_boKnows,1600156981033021442,https://twitter.com/steven_boKnows/status/1600156981033021442,"_js big shoutout 7 team, work unplugin make possible",positive,0.9645600318908691
+2022-12-06 15:48:36+00:00,"Super excited about this release! @analogjs now uses the @vite_js  package from Nx so you can spin up a new @Angular app and run ng/nx serve/build/test right out of the box! 🔥
+
+npm init analog
+yarn create analog
+
+https://t.co/3cPJNEz1Rg https://t.co/t36rZuE92Z",brandontroberts,1600155253433073664,https://twitter.com/brandontroberts/status/1600155253433073664,super excited release! us _js package nx spin new app run ng/nx serve/build/test right box! 🔥 npm init analog yarn create analog,positive,0.9821715354919434
+2022-12-06 15:47:48+00:00,"@NxDevTools @vite_js amazing work, thank you thank you",asilvadesigns,1600155051602767872,https://twitter.com/asilvadesigns/status/1600155051602767872,"_js amazing work, thank thank",positive,0.9804449081420898
+2022-12-06 15:37:58+00:00,"We're out!!!! 15.3.0!
+
+I CAN FINALLY TWEET about the @NxDevTools @vite_js plugin!!!!! https://t.co/9DDlC1LXWr",psybercity,1600152575860277248,https://twitter.com/psybercity/status/1600152575860277248,we're out!!!! 15.3.0! finally tweet _js plugin!!!!!,positive,0.8941563963890076
+2022-12-06 15:30:13+00:00,"What a massive release!
+🚀 Nx @vite_js Plugin
+🧍‍♀️ Standalone Projects
+📈 Task Graph Visualization
+👉 Root-level Scripts
+👨‍💻 Add Nx to non-monorepo Projects
+
+And so much more!
+👉 https://t.co/2a4a5hgqMC https://t.co/RZkTMc0roE",NxDevTools,1600150628323540994,https://twitter.com/NxDevTools/status/1600150628323540994,massive release! 🚀 nx _js plugin 🧍‍♀️ standalone project 📈 task graph visualization 👉 root-level script 👨‍💻 add nx non-monorepo project much more! 👉,positive,0.9252320528030396
+2022-12-06 15:29:48+00:00,"✨Sentry now supports @vite_js #esbuild and @RollupJS ✨
+
+New bundler plugins make it easier for you to upload source maps, check it out 👇👇 https://t.co/woRvO7UM9U",getsentry,1600150524065873922,https://twitter.com/getsentry/status/1600150524065873922,"✨sentry support _js esbuild ✨ new bundler plugins make easier upload source maps, check 👇👇",positive,0.7891611456871033
+2022-12-06 14:36:51+00:00,"@bluwyoo @fwouts @sveltejs @vuejs @solid_js @preactjs @reactjs @vite_js @mshilman I heard Storybook 7.1 will have ""portable docs"" which will make it straightforward to render your stories in another app",hypeddev,1600137196534538240,https://twitter.com/hypeddev/status/1600137196534538240,"_js _js heard storybook 7.1 ""portable docs"" make straightforward render story another app",neutral,0.5217337608337402
+2022-12-06 14:04:25+00:00,"@vite_js I am using Vite for my ssr-react project. My build output doesn't contain reference to ""self"" from my server side code. Is there a way we can fix this by setting some config similar to Webpack's output.globalObject which can be set to ""this""?",Maihoonsunil,1600129036713197570,https://twitter.com/Maihoonsunil/status/1600129036713197570,"_js using vite ssr-react project. build output contain reference ""self"" server side code. way fix setting config similar webpack's output.globalobject set ""this""?",neutral,0.8223807215690613
+2022-12-06 13:48:18+00:00,"@shubhamofc https://t.co/3F2YAm02pO
+
+not just code but api integration, navigation, constants, vercel deploy for web apps and much more like github/gitlab sync
+
+storybook and vitejs support",iRakeshPurohit,1600124979760467973,https://twitter.com/iRakeshPurohit/status/1600124979760467973,"code api integration, navigation, constants, vercel deploy web apps much like github/gitlab sync storybook vitejs support",neutral,0.8212690353393555
+2022-12-06 13:44:33+00:00,@Lachlan19900 @vite_js I’m guessing you’ve already combed through this https://t.co/Ned22WJbhB,LaneParton,1600124034129068032,https://twitter.com/LaneParton/status/1600124034129068032,19900 _js i’m guessing you’ve already combed,neutral,0.9389896988868713
+2022-12-06 13:38:46+00:00,"@getsentry now supports @vite_js , #esbuild, and @RollupJS devs to create releases and upload source maps with our new bundler plugins. This makes uploading source maps much easier than it used to be. Check out this guide to get started https://t.co/nuxwEMoPsT",ThunderStrack24,1600122578110009344,https://twitter.com/ThunderStrack24/status/1600122578110009344,"support _js , esbuild, devs create release upload source map new bundler plugins. make uploading source map much easier used be. check guide get started",positive,0.6184557676315308
+2022-12-06 13:15:23+00:00,"In less than two hours, @youyuxi, creator of @vuejs and @vite_js is speaking at @VueJSAthens !
+
+Don't miss it!!!
+
+More info:
+https://t.co/v2V37aJDwV",VueJSAthens,1600116695896465410,https://twitter.com/VueJSAthens/status/1600116695896465410,"le two hours, , creator _js speaking ! miss it!!! info:",positive,0.6798171997070312
+2022-12-06 12:58:52+00:00,"Just finished a #frontend coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://t.co/syVqKMrfnX
+
+I've used @tailwindcss and @vite_js for this project. Any suggestions on how I can improve are welcome!
+
+#FrontendMentor #CodeChallenge",imtusharbiswas,1600112537231499271,https://twitter.com/imtusharbiswas/status/1600112537231499271,finished frontend coding challenge ! 🎉 see solution here: i've used _js project. suggestion improve welcome! frontendmentor codechallenge,positive,0.9479741454124451
+2022-12-06 12:32:55+00:00,@Lachlan19900 @vite_js Unfortunately all I have worked on are behind a login (enterprise level apps),DamianoMe,1600106008788881409,https://twitter.com/DamianoMe/status/1600106008788881409,19900 _js unfortunately worked behind login (enterprise level apps),negative,0.7249729037284851
+2022-12-06 11:22:58+00:00,ViteJS or esbuild? Is there a clear winner?,GeoPacman,1600088406595354624,https://twitter.com/GeoPacman/status/1600088406595354624,vitejs esbuild? clear winner?,neutral,0.8784133195877075
+2022-12-06 11:04:37+00:00,"@SachaGreif @GatsbyJS Maybe @gatsbyjs v5 has switched to @vite_js ? 🤣
+Are you on nodejs v18 or v16?",usr50094473,1600083788532355074,https://twitter.com/usr50094473/status/1600083788532355074,maybe v5 switched _js ? 🤣 nodejs v18 v16?,neutral,0.8763965368270874
+2022-12-06 10:28:14+00:00,@vite_js is too fast.🚀🔥,0xbrowncoder,1600074631448494080,https://twitter.com/0xbrowncoder/status/1600074631448494080,_js fast.🚀🔥,positive,0.9058727622032166
+2022-12-06 10:25:59+00:00,@vite_js @swc_rs @RollupJS Let’s gooo SWC !,VLecrubier,1600074063342280704,https://twitter.com/VLecrubier/status/1600074063342280704,_js _rs let’s gooo swc !,positive,0.7686591148376465
+2022-12-06 09:54:18+00:00,"In this blog post I walk you through how to set up a vite.js project for JavaScript, TypeScript, Vue, React
+
+https://t.co/tAwONm5S7o
+
+Via @hashnode 
+ 
+#vite #reactjs  #javascript #vuejs #typescript #svelte #litjs #preact https://t.co/R77Vdwy9IV",ocxigin,1600066090180128769,https://twitter.com/ocxigin/status/1600066090180128769,"blog post walk set vite.js project javascript, typescript, vue, react via vite reactjs javascript vuejs typescript svelte litjs preact",neutral,0.9072450995445251
+2022-12-06 09:38:48+00:00,"💕 @laravelphp switching to @vite_js by default was one of the big moves for the Vite ecosystem this year.
+ 
+@jessarchercodes discusses the process and how it works in her @ViteConf 2022 talk:
+✨ Unlimited power with Laravel and Vite!
+🟣 Watch it at https://t.co/RXzqlRkMh8 https://t.co/Aka9kd3JhS",ViteConf,1600062189250879488,https://twitter.com/ViteConf/status/1600062189250879488,💕 switching _js default one big move vite ecosystem year. discus process work 2022 talk: ✨ unlimited power laravel vite! 🟣 watch,positive,0.7752406597137451
+2022-12-06 08:00:18+00:00,"I compared deploy speeds for Reflame, Vercel, Netlify, Cloudflare Pages on the same repo by @lewisl9029 at #ITNEXT. #netlify #cloudflarepages #react #vitejs #vercel https://t.co/SocsquxL2b (f)",ITNEXT_io,1600037402474586112,https://twitter.com/ITNEXT_io/status/1600037402474586112,"compared deploy speed reflame, vercel, netlify, cloudflare page repo 9029 itnext. netlify cloudflarepages react vitejs vercel (f)",neutral,0.9105231761932373
+2022-12-06 06:21:52+00:00,"Today we @youyuxi, creator of @vuejs and @vite_js is speaking at @VueJSAthens !
+
+More info: https://t.co/0N0O2p4Lq5 https://t.co/Ou1WGOIxdC",sergio_kag,1600012628759220224,https://twitter.com/sergio_kag/status/1600012628759220224,"today , creator _js speaking ! info:",neutral,0.8807319402694702
+2022-12-06 04:25:49+00:00,"@nullvoxpopuli 
+I am going to build an app using #react with #vitejs so I am confused about what folder structure needs to be followed do you have any suggestions? 
+also planning to add a storybook for all components.",Pranavvmechary,1599983425989271552,https://twitter.com/Pranavvmechary/status/1599983425989271552,going build app using react vitejs confused folder structure need followed suggestions? also planning add storybook components.,neutral,0.8721787929534912
+2022-12-06 04:02:39+00:00,"Any large, complex (and open source) apps using @vite_js? Need to do some benchmarking, need something large, production like and real.",Lachlan19900,1599977595826601984,https://twitter.com/Lachlan19900/status/1599977595826601984,"large, complex (and open source) apps using _js? need benchmarking, need something large, production like real.",neutral,0.6871122121810913
+2022-12-06 00:13:59+00:00,@xXACCEXx @vite_js aww that's swite,miko_a,1599920051104382976,https://twitter.com/miko_a/status/1599920051104382976,_js aww that's swite,neutral,0.5282272696495056
+2022-12-06 00:04:57+00:00,@miko_a @vite_js I'll fite you,xXACCEXx,1599917777871339520,https://twitter.com/xXACCEXx/status/1599917777871339520,_a _js i'll fite,neutral,0.5986026525497437
+2022-12-05 23:46:29+00:00,"TIL @vite_js is pronounced ""Veet""",miko_a,1599913129051586560,https://twitter.com/miko_a/status/1599913129051586560,"til _js pronounced ""veet""",neutral,0.8570749163627625
+2022-12-05 21:22:26+00:00,@lucperkins @vite_js fwiw I have wanted to do a big project with https://t.co/S6uuovXAj4 I'd done one in the past with https://t.co/HQ1PKctfZm  but that is leaving you needing to really like elixir to get into (same with clojure/clojurescript too I guess),SamRose,1599876879233650688,https://twitter.com/SamRose/status/1599876879233650688,_js fwiw wanted big project i'd done one past leaving needing really like elixir get (same clojure/clojurescript guess),neutral,0.5257432460784912
+2022-12-05 21:20:50+00:00,@lucperkins @vite_js what do you see that you like?,SamRose,1599876473141141504,https://twitter.com/SamRose/status/1599876473141141504,_js see like?,neutral,0.8877360820770264
+2022-12-05 20:16:51+00:00,Not gonna lie: on my next big site project I'll probably use @vite_js and just build my own static site generator from scratch,lucperkins,1599860374366720001,https://twitter.com/lucperkins/status/1599860374366720001,gonna lie: next big site project i'll probably use _js build static site generator scratch,neutral,0.6431629061698914
+2022-12-05 19:55:16+00:00,"@adamwathan @vite_js 
+
+Need to have page too
+
+I actually create Arabic page for vite
+
+https://t.co/lt6qZgYhRNفيت_جي_إس
+
+And Wikidata item
+
+https://t.co/6cLAwEczHS",X7mdNet,1599854941132070912,https://twitter.com/X7mdNet/status/1599854941132070912,_js need page actually create arabic page vite wikidata item,neutral,0.8435737490653992
+2022-12-05 19:18:20+00:00,@vite_js @RollupJS @swc_rs Question here: vite libraries are available? Can you use existing shared libraries?,SOverlayPro,1599845647674642433,https://twitter.com/SOverlayPro/status/1599845647674642433,_js _rs question here: vite library available? use existing shared libraries?,neutral,0.9442994594573975
+2022-12-05 18:53:32+00:00,"after moving from webpack4+vuejs 2.6 to @vite_js + @vuejs 2.7 + typescript, i’m finally happy with our frontend stack. 
+(now on to upgrading to vue 3)",keepitterron,1599839405702713344,https://twitter.com/keepitterron/status/1599839405702713344,"moving webpack4+vuejs 2.6 _js + 2.7 + typescript, i’m finally happy frontend stack. (now upgrading vue 3)",positive,0.9581279754638672
+2022-12-05 17:49:50+00:00,@vite_js @RollupJS @swc_rs Glad to see this. using `nx migrate latest` adds it right?,SOverlayPro,1599823373537751040,https://twitter.com/SOverlayPro/status/1599823373537751040,_js _rs glad see this. using `nx migrate latest` add right?,positive,0.8586137294769287
+2022-12-05 17:40:09+00:00,"@DThompsonDev @vite_js is amazing. I wrote about it in this post about how we used it to build a React component library with TypeScript for a prominent govt agency with linting and tests and all the trimmings. It's long so do a page search for the Vite references lmao
+https://t.co/gj2D1Ruar6",RealNeilC,1599820939516313601,https://twitter.com/RealNeilC/status/1599820939516313601,_js amazing. wrote post used build react component library typescript prominent govt agency linting test trimmings. long page search vite reference lmao,positive,0.9130978584289551
+2022-12-05 16:31:23+00:00,"✋ vite@4.0.0-beta.0 is out! https://t.co/gJXGasPJLM
+
+🛠️ Upgrade to @RollupJS 3
+⏩ New React plugin using @swc_rs during dev
+🎁 And more
+
+Help us test it! We're aiming for a quick release as the ecosystem worked during the alpha to ensure a smooth upgrade
+https://t.co/7fdYAyASRn",vite_js,1599803633364701184,https://twitter.com/vite_js/status/1599803633364701184,✋ vite@4.0.0-beta.0 out! 🛠️ upgrade 3 ⏩ new react plugin using _rs dev 🎁 help u test it! we're aiming quick release ecosystem worked alpha ensure smooth upgrade,positive,0.7367553114891052
+2022-12-05 13:13:30+00:00,"It must be mentioned that it also supports HMR,which works well with @vite_js. https://t.co/p5DjNt9lqt",webfansplz,1599753831474434049,https://twitter.com/webfansplz/status/1599753831474434049,"must mentioned also support hmr,which work well _js.",positive,0.8006396889686584
+2022-12-05 09:57:01+00:00,"@the_ezekiel Yes, so I'm using Vite.js atm for it, and I'm doing this, however if I want to install a dependency for when I'm working on it, it will install it to my library repo, and also the typescript types.d.ts generation plugin seems to be broken :(",isjackwild,1599704387768971264,https://twitter.com/isjackwild/status/1599704387768971264,"_ezekiel yes, i'm using vite.js atm it, i'm this, however want install dependency i'm working it, install library repo, also typescript types.d.ts generation plugin seems broken :(",negative,0.7602108716964722
+2022-12-05 08:15:41+00:00,What's the highest version of node that Vite needs? @vite_js,tianchaoz,1599678884055633920,https://twitter.com/tianchaoz/status/1599678884055633920,what's highest version node vite needs? _js,neutral,0.9091526865959167
+2022-12-05 06:23:21+00:00,We used ViteConf 2022 (@vite_js ) to showcase our live player designs. @BrittneyPostma and @patak_dev make our players look extra special 🫶,vidstackjs,1599650615495643138,https://twitter.com/vidstackjs/status/1599650615495643138,used viteconf 2022 (_js ) showcase live player designs. _dev make player look extra special 🫶,positive,0.7108933329582214
+2022-12-05 05:10:26+00:00,@iOntiverosJS @JLarky @vite_js I like your name,IvanArambula12,1599632265289428992,https://twitter.com/IvanArambula12/status/1599632265289428992,_js like name,neutral,0.8096249103546143
+2022-12-05 03:28:46+00:00,@NathanaelZhan10 @mohawk81759628 @iOntiverosJS @vite_js What?,JLarky,1599606679175589890,https://twitter.com/JLarky/status/1599606679175589890,10 81759628 _js what?,neutral,0.8870516419410706
+2022-12-05 03:19:44+00:00,@mohawk81759628 @iOntiverosJS @JLarky @vite_js Guess what? https://t.co/Af7T0TBw2l,NathanaelZhan10,1599604407733456899,https://twitter.com/NathanaelZhan10/status/1599604407733456899,81759628 _js guess what?,neutral,0.8728029727935791
+2022-12-05 00:12:39+00:00,"@patak_dev @_brc_dd @astrodotbuild @laravelphp @nuxt_js @vite_js @webpack @sveltejs @nodejs @deno_land @typescript @vuejs Was expecting that kind, thanks! 🙏🏻",kissu_io,1599557324263239680,https://twitter.com/kissu_io/status/1599557324263239680,"_dev @_brc_dd _js _js _land expecting kind, thanks! 🙏🏻",positive,0.9295059442520142
+2022-12-04 22:20:14+00:00,@mohawk81759628 @iOntiverosJS @vite_js Fun demos of Astro 😄,JLarky,1599529036707164161,https://twitter.com/JLarky/status/1599529036707164161,81759628 _js fun demo astro 😄,positive,0.9148759245872498
+2022-12-04 22:16:46+00:00,"@iOntiverosJS @JLarky @vite_js 1h? Kida sus, tbh... 
+
+Convincing is 5 mins... What did you do for the remaining time?",mohawk81759628,1599528163649806336,https://twitter.com/mohawk81759628/status/1599528163649806336,"_js 1h? kida sus, tbh... convincing 5 mins... remaining time?",neutral,0.9316080808639526
+2022-12-04 22:01:48+00:00,@iOntiverosJS @JLarky @vite_js Took you long enough... https://t.co/PgKOJXZ85f,afedev,1599524395990790144,https://twitter.com/afedev/status/1599524395990790144,_js took long enough...,neutral,0.4847530424594879
+2022-12-04 21:34:39+00:00,"Yesterday I had a 1hr (possibly more? I lost track of time) video call with @JLarky where he convinced me to finally try @vite_js and damn!
+
+There really is no reason to use CRA anymore... kinda sad cause I learned a lot on it, but def reaching for Vite from now on 🔥 #ReactJS",iOntiverosJS,1599517564765638656,https://twitter.com/iOntiverosJS/status/1599517564765638656,"yesterday 1hr (possibly more? lost track time) video call convinced finally try _js damn! really reason use cra anymore... kinda sad cause learned lot it, def reaching vite 🔥 reactjs",negative,0.7584465742111206
+2022-12-04 20:50:39+00:00,"Hacking around with new npm mode in @deno_land.
+Some stuff is missing but is very great, in the future it will no longer be necessary compile server code for ssr React apps.
+I built a demo using @vite_js with HMR, SSR and @reactjs stream, looking good 😃
+https://t.co/qUCBGtU4aV",gffuma,1599506489903050753,https://twitter.com/gffuma/status/1599506489903050753,"hacking around new npm mode _land. stuff missing great, future longer necessary compile server code ssr react apps. built demo using _js hmr, ssr stream, looking good 😃",positive,0.9092099070549011
+2022-12-04 17:34:24+00:00,@_brc_dd @kissu_io @astrodotbuild @laravelphp @nuxt_js @vite_js @webpack @sveltejs @nodejs @deno_land @typescript @vuejs You also have pages like https://t.co/AgwSHGyufq,patak_dev,1599457104024457221,https://twitter.com/patak_dev/status/1599457104024457221,@_brc_dd _io _js _js _land also page like,neutral,0.9286813735961914
+2022-12-04 17:26:38+00:00,@patak_dev @astrodotbuild @laravelphp @nuxt_js @vite_js @webpack @sveltejs @nodejs @deno_land @typescript @vuejs What type of world do we live in @nuxt_js has more stars than @laravelphp OMG How is this soo!!!,SheltonLouisX,1599455148568285184,https://twitter.com/SheltonLouisX/status/1599455148568285184,_dev _js _js _land type world live _js star omg soo!!!,positive,0.9206233620643616
+2022-12-04 16:29:21+00:00,@patak_dev @astrodotbuild @laravelphp @nuxt_js @vite_js @webpack @sveltejs @nodejs @deno_land @typescript @vuejs Got the top 20? I'm quite curious! 🌟,kissu_io,1599440733429108736,https://twitter.com/kissu_io/status/1599440733429108736,_dev _js _js _land got top 20? i'm quite curious! 🌟,positive,0.5766174793243408
+2022-12-04 14:49:30+00:00,Hey @danielcroe I know this is not the scope of Nuxt v3 but do you think it would be hard to make it framework agnostic? Kind of like @vite_js but for ui frameworks?,LfbvrFlo,1599415606242967553,https://twitter.com/LfbvrFlo/status/1599415606242967553,hey know scope nuxt v3 think would hard make framework agnostic? kind like _js ui frameworks?,neutral,0.8713369369506836
+2022-12-04 09:18:20+00:00,"Vitejs support is coming to TailAdmin with v.3 on Dec. 21
+
+#Laravel #tailwindcss #vitejs #vuejs #javascript #Admin https://t.co/GUvySnXznI",siyan_alekov,1599332263124402177,https://twitter.com/siyan_alekov/status/1599332263124402177,vitejs support coming tailadmin v.3 dec. 21 laravel tailwindcss vitejs vuejs javascript admin,neutral,0.824979841709137
+2022-12-04 08:44:42+00:00,"⭐️+19k - TOP 1000 - @astrodotbuild
+⭐️+27k - TOP 500 - @laravelphp 
+⭐️+40k - TOP 250 - @nuxt_js
+⭐️+50k - TOP 150 - @vite_js
+⭐️+60k - TOP 100 - @webpack @sveltejs 
+⭐️+84k - TOP 50  - @nodejs @deno_land @typescript 
+⭐️+140k - TOP 20 - torvalds/linux
+⭐️+200k - TOP 10 - @vuejs https://t.co/PQGnAJAm5Z",patak_dev,1599323801522929664,https://twitter.com/patak_dev/status/1599323801522929664,⭐️+19k - top 1000 - ⭐️+27k - top 500 - ⭐️+40k - top 250 - _js ⭐️+50k - top 150 - _js ⭐️+60k - top 100 - ⭐️+84k - top 50 - _land ⭐️+140k - top 20 - torvalds/linux ⭐️+200k - top 10 -,neutral,0.8994089365005493
+2022-12-04 03:35:30+00:00,"@Rich_Harris @monkatraz @ChromeDevTools @sveltejs @codemirror @vite_js I know how tedious it is to preserve debugability across compiler passes, but from my experience, every little bit of effort here is time spent really well.",bmeurer,1599245985489698817,https://twitter.com/bmeurer/status/1599245985489698817,"_harris _js know tedious preserve debugability across compiler passes, experience, every little bit effort time spent really well.",positive,0.6786196827888489
+2022-12-04 02:24:30+00:00,Don't use @vite_js or @pnpmjs if you prefer slow things,brian_wtLau,1599228117792743424,https://twitter.com/brian_wtLau/status/1599228117792743424,use _js prefer slow thing,neutral,0.7306128740310669
+2022-12-03 20:39:10+00:00,"@bmeurer @monkatraz @ChromeDevTools @sveltejs @codemirror @vite_js yeah, you're not wrong. preserving this stuff gets somewhat challenging if you're making drastic transformations. we have plans to change the compiler output quite drastically in 2023, will be interesting to see whether that makes sourcemaps better or worse 🙈",Rich_Harris,1599141212950212608,https://twitter.com/Rich_Harris/status/1599141212950212608,"_js yeah, wrong. preserving stuff get somewhat challenging making drastic transformations. plan change compiler output quite drastically 2023, interesting see whether make sourcemaps better worse 🙈",negative,0.7385042309761047
+2022-12-03 17:49:57+00:00,"@patak_dev @vite_js Thats why I hate monorepo 😂 I Remember how many I 🤬🤬🤬🤬 when tryed do some contribution to vite because all (tests, issues, search) was mixed",alex_kozack,1599098630282964992,https://twitter.com/alex_kozack/status/1599098630282964992,"_dev _js thats hate monorepo 😂 remember many 🤬🤬🤬🤬 tryed contribution vite (tests, issues, search) mixed",negative,0.9504556059837341
+2022-12-03 14:06:57+00:00,@patak_dev @vite_js @github And its not a surprise to me! You do absolutely fantastic job both with the tool itself and community around it,filrakowski,1599042509279150082,https://twitter.com/filrakowski/status/1599042509279150082,_dev _js surprise me! absolutely fantastic job tool community around,positive,0.9867876768112183
+2022-12-03 14:03:51+00:00,@patak_dev @vite_js That's a nice gesture 🙌😄,SarcevicAntonio,1599041727608029185,https://twitter.com/SarcevicAntonio/status/1599041727608029185,_dev _js that's nice gesture 🙌😄,positive,0.974601686000824
+2022-12-03 13:49:06+00:00,"Any Vite experts here to explain if there is any way to include Web components in a React codebase with Vite as the bundler?
+Seems this is possible it Vue but not in React
+cc: @vite_js",aymanapatel,1599038015338577921,https://twitter.com/aymanapatel/status/1599038015338577921,vite expert explain way include web component react codebase vite bundler? seems possible vue react cc: _js,neutral,0.7529106140136719
+2022-12-03 13:40:13+00:00,"For the commit 5k to the @vite_js repository, the team wanted to merge a significant PR. We choose for it to be a symbol of Vite's framework agnostic story: the plugins for Vue and React have now been moved out of the Vite core monorepo.
+https://t.co/iPPuFu2htt",patak_dev,1599035779463794688,https://twitter.com/patak_dev/status/1599035779463794688,"commit 5k _js repository, team wanted merge significant pr. choose symbol vite's framework agnostic story: plugins vue react moved vite core monorepo.",neutral,0.8028162121772766
+2022-12-03 13:34:09+00:00,@vite_js https://t.co/8GQkeWDUWC made with vite based on https://t.co/s1chl6yexT,modemb,1599034255744475137,https://twitter.com/modemb/status/1599034255744475137,_js made vite based,neutral,0.856144368648529
+2022-12-03 13:24:18+00:00,"Day 5 of #100DaysOfCode 2.0
+
+- Coded an MQL4 EA it involves Heiken Ashi and Multiple magic numbers.
+
+- Played around a little bit more with the @vite_js on my PC and Today haven't watched any ReactJS videos.
+
+✌️ https://t.co/Bjcegk2vql",its_mavi_dev,1599031776571105280,https://twitter.com/its_mavi_dev/status/1599031776571105280,day 5 100daysofcode 2.0 - coded mql4 ea involves heiken ashi multiple magic numbers. - played around little bit _js pc today watched reactjs videos. ✌️,positive,0.6599379181861877
+2022-12-03 13:22:32+00:00,@vite_js You can keep track of dev progress with @repotracker as well,toniengelhardt,1599031331312132096,https://twitter.com/toniengelhardt/status/1599031331312132096,_js keep track dev progress well,positive,0.6458710432052612
+2022-12-03 13:04:31+00:00,@gilgNYC hem so i can do this without migration to viteJS ?,alb_isma,1599026798624313345,https://twitter.com/alb_isma/status/1599026798624313345,hem without migration vitejs ?,neutral,0.8717813491821289
+2022-12-03 12:48:49+00:00,And 3 issues away from 5k! 90% of the issues created in the repo have been closed. Get involved and help us to keep improving @vite_js ⚡️ https://t.co/hI6SmKBzJ2,vite_js,1599022845694136320,https://twitter.com/vite_js/status/1599022845694136320,3 issue away 5k! 90% issue created repo closed. get involved help u keep improving _js ⚡️,positive,0.8395796418190002
+2022-12-03 11:48:50+00:00,@vite_js @patak_dev Congrats 🎉🎉🎉,didavid61202,1599007748842487809,https://twitter.com/didavid61202/status/1599007748842487809,_js _dev congrats 🎉🎉🎉,positive,0.9851089119911194
+2022-12-03 11:00:31+00:00,The @vite_js repository is now on the TOP 150 most starred repositories in @github 🔥 https://t.co/5s6oDLNWbq,patak_dev,1598995590498484224,https://twitter.com/patak_dev/status/1598995590498484224,_js repository top 150 starred repository 🔥,positive,0.7526006698608398
+2022-12-03 10:46:50+00:00,⚡️ Milestones! We just reached 5K commits and 50k Stars on https://t.co/fv8G7oUSjW 🌟,vite_js,1598992148929466368,https://twitter.com/vite_js/status/1598992148929466368,⚡️ milestones! reached 5k commits 50k star 🌟,positive,0.9364501237869263
+2022-12-03 08:47:50+00:00,@vite_js is so fast!!! sheeesh! https://t.co/q744dFzNFz,jhnlwhd,1598962198868807681,https://twitter.com/jhnlwhd/status/1598962198868807681,_js fast!!! sheeesh!,positive,0.7850513458251953
+2022-12-03 07:36:20+00:00,"@jsjoeio @vite_js I wrote this article after playing with writing a Vite plugin. It might be helpful 
+
+https://t.co/BWeMX4njUa",Dominus_Kelvin,1598944208270024704,https://twitter.com/Dominus_Kelvin/status/1598944208270024704,_js wrote article playing writing vite plugin. might helpful,neutral,0.5782727003097534
+2022-12-03 07:28:56+00:00,"@MaslowJax @FableCompiler @vite_js @AzureFunctions @JiriLandsman The ""core"" of template is still the same - Feliz, UseElmish hook, Tailwind, etc... The Vite.js is used instead of Webpack and it's way easier (and faster).",dzoukr,1598942345239572480,https://twitter.com/dzoukr/status/1598942345239572480,"_js ""core"" template still - feliz, useelmish hook, tailwind, etc... vite.js used instead webpack way easier (and faster).",positive,0.7679036855697632
+2022-12-03 05:46:34+00:00,@its_mavi_dev @scrimba @vite_js Hey ! That's the exact same course m following for react . On #freeCodeCamp . Great resource https://t.co/pz13dLnVBQ,yogesh_dharya,1598916581555195904,https://twitter.com/yogesh_dharya/status/1598916581555195904,_mavi_dev _js hey ! that's exact course following react . freecodecamp . great resource,positive,0.9651785492897034
+2022-12-03 03:39:04+00:00,"@rauchg @brotzky_ @nextjs @Basedash @vite_js @parceljs Ok cool, I’ll have to take a closer look at the docs!",RobertCooper_RC,1598884494768934913,https://twitter.com/RobertCooper_RC/status/1598884494768934913,"_ _js ok cool, i’ll take closer look docs!",positive,0.7851163148880005
+2022-12-03 03:37:12+00:00,"@RobertCooper_RC @brotzky_ @nextjs @Basedash @vite_js @parceljs Next.js can definitely be used in non-SSR mode (`next export`) and we’re actively maintaining and supporting this usecase, especially in the app/ world.",rauchg,1598884028350091264,https://twitter.com/rauchg/status/1598884028350091264,"_rc _ _js next.js definitely used non-ssr mode (`next export`) we’re actively maintaining supporting usecase, especially app/ world.",positive,0.640505850315094
+2022-12-03 03:35:05+00:00,"@brotzky_ @nextjs @Basedash @vite_js @parceljs Ok cool. Curious how you will tackle routing since I didn’t think Next.js allows for defining of different routes when trying to use the CSR approach.
+
+Perhaps that’s where the static exports can help?",RobertCooper_RC,1598883496189374466,https://twitter.com/RobertCooper_RC/status/1598883496189374466,_ _js ok cool. curious tackle routing since didn’t think next.js allows defining different route trying use csr approach. perhaps that’s static export help?,neutral,0.6363819241523743
+2022-12-03 03:31:19+00:00,"@rauchg @brotzky_ @nextjs @Basedash @vite_js @parceljs It just seems like a lot of code would need to be refactored. Also not clear if we would be losing on on performance from switching to a CSR app with data rehydrated from indexedDB. 
+
+That’s what @linear does and hard to imagine linear would be as fast with a Next.js setup.",RobertCooper_RC,1598882547382902784,https://twitter.com/RobertCooper_RC/status/1598882547382902784,_ _js seems like lot code would need refactored. also clear would losing performance switching csr app data rehydrated indexeddb. that’s hard imagine linear would fast next.js setup.,negative,0.6225837469100952
+2022-12-03 03:28:17+00:00,"@rauchg @brotzky_ @nextjs @Basedash @vite_js @parceljs Guides/blog posts about the migration path for the following CSR app features:
+
+- Redux store populated on app load
+- Usage of IndexedDB for caching data
+- Data fetching + optimistic updates of a global store in a SSR-world
+-What to do if a package is SSR-compatible",RobertCooper_RC,1598881781221978113,https://twitter.com/RobertCooper_RC/status/1598881781221978113,_ _js guides/blog post migration path following csr app features: - redux store populated app load - usage indexeddb caching data - data fetching + optimistic update global store ssr-world -what package ssr-compatible,neutral,0.8961896896362305
+2022-12-03 03:22:49+00:00,"@RobertCooper_RC @nextjs @Basedash @vite_js @parceljs Hmmm, interesting. Im thinking initially doing fully client rendering with static export almost identical to CRA. I think the biggest thing will be migrating routing for Fey.
+
+Ill try to document the experimentation and progress!",brotzky_,1598880408716075009,https://twitter.com/brotzky_/status/1598880408716075009,"_rc _js hmmm, interesting. im thinking initially fully client rendering static export almost identical cra. think biggest thing migrating routing fey. ill try document experimentation progress!",positive,0.6890420317649841
+2022-12-03 03:17:16+00:00,"The closing event of @ViteConf 2022 was a discussion about the present and future of @vite_js with the team: @youyuxi, @antfu7, @patak_dev, @bluwyoo, @haoqunjiang, and @Shini_92 in a panel moderated by @ThisDotLabs' @ladyleet ✨
+
+✨ Watch it now at https://t.co/2Osdtc6wQa",entensive,1598879010922303491,https://twitter.com/entensive/status/1598879010922303491,"closing event 2022 discussion present future _js team: , 7, _dev, , , _92 panel moderated ' ✨ ✨ watch",neutral,0.8541836738586426
+2022-12-03 03:15:25+00:00,@RobertCooper_RC @brotzky_ @nextjs @Basedash @vite_js @parceljs What could make the migration to Next.js easier for you?,rauchg,1598878543299358721,https://twitter.com/rauchg/status/1598878543299358721,_rc _ _js could make migration next.js easier you?,neutral,0.672266960144043
+2022-12-03 03:08:08+00:00,"@brotzky_ @nextjs We’re having similar thoughts at @Basedash. I tried to migrate from CRA to @vite_js , but the migration is pretty intense since a lot of the packages we use don’t play well with ESM.
+
+I’m now looking to migrate to @parceljs instead. @nextjs migration would be too intense rn.",RobertCooper_RC,1598876713207083008,https://twitter.com/RobertCooper_RC/status/1598876713207083008,"_ we’re similar thought . tried migrate cra _js , migration pretty intense since lot package use don’t play well esm. i’m looking migrate instead. migration would intense rn.",negative,0.6163040995597839
+2022-12-02 23:15:13+00:00,@dzoukr @FableCompiler @vite_js @AzureFunctions @JiriLandsman Does this have something resembling elmish style coding? I've never seen vite,MaslowJax,1598818095442821121,https://twitter.com/MaslowJax/status/1598818095442821121,_js something resembling elmish style coding? i've never seen vite,neutral,0.8225632905960083
+2022-12-02 22:52:41+00:00,@jsjoeio @vite_js The plug-in aspect is easy. All of the complexity will come from what you’re trying to do.,KylerJohnsonDev,1598812424680792064,https://twitter.com/KylerJohnsonDev/status/1598812424680792064,_js plug-in aspect easy. complexity come you’re trying do.,neutral,0.6366950869560242
+2022-12-02 19:45:18+00:00,@its_mavi_dev @scrimba @vite_js Vite is awesome and fast.,PromiseUkay,1598765269949743144,https://twitter.com/PromiseUkay/status/1598765269949743144,_mavi_dev _js vite awesome fast.,positive,0.9518864750862122
+2022-12-02 18:54:48+00:00,"Day-4 Update: 
+
+So, is switched back to @reactjs with @vite_js. I tried to learn while developing. But seems like it will take a lot of effort. And more when I face any bug.
+
+For backend, for now I am trying  @supabase 
+
+Any thoughts?
+
+#buildinpublic",sahil_fruitwala,1598752558931058688,https://twitter.com/sahil_fruitwala/status/1598752558931058688,"day-4 update: so, switched back _js. tried learn developing. seems like take lot effort. face bug. backend, trying thoughts? buildinpublic",negative,0.5015263557434082
+2022-12-02 17:16:40+00:00,@its_mavi_dev @scrimba @vite_js Way to go!,cerbosdev,1598727865918361600,https://twitter.com/cerbosdev/status/1598727865918361600,_mavi_dev _js way go!,positive,0.7592322826385498
+2022-12-02 17:06:19+00:00,@its_mavi_dev @scrimba @vite_js Amazing 😍,habibawael02,1598725258164387840,https://twitter.com/habibawael02/status/1598725258164387840,_mavi_dev _js amazing 😍,positive,0.9681840538978577
+2022-12-02 16:36:25+00:00,"@nkSaraf98 @vite_js Sick!
+
+So kind of you to offer - when I start on one, I'll take you up on that 🙌🏼",jsjoeio,1598717737391788032,https://twitter.com/jsjoeio/status/1598717737391788032,"98 _js sick! kind offer - start one, i'll take 🙌🏼",positive,0.9635528326034546
+2022-12-02 14:30:29+00:00,"What I love the most about working on @vite_js, is that we get PRs from some of the most talented folks of open source on a daily basis. As Evan explains, you learn so much by going through their PRs. If you want to up your dev skills, help us triage issues and review PRs https://t.co/FX1thZAI2I",patak_dev,1598686043158581248,https://twitter.com/patak_dev/status/1598686043158581248,"love working _js, get pr talented folk open source daily basis. evan explains, learn much going prs. want dev skills, help u triage issue review pr",positive,0.9612473845481873
+2022-12-02 14:16:03+00:00,"⚡️ The closing event of @ViteConf 2022 was a discussion about the present and future of @vite_js with the team: @youyuxi, @antfu7, @patak_dev, @bluwyoo, @haoqunjiang, and @Shini_92 in a panel moderated by @ThisDotLabs' @ladyleet ✨
+
+✨ Watch it now at https://t.co/ERW3aP189C https://t.co/4kaV8QTpBN",ViteConf,1598682412795318273,https://twitter.com/ViteConf/status/1598682412795318273,"⚡️ closing event 2022 discussion present future _js team: , 7, _dev, , , _92 panel moderated ' ✨ ✨ watch",neutral,0.8235676288604736
+2022-12-02 13:37:40+00:00,how difficult is it to write your own @vite_js plugin?,jsjoeio,1598672753007083521,https://twitter.com/jsjoeio/status/1598672753007083521,difficult write _js plugin?,neutral,0.7687072157859802
+2022-12-02 13:34:03+00:00,"Books: 
+Large Scale Apps with [Vue/Svelte/React] and TypeScript  #vue #svelte #react #vuejs #vite #webdev #javascript #typescript #vitejs #tailwindcss #100DaysOfCode #buildinpublic #Tweet100  https://t.co/NP92QAk6qw https://t.co/ycmgNxFrQj",DamianoMe,1598671842209943553,https://twitter.com/DamianoMe/status/1598671842209943553,books: large scale apps [vue/svelte/react] typescript vue svelte react vuejs vite webdev javascript typescript vitejs tailwindcss 100daysofcode buildinpublic tweet100,neutral,0.7947022318840027
+2022-12-02 13:03:19+00:00,@EmmerichBret @supabase Ok without seeing more detailed information like whats your current setup? are you using any JS frameworks? is this just a vanilla JS setup? is this error coming back from the supabase-js library? or from the vitejs development server itself? it will be hard for me to debug.,silentworks,1598664106369847296,https://twitter.com/silentworks/status/1598664106369847296,ok without seeing detailed information like whats current setup? using j frameworks? vanilla j setup? error coming back supabase-js library? vitejs development server itself? hard debug.,negative,0.5303007960319519
+2022-12-02 13:00:08+00:00,"Day 4 of #100DaysOfCode 2.0
+
+- Finished the following 5 videos in @scrimba's ReactJS course.
+
+ - Used @vite_js on my PC for the first time to create a React app &amp; it's FAST and convenient, Very!
+
+✌️ https://t.co/o9aapl7svu",its_mavi_dev,1598663304179613696,https://twitter.com/its_mavi_dev/status/1598663304179613696,"day 4 100daysofcode 2.0 - finished following 5 video 's reactjs course. - used _js pc first time create react app &amp; fast convenient, very! ✌️",positive,0.957905650138855
+2022-12-02 08:38:36+00:00,"What if told you that you can now grab pre-release #fsharp #fullstack template with .NET7, @FableCompiler v4, and @vite_js? Yes, it's still fresh as hell, but somehow works also for @AzureFunctions as backend.
+
+https://t.co/m2IyhUvVbu
+
+Thanks @JiriLandsman for all the help!",dzoukr,1598597487022972928,https://twitter.com/dzoukr/status/1598597487022972928,"told grab pre-release fsharp fullstack template .net7, v4, _js? yes, still fresh hell, somehow work also backend. thanks help!",positive,0.864406168460846
+2022-12-02 08:30:41+00:00,"*vitejs/vite* just reached 50k 🌟 on #GitHub 🎉
+
+Way to go and congrats on reaching this epic milestone 💪 #vitejs #vite #TypeScript
+https://t.co/abdtEVEZZu",github_tracker,1598595497589194753,https://twitter.com/github_tracker/status/1598595497589194753,*vitejs/vite* reached 50k 🌟 github 🎉 way go congrats reaching epic milestone 💪 vitejs vite typescript,positive,0.9863765835762024
+2022-12-02 06:30:03+00:00,"I compared deploy speeds for Reflame, Vercel, Netlify, Cloudflare Pages on the same repo by @lewisl9029 at #ITNEXT. #netlify #cloudflarepages #react #vitejs #vercel https://t.co/SocsquyiRJ (t)",ITNEXT_io,1598565139728715776,https://twitter.com/ITNEXT_io/status/1598565139728715776,"compared deploy speed reflame, vercel, netlify, cloudflare page repo 9029 itnext. netlify cloudflarepages react vitejs vercel (t)",neutral,0.908987283706665
+2022-12-02 05:11:59+00:00,"[Personal projects] 
+- Vue 3
+- TypeScript or JavaScript (depends on the project)
+- Tailwind CSS
+- Vue CLI / Vite.js Vue 3 template
+- Netlify for hosting",cedpoilly,1598545493197463555,https://twitter.com/cedpoilly/status/1598545493197463555,[personal projects] - vue 3 - typescript javascript (depends project) - tailwind cs - vue cli / vite.js vue 3 template - netlify hosting,neutral,0.9319717884063721
+2022-12-02 01:30:10+00:00,"I compared deploy speeds for Reflame, Vercel, Netlify, Cloudflare Pages on the same repo by @lewisl9029 at #ITNEXT. #netlify #cloudflarepages #react #vitejs #vercel https://t.co/tmNLCSMPaX (s)",itnext_js,1598489669783769091,https://twitter.com/itnext_js/status/1598489669783769091,"compared deploy speed reflame, vercel, netlify, cloudflare page repo 9029 itnext. netlify cloudflarepages react vitejs vercel (s)",neutral,0.9111282825469971
+2022-12-01 20:15:33+00:00,"As we begin a new month, I have challenged myself to learn React with Vitejs, which I find very exciting when it comes to building cool web apps.  @scrimba @vite_js @reactjs wish me me lack on learning edge technology https://t.co/Ik9sZoEglX",josehub121,1598410495073009664,https://twitter.com/josehub121/status/1598410495073009664,"begin new month, challenged learn react vitejs, find exciting come building cool web apps. _js wish lack learning edge technology",positive,0.8043452501296997
+2022-12-01 19:20:52+00:00,@sheremet_va @vite_js I try to at least be entertaining.,_jessicasachs,1598396733825974272,https://twitter.com/_jessicasachs/status/1598396733825974272,_va _js try least entertaining.,neutral,0.5557250380516052
+2022-12-01 19:08:35+00:00,@_jessicasachs @vite_js It was fun debugging with you 😄,sheremet_va,1598393640484995072,https://twitter.com/sheremet_va/status/1598393640484995072,@_jessicasachs _js fun debugging 😄,positive,0.9533463716506958
+2022-12-01 18:52:58+00:00,"I'd like to give the absolute *biggest* possible shoutout to @sheremet_va for helping me for THREE HOURS to find a bug in Vitest when processing an older, UMD + Grunt built library.
+
+He is a perfect example of why I love the @vite_js community so much.",_jessicasachs,1598389713014226944,https://twitter.com/_jessicasachs/status/1598389713014226944,"i'd like give absolute *biggest* possible shoutout _va helping three hour find bug vitest processing older, umd + grunt built library. perfect example love _js community much.",positive,0.9727880358695984
+2022-12-01 17:00:58+00:00,"🗺 ROADMAP
+
+⚡Vite @vite_js
+
+We created SB frameworks which correspond to project types generated by Vite’s CLI.
+• react-vite
+• vue3-vite
+• vue-vite
+• preact-vite
+• svelte-vite
+• html-vite
+• web-components-vite 
+
+7/14",storybookjs,1598361525776965632,https://twitter.com/storybookjs/status/1598361525776965632,🗺 roadmap ⚡vite _js created sb framework correspond project type generated vite’s cli. • react-vite • vue3-vite • vue-vite • preact-vite • svelte-vite • html-vite • web-components-vite 7/14,neutral,0.9498732686042786
+2022-12-01 16:31:19+00:00,"@reactjs @preactjs @vuejs @sveltejs @solid_js @buildWithLit @vite_js While using JSDOM for testing is great, it will at the end of the day never replace a real browser environment with support for all Web APIs, let you interact with pseudo states or never allow you to trigger real events through WebDriver, as oppose to JS emulated clicks (4/6) 🧵",webdriverio,1598354063308967937,https://twitter.com/webdriverio/status/1598354063308967937,"_js _js using jsdom testing great, end day never replace real browser environment support web apis, let interact pseudo state never allow trigger real event webdriver, oppose j emulated click (4/6) 🧵",positive,0.6698088645935059
+2022-12-01 16:30:56+00:00,"The most exciting v8 feature is the new browser runner that allows you to run unit and component tests in an actual/real browser environment. It comes with presets for @reactjs, @preactjs, @vuejs, @sveltejs, @solid_js and @buildWithLit and is powered by @vite_js 💪  (3/6) 🧵",webdriverio,1598353965598461955,https://twitter.com/webdriverio/status/1598353965598461955,"exciting v8 feature new browser runner allows run unit component test actual/real browser environment. come presets , , , , _js powered _js 💪 (3/6) 🧵",positive,0.9458692669868469
+2022-12-01 15:46:12+00:00,anyone working with @vitest_dev with @vite_js  and know how to solve a dependency issue with MUI/Emotion styled components?,AlexBuaiscia,1598342708569014274,https://twitter.com/AlexBuaiscia/status/1598342708569014274,anyone working _dev _js know solve dependency issue mui/emotion styled components?,neutral,0.8465774655342102
+2022-12-01 15:42:27+00:00,Just tried @vite_js with TS React. https://t.co/bepkBZCVwC,_philipjc,1598341767576813570,https://twitter.com/_philipjc/status/1598341767576813570,tried _js t react.,neutral,0.8509769439697266
+2022-12-01 15:26:13+00:00,"🔁 If you would like to know how @vite_js becomes great using the mindset of on-demand and why vite-node is now powering some of the most innovative tools in the ecosystem, this talk by @antfu7 is for you ⚡️
+
+Don't miss ""Vite, On Demand DX"" at
+✨ https://t.co/aXOSSgxo5L https://t.co/PCUfHAMlqw",ViteConf,1598337680294625280,https://twitter.com/ViteConf/status/1598337680294625280,"🔁 would like know _js becomes great using mindset on-demand vite-node powering innovative tool ecosystem, talk 7 ⚡️ miss ""vite, demand dx"" ✨",positive,0.9168096780776978
+2022-12-01 13:54:57+00:00,"Thanks to @TauriApps &amp; @vitejs, we are currently building our first native application via the Stacks framework.
+
+It will be a native &amp; minimal debug experience, to help you debug &amp; fix issues more quickly while developing applications 🤝",stacksjs,1598314713414307841,https://twitter.com/stacksjs/status/1598314713414307841,"thanks &amp; , currently building first native application via stack framework. native &amp; minimal debug experience, help debug &amp; fix issue quickly developing application 🤝",positive,0.9128662347793579
+2022-12-01 13:22:13+00:00,"Last night I had enough of my toolchain (@vite_js, #typescript and @deno_land) so I came up with a specialized tool that can bundle Deno's TS flavour (ESM) with esbuild that can target browser.
+
+100% Deno powered toolchain!
+
+Perfect name IMHO https://t.co/uwxtLxAUW4",grenierdev,1598306474052276224,https://twitter.com/grenierdev/status/1598306474052276224,"last night enough toolchain (_js, typescript _land) came specialized tool bundle deno's t flavour (esm) esbuild target browser. 100% deno powered toolchain! perfect name imho",positive,0.9624929428100586
+2022-12-01 12:35:01+00:00,Great guide to set up @vite_js for Effector-based applications 👍 https://t.co/PQ8FNN8qko,EffectorJS,1598294596366524416,https://twitter.com/EffectorJS/status/1598294596366524416,great guide set _js effector-based application 👍,positive,0.9535418748855591
+2022-12-01 12:23:04+00:00,Scaffolding with create-react-app vs @vite_js… I realized that when starting a project with vite some testing dependencies (like testing-library-xxx) are not installed at the beginning. How do these affect in later stages of the development?,maisdev,1598291591051243522,https://twitter.com/maisdev/status/1598291591051243522,scaffolding create-react-app v _js… realized starting project vite testing dependency (like testing-library-xxx) installed beginning. affect later stage development?,neutral,0.9086316227912903
+2022-12-01 12:07:58+00:00,"My November was as fast as @vite_js HMR, when did it go that we are 1 December today 🤯",alvarosabu,1598287789904523265,https://twitter.com/alvarosabu/status/1598287789904523265,"november fast _js hmr, go 1 december today 🤯",neutral,0.846909761428833
+2022-12-01 11:58:15+00:00,"🧵(2/4)
+First, install the package like so:
+
+npm i vite-plugin-svgr 
+
+With this plugin, @vite_js uses svgr under the hood to transform SVGs into React components.",mdiofficial1,1598285343123714048,https://twitter.com/mdiofficial1/status/1598285343123714048,"🧵(2/4) first, install package like so: npm vite-plugin-svgr plugin, _js us svgr hood transform svgs react components.",neutral,0.9142491221427917
+2022-12-01 11:58:14+00:00,"Just spent a huge chunk of time trying to implement SVG as a ReactComponent, scaffolded with @vite_js . Did everything right except the package installations. Apparently, Vite need some pre-configurations before you can do this. 
+
+Here is how I resolved it
+
+Thread 🧵(1/4) https://t.co/tHO03MJSdU",mdiofficial1,1598285338581307392,https://twitter.com/mdiofficial1/status/1598285338581307392,"spent huge chunk time trying implement svg reactcomponent, scaffolded _js . everything right except package installations. apparently, vite need pre-configurations this. resolved thread 🧵(1/4)",negative,0.506517767906189
+2022-12-01 11:56:51+00:00,The Anime-esque style Tencent AI generation tool is coded in @typescript using #reactjs with #vitejs ssr.,ScriptType,1598284990160437249,https://twitter.com/ScriptType/status/1598284990160437249,anime-esque style tencent ai generation tool coded using reactjs vitejs ssr.,neutral,0.905376672744751
+2022-12-01 10:53:19+00:00,"This is pretty insane. can this replace @Google  in the future?
+
+@prisma @vite_js @OpenAI https://t.co/G6Mut7MSWm",KaminskyPavel,1598269002287308801,https://twitter.com/KaminskyPavel/status/1598269002287308801,pretty insane. replace future? _js,negative,0.6563623547554016
+2022-12-01 08:01:53+00:00,"@iam_chonchol Looks great man!
+This design is fantastic!
+
+Also, one suggestion
+If you used `create-react-app` to build your app, try @vite_js instead
+It will give you insane amount of speed compared to CRA",MaxProgramming1,1598225861513445376,https://twitter.com/MaxProgramming1/status/1598225861513445376,"_chonchol look great man! design fantastic! also, one suggestion used `create-react-app` build app, try _js instead give insane amount speed compared cra",positive,0.9499217867851257
+2022-12-01 02:15:52+00:00,@vite_js do you have a Vite and Supabase example? I’m having a tough time,EmmerichBret,1598138782922215426,https://twitter.com/EmmerichBret/status/1598138782922215426,_js vite supabase example? i’m tough time,neutral,0.6211371421813965
+2022-11-30 22:07:26+00:00,"@igor_randj @NativeScript @vite_js The DX for Vue is just horrible atm. For Vue users at least NativeScript just isn’t a viable option for a new project in 2022/2023 bc no Vue 3 / Vite support 🙁
+
+(And coming back to an existing project feels like using tooling from the stone age!)",uninen,1598076261875986432,https://twitter.com/uninen/status/1598076261875986432,_randj _js dx vue horrible atm. vue user least nativescript isn’t viable option new project 2022/2023 bc vue 3 / vite support 🙁 (and coming back existing project feel like using tooling stone age!),negative,0.9338743090629578
+2022-11-30 21:56:48+00:00,"@uninen @NativeScript @vite_js I love Vite on web, but for NativeScript there's a lot that goes into the build pipeline. Vite relies on browser features (import maps, esm, url imports), bundling might be possible, but the dev server would require significant runtime changes that are not feasible at the moment.",igor_randj,1598073585595486210,https://twitter.com/igor_randj/status/1598073585595486210,"_js love vite web, nativescript there's lot go build pipeline. vite relies browser feature (import maps, esm, url imports), bundling might possible, dev server would require significant runtime change feasible moment.",positive,0.9053370952606201
+2022-11-30 20:34:14+00:00,"Yet another @NativeScript release, still no support for @vite_js https://t.co/1GGZKPLkek",uninen,1598052807168651265,https://twitter.com/uninen/status/1598052807168651265,"yet another release, still support _js",positive,0.8019038438796997
+2022-11-30 19:37:24+00:00,"Just finished a #FrontEnd coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://t.co/LxETx5NGOp
+
+I've used @tailwindcss @vite_js any suggestions on how I can improve are welcome!
+
+#FrontendMentor #CodeChallenge",imtusharbiswas,1598038507146346496,https://twitter.com/imtusharbiswas/status/1598038507146346496,finished frontend coding challenge ! 🎉 see solution here: i've used _js suggestion improve welcome! frontendmentor codechallenge,positive,0.9636056423187256
+2022-11-30 18:45:33+00:00,"@Rich_Harris @monkatraz @ChromeDevTools @sveltejs @codemirror @vite_js @Rich_Harris concretely on the topic of JS sourcemaps though, I have only started glancing them, and the quality is really bad, meaning that popover preview and other things will not work in the DevTools. Just look at how it maps the {#each} construct: https://t.co/DrNrktAw1r",bmeurer,1598025457768824832,https://twitter.com/bmeurer/status/1598025457768824832,"_harris _js _harris concretely topic j sourcemaps though, started glancing them, quality really bad, meaning popover preview thing work devtools. look map {each} construct:",negative,0.8317690491676331
+2022-11-30 18:39:33+00:00,"@itxDeeni @hieunio @_lhermann @sriramskota @daniel_nguyenx @vite_js @youyuxi @rometools @nestframework Yeah but that's more like Angular with all the decorators, not my style",satvikpendem,1598023948574158848,https://twitter.com/satvikpendem/status/1598023948574158848,"@_lhermann _nguyenx _js yeah that's like angular decorators, style",neutral,0.8182196021080017
+2022-11-30 18:31:55+00:00,@Rich_Harris @monkatraz @ChromeDevTools @sveltejs @codemirror @vite_js It'd be great to have some actual feedback on DevTools when it comes to svelte though. 🙏,bmeurer,1598022026639605760,https://twitter.com/bmeurer/status/1598022026639605760,_harris _js it'd great actual feedback devtools come svelte though. 🙏,positive,0.9025219082832336
+2022-11-30 18:31:05+00:00,"@Rich_Harris @monkatraz @ChromeDevTools @sveltejs @codemirror Specifically I think the sourcemaps for the templates could be better, and also there are some issues with the CSS sourcemaps (beyond the fact that @vite_js disables them by default).",bmeurer,1598021818438516736,https://twitter.com/bmeurer/status/1598021818438516736,"_harris specifically think sourcemaps template could better, also issue cs sourcemaps (beyond fact _js disables default).",neutral,0.7503795027732849
+2022-11-30 18:28:29+00:00,Creating react app using vite.js is really fast. Thanks @vite_js for this awesome next generation frontend tool for @reactjs developers #web #applications #webdevelopment,Atif740974,1598021164001263616,https://twitter.com/Atif740974/status/1598021164001263616,creating react app using vite.js really fast. thanks _js awesome next generation frontend tool developer web application webdevelopment,positive,0.979455828666687
+2022-11-30 18:13:32+00:00,@satvikpendem @hieunio @_lhermann @sriramskota @daniel_nguyenx @vite_js @youyuxi @rometools have your tried @nestframework,itxDeeni,1598017398463819776,https://twitter.com/itxDeeni/status/1598017398463819776,@_lhermann _nguyenx _js tried,neutral,0.8766661286354065
+2022-11-30 18:08:58+00:00,"@manucorporat @vite_js @QwikDev What are the chances 😅
+It was great talking to you, and thanks for all the sweet DX improvements you are pushing upstream ❤️",patak_dev,1598016252584525824,https://twitter.com/patak_dev/status/1598016252584525824,"_js chance 😅 great talking you, thanks sweet dx improvement pushing upstream ❤️",positive,0.9842562079429626
+2022-11-30 18:01:38+00:00,Today I discovered how much @patak_dev and I have in common 🤯 as well as our shared vision of DX for @vite_js and @QwikDev respectively!,manucorporat,1598014406658777089,https://twitter.com/manucorporat/status/1598014406658777089,today discovered much _dev common 🤯 well shared vision dx _js respectively!,positive,0.9690738916397095
+2022-11-30 17:31:48+00:00,@phitGeek @vite_js tube js is better in next js 13,DaroStephen,1598006895419482112,https://twitter.com/DaroStephen/status/1598006895419482112,_js tube j better next j 13,positive,0.5726062059402466
+2022-11-30 17:15:28+00:00,"Instead of using CodeSandbox for quick prototyping, I chose doing it locally  using  @vite_js  now. It really is blazing fast like a lightning both in the setup process &amp; Hot Reloading. Also, working on local vscode gives me all the things that I love out of the box hahaha",effendii_,1598002787727872000,https://twitter.com/effendii_/status/1598002787727872000,"instead using codesandbox quick prototyping, chose locally using _js now. really blazing fast like lightning setup process &amp; hot reloading. also, working local vscode give thing love box hahaha",positive,0.916134774684906
+2022-11-30 17:08:43+00:00,"Playing around, making calendar using the amazing @date_fns lib and the blazing fast @vite_js ! Need to do some refactoring &amp; adding functionality for date-range selection later 😎 https://t.co/FoIhUbY5na",effendii_,1598001086073561088,https://twitter.com/effendii_/status/1598001086073561088,"playing around, making calendar using amazing _fns lib blazing fast _js ! need refactoring &amp; adding functionality date-range selection later 😎",positive,0.9513520002365112
+2022-11-30 14:14:59+00:00,"@supabase does Supabase support VITE? @vite_js , i want to add Supabase to my Nextjs Vite app, but…. I’m not too sure if it’s the same way or not",EmmerichBret,1597957368528408576,https://twitter.com/EmmerichBret/status/1597957368528408576,"supabase support vite? _js , want add supabase nextjs vite app, but…. i’m sure it’s way",neutral,0.7752200365066528
+2022-11-30 11:30:04+00:00,"Three books bundle:
+Large Scale Apps with [Vue/Svelte/React] and TypeScript  #vue #svelte #react #vuejs #vite #webdev #javascript #typescript #vitejs #tailwindcss #100DaysOfCode #buildinpublic #Tweet100  https://t.co/NP92QAkEg4 https://t.co/mHdw5Nit39",DamianoMe,1597915864518754304,https://twitter.com/DamianoMe/status/1597915864518754304,three book bundle: large scale apps [vue/svelte/react] typescript vue svelte react vuejs vite webdev javascript typescript vitejs tailwindcss 100daysofcode buildinpublic tweet100,neutral,0.6270184516906738
+2022-11-30 07:59:51+00:00,ok @vite_js is definitely worth the hype 🔥,phitGeek,1597862962118938625,https://twitter.com/phitGeek/status/1597862962118938625,ok _js definitely worth hype 🔥,positive,0.9599892497062683
+2022-11-30 06:59:09+00:00,@breqdev @vite_js coz it’s fast,yashguptaz,1597847685675233281,https://twitter.com/yashguptaz/status/1597847685675233281,_js coz it’s fast,neutral,0.5138260126113892
+2022-11-30 06:28:03+00:00,"There is a new recipe in the how-to section - how to configure @vite_js  🚀
+
+Code transformations are needed for cache operator, handy test writing and SSR 🤗
+
+https://t.co/bdCwNmHjJe",farfetched_dev,1597839859175280641,https://twitter.com/farfetched_dev/status/1597839859175280641,"new recipe how-to section - configure _js 🚀 code transformation needed cache operator, handy test writing ssr 🤗",positive,0.8489514589309692
+2022-11-30 02:10:16+00:00,@ErichGarciaCruz Old 😜 arranca con @vite_js,Dcruz19901,1597774983811301377,https://twitter.com/Dcruz19901/status/1597774983811301377,old 😜 arranca con _js,neutral,0.7913776636123657
+2022-11-29 23:07:14+00:00,"I hope I can replace @JestPreview core with @vite_js in about 1 or 2 months, just the same as how @VitestPreview is currently doing",hung_dev,1597728922841780225,https://twitter.com/hung_dev/status/1597728922841780225,"hope replace core _js 1 2 months, currently",neutral,0.7540454864501953
+2022-11-29 22:59:04+00:00,"@ginsoholt @zeroskillz @MadeWithVueJS @Motionwallit @vuejs @VueNewsletter @vite_js Since you were unable to successfully unsubscribe, please DM us your email so we can manually remove you from our marketing email list.",vuetifyjs,1597726870405251072,https://twitter.com/vuetifyjs/status/1597726870405251072,"_js since unable successfully unsubscribe, please dm u email manually remove marketing email list.",negative,0.5792213678359985
+2022-11-29 22:23:05+00:00,"@bojandurmic @vite_js Yep, my case indeed 😄",AlexBuaiscia,1597717814051483648,https://twitter.com/AlexBuaiscia/status/1597717814051483648,"_js yep, case indeed 😄",positive,0.9280043244361877
+2022-11-29 21:45:49+00:00,"@AlexBuaiscia @vite_js Hell yes. The difference is even more noticeable on weaker hardware. Anything is fast on an M1 MacBook, but once you try to develop on some weaker i5 chips, you learn to appreciate @vite_js more",bojandurmic,1597708434350096384,https://twitter.com/bojandurmic/status/1597708434350096384,"_js hell yes. difference even noticeable weaker hardware. anything fast m1 macbook, try develop weaker i5 chips, learn appreciate _js",positive,0.5654544830322266
+2022-11-29 19:16:54+00:00,@AlexBuaiscia @vite_js Glad you found it useful. 👍,cmacdonnacha,1597670959712194560,https://twitter.com/cmacdonnacha/status/1597670959712194560,_js glad found useful. 👍,positive,0.9666163325309753
+2022-11-29 18:52:23+00:00,@vite_js is there a template that has a “user sign up” already made?,EmmerichBret,1597664790616641536,https://twitter.com/EmmerichBret/status/1597664790616641536,_js template “user sign up” already made?,neutral,0.9385276436805725
+2022-11-29 17:20:17+00:00,@dan_abramov please change Doc to show alternative on docs for CRA mention Vite js or Next.js,44_chann,1597641609595625472,https://twitter.com/44_chann/status/1597641609595625472,_abramov please change doc show alternative doc cra mention vite j next.js,neutral,0.8522252440452576
+2022-11-29 17:04:15+00:00,Thank you @vite_js for a time saving (amongst other features) product.,codepraycode,1597637574444855296,https://twitter.com/codepraycode/status/1597637574444855296,thank _js time saving (amongst features) product.,positive,0.9126442670822144
+2022-11-29 16:17:50+00:00,"So far the migration to @vite_js from CRA resulted in: 
+- build time decrease of 2/3
+- instant reload on code changes (even on .env changes!)
+- TS validation of env vars
+- overall  great improvement in developer experience!",AlexBuaiscia,1597625897149812736,https://twitter.com/AlexBuaiscia/status/1597625897149812736,far migration _js cra resulted in: - build time decrease 2/3 - instant reload code change (even .env changes!) - t validation env var - overall great improvement developer experience!,positive,0.914771556854248
+2022-11-29 16:16:15+00:00,"@vite_js Turns out passing from CRA to Vite needed only a couple of hours. 
+
+I found this incredibly perfect guide apt to CRA-Typescript by @cmacdonnacha : Thanks!
+
+https://t.co/wHpRNo9at9",AlexBuaiscia,1597625494899679232,https://twitter.com/AlexBuaiscia/status/1597625494899679232,_js turn passing cra vite needed couple hours. found incredibly perfect guide apt cra-typescript : thanks!,positive,0.9678455591201782
+2022-11-29 12:04:47+00:00,"Ok everyone, it's finally the turn to ditch react scripts and move a Create React App to @vite_js . I hope it'll be a smooth run 😄",AlexBuaiscia,1597562212079775747,https://twitter.com/AlexBuaiscia/status/1597562212079775747,"ok everyone, finally turn ditch react script move create react app _js . hope it'll smooth run 😄",positive,0.8850141167640686
+2022-11-29 11:57:47+00:00,"@xantifi @vite_js @RedwoodJS https://t.co/bEUKRiKSYk
+
+We're big fans of the @TheGuildDev 👊",dannychoudhury,1597560450891546624,https://twitter.com/dannychoudhury/status/1597560450891546624,_js we're big fan 👊,positive,0.9710217118263245
+2022-11-29 11:55:23+00:00,@dannychoudhury @vite_js @RedwoodJS What server are you using? Apollo?,xantifi,1597559848690155521,https://twitter.com/xantifi/status/1597559848690155521,_js server using? apollo?,neutral,0.9383025765419006
+2022-11-29 11:48:54+00:00,@patak_dev @vite_js @RedwoodJS Thanks for the help many moons ago getting started - very excited for whats to come!,dannychoudhury,1597558216690630656,https://twitter.com/dannychoudhury/status/1597558216690630656,_dev _js thanks help many moon ago getting started - excited whats come!,positive,0.9822151064872742
+2022-11-29 11:34:44+00:00,@dannychoudhury @vite_js @RedwoodJS This is awesome Danny! 🙌,patak_dev,1597554652002029569,https://twitter.com/patak_dev/status/1597554652002029569,_js awesome danny! 🙌,positive,0.9866577982902527
+2022-11-29 11:25:31+00:00,"Experiemntal @vite_js ⚡ support landing in @RedwoodJS is close! First step towards the plan with supporting multiple render modes!
+
+https://t.co/9eRCvjDOCX",dannychoudhury,1597552331956322306,https://twitter.com/dannychoudhury/status/1597552331956322306,experiemntal _js ⚡ support landing close! first step towards plan supporting multiple render modes!,positive,0.6858518123626709
+2022-11-29 10:32:13+00:00,"@renatoaraujoc @NxDevTools Sure, but I think it counts only activity on the repo.
+
+@NxDevTools also uses @webpack, @vite_js, @RollupJS etc if selected during scaffolding.",meeroslav,1597538917590630400,https://twitter.com/meeroslav/status/1597538917590630400,"sure, think count activity repo. also us , _js, etc selected scaffolding.",neutral,0.9010345339775085
+2022-11-29 09:29:33+00:00,"Just in case, this isn't about the @vite_js handle, it is about the Vite Twitter community
+https://t.co/60uTM9NwHa",patak_dev,1597523146739187712,https://twitter.com/patak_dev/status/1597523146739187712,"case, _js handle, vite twitter community",neutral,0.9162933826446533
+2022-11-29 02:21:55+00:00,"migration of an old vue project from webpack to @vite_js 💫 
+
+""felling comfortable ❤️"" https://t.co/o2UuiSW3Hq",Haythamasalama,1597415531707240448,https://twitter.com/Haythamasalama/status/1597415531707240448,"migration old vue project webpack _js 💫 ""felling comfortable ❤️""",positive,0.8186461329460144
+2022-11-28 19:45:02+00:00,"Wondering how to get started with Storybook @vuejs and @vite_js? @Mokkapps is here to help you.
+
+Check out his article to learn all you need to know 👇
+
+ https://t.co/TfqkqPUqVl",storybookjs,1597315652578000896,https://twitter.com/storybookjs/status/1597315652578000896,wondering get started storybook _js? help you. check article learn need know 👇,neutral,0.811458945274353
+2022-11-28 19:37:49+00:00,"@Saied_Za @vite_js Thanks! Essentially I was tired of imagemin breaking, and it barely gets maintained. So I decided to make this plugin.",ThisZeal,1597313835261513729,https://twitter.com/ThisZeal/status/1597313835261513729,"_za _js thanks! essentially tired imagemin breaking, barely get maintained. decided make plugin.",negative,0.8289358019828796
+2022-11-28 18:13:30+00:00,@hieunio @satvikpendem @sriramskota @daniel_nguyenx @vite_js @youyuxi I don’t think it’s possible. Node doesn’t request modules individually like the browser does. It always loads them all at startup.,_lhermann,1597292616441528321,https://twitter.com/_lhermann/status/1597292616441528321,_nguyenx _js don’t think it’s possible. node doesn’t request module individually like browser does. always load startup.,negative,0.5093850493431091
+2022-11-28 18:13:27+00:00,"@hieunio @_lhermann @sriramskota @daniel_nguyenx @vite_js @youyuxi I also think @rometools is a good contender in the future, could be cool to do ""rome new `project_name`"" and have everything set up.",satvikpendem,1597292603787313152,https://twitter.com/satvikpendem/status/1597292603787313152,"@_lhermann _nguyenx _js also think good contender future, could cool ""rome new `project_name`"" everything set up.",positive,0.8610290288925171
+2022-11-28 18:10:38+00:00,"@satvikpendem @_lhermann @sriramskota @daniel_nguyenx @vite_js @youyuxi, is there any hope?",hieunio,1597291893884264449,https://twitter.com/hieunio/status/1597291893884264449,"@_lhermann _nguyenx _js , hope?",neutral,0.9198743104934692
+2022-11-28 17:54:34+00:00,"@hieunio @_lhermann @sriramskota @daniel_nguyenx @vite_js I wish there was something like Vite but for the backend. It's annoying to set up a TypeScript project every time. Deno does it right by making everything work by default, but not as many troubleshooting resources as Node if something breaks.",satvikpendem,1597287849090424833,https://twitter.com/satvikpendem/status/1597287849090424833,"@_lhermann _nguyenx _js wish something like vite backend. annoying set typescript project every time. deno right making everything work default, many troubleshooting resource node something breaks.",negative,0.8677543997764587
+2022-11-28 17:45:47+00:00,"@ThisZeal @vite_js I've been using vite-plugin-imagemin but this is really helpful too, specially converting to webp.",Saied_Za,1597285640412221440,https://twitter.com/Saied_Za/status/1597285640412221440,"_js i've using vite-plugin-imagemin really helpful too, specially converting webp.",positive,0.9447011351585388
+2022-11-28 16:48:05+00:00,"Looking at @vite_js from https://t.co/mU8tdkfZvu
+Vite is the french word for fast and this is a next-gen of build tools for front-end.
+
+It comes with a 
+
+- Dev server and also 
+- Bundles you code for production.",arthard101,1597271119215853568,https://twitter.com/arthard101/status/1597271119215853568,looking _js vite french word fast next-gen build tool front-end. come - dev server also - bundle code production.,neutral,0.6516273021697998
+2022-11-28 16:43:49+00:00,@_lhermann @sriramskota @daniel_nguyenx +1. @vite_js is awesome.,hieunio,1597270045431775232,https://twitter.com/hieunio/status/1597270045431775232,@_lhermann _nguyenx +1. _js awesome.,positive,0.9518702626228333
+2022-11-28 16:27:00+00:00,"@JLarky Why not migrating?
+1. Vite is somehow blocked as it is a new runtime (Esbuild)
+2. Production app with multi-stage refactoring
+3. Providing knowledge transfer for folks who are not familiar with Vite.js",aymanapatel,1597265813454848001,https://twitter.com/aymanapatel/status/1597265813454848001,migrating? 1. vite somehow blocked new runtime (esbuild) 2. production app multi-stage refactoring 3. providing knowledge transfer folk familiar vite.js,negative,0.5813159942626953
+2022-11-28 12:29:24+00:00,@am_ruchika @vite_js @reactjs Thanks Ruchika 💯,sidmirza4,1597206020983783424,https://twitter.com/sidmirza4/status/1597206020983783424,_ruchika _js thanks ruchika 💯,positive,0.9325319528579712
+2022-11-28 09:08:56+00:00,"𝟐𝟑 𝐁𝐞𝐬𝐭 𝐕𝐮𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐓𝐨𝐨𝐥𝐬 𝐓𝐨 𝐋𝐨𝐨𝐤 𝐅𝐨𝐫 𝐢𝐧 𝟐𝟎𝟐𝟑
+Are you considering upgrading your Vue Application? 
+https://t.co/R9izE4HeQi
+
+#vue #VueTools #vitejs #Axios #VueMocha #NativeScript #vant #webpack #Vueapollo #vuexy #Frontend #100daysofcoding",BacancyTech,1597155570305622016,https://twitter.com/BacancyTech/status/1597155570305622016,𝟐𝟑 𝐁𝐞𝐬𝐭 𝐕𝐮𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐓𝐨𝐨𝐥𝐬 𝐓𝐨 𝐋𝐨𝐨𝐤 𝐅𝐨𝐫 𝐢𝐧 𝟐𝟎𝟐𝟑 considering upgrading vue application? vue vuetools vitejs axios vuemocha nativescript vant webpack vueapollo vuexy frontend 100daysofcoding,neutral,0.8962421417236328
+2022-11-28 08:45:56+00:00,@ThisZeal @vite_js That’s impressive. This language is such gibberish to me LOL,xemeina_,1597149783214690304,https://twitter.com/xemeina_/status/1597149783214690304,_js that’s impressive. language gibberish lol,positive,0.9432711005210876
+2022-11-28 08:45:34+00:00,"@vite_js ~33 seconds to process 70 assets (first image).
+~0.8 seconds after persistent caching (second image)",ThisZeal,1597149690876698624,https://twitter.com/ThisZeal/status/1597149690876698624,_js ~33 second process 70 asset (first image). ~0.8 second persistent caching (second image),neutral,0.885715126991272
+2022-11-28 08:44:30+00:00,"I made an image compression plugin with persistent caching for @vite_js! I already use it for my upcoming website to compress 70 production assets.
+
+Feel free to use or contribute:
+https://t.co/lRLymwW3PB https://t.co/XZQOu4F2ir",ThisZeal,1597149423666331649,https://twitter.com/ThisZeal/status/1597149423666331649,made image compression plugin persistent caching _js! already use upcoming website compress 70 production assets. feel free use contribute:,neutral,0.55205899477005
+2022-11-28 08:42:05+00:00,"[Dependency Updated] @vitejs/plugin-legacy (org.webjars.npm:vitejs__plugin-legacy) artifact dependency to Maven, Gradle [Java]. Version: 2.3.1 https://t.co/SeDWISOP2P",mavenlibs,1597148814640553985,https://twitter.com/mavenlibs/status/1597148814640553985,"[dependency updated] /plugin-legacy (org.webjars.npm:vitejs__plugin-legacy) artifact dependency maven, gradle [java]. version: 2.3.1",neutral,0.8970431089401245
+2022-11-28 08:38:46+00:00,"I tried @vite_js and overall it was an incredible user experience. I struggled to polyfill some of the Node.js packages and spent a lot of time, with no success.
+
+Then I switched to @parceljs and the auto-import solved my problem in seconds. I can't believe how good this is!",pawelgrzybek,1597147979349389314,https://twitter.com/pawelgrzybek/status/1597147979349389314,"tried _js overall incredible user experience. struggled polyfill node.js package spent lot time, success. switched auto-import solved problem seconds. can't believe good is!",positive,0.9796000123023987
+2022-11-28 07:33:54+00:00,@sadeeq_ismaela @vite_js Wetin dev no go do 😂😂,EmmBeeAiBee01,1597131656623624192,https://twitter.com/EmmBeeAiBee01/status/1597131656623624192,_ismaela _js wetin dev go 😂😂,neutral,0.8252069354057312
+2022-11-28 06:47:43+00:00,"Woke up with this
+@vite_js and #ReactJS combined
+#javascript https://t.co/tUXvjHZdmc",EmmBeeAiBee01,1597120033422946305,https://twitter.com/EmmBeeAiBee01/status/1597120033422946305,woke _js reactjs combined javascript,neutral,0.8551089763641357
+2022-11-28 03:30:07+00:00,"I compared deploy speeds for Reflame, Vercel, Netlify, Cloudflare Pages on the same repo by @lewisl9029 at #ITNEXT. #netlify #cloudflarepages #react #vitejs #vercel https://t.co/Socsqug9DB (s)",ITNEXT_io,1597070303997222912,https://twitter.com/ITNEXT_io/status/1597070303997222912,"compared deploy speed reflame, vercel, netlify, cloudflare page repo 9029 itnext. netlify cloudflarepages react vitejs vercel (s)",neutral,0.9111282825469971
+2022-11-27 23:35:12+00:00,"How to add custom language to the syntax highlighting of a Vitepress website
+
+https://t.co/4W7rLTylI4
+
+#vuejs #vitepress @vite_js",sifex,1597011187543453696,https://twitter.com/sifex/status/1597011187543453696,add custom language syntax highlighting vitepress website vuejs vitepress _js,neutral,0.8851844668388367
+2022-11-27 19:23:12+00:00,@44_chann @reactjs @vite_js link? I'd like to upvote it,capajj,1596947768139866112,https://twitter.com/capajj/status/1596947768139866112,@44_chann _js link? i'd like upvote,neutral,0.8350446224212646
+2022-11-27 18:40:13+00:00,"Just finished a #Frontend coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://t.co/Tt7rmiLxSP
+I've used @reactjs @SassCSS @vite_js
+for this project. Any suggestions on how I can improve are welcome!
+
+#FrontendMentor #CodeChallenge",imtusharbiswas,1596936950577238018,https://twitter.com/imtusharbiswas/status/1596936950577238018,finished frontend coding challenge ! 🎉 see solution here: i've used _js project. suggestion improve welcome! frontendmentor codechallenge,positive,0.9479741454124451
+2022-11-27 18:13:20+00:00,@sidmirza4 @vite_js @reactjs I configured tsconfig &amp; did the required typescript installations. Things look good,am_ruchika,1596930186557403142,https://twitter.com/am_ruchika/status/1596930186557403142,4 _js configured tsconfig &amp; required typescript installations. thing look good,positive,0.8352193236351013
+2022-11-27 16:00:58+00:00,"With a Yearly Vue School subscription you can:
+
+✔️ Build a real-world app using @vuejs 3
+✔️ Supercharge your DX with @vite_js
+✔️ Create a feature-rich site with @storyblok and @nuxt_js and more
+
+✨ Cyber Monday is around the corner - make the best of it ✨
+https://t.co/OLFwohkqAt https://t.co/KAzx6LU5MU",VueSchool_io,1596896875482947586,https://twitter.com/VueSchool_io/status/1596896875482947586,yearly vue school subscription can: ✔️ build real-world app using 3 ✔️ supercharge dx _js ✔️ create feature-rich site _js ✨ cyber monday around corner - make best ✨,positive,0.7958076596260071
+2022-11-27 06:51:09+00:00,"@patak_dev @vite_js Totally agree with you. 🦾
+
+Discord seems to be a better suited option to manage a growing community and avoid spam.",justinbasile,1596758510829592576,https://twitter.com/justinbasile/status/1596758510829592576,_dev _js totally agree you. 🦾 discord seems better suited option manage growing community avoid spam.,positive,0.8412693738937378
+2022-11-26 22:17:37+00:00,@fwouts @vite_js The quality and speed of my work has improved so much since I switched to Vite more than 1 year ago.,DamianoMe,1596629272780836868,https://twitter.com/DamianoMe/status/1596629272780836868,_js quality speed work improved much since switched vite 1 year ago.,positive,0.9017893671989441
+2022-11-26 20:20:00+00:00,@mshilman @storybookjs @vite_js @nodejs Yes. Found that option and raised a support there with the issue.,saudev001,1596599676605956096,https://twitter.com/saudev001/status/1596599676605956096,_js yes. found option raised support issue.,neutral,0.6582515835762024
+2022-11-26 20:06:42+00:00,"@saudev001 @storybookjs @vite_js @nodejs It shouldn’t. Jump on our discord and somebody will give you a hand in the #support channel 
+
+https://t.co/EXIvdw589s",mshilman,1596596329035485185,https://twitter.com/mshilman/status/1596596329035485185,001 _js shouldn’t. jump discord somebody give hand support channel,negative,0.762491762638092
+2022-11-26 17:27:11+00:00,@storybookjs fails to run when run in the @vite_js react-ts project with @nodejs 18.,saudev001,1596556183204003846,https://twitter.com/saudev001/status/1596556183204003846,fails run run _js react-ts project 18.,negative,0.5998007655143738
+2022-11-26 17:20:30+00:00,It was a lot of fun talking about @vite_js along with some really interesting topics! 🔥 https://t.co/lrzLYNXudY https://t.co/S8PkLUbyaY,_rootsrk,1596554501590515712,https://twitter.com/_rootsrk/status/1596554501590515712,lot fun talking _js along really interesting topics! 🔥,positive,0.9859360456466675
+2022-11-26 15:59:23+00:00,"VueIcons latest release has more than 54,000 icons 👉 Update now! 
+https://t.co/vbcIbmrD9N
+#vue #css #js #vuejs @css @VuePackage @VueDose @laravelnews @laravelio @laravelphp @vuejsfeed @vite_js @vuejs @MadeWithVueJS @vuejsdevelopers @VueNewsletter @antfu7 @elevatebart @VueMastery",KalimahApps,1596534087640305664,https://twitter.com/KalimahApps/status/1596534087640305664,"vueicons latest release 54,000 icon 👉 update now! vue cs j vuejs _js 7",neutral,0.7456400394439697
+2022-11-26 14:55:10+00:00,CRA is dead. I'm embracing @vite_js,massudamn,1596517928178159616,https://twitter.com/massudamn/status/1596517928178159616,cra dead. i'm embracing _js,neutral,0.7001778483390808
+2022-11-26 12:46:34+00:00,"🚀 micro-frontends with
+@reactjs and @vite_js 👏
+if you like this POC please star ⭐ the repo 😜
+#microfrontends #webdevelopment #FrontEnd 
+https://t.co/HOtEVVMKvr",giorgio_boa,1596485566123896834,https://twitter.com/giorgio_boa/status/1596485566123896834,🚀 micro-frontends _js 👏 like poc please star ⭐ repo 😜 microfrontends webdevelopment frontend,positive,0.6179349422454834
+2022-11-26 12:41:05+00:00,"@itschrisjayden @vite_js I've just pushed v 0.4.0 that should fix this issue. Please do let me know if it works.
+
+https://t.co/H2QyKjqW4j",kucrut,1596484182917595136,https://twitter.com/kucrut/status/1596484182917595136,_js i've pushed v 0.4.0 fix issue. please let know works.,neutral,0.7359046339988708
+2022-11-26 10:56:37+00:00,"@patak_dev @vite_js I don’t like the user and admin experience of Twitter communities at all. I can understand you want to delete it, Discord is a much better alternative, good choice!",JanDamaschke,1596457895134363648,https://twitter.com/JanDamaschke/status/1596457895134363648,"_dev _js don’t like user admin experience twitter community all. understand want delete it, discord much better alternative, good choice!",negative,0.8971503376960754
+2022-11-26 09:16:35+00:00,"@capajj @vite_js Yes, there are 15k folks on https://t.co/C1S5WB5wem. Fair point with Discord not being searchable... but I don't think you'll get many hits with the Twitter Community either.
+
+In any case, I had to remove another 2 spam messages today... terrible for both users and mods",patak_dev,1596432720196169728,https://twitter.com/patak_dev/status/1596432720196169728,"_js yes, 15k folk fair point discord searchable... think get many hit twitter community either. case, remove another 2 spam message today... terrible user mod",negative,0.6817159652709961
+2022-11-26 09:10:05+00:00,"@patak_dev @vite_js I was not aware the discord community is this huge. I rest my case. Too bad it is not searcheable from google etc, but it's the same with twitter communities so meh",capajj,1596431085407289345,https://twitter.com/capajj/status/1596431085407289345,"_dev _js aware discord community huge. rest case. bad searcheable google etc, twitter community meh",negative,0.7233552932739258
+2022-11-26 08:50:08+00:00,@fwouts @vite_js Is Vitest included in that list? I might have to include `plopjs`...,crutchcorn,1596426064577720323,https://twitter.com/crutchcorn/status/1596426064577720323,_js vitest included list? might include `plopjs`...,neutral,0.8952686190605164
+2022-11-26 07:44:04+00:00,"I'm now sponsoring @sanxiaozhizi 💚
+I'm truly impressed by Kevin's work on #Elk. And by their efforts in improving @vite_js and @vuejs DX for all of us. Considering sponsoring too! Kevin has some mad open-source skills ✨
+https://t.co/LM7kJM3pHz",patak_dev,1596409438012841986,https://twitter.com/patak_dev/status/1596409438012841986,i'm sponsoring 💚 i'm truly impressed kevin's work elk. effort improving _js dx us. considering sponsoring too! kevin mad open-source skill ✨,positive,0.9833563566207886
+2022-11-26 07:08:57+00:00,Comparison: Webpack vs ViteJS https://t.co/2WLeQ1pxnC,jreuben1,1596400599305965568,https://twitter.com/jreuben1/status/1596400599305965568,comparison: webpack v vitejs,neutral,0.9084950089454651
+2022-11-26 05:44:50+00:00,"@pavankjadda @brandontroberts @vite_js @NxDevTools @analogjs @vitest_dev NestJS might be a bit of a stretch because Vite is esbuild under the hood and esbuild is, IIRC, still not supporting Decorators. Maybe we'll see something different with the EcmaScript Decorators.",Nartc1410,1596379432696303616,https://twitter.com/Nartc1410/status/1596379432696303616,"_js _dev nestjs might bit stretch vite esbuild hood esbuild is, iirc, still supporting decorators. maybe we'll see something different ecmascript decorators.",neutral,0.8087248802185059
+2022-11-26 00:21:38+00:00,"Vite has a ""Vite Ecosystem CI"" to ensure that new releases don't break projects that depend on @vite_js.
+
+Adding a new project to the test suite is so simple and elegant!
+
+https://t.co/DZKkitBJGB",fwouts,1596298095465488384,https://twitter.com/fwouts/status/1596298095465488384,"vite ""vite ecosystem ci"" ensure new release break project depend _js. adding new project test suite simple elegant!",neutral,0.5290911793708801
+2022-11-25 23:20:25+00:00,Trying to setup ViteJS outside of a Vue project is a fucking nightmare.,davidwebca,1596282689220288512,https://twitter.com/davidwebca/status/1596282689220288512,trying setup vitejs outside vue project fucking nightmare.,negative,0.8876024484634399
+2022-11-25 22:12:19+00:00,"@fabiospampinato @vite_js @electronjs I was working on an electron app with Vite and Vue recently and I came across https://t.co/8WatE0F4pg 
+
+It really saved me some time",Z3rNico,1596265552657670144,https://twitter.com/Z3rNico/status/1596265552657670144,_js working electron app vite vue recently came across really saved time,positive,0.935390055179596
+2022-11-25 20:32:04+00:00,"@pavankjadda @vite_js @NxDevTools @analogjs @vitest_dev In another scenario, Firebase would be Vercel but for Angular, and Analog would be it's NextJS. Still allows integration with other frameworks, but has its own first party framework.",brandontroberts,1596240325450039296,https://twitter.com/brandontroberts/status/1596240325450039296,"_js _dev another scenario, firebase would vercel angular, analog would nextjs. still allows integration frameworks, first party framework.",neutral,0.839088499546051
+2022-11-25 20:29:55+00:00,"@pavankjadda @vite_js @NxDevTools @analogjs @vitest_dev If Angular doesn't go that route, they might as well use Turbopack as it fits with the current model Angular uses and promises some compilation improvements. 
+
+Analog is the next step in building an experience on top of Angular that's on par with NextJS, Nuxt, SvelteKit, etc..",brandontroberts,1596239783159898120,https://twitter.com/brandontroberts/status/1596239783159898120,"_js _dev angular go route, might well use turbopack fit current model angular us promise compilation improvements. analog next step building experience top angular that's par nextjs, nuxt, sveltekit, etc..",neutral,0.6148856282234192
+2022-11-25 20:24:36+00:00,"@pavankjadda @vite_js @NxDevTools @analogjs @vitest_dev We're doing the same thing today with Jest and Cypress meaning using tools that aren't developed by the team (Karma, Protractor). The Angular Team says they're exploring a compilation model similar to what Vite uses.",brandontroberts,1596238442509520896,https://twitter.com/brandontroberts/status/1596238442509520896,"_js _dev we're thing today jest cypress meaning using tool developed team (karma, protractor). angular team say they're exploring compilation model similar vite uses.",neutral,0.8551933765411377
+2022-11-25 20:22:09+00:00,"@pavankjadda @vite_js @NxDevTools @analogjs @vitest_dev Good question. Yes I believe Angular will benefit from this even for testing(Vitest, Playwright), component libraries(Storybook), and the ecosystem of plugins.",brandontroberts,1596237826303356928,https://twitter.com/brandontroberts/status/1596237826303356928,"_js _dev good question. yes believe angular benefit even testing(vitest, playwright), component libraries(storybook), ecosystem plugins.",positive,0.8459798693656921
+2022-11-25 20:06:41+00:00,@fabiospampinato @vite_js @electronjs Node only for dependencies in a web/pwa app.  Not really familiar w electron,RedneckFuture,1596233937361457152,https://twitter.com/RedneckFuture/status/1596233937361457152,_js node dependency web/pwa app. really familiar w electron,neutral,0.7238161563873291
+2022-11-25 20:02:29+00:00,@RedneckFuture @vite_js @electronjs Do you have node integration in renderer processes enabled though? And if so are you importing node modules from renderer processes?,fabiospampinato,1596232876911386624,https://twitter.com/fabiospampinato/status/1596232876911386624,_js node integration renderer process enabled though? importing node module renderer processes?,neutral,0.9446772933006287
