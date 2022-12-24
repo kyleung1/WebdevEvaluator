@@ -12,13 +12,13 @@ export default function Home() {
     <div>
       <main className="flex flex-col items-center">
         <h2 className='text-3xl'>See how twitter users are feeling about your favorite web development technologies.</h2>
-        <p className='text-xl  mt-52'>Enter a Language, Database, Cloud.</p>
+        {/* <p className='text-xl  mt-52'>Enter a Language, Database, Cloud.</p>
         <div className='flex justify-center items-stretch'>
           <input className="border-2 border-indigo-500 rounded-md m-0.5" type="text"/>
           <Link href="/result">
             <button className="border-2 border-indigo-500 rounded-md p-1 m-0.5">Search</button>
           </Link>
-        </div>
+        </div> */}
         <div className="flex flex-wrap justify-center">
         {images.map(tech => {
             return(
@@ -26,7 +26,7 @@ export default function Home() {
                 space-x-6 lg:space-x-12 m-5 bg-slate-50">
                 {tech.map((tech) => {
                     return(
-                        <Link key={(tech[1] as string)} href="">
+                        <Link key={(tech[1] as string)} href={`/result/${tech[1]}`}>
                             <Image src={tech[0]} alt={(tech[1] as string)} width={50} height={50}/>
                         </Link>
                     )
