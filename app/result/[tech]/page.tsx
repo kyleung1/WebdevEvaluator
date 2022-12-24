@@ -1,4 +1,3 @@
-import { parse } from "csv-parse";
 //https://www.npmjs.com/package/csv-parse
 import fs from "fs"
 
@@ -9,11 +8,6 @@ type PageProps = {
 };
 
 async function getCsv() {
-    const parser = parse({columns: true}, function (err, records) {
-        console.log(records);
-    })
-    // C:/Users/chky/Desktop/js/WebdevEvaluator/backend/Other/Git.csv works for aboslute paths
-    fs.createReadStream("../../../../backend/Other/Git.csv").pipe(parser)
 
     return "hi";
 }
