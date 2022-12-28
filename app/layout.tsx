@@ -9,12 +9,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      {/*
-        <head /> will contain the components returned by the nearest parent
-        head.tsx. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
-      */}
       <head />
-      <body className="flex flex-col min-h-screen">
+      <body className="font-ubuntu flex flex-col min-h-screen">
         <div className="flex-shrink-0">
           <Header/>
         </div>
@@ -24,7 +20,7 @@ export default function RootLayout({
         <div className="flex-shrink-0">
           <Footer/>
         </div>
-        
+
       </body>
     </html>
   )

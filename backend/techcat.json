@@ -1,0 +1,74 @@
+[
+  {
+    "arr": "ide",
+    "h2": "Integrated Development Environment",
+    "p": "The IDE that you choose can have a big influence on coders, from the performance, features provided, and what it enables and empowers you to do.",
+    "color": "#f44336, #e57373"
+  },
+  {
+    "arr": "dev",
+    "h2": "Developer Tools",
+    "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
+    "color": "#f44336, #e57373"
+  },
+  {
+    "arr": "cloud",
+    "h2": "Cloud",
+    "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
+    "color": "#f44336, #e57373"
+  },
+  {
+    "arr": "nosql",
+    "h2": "NoSQL Databases",
+    "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
+    "color": "#9ccc65, #aed581"
+  },
+  {
+    "arr": "sql",
+    "h2": "SQL Databases",
+    "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
+    "color": "#9ccc65, #aed581"
+  },
+  {
+    "arr": "web",
+    "h2": "Web Building Blocks",
+    "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
+    "color": "#FEEDEC, #FEE1E5"
+  },
+  {
+    "arr": "js",
+    "h2": "Javascript",
+    "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
+    "color": "#d4ac0d, #f1c40f"
+  },
+  {
+    "arr": "jsframe",
+    "h2": "Javascript Frameworks",
+    "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
+    "color": "#d4ac0d, #f1c40f"
+  },
+  {
+    "arr": "jsmeta",
+    "h2": "Meta Frameworks",
+    "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
+    "color": "#d4ac0d, #f1c40f"
+  },
+  {
+    "arr": "jsother",
+    "h2": "Other Javascript",
+    "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
+    "color": "#d4ac0d, #f1c40f"
+  },
+  {
+    "arr": "backend",
+    "h2": "Backend Languages",
+    "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
+    "color": "#0277bd, #039be5"
+  },
+  {
+    "arr": "backendframe",
+    "h2": "Backend Frameworks",
+    "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
+    "color": "#0277bd, #039be5"
+  }
+]

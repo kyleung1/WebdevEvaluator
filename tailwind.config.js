@@ -4,7 +4,15 @@ module.exports = {
     "./app/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'ubuntu': ['Ubuntu', 'sans-serif'],
+      },
+      screens: {
+        'mdd': '800px',
+        'lgg': '1200px',
+      },
+    },
   },
   plugins: [],
 }

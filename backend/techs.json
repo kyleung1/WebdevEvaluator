@@ -1,0 +1,422 @@
+[
+  {
+    "image": "/icons/vsc.png",
+    "alt": "Visual Studio Code",
+    "import": "@code",
+    "type": "ide"
+  },
+  {
+    "image": "/icons/visualstudio.png",
+    "alt": "Visual Studio",
+    "import": "VisualStudio",
+    "type": "ide"
+  },
+  {
+    "image": "/icons/intellij.png",
+    "alt": "IntelliJ IDEA",
+    "import": "intellijidea",
+    "type": "ide"
+  },
+  {
+    "image": "/icons/phpstorm.png",
+    "alt": "PHPStorm",
+    "import": "phpstorm",
+    "type": "ide"
+  },
+  {
+    "image": "/icons/pycharm.png",
+    "alt": "PyCharm",
+    "import": "pycharm",
+    "type": "ide"
+  },
+  {
+    "image": "/icons/neovim.png",
+    "alt": "Neovim",
+    "import": "neovim",
+    "type": "ide"
+  },
+  {
+    "image": "/icons/docker.png",
+    "alt": "Docker",
+    "import": "@Docker",
+    "type": "dev"
+  },
+  {
+    "image": "/icons/kubernetes.png",
+    "alt": "Kubernetes",
+    "import": "kubernetesio",
+    "type": "dev"
+  },
+  {
+    "image": "/icons/git.png",
+    "alt": "Git",
+    "import": "Git",
+    "type": "dev"
+  },
+  {
+    "image": "/icons/github.png",
+    "alt": "GitHub",
+    "import": "github",
+    "type": "dev"
+  },
+  {
+    "image": "/icons/powershell.png",
+    "alt": "PowerShell",
+    "import": "powershell",
+    "type": "dev"
+  },
+  {
+    "image": "/icons/aws.png",
+    "alt": "Amazon Web Services",
+    "import": "awscloud",
+    "type": "cloud"
+  },
+  {
+    "image": "/icons/azure.png",
+    "alt": "Microsoft Azure",
+    "import": "azure",
+    "type": "cloud"
+  },
+  {
+    "image": "/icons/googlecloud.png",
+    "alt": "Google Cloud Platform",
+    "import": "googlecloud",
+    "type": "cloud"
+  },
+  {
+    "image": "/icons/digitalocean.png",
+    "alt": "Digital Ocean",
+    "import": "digitalocean",
+    "type": "cloud"
+  },
+  {
+    "image": "/icons/firebase.png",
+    "alt": "Firebase",
+    "import": "Firebase",
+    "type": "cloud"
+  },
+  {
+    "image": "/icons/heroku.png",
+    "alt": "Heroku",
+    "import": "heroku",
+    "type": "cloud"
+  },
+  {
+    "image": "/icons/mongodb.png",
+    "alt": "MongoDB",
+    "import": "MongoDB",
+    "type": "nosql"
+  },
+  {
+    "image": "/icons/redisinc.jpg",
+    "alt": "Redis",
+    "import": "Redisinc",
+    "type": "nosql"
+  },
+  {
+    "image": "/icons/mysql.png",
+    "alt": "MySQL",
+    "import": "mysql",
+    "type": "sql"
+  },
+  {
+    "image": "/icons/postgresql.png",
+    "alt": "PostgreSQL",
+    "import": "PostgreSQL",
+    "type": "sql"
+  },
+  {
+    "image": "/icons/mariadb.png",
+    "alt": "MariaDB",
+    "import": "mariadb",
+    "type": "sql"
+  },
+  {
+    "image": "/icons/sqlserver.png",
+    "alt": "SQLServer",
+    "import": "SQLServer",
+    "type": "sql"
+  },
+  {
+    "image": "/icons/sqlite.png",
+    "alt": "SQLite",
+    "import": "SQLite",
+    "type": "sql"
+  },
+  {
+    "image": "/icons/html.png",
+    "alt": "HTML",
+    "import": "html5",
+    "type": "web"
+  },
+  {
+    "image": "/icons/markdown.png",
+    "alt": "Markdown",
+    "import": "markdown",
+    "type": "web"
+  },
+  {
+    "image": "/icons/css.png",
+    "alt": "CSS",
+    "import": "css",
+    "type": "web"
+  },
+  {
+    "image": "/icons/sass.png",
+    "alt": "Sass",
+    "import": "SassCSS",
+    "type": "web"
+  },
+  {
+    "image": "/icons/bootstrap.png",
+    "alt": "Boostrap",
+    "import": "getbootstrap",
+    "type": "web"
+  },
+  {
+    "image": "/icons/tailwind.png",
+    "alt": "Tailwind",
+    "import": "tailwindcss",
+    "type": "web"
+  },
+  {
+    "image": "/icons/javascript.png",
+    "alt": "JavaScript",
+    "import": "javascript",
+    "type": "js"
+  },
+  {
+    "image": "/icons/typescript.png",
+    "alt": "TypeScript",
+    "import": "typescript",
+    "type": "js"
+  },
+  {
+    "image": "/icons/nodejs.png",
+    "alt": "Node.js",
+    "import": "nodejs",
+    "type": "js"
+  },
+  {
+    "image": "/icons/deno.png",
+    "alt": "Deno",
+    "import": "deno_land",
+    "type": "js"
+  },
+  {
+    "image": "/icons/react.png",
+    "alt": "React",
+    "import": "react js",
+    "type": "jsframe"
+  },
+  {
+    "image": "/icons/vuejs.png",
+    "alt": "Vue",
+    "import": "vue",
+    "type": "jsframe"
+  },
+  {
+    "image": "/icons/angular.png",
+    "alt": "Angular",
+    "import": "angular js",
+    "type": "jsframe"
+  },
+  {
+    "image": "/icons/svelte.png",
+    "alt": "Svelte",
+    "import": "svelte",
+    "type": "jsframe"
+  },
+  {
+    "image": "/icons/alpine.png",
+    "alt": "Alpine.js",
+    "import": "alpine js",
+    "type": "jsframe"
+  },
+  {
+    "image": "/icons/solidjs.png",
+    "alt": "SolidJS",
+    "import": "solid js",
+    "type": "jsframe"
+  },
+  {
+    "image": "/icons/qwik.png",
+    "alt": "Qwik",
+    "import": "qwik",
+    "type": "jsframe"
+  },
+  {
+    "image": "/icons/lit.png",
+    "alt": "Lit",
+    "import": "lit js",
+    "type": "jsframe"
+  },
+  {
+    "image": "/icons/next.png",
+    "alt": "Next.js",
+    "import": "next js",
+    "type": "jsmeta"
+  },
+  {
+    "image": "/icons/remix.png",
+    "alt": "Remix",
+    "import": "remix js",
+    "type": "jsmeta"
+  },
+  {
+    "image": "/icons/nuxt.png",
+    "alt": "Nuxt",
+    "import": "nuxt_js",
+    "type": "jsmeta"
+  },
+  {
+    "image": "/icons/nestjs.png",
+    "alt": "NestJS",
+    "import": "nestframework",
+    "type": "jsmeta"
+  },
+  {
+    "image": "/icons/astro.png",
+    "alt": "Astro",
+    "import": "astrodotbuild",
+    "type": "jsmeta"
+  },
+  {
+    "image": "/icons/jquery.png",
+    "alt": "JQuery",
+    "import": "jquery",
+    "type": "jsother"
+  },
+  {
+    "image": "/icons/express.jpg",
+    "alt": "ExpressJS",
+    "import": "express js",
+    "type": "jsother"
+  },
+  {
+    "image": "/icons/vitejs.png",
+    "alt": "Vite",
+    "import": "vite_js",
+    "type": "jsother"
+  },
+  {
+    "image": "/icons/fastify.png",
+    "alt": "Fastify",
+    "import": "fastify",
+    "type": "jsother"
+  },
+  {
+    "image": "/icons/strapi.png",
+    "alt": "Strapi",
+    "import": "strapijs",
+    "type": "jsother"
+  },
+  {
+    "image": "/icons/php.png",
+    "alt": "PHP",
+    "import": "official_php",
+    "type": "backend"
+  },
+  {
+    "image": "/icons/dart.png",
+    "alt": "Dart",
+    "import": "dart_lang",
+    "type": "backend"
+  },
+  {
+    "image": "/icons/java.png",
+    "alt": "Java",
+    "import": "@java",
+    "type": "backend"
+  },
+  {
+    "image": "/icons/go.png",
+    "alt": "Go",
+    "import": "golang",
+    "type": "backend"
+  },
+  {
+    "image": "/icons/elixir.png",
+    "alt": "Elixir",
+    "import": "elixirlang",
+    "type": "backend"
+  },
+  {
+    "image": "/icons/rust.png",
+    "alt": "Rust",
+    "import": "rustlang",
+    "type": "backend"
+  },
+  {
+    "image": "/icons/python.png",
+    "alt": "Python",
+    "import": "python",
+    "type": "backend"
+  },
+  {
+    "image": "/icons/swift.png",
+    "alt": "Swift",
+    "import": "SwiftLang",
+    "type": "backend"
+  },
+  {
+    "image": "/icons/asp.png",
+    "alt": "ASP.NET",
+    "import": "aspnet",
+    "type": "backendframe"
+  },
+  {
+    "image": "/icons/blazor.png",
+    "alt": "Blazor",
+    "import": "Blazor",
+    "type": "backendframe"
+  },
+  {
+    "image": "/icons/elixirphoenix.png",
+    "alt": "Phoenix",
+    "import": "elixirphoenix",
+    "type": "backendframe"
+  },
+  {
+    "image": "/icons/spring.png",
+    "alt": "Spring",
+    "import": "springframework",
+    "type": "backendframe"
+  },
+  {
+    "image": "/icons/laravel.png",
+    "alt": "Laravel",
+    "import": "laravelphp",
+    "type": "backendframe"
+  },
+  {
+    "image": "/icons/django.png",
+    "alt": "Django",
+    "import": "djangoproject",
+    "type": "backendframe"
+  },
+  {
+    "image": "/icons/fastapi.jpg",
+    "alt": "FastAPI",
+    "import": "fastapi",
+    "type": "backendframe"
+  },
+  {
+    "image": "/icons/flask.jpg",
+    "alt": "Flask",
+    "import": "pythonflask",
+    "type": "backendframe"
+  },
+  {
+    "image": "/icons/vapor.png",
+    "alt": "Vapor",
+    "import": "codevapor",
+    "type": "backendframe"
+  },
+  {
+    "image": "/icons/rubyonrails.png",
+    "alt": "Ruby on Rails",
+    "import": "@rails",
+    "type": "backendframe"
+  }
+]

@@ -1,37 +1,46 @@
 import Link from "next/link";
 import Image from "next/image";
-import { images } from "./images";
+import tech from "../backend/techs.json";
+import techcat from "../backend/techcat.json";
 
 export default function Home() {
-
   return (
     <div>
       <main className="flex flex-col items-center">
-        <h2 className='text-3xl'>See how twitter users are feeling about your favorite web development technologies.</h2>
-        {/* <p className='text-xl  mt-52'>Enter a Language, Database, Cloud.</p>
-        <div className='flex justify-center items-stretch'>
-          <input className="border-2 border-indigo-500 rounded-md m-0.5" type="text"/>
-          <Link href="/result">
-            <button className="border-2 border-indigo-500 rounded-md p-1 m-0.5">Search</button>
-          </Link>
-        </div> */}
-        <div className="flex flex-wrap justify-center">
-        {images.map(tech => {
-            return(
-                <div key={tech.toString()} className="border-2 border-indigo-500 h-[48rem] w-[36rem] relative flex flex-wrap items-center justify-around
-                space-x-6 lg:space-x-12 m-5 bg-slate-50">
-                {tech.map((tech) => {
-                    return(
-                        <Link key={(tech.alt as string)} href={`/result/${tech.import}-${tech.alt}`}>
-                            <Image src={tech.image} alt={tech.alt} width={50} height={50}/>
-                        </Link>
-                    )
-                })}
+        <div className="grid mdd:grid-cols-2 lgg:grid-cols-3 mt-2 mb-8 gap-3 justify-center">
+          {techcat.map((type) => {
+            return (
+              <div
+                key={type.toString()}
+                className="rounded-md h-[36rem] w-[24rem] flex flex-col items-center relative bg-slate-50"
+                style={{background: `linear-gradient(to bottom right, ${type.color}`}}
+              >
+                <h2 className="text-center font-bold text-2xl p-4">{type.h2}</h2>
+                <p className="p-4 text-lg">{type.p}</p>
+                <div className="absolute top-2/4 flex flex-wrap justify-center">
+                  {tech.map((tech) => {
+                    if (tech.type === type.arr)
+                    return (
+                      <Link
+                        key={tech.alt as string}
+                        href={`/result/${tech.import}-${tech.alt}`}
+                      >
+                        <Image
+                          className="m-4"
+                          src={tech.image}
+                          alt={tech.alt}
+                          width={50}
+                          height={50}
+                        />
+                      </Link>
+                    );
+                  })}
                 </div>
-            )
-        })}
+              </div>
+            );
+          })}
         </div>
       </main>
     </div>
-  )
+  );
 }
