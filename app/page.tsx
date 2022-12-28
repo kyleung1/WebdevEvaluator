@@ -4,10 +4,6 @@ import { images } from "./images";
 
 export default function Home() {
 
-  function searchBtn() {
-
-  }
-
   return (
     <div>
       <main className="flex flex-col items-center">

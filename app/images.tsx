@@ -100,12 +100,12 @@ const ide: techs = [
   {
     "image": pycharm,
     "alt": "PyCharm",
-    "import": "@pycharm"
+    "import": "pycharm"
   },
   {
     "image": neovim,
     "alt": "Neovim",
-    "import": "neovium"
+    "import": "neovim"
   },
 ];
 
@@ -165,7 +165,7 @@ const cloud: techs = [
   {
     "image": heroku,
     "alt": "Heroku",
-    "import": "Heroku"
+    "import": "heroku"
   }
 ];
 const nosql: techs = [
@@ -204,7 +204,7 @@ const sql: techs = [
   {
     "image": sqlite,
     "alt": "SQLite",
-    "import": "sqlite"
+    "import": "SQLite"
   }
 ];
 const htmlcss: techs = [
@@ -236,7 +236,7 @@ const htmlcss: techs = [
   {
     "image": tailwind,
     "alt": "Tailwind",
-    "import": "tailwind"
+    "import": "tailwindcss"
   }
 ];
 const javascripts: techs = [
@@ -350,7 +350,7 @@ const frameworks: techs = [
   {
     "image": strapi,
     "alt": "Strapi",
-    "import": "Strapijs"
+    "import": "strapijs"
   }
 ];
 const backendlang: techs = [
@@ -392,7 +392,7 @@ const backendlang: techs = [
   {
     "image": swift,
     "alt": "Swift",
-    "import": "swiftlang"
+    "import": "SwiftLang"
   }
 ];
 const backendframe: techs = [
@@ -404,7 +404,7 @@ const backendframe: techs = [
   {
     "image": blazor,
     "alt": "Blazor",
-    "import": "#Blazor"
+    "import": "Blazor"
   },
   {
     "image": phoenix,
