@@ -132,7 +132,7 @@ const other: techs = [
   },
   {
     "image": powershell,
-    "alt": "Powershell",
+    "alt": "PowerShell",
     "import": "powershell"
   }
 ];

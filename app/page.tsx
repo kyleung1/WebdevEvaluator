@@ -22,7 +22,7 @@ export default function Home() {
                 space-x-6 lg:space-x-12 m-5 bg-slate-50">
                 {tech.map((tech) => {
                     return(
-                        <Link key={(tech.alt as string)} href={`/result/${tech.import}`}>
+                        <Link key={(tech.alt as string)} href={`/result/${tech.import}-${tech.alt}`}>
                             <Image src={tech.image} alt={tech.alt} width={50} height={50}/>
                         </Link>
                     )

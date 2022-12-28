@@ -19,7 +19,7 @@ for root, dirs, files in os.walk(directory):
 
             file_name, file_ext = os.path.splitext(file)
 
-            words = [word for word in words if word.replace('.', ' ').replace(' ', '').lower() not in file_name.replace(' ', '').lower() and word != 'vuejs' and word != 'rubyonrails']
+            words = [word for word in words if word.replace('.', ' ').replace(' ', '').lower() not in file_name.replace(' ', '').lower() and word != 'vuejs' and word != 'rubyonrails' and word != "-" and word != "|"]
 
             word_counts = Counter(words)
 
