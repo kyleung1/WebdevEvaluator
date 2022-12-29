@@ -1,6 +1,6 @@
 "use client";
 //https://github.com/swimlane/ngx-charts/issues/1686 for reference
-import * as d3 from 'd3';
+import { scaleLinear, scaleBand ,select, axisBottom, axisLeft } from 'd3';
 import { useEffect } from 'react';
 type PageProps = {
     params: {
@@ -23,15 +23,16 @@ interface RootObjects extends Array<RootObject>{};
 
 const GITHUB = "https://raw.githubusercontent.com/kyleung1/WebdevEvaluator/main/backend/";
 
-const results = ({params: {tech}}: PageProps) => {
+export default function Results ({params: {tech}}: PageProps)  {
     const techSplit = tech.split("-");
+
     useEffect(() => {
         async function getCsv(tech: string) {
             const res = await fetch(GITHUB + `json/${tech}.json`);
             const tweets:RootObjects = await res.json();
             return tweets;
         }
-        
+
         async function get20Words(tech: string) {
             const res = await fetch(GITHUB + `wordcounts/${tech}.json`);
             const counts:Record<string, number> = await res.json();
@@ -43,7 +44,7 @@ const results = ({params: {tech}}: PageProps) => {
         function pieChart() {
             //making a pie chart
         }
-        
+
         function barGraph(data: Array<[string, number]>) {
             const title = document.createElement("h2");
             title.textContent = "Word Count in Tweets Containing: " + techSplit[1];
@@ -56,39 +57,39 @@ const results = ({params: {tech}}: PageProps) => {
             const width = 500;
             const height = 300;
             const margin = { top: 20, right: 20, bottom: 80, left: 40 };
-        
-            const x = d3.scaleBand()
+
+            const x = scaleBand()
             .rangeRound([0, width])
             .padding(0.1);
-        
-            const y = d3.scaleLinear().rangeRound([height, 0]);
-        
+
+            const y = scaleLinear().rangeRound([height, 0]);
+
             x.domain(data.map(d => d[0]));
             y.domain([data[19][1], data[0][1]]);
-        
-            const svg = d3.select('#bar')
+
+            const svg = select('#bar')
                 .append('svg')
                 .attr('width', width + margin.left + margin.right)
                 .attr('height', height + margin.top + margin.bottom)
                 .append('g')
                 .attr('transform', `translate(${margin.left},${margin.top})`);
-        
+
             svg.append('g')
                 .attr('class', 'axis axis--x')
                 .attr('transform', `translate(0,${height})`)
-                .call(d3.axisBottom(x));
-            
-            svg.append('g').attr('class', 'axis axis--y').call(d3.axisLeft(y));
+                .call(axisBottom(x));
+
+            svg.append('g').attr('class', 'axis axis--y').call(axisLeft(y));
 
             svg.selectAll('.bar')
               .data(data)
               .enter()
               .append('rect')
               .attr('class', 'bar')
-              .attr('x', d => x(d[0]))
-              .attr('y', d => y(d[1]))
+              .attr('x', (d: [string, number]) => (x(d[0]) as number))
+              .attr('y', (d: [string, number]) => y(d[1]))
               .attr('width', x.bandwidth())
-              .attr('height', d => height - y(d[1]));
+              .attr('height', (d: [string, number]) => height - y(d[1]));
 
             svg.selectAll(".axis--x text")
               .style("text-anchor", "end")
@@ -102,7 +103,7 @@ const results = ({params: {tech}}: PageProps) => {
             const twentyWords = await get20Words(techSplit[0]);
             barGraph(twentyWords);
         }
-        
+
         init();
     })
     return (
@@ -113,5 +114,3 @@ const results = ({params: {tech}}: PageProps) => {
         </div>
     )
 }
-
-export default results
