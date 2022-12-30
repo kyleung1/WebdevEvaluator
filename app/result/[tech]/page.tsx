@@ -1,6 +1,7 @@
 "use client";
 //https://github.com/swimlane/ngx-charts/issues/1686 for reference
 import { scaleLinear, scaleBand ,select, axisBottom, axisLeft } from 'd3';
+import * as d3 from "d3";
 import { useEffect } from 'react';
 type PageProps = {
     params: {
@@ -20,6 +21,11 @@ interface RootObject {
 };
 
 interface RootObjects extends Array<RootObject>{};
+
+interface Percentages {
+    label: string;
+    value: number;
+}
 
 const GITHUB = "https://raw.githubusercontent.com/kyleung1/WebdevEvaluator/main/backend/";
 
@@ -41,8 +47,46 @@ export default function Results ({params: {tech}}: PageProps)  {
             return twentyWords;
         }
 
-        function pieChart() {
-            //making a pie chart
+        function pieChart(data: Array<Percentages>) {
+            const title = document.createElement("h2");
+            title.textContent = "Sentiment of Tweets Containing: " + techSplit[1];
+            title.classList.add("text-indigo-500");
+            title.classList.add("text-xl");
+            title.classList.add("text-center");
+            document.getElementById("pie")?.appendChild(title);
+
+            const width = 500;
+            const height = 500;
+            const radius = Math.min(width, height) / 2;
+            const color = d3.scaleOrdinal(d3.schemeCategory10);
+
+            const arc = d3.arc()
+            .outerRadius(radius - 10)
+            .innerRadius(0);
+
+            const pie = d3.pie().sort(null).value(d => d.value);
+
+            const svg = d3.select("#pie")
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .append("g")
+                .attr("transform", `translate(${width / 2},${height / 2})`);
+
+            const g = svg.selectAll(".arc")
+            .data(pie(data))
+            .enter()
+            .append("g")
+            .attr("class", "arc");
+
+            g.append("path")
+            .attr("d", arc)
+            .style("fill", d => color(d.data.label));
+
+            g.append("text")
+            .attr("transform", d => `translate(${arc.centroid(d)})`)
+            .attr("dy", "0.35em")
+            .text(d => d.data.label);
         }
 
         function barGraph(data: Array<[string, number]>) {
@@ -100,6 +144,24 @@ export default function Results ({params: {tech}}: PageProps)  {
 
         async function init () {
             const sentiments = await getCsv(techSplit[0]);
+            let pos = 0;
+            let neg = 0;
+            let neu = 0;
+            for (let i = 0; i < sentiments.length; i++) {
+                if (sentiments[i].Sentiment === "positive") {
+                    pos++;
+                } else if (sentiments[i].Sentiment === "negative") {
+                    neg++;
+                } else {
+                    neu++;
+                };
+            };
+            const sentimentPercentages: Array<Percentages> = [
+                {label: "Positive", value: pos},
+                {label: "Negative", value: neg},
+                {label: "Neutral", value: neu}
+            ];
+            pieChart(sentimentPercentages);
             const twentyWords = await get20Words(techSplit[0]);
             barGraph(twentyWords);
         }
@@ -109,8 +171,8 @@ export default function Results ({params: {tech}}: PageProps)  {
     return (
         <div className="flex flex-col items-center">
             <h1 className="text-3xl">{techSplit[1]}</h1>
-            <div id="bar"></div>
             <div id="pie"></div>
+            <div id="bar"></div>
         </div>
     )
 }
