@@ -1,6 +1,6 @@
 "use client";
 //https://github.com/swimlane/ngx-charts/issues/1686 for reference
-import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, scaleOrdinal, schemeCategory10, pie, arc } from 'd3';
+import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, scaleOrdinal, schemeCategory10, pie, arc, selectAll } from 'd3';
 import { useEffect } from 'react';
 type PageProps = {
     params: {
@@ -46,13 +46,13 @@ export default function Results ({params: {tech}}: PageProps)  {
             return twentyWords;
         }
 
-        function pieChart(data: Array<Percentages>) {
+        function pieChart(data: Array<Percentages>, div: string, titleText: string) {
             const title = document.createElement("h2");
-            title.textContent = "Sentiment of Tweets Containing: " + techSplit[1];
+            title.textContent = titleText + " of Tweets Containing: " + techSplit[1];
             title.classList.add("text-indigo-500");
             title.classList.add("text-xl");
             title.classList.add("text-center");
-            document.getElementById("pie")?.appendChild(title);
+            document.getElementById(div)?.appendChild(title);
 
             const width = 500;
             const height = 500;
@@ -66,14 +66,9 @@ export default function Results ({params: {tech}}: PageProps)  {
                 .outerRadius(radius - 10)
                 .innerRadius(0);
 
-            type Datas =  {
-                label: string,
-                value: number
-            }
-
             const piechart = pie<Data>().sort(null).value((d) => d.value);
 
-            const svg = select("#pie")
+            const svg = select("#" + div)
                 .append("svg")
                 .attr("width", width)
                 .attr("height", height)
@@ -147,6 +142,8 @@ export default function Results ({params: {tech}}: PageProps)  {
               .attr("dx", "-.8em")
               .attr("dy", ".15em")
               .attr("transform", "rotate(-65)");
+
+            const a = selectAll("svg").classed("mx-auto", true);
         }
 
         async function init () {
@@ -168,8 +165,29 @@ export default function Results ({params: {tech}}: PageProps)  {
                 {label: "Negative", value: neg},
                 {label: "Neutral", value: neu}
             ];
-            pieChart(sentimentPercentages);
+            const sentimentPosNeg: Array<Percentages> = [
+                {label: "Positive", value: pos},
+                {label: "Negative", value: neg}
+            ]
+            pieChart(sentimentPercentages, "pie1", "Sentiment");
+            pieChart(sentimentPosNeg, "pie2", "Ratio Between Positive and Negative Sentiments");
             const twentyWords = await get20Words(techSplit[0]);
+            let randPosTweetIndex = -1;
+            let randNegTweetIndex = -1;
+            while (randPosTweetIndex === -1 && randNegTweetIndex === -1) {
+                let randomPos = Math.floor(Math.random() * sentiments.length);
+                let randomNeg = Math.floor(Math.random() * sentiments.length);
+                if(sentiments[randomPos].Sentiment === "positive") {
+                    randPosTweetIndex = randomPos;
+                }
+                if(sentiments[randomNeg].Sentiment === "negative") {
+                    randNegTweetIndex = randomNeg;
+                }
+            }
+            // const a = document.getElementById("posTweet");
+            // if (a !== null) {
+            //     a.textContent = sentiments[randPosTweetIndex].Tweet;
+            // }
             barGraph(twentyWords);
         }
 
@@ -178,7 +196,13 @@ export default function Results ({params: {tech}}: PageProps)  {
     return (
         <div className="flex flex-col items-center">
             <h1 className="text-3xl">{techSplit[1]}</h1>
-            <div id="pie"></div>
+            <div id="pie1"></div>
+            <div id="pie2"></div>
+            <div className="my-5">
+                <h2 className="text-xl text-center text-indigo-500">Random Positive and Negative Tweets</h2>
+                <p id="posTweet"></p>
+                <p id="negTweet"></p>
+            </div>
             <div id="bar"></div>
         </div>
     )
