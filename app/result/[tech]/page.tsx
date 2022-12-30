@@ -1,7 +1,6 @@
 "use client";
 //https://github.com/swimlane/ngx-charts/issues/1686 for reference
-import { scaleLinear, scaleBand ,select, axisBottom, axisLeft } from 'd3';
-import * as d3 from "d3";
+import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, scaleOrdinal, schemeCategory10, pie, arc } from 'd3';
 import { useEffect } from 'react';
 type PageProps = {
     params: {
@@ -58,15 +57,23 @@ export default function Results ({params: {tech}}: PageProps)  {
             const width = 500;
             const height = 500;
             const radius = Math.min(width, height) / 2;
-            const color = d3.scaleOrdinal(d3.schemeCategory10);
+            const color = scaleOrdinal(schemeCategory10);
+            type Data = {
+                label: string
+                value: number
+            }
+            const pieArc = arc<d3.PieArcDatum<Data>>()
+                .outerRadius(radius - 10)
+                .innerRadius(0);
 
-            const arc = d3.arc()
-            .outerRadius(radius - 10)
-            .innerRadius(0);
+            type Datas =  {
+                label: string,
+                value: number
+            }
 
-            const pie = d3.pie().sort(null).value(d => d.value);
+            const piechart = pie<Data>().sort(null).value((d) => d.value);
 
-            const svg = d3.select("#pie")
+            const svg = select("#pie")
                 .append("svg")
                 .attr("width", width)
                 .attr("height", height)
@@ -74,17 +81,17 @@ export default function Results ({params: {tech}}: PageProps)  {
                 .attr("transform", `translate(${width / 2},${height / 2})`);
 
             const g = svg.selectAll(".arc")
-            .data(pie(data))
+            .data(piechart(data))
             .enter()
             .append("g")
             .attr("class", "arc");
 
             g.append("path")
-            .attr("d", arc)
+            .attr("d", pieArc)
             .style("fill", d => color(d.data.label));
 
             g.append("text")
-            .attr("transform", d => `translate(${arc.centroid(d)})`)
+            .attr("transform", d => `translate(${pieArc.centroid(d)})`)
             .attr("dy", "0.35em")
             .text(d => d.data.label);
         }
