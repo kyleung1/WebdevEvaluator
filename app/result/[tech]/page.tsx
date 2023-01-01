@@ -1,6 +1,6 @@
 "use client";
 //https://github.com/swimlane/ngx-charts/issues/1686 for reference
-import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, scaleOrdinal, schemeCategory10, pie, arc, selectAll } from 'd3';
+import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, selectAll, create } from 'd3';
 import { useEffect } from 'react';
 type PageProps = {
     params: {
@@ -24,6 +24,7 @@ interface RootObjects extends Array<RootObject>{};
 interface Percentages {
     label: string;
     value: number;
+    color: string
 }
 
 const GITHUB = "https://raw.githubusercontent.com/kyleung1/WebdevEvaluator/main/backend/";
@@ -46,50 +47,103 @@ export default function Results ({params: {tech}}: PageProps)  {
             return twentyWords;
         }
 
-        function pieChart(data: Array<Percentages>, div: string, titleText: string) {
-            const title = document.createElement("h2");
-            title.textContent = titleText + " of Tweets Containing: " + techSplit[1];
-            title.classList.add("text-indigo-500");
-            title.classList.add("text-xl");
-            title.classList.add("text-center");
-            document.getElementById(div)?.appendChild(title);
-
+        function waffleChart(data: Array<Percentages>, div: string) {
+            // const columns = 10;
+            // const rows = 10;
             const width = 500;
             const height = 500;
-            const radius = Math.min(width, height) / 2;
-            const color = scaleOrdinal(schemeCategory10);
-            type Data = {
-                label: string
-                value: number
+            // const cellWidth = width / columns;
+            // const cellHeight = height / rows;
+          
+            // const svg = select("#" + div)
+            //     .append("svg")
+            //     .attr("width", width)
+            //     .attr("height", height);
+          
+            // const cells = svg
+            //     .selectAll("g")
+            //     .data(data)
+            //     .enter()
+            //     .append("g");
+          
+            // cells.append("rect")
+            //     .attr("x", (d, i) => (i % columns) * cellWidth)
+            //     .attr("y", (d, i) => Math.floor(i / columns) * cellHeight)
+            //     .attr("width", cellWidth)
+            //     .attr("height", cellHeight)
+            //     .style("fill", (d) => d.color);
+
+            // return svg.node();
+            const svg = create("svg")
+            .style("cursor", "default")
+            .attr("viewBox", [0, 0, width, height]);
+          
+            const g = svg.selectAll(".waffle")  
+                .data(waffles)
+                .join("g")
+                .attr("class", "waffle");
+            
+            if (!whole) {
+                const numPerRow = Math.floor(width / (waffleSize + padding.x));
+                g.attr("transform", (d, i) => {
+                const r = Math.floor(i / numPerRow);
+                const c = i - r * numPerRow;
+                return `translate(${c * (waffleSize + padding.x)},${r * (waffleSize + padding.y)})`
+                });
             }
-            const pieArc = arc<d3.PieArcDatum<Data>>()
-                .outerRadius(radius - 10)
-                .innerRadius(0);
-
-            const piechart = pie<Data>().sort(null).value((d) => d.value);
-
-            const svg = select("#" + div)
-                .append("svg")
-                .attr("width", width)
-                .attr("height", height)
-                .append("g")
-                .attr("transform", `translate(${width / 2},${height / 2})`);
-
-            const g = svg.selectAll(".arc")
-            .data(piechart(data))
-            .enter()
-            .append("g")
-            .attr("class", "arc");
-
-            g.append("path")
-            .attr("d", pieArc)
-            .style("fill", d => color(d.data.label));
-
-            g.append("text")
-            .attr("transform", d => `translate(${pieArc.centroid(d)})`)
-            .attr("dy", "0.35em")
-            .text(d => d.data.label);
-        }
+            
+            const cellSize = scale.bandwidth();
+            const half = cellSize / 2;
+            const cells = g.append("g")
+                .selectAll(options.shape)
+                .data(d => d)
+                .join(options.shape)
+                .attr("fill", d => d.index === -1 ? "#ddd" : color(d.index));
+            
+            if (isRect) {
+                cells.attr("x", d => scale(d.x))
+                .attr("y", d => whole ?  0 : scale(d.y))
+                .attr("rx", 3).attr("ry", 3)
+                .attr("width", cellSize).attr("height", cellSize)      
+            } 
+            else {    
+                cells.attr("cx", d => scale(d.x) + half)
+                .attr("cy", d => whole ? 0 : scale(d.y) + half)
+                .attr("r", half);
+            }
+            
+            if (whole) {
+                cells.append("title").text(d => {
+                const cd = chartData[d.index];
+                return `${cd.territory}\n${toCurrency(cd.profit)} (${cd.ratio.toFixed(1)}%)`;
+                });    
+                
+                cells.transition()
+                .duration(d => d.y * 100)
+                .ease(d3.easeBounce)
+                .attr(isRect ? "y" : "cy", d => scale(d.y) + (isRect ? 0 : half));
+                svg.transition().delay(550)
+                .on("end", () => drawLegend(svg, cells));
+            }
+            else {
+                g.append("text")
+                .style("font-size", 20)
+                .style("font-weight", "bold")
+                .attr("dy", "1.5em")
+                .attr("text-anchor", "middle")            
+                .attr("fill", (d, i) => color(i))
+                .attr("transform", `translate(${waffleSize / 2},0)`)
+                .text((d, i) => `${chartData[i].ratio.toFixed(0)}%`);
+                
+                g.append("g")
+                .attr("transform", `translate(0,${waffleSize + padding.y / 2.5})`)
+                .call(g => g.append("text").text((d, i) => chartData[i].territory))
+                .call(g => g.append("text").attr("dy", "1em").text((d, i) => toCurrency(chartData[i].profit)));
+            }  
+            
+            return svg.node();
+        };
+        
 
         function barGraph(data: Array<[string, number]>) {
             const title = document.createElement("h2");
@@ -161,16 +215,15 @@ export default function Results ({params: {tech}}: PageProps)  {
                 };
             };
             const sentimentPercentages: Array<Percentages> = [
-                {label: "Positive", value: pos},
-                {label: "Negative", value: neg},
-                {label: "Neutral", value: neu}
+                {label: "Positive", value: pos, color: "red"},
+                {label: "Negative", value: neg, color: "blue"},
+                {label: "Neutral", value: neu, color: "green"}
             ];
             const sentimentPosNeg: Array<Percentages> = [
-                {label: "Positive", value: pos},
-                {label: "Negative", value: neg}
+                {label: "Positive", value: pos, color: "red"},
+                {label: "Negative", value: neg, color: "blue"}
             ]
-            pieChart(sentimentPercentages, "pie1", "Sentiment");
-            pieChart(sentimentPosNeg, "pie2", "Ratio Between Positive and Negative Sentiments");
+            waffleChart(sentimentPercentages, "waffle1");
             const twentyWords = await get20Words(techSplit[0]);
             let randPosTweetIndex = -1;
             let randNegTweetIndex = -1;
@@ -196,8 +249,8 @@ export default function Results ({params: {tech}}: PageProps)  {
     return (
         <div className="flex flex-col items-center">
             <h1 className="text-3xl">{techSplit[1]}</h1>
-            <div id="pie1"></div>
-            <div id="pie2"></div>
+            <div id="waffle1"></div>
+            <div id="waffle2"></div>
             <div className="my-5">
                 <h2 className="text-xl text-center text-indigo-500">Random Positive and Negative Tweets</h2>
                 <p id="posTweet"></p>
