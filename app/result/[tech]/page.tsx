@@ -1,6 +1,6 @@
 "use client";
 //https://github.com/swimlane/ngx-charts/issues/1686 for reference
-import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, selectAll, create } from 'd3';
+import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, selectAll, create, sequence } from 'd3';
 import { useEffect } from 'react';
 type PageProps = {
     params: {
@@ -24,7 +24,13 @@ interface RootObjects extends Array<RootObject>{};
 interface Percentages {
     label: string;
     value: number;
-    color: string
+    ratio: number
+}
+
+interface Waffle {
+    x: number;
+    y: number;
+    index: number;
 }
 
 const GITHUB = "https://raw.githubusercontent.com/kyleung1/WebdevEvaluator/main/backend/";
@@ -45,6 +51,40 @@ export default function Results ({params: {tech}}: PageProps)  {
             let countsList: Array<[string, number]> = Object.entries(counts).sort((a, b) => b[1] - a[1]);
             let twentyWords: Array<[string, number]> = countsList.slice(0,20);
             return twentyWords;
+        }
+
+        function makeWaffles(data: Array<Percentages>) {
+            const array = [];
+            const whole = true;
+            if (whole) {
+              const max = data.length; 
+              let index = 0, curr = 1, 
+                  accu = Math.round(data[0].ratio), waffle = [];
+              
+              for (let y = 9; y >= 0; y--)
+                for (let x = 0; x < 10; x ++) {
+                  if (curr > accu && index < max) {
+                    let r = Math.round(data[++index].ratio);
+                    while(r === 0 && index < max) r = Math.round(data[++index].ratio);
+                    accu += r;
+                  }
+                  waffle.push({x, y, index});
+                  curr++;
+                } 
+              array.push(waffle);
+            }
+            else {
+              data.map((d, i) => {
+                let curr = 0, waffle = [];
+                for (let y = 9; y >= 0; y--)
+                  for(let x = 0; x < 10; x ++) {
+                    waffle.push(({x, y, index: curr < Math.round(d.ratio) ? i : -1}));
+                    curr++;
+                  }
+                array.push(waffle);
+              });
+            }  
+            return array
         }
 
         function waffleChart(data: Array<Percentages>, div: string) {
@@ -74,6 +114,17 @@ export default function Results ({params: {tech}}: PageProps)  {
             //     .style("fill", (d) => d.color);
 
             // return svg.node();
+            const padding = ({x: 10, y: 40});
+            const waffleSize = 600;
+            const whole = true;
+            const waffles = makeWaffles(data);
+            const isRect = true
+
+            const scale = scaleBand()
+                .domain(sequence(10))
+                .range([0, waffleSize])
+                .padding(0.1)
+
             const svg = create("svg")
             .style("cursor", "default")
             .attr("viewBox", [0, 0, width, height]);
@@ -214,14 +265,15 @@ export default function Results ({params: {tech}}: PageProps)  {
                     neu++;
                 };
             };
+            const total = pos + neg + neu;
             const sentimentPercentages: Array<Percentages> = [
-                {label: "Positive", value: pos, color: "red"},
-                {label: "Negative", value: neg, color: "blue"},
-                {label: "Neutral", value: neu, color: "green"}
+                {label: "Positive", value: pos, ratio: pos / total * 100},
+                {label: "Negative", value: neg, ratio: neg / total * 100},
+                {label: "Neutral", value: neu, ratio: neu / total * 100}
             ];
             const sentimentPosNeg: Array<Percentages> = [
-                {label: "Positive", value: pos, color: "red"},
-                {label: "Negative", value: neg, color: "blue"}
+                {label: "Positive", value: pos, ratio: pos / total * 100},
+                {label: "Negative", value: neg, ratio: neg / total * 100}
             ]
             waffleChart(sentimentPercentages, "waffle1");
             const twentyWords = await get20Words(techSplit[0]);
