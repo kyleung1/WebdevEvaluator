@@ -10,7 +10,7 @@ nltk.download('wordnet')
 nltk.download('omw-1.4')
 
 query_array = [
-    ['@code', 'visualstudiocode', 'visualstudio'],
+    ['@code', 'visualstudiocode', 'vsc', 'vs code'],
     'VisualStudio',
     ['intellijidea', 'intellij'],
     "pycharm",
