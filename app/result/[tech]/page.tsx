@@ -1,6 +1,6 @@
 "use client";
 //https://github.com/swimlane/ngx-charts/issues/1686 for reference
-import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, selectAll, create, sequence } from 'd3';
+import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, selectAll } from 'd3';
 import { useEffect } from 'react';
 type PageProps = {
     params: {
@@ -52,149 +52,6 @@ export default function Results ({params: {tech}}: PageProps)  {
             let twentyWords: Array<[string, number]> = countsList.slice(0,20);
             return twentyWords;
         }
-
-        function makeWaffles(data: Array<Percentages>) {
-            const array = [];
-            const whole = true;
-            if (whole) {
-              const max = data.length; 
-              let index = 0, curr = 1, 
-                  accu = Math.round(data[0].ratio), waffle = [];
-              
-              for (let y = 9; y >= 0; y--)
-                for (let x = 0; x < 10; x ++) {
-                  if (curr > accu && index < max) {
-                    let r = Math.round(data[++index].ratio);
-                    while(r === 0 && index < max) r = Math.round(data[++index].ratio);
-                    accu += r;
-                  }
-                  waffle.push({x, y, index});
-                  curr++;
-                } 
-              array.push(waffle);
-            }
-            else {
-              data.map((d, i) => {
-                let curr = 0, waffle = [];
-                for (let y = 9; y >= 0; y--)
-                  for(let x = 0; x < 10; x ++) {
-                    waffle.push(({x, y, index: curr < Math.round(d.ratio) ? i : -1}));
-                    curr++;
-                  }
-                array.push(waffle);
-              });
-            }  
-            return array
-        }
-
-        function waffleChart(data: Array<Percentages>, div: string) {
-            // const columns = 10;
-            // const rows = 10;
-            const width = 500;
-            const height = 500;
-            // const cellWidth = width / columns;
-            // const cellHeight = height / rows;
-          
-            // const svg = select("#" + div)
-            //     .append("svg")
-            //     .attr("width", width)
-            //     .attr("height", height);
-          
-            // const cells = svg
-            //     .selectAll("g")
-            //     .data(data)
-            //     .enter()
-            //     .append("g");
-          
-            // cells.append("rect")
-            //     .attr("x", (d, i) => (i % columns) * cellWidth)
-            //     .attr("y", (d, i) => Math.floor(i / columns) * cellHeight)
-            //     .attr("width", cellWidth)
-            //     .attr("height", cellHeight)
-            //     .style("fill", (d) => d.color);
-
-            // return svg.node();
-            const padding = ({x: 10, y: 40});
-            const waffleSize = 600;
-            const whole = true;
-            const waffles = makeWaffles(data);
-            const isRect = true
-
-            const scale = scaleBand()
-                .domain(sequence(10))
-                .range([0, waffleSize])
-                .padding(0.1)
-
-            const svg = create("svg")
-            .style("cursor", "default")
-            .attr("viewBox", [0, 0, width, height]);
-          
-            const g = svg.selectAll(".waffle")  
-                .data(waffles)
-                .join("g")
-                .attr("class", "waffle");
-            
-            if (!whole) {
-                const numPerRow = Math.floor(width / (waffleSize + padding.x));
-                g.attr("transform", (d, i) => {
-                const r = Math.floor(i / numPerRow);
-                const c = i - r * numPerRow;
-                return `translate(${c * (waffleSize + padding.x)},${r * (waffleSize + padding.y)})`
-                });
-            }
-            
-            const cellSize = scale.bandwidth();
-            const half = cellSize / 2;
-            const cells = g.append("g")
-                .selectAll(options.shape)
-                .data(d => d)
-                .join(options.shape)
-                .attr("fill", d => d.index === -1 ? "#ddd" : color(d.index));
-            
-            if (isRect) {
-                cells.attr("x", d => scale(d.x))
-                .attr("y", d => whole ?  0 : scale(d.y))
-                .attr("rx", 3).attr("ry", 3)
-                .attr("width", cellSize).attr("height", cellSize)      
-            } 
-            else {    
-                cells.attr("cx", d => scale(d.x) + half)
-                .attr("cy", d => whole ? 0 : scale(d.y) + half)
-                .attr("r", half);
-            }
-            
-            if (whole) {
-                cells.append("title").text(d => {
-                const cd = chartData[d.index];
-                return `${cd.territory}\n${toCurrency(cd.profit)} (${cd.ratio.toFixed(1)}%)`;
-                });    
-                
-                cells.transition()
-                .duration(d => d.y * 100)
-                .ease(d3.easeBounce)
-                .attr(isRect ? "y" : "cy", d => scale(d.y) + (isRect ? 0 : half));
-                svg.transition().delay(550)
-                .on("end", () => drawLegend(svg, cells));
-            }
-            else {
-                g.append("text")
-                .style("font-size", 20)
-                .style("font-weight", "bold")
-                .attr("dy", "1.5em")
-                .attr("text-anchor", "middle")            
-                .attr("fill", (d, i) => color(i))
-                .attr("transform", `translate(${waffleSize / 2},0)`)
-                .text((d, i) => `${chartData[i].ratio.toFixed(0)}%`);
-                
-                g.append("g")
-                .attr("transform", `translate(0,${waffleSize + padding.y / 2.5})`)
-                .call(g => g.append("text").text((d, i) => chartData[i].territory))
-                .call(g => g.append("text").attr("dy", "1em").text((d, i) => toCurrency(chartData[i].profit)));
-            }  
-            
-            return svg.node();
-        };
-        
 
         function barGraph(data: Array<[string, number]>) {
             const title = document.createElement("h2");
@@ -275,7 +132,7 @@ export default function Results ({params: {tech}}: PageProps)  {
                 {label: "Positive", value: pos, ratio: pos / total * 100},
                 {label: "Negative", value: neg, ratio: neg / total * 100}
             ]
-            waffleChart(sentimentPercentages, "waffle1");
+
             const twentyWords = await get20Words(techSplit[0]);
             let randPosTweetIndex = -1;
             let randNegTweetIndex = -1;
