@@ -1,5 +1,3 @@
-import Link from "next/link";
-import Image from "next/image";
 import techcat from "../backend/techcat.json";
 import Tech from "./(components)/Tech";
 

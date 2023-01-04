@@ -3,10 +3,10 @@
 ## Frontend
 
 - Show two random tweets
+- Figure out a caching mechanism
 
 ## Backend
 
-- Generate static visualizations and store them inside a database
-- Convert the json into a real database
-- Use a language to facilitate an API that can also web scrape
-- Add key for github-able query for changing data, linkedin/indeed/upwork/ziprecruiter, fireship video or relevant youtube video in a key, store a descriptor paragraph in database
+- Lock backend with an API Key stored on Client
+- Throw errors on non-routes and also handle errors
+- Wordcounts should probably be in the backend someway
