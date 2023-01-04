@@ -12,27 +12,20 @@ for root, dirs, files in os.walk(directory):
     for file in files:
         if file.endswith('.csv'):
             df = pd.read_csv(os.path.join(root, file))
-
             column = df['Cleaned Tweet']
 
             words = column.apply(lambda x: str(x).split())
-
             words = [word for sublist in words for word in sublist]
 
             file_name, file_ext = os.path.splitext(file)
 
             words = [word for word in words if word.replace('.', ' ').replace(' ', '').lower() not in file_name.replace(' ', '').lower() and word not in bad_words]
-
             word_counts = Counter(words)
 
             # df = pd.DataFrame.from_dict(word_counts, orient='index', columns=['count'])
-
             # df = df.sort_values(by='count', ascending=False)
-
             # df.reset_index(inplace=True)
-
             # df.rename(columns={'index': 'word'}, inplace=True)
-
             # df.to_csv(f'./wordcounts/{file_name}.csv', index=False)
 
             json_object = json.dumps(word_counts)
@@ -41,7 +34,5 @@ for root, dirs, files in os.walk(directory):
                 file.write(word_counts)
 
             # wordcloud = WordCloud().generate_from_frequencies(word_counts)
-
             # wordcloud.to_file(f'./wordcloud/{file_name}.png')
-
             # print(file + ' done')
