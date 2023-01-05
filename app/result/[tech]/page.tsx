@@ -1,6 +1,6 @@
 "use client";
 //https://github.com/swimlane/ngx-charts/issues/1686 for reference
-import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, selectAll } from 'd3';
+import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, selectAll, scaleOrdinal, schemeCategory10, pie, arc, } from 'd3';
 import { useEffect } from 'react';
 type PageProps = {
     params: {
@@ -24,13 +24,6 @@ interface RootObjects extends Array<RootObject>{};
 interface Percentages {
     label: string;
     value: number;
-    ratio: number
-}
-
-interface Waffle {
-    x: number;
-    y: number;
-    index: number;
 }
 
 const GITHUB = "https://raw.githubusercontent.com/kyleung1/WebdevEvaluator/main/backend/";
@@ -51,6 +44,59 @@ export default function Results ({params: {tech}}: PageProps)  {
             let countsList: Array<[string, number]> = Object.entries(counts).sort((a, b) => b[1] - a[1]);
             let twentyWords: Array<[string, number]> = countsList.slice(0,20);
             return twentyWords;
+        }
+
+        function pieChart(data: Array<Percentages>, div: string, titleText: string) {
+            const title = document.createElement("h2");
+            title.textContent = titleText + " of Tweets Containing: " + techSplit[1];
+            title.classList.add("text-indigo-500");
+            title.classList.add("text-xl");
+            title.classList.add("text-center");
+            document.getElementById(div)?.appendChild(title);
+
+            const width = 500;
+            const height = 500;
+            const radius = Math.min(width, height) / 2;
+            const color = scaleOrdinal(schemeCategory10);
+            type Data = {
+                label: string
+                value: number
+            }
+            const pieArc = arc<d3.PieArcDatum<Data>>()
+                .outerRadius(radius - 10)
+                .innerRadius(0);
+
+            const piechart = pie<Data>().sort(null).value((d) => d.value);
+
+            const svg = select("#" + div)
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height)
+                .append("g")
+                .attr("transform", `translate(${width / 2},${height / 2})`);
+
+            const g = svg.selectAll(".arc")
+            .data(piechart(data))
+            .enter()
+            .append("g")
+            .attr("class", "arc");
+
+            g.append("path")
+            .attr("d", pieArc)
+            .style("fill", d => color(d.data.label));
+
+            g.append("text")
+            .attr("transform", d => `translate(${pieArc.centroid(d)})`)
+            .attr("dy", "0.35em")
+            .text(d => d.data.label);
+        }
+
+        function waffle() {
+            const waffleDiv = document.getElementById("waffle");
+            let waffle = document.createElement("img");
+            waffle.src = `${GITHUB}waffle/${techSplit[0]}.png`;
+            waffle.alt = techSplit[0];
+            waffleDiv?.appendChild(waffle);
         }
 
         function barGraph(data: Array<[string, number]>) {
@@ -122,16 +168,13 @@ export default function Results ({params: {tech}}: PageProps)  {
                     neu++;
                 };
             };
-            const total = pos + neg + neu;
-            const sentimentPercentages: Array<Percentages> = [
-                {label: "Positive", value: pos, ratio: pos / total * 100},
-                {label: "Negative", value: neg, ratio: neg / total * 100},
-                {label: "Neutral", value: neu, ratio: neu / total * 100}
-            ];
             const sentimentPosNeg: Array<Percentages> = [
-                {label: "Positive", value: pos, ratio: pos / total * 100},
-                {label: "Negative", value: neg, ratio: neg / total * 100}
+                {label: "Positive", value: pos},
+                {label: "Negative", value: neg}
             ]
+            pieChart(sentimentPosNeg, "pie", "Ratio Between Positive and Negative Sentiments");
+
+            waffle()
 
             const twentyWords = await get20Words(techSplit[0]);
             let randPosTweetIndex = -1;
@@ -158,8 +201,8 @@ export default function Results ({params: {tech}}: PageProps)  {
     return (
         <div className="flex flex-col items-center">
             <h1 className="text-3xl">{techSplit[1]}</h1>
-            <div id="waffle1"></div>
-            <div id="waffle2"></div>
+            <div id="pie"></div>
+            <div id="waffle"></div>
             <div className="my-5">
                 <h2 className="text-xl text-center text-indigo-500">Random Positive and Negative Tweets</h2>
                 <p id="posTweet"></p>
