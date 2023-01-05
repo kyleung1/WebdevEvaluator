@@ -14,7 +14,15 @@ make_waffles <- function(file_name) {
   counts <- table(csv$Sentiment)
   names <- names(counts)
   vec <- as.vector(counts)
+
+  second <- vec[2]
+  vec[2] <- vec[3]
+  vec[3] <- second
+  second_label <- names[2]
+  names[2] <- names[3]
+  names[3] <- second_label
   names(vec) <- names
+
   waffles <- waffle(vec, rows = 25, size = 0.5)
   png(paste("waffle/", gsub(".csv", "", file_name), ".png", sep = ""))
   plot(waffles)
