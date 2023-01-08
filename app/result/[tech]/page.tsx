@@ -1,8 +1,10 @@
 "use client";
-//https://github.com/swimlane/ngx-charts/issues/1686 for reference
+
+import { usePathname } from 'next/navigation';
 import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, selectAll, scaleOrdinal, schemeCategory10, pie, arc, } from 'd3';
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 import Link from 'next/link';
+import Image from 'next/image';
 type PageProps = {
     params: {
         tech: string;
@@ -26,10 +28,14 @@ interface Percentages {
     label: string;
     value: number;
 }
-
 const GITHUB = "https://raw.githubusercontent.com/kyleung1/WebdevEvaluator/main/backend/";
 
 export default function Results ({params: {tech}}: PageProps)  {
+
+    const [posTweet, setPosTweet] = useState('')
+    const [negTweet, setNegTweet] = useState('')
+    const pathName = usePathname()
+
     const techSplit = tech.split("-");
 
     useEffect(() => {
@@ -38,6 +44,29 @@ export default function Results ({params: {tech}}: PageProps)  {
             const tweets:RootObjects = await res.json();
             return tweets;
         }
+
+        function randTweets(sentiments: RootObjects) {
+            let randPosTweetIndex = -1;
+            let randNegTweetIndex = -1;
+            let randomPos = Math.floor(Math.random() * sentiments.length);
+            let randomNeg = Math.floor(Math.random() * sentiments.length);
+            while (randPosTweetIndex === -1 || randNegTweetIndex === -1) {
+                if(sentiments[randomPos].Sentiment === "positive") {
+                    randPosTweetIndex = randomPos;
+                } else {
+                    randomPos = Math.floor(Math.random() * sentiments.length);
+                }
+
+                if(sentiments[randomNeg].Sentiment === "negative") {
+                    randNegTweetIndex = randomNeg;
+                } else {
+                    randomNeg = Math.floor(Math.random() * sentiments.length);
+                }
+            }
+            setPosTweet(sentiments[randPosTweetIndex].Tweet)
+            setNegTweet(sentiments[randNegTweetIndex].Tweet)
+        }
+
 
         async function get20Words(tech: string) {
             const res = await fetch(GITHUB + `wordcounts/${tech}.json`);
@@ -92,48 +121,6 @@ export default function Results ({params: {tech}}: PageProps)  {
             .text(d => d.data.label);
         }
 
-        function waffle() {
-            const waffleDiv = document.getElementById("waffle");
-            let title = document.createElement("h2");
-            title.textContent = "Sentiment of Tweets Containing: " + techSplit[1];
-            title.classList.add("text-indigo-500");
-            title.classList.add("text-xl");
-            title.classList.add("text-center");
-            let waffle = document.createElement("img");
-            waffle.src = `${GITHUB}waffle/${techSplit[0]}.png`;
-            waffle.alt = techSplit[0];
-            waffleDiv?.appendChild(title);
-            waffleDiv?.appendChild(waffle);
-        }
-
-        function randTweets(sentiments: RootObjects) {
-            let randPosTweetIndex = -1;
-            let randNegTweetIndex = -1;
-            let randomPos = Math.floor(Math.random() * sentiments.length);
-            let randomNeg = Math.floor(Math.random() * sentiments.length);
-            while (randPosTweetIndex === -1 || randNegTweetIndex === -1) {
-                if(sentiments[randomPos].Sentiment === "positive") {
-                    randPosTweetIndex = randomPos;
-                } else {
-                    randomPos = Math.floor(Math.random() * sentiments.length);
-                }
-
-                if(sentiments[randomNeg].Sentiment === "negative") {
-                    randNegTweetIndex = randomNeg;
-                } else {
-                    randomNeg = Math.floor(Math.random() * sentiments.length);
-                }
-            }
-            const posTweet = document.getElementById("posTweet");
-            const negTweet = document.getElementById("negTweet");
-            if (posTweet !== null) {
-                posTweet.textContent = "Positive: " + sentiments[randPosTweetIndex].Tweet;
-            }
-            if (negTweet !== null) {
-                negTweet.textContent = "Negative: " + sentiments[randNegTweetIndex].Tweet;
-            }
-        }
-
         function barGraph(data: Array<[string, number]>) {
             const title = document.createElement("h2");
             title.textContent = "Word Count in Tweets Containing: " + techSplit[1];
@@ -142,7 +129,6 @@ export default function Results ({params: {tech}}: PageProps)  {
             title.classList.add("text-center");
             document.getElementById("bar")?.appendChild(title);
 
-            // Set the dimensions of the graph
             const width = 500;
             const height = 300;
             const margin = { top: 20, right: 20, bottom: 80, left: 40 };
@@ -208,14 +194,13 @@ export default function Results ({params: {tech}}: PageProps)  {
                 {label: "Negative", value: neg}
             ]
             pieChart(sentimentPosNeg, "pie", "Ratio Between Positive and Negative Sentiments");
-            waffle()
             randTweets(sentiments);
             const twentyWords = await get20Words(techSplit[0]);
             barGraph(twentyWords);
         }
 
         init();
-    })
+    }, [])
     return (
         <div>
             <Link href="/">
@@ -224,11 +209,14 @@ export default function Results ({params: {tech}}: PageProps)  {
             <div className="flex flex-col items-center">
                 <h1 className="text-3xl">{techSplit[1]}</h1>
                 <div id="pie" className="my-16"></div>
-                <div id="waffle"></div>
+                <div id="waffle">
+                    <h2 className='text-indigo-500 text-xl text-center'>Sentiment of Tweets Containing {techSplit[1]}</h2>
+                    <Image src={`${GITHUB}waffle/${techSplit[0]}.png`} alt={techSplit[1]} width={480} height={480} />
+                </div>
                 <div className="my-16">
                     <h2 className="text-xl text-center text-indigo-500">Random Positive and Negative Tweets</h2>
-                    <p id="posTweet" className="mx-56"></p>
-                    <p id="negTweet" className="mx-56"></p>
+                    <p className="mx-56">{posTweet}</p>
+                    <p className="mx-56">{negTweet}</p>
                 </div>
                 <div id="bar"></div>
             </div>

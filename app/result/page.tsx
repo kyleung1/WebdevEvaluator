@@ -1,7 +1,5 @@
-const page = () => {
+export default function page () {
   return (
     <div>Nothing selected.</div>
   )
 }
-
-export default page

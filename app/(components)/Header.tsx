@@ -1,13 +1,11 @@
-const Header = () => {
+export default function Header () {
   return (
-    <div className="bg-gradient-to-tr from-slate-400 to-gray-500">
-        <h1 className='font-bold text-center text-6xl mb-3 p-4'>Web Development Evaluator</h1>
-        <h2 className="text-3xl pb-8 text-center">
-          See how twitter users are feeling about your favorite web development
-          technologies.
-        </h2>
+    <div className="h-[5vh] bg-indigo-500 flex justify-between items-center">
+        <p className='mb-3 p-4'>Web Development Evaluator</p>
+        <div>
+        <p>Home</p>
+        <p>About</p>
+        </div>
     </div>
   )
 }
-
-export default Header
