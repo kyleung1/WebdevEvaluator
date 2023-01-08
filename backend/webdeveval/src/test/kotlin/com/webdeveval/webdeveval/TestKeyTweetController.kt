@@ -27,7 +27,7 @@ class TestKeyTweetController {
 
         val keyTweetController = KeyTweetController(mockKeyTweetService, softwareList, mockJobScraper)
 
-        val result = keyTweetController.getKeyTweetByName("@code")
+        val result = keyTweetController.getKeyTweetByName("@code", System.getenv("API_KEY"))
         print(result)
         verify(mockJobScraper).linkedInCount("@code")
         verify(mockJobScraper).indeedCount("@code")

@@ -1,6 +1,7 @@
 package com.webdeveval.webdeveval.api.controller
 
 import com.webdeveval.webdeveval.api.Software
+import com.webdeveval.webdeveval.api.exception.InvalidApiKeyException
 import com.webdeveval.webdeveval.api.model.KeyTweet
 import com.webdeveval.webdeveval.api.model.KeyTweetForResponse
 import com.webdeveval.webdeveval.api.services.KeyTweetService
@@ -9,6 +10,7 @@ import com.webdeveval.webdeveval.util.SoftwareList
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable
+import org.springframework.web.bind.annotation.RequestHeader
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.web.bind.annotation.RestController
 
@@ -30,14 +32,15 @@ class KeyTweetController {
     this.softwareList = softwareList
     this.jobScraper = jobScraper
   }
-
   @GetMapping("/{name}")
-  fun getKeyTweetByName(@PathVariable name: String = "@code"): KeyTweetForResponse {
-
+  fun getKeyTweetByName(@PathVariable name: String = "@code", @RequestHeader("API-Key") apiKey: String): KeyTweetForResponse {
+    if (System.getenv("API_KEY") != apiKey) {
+      throw InvalidApiKeyException("Invalid API key provided")
+    }
     val response = service.getKeyTweetByName(name)
     val responseObject = KeyTweetForResponse(response, "0", "0", "0")
 
-    if (response.tech !== null) {
+    if (response.tech != null) {
       val linkedInCount = jobScraper.linkedInCount(name)
       if (linkedInCount == "No listings found") {
         responseObject.linkedInPostings = "0"
@@ -67,3 +70,4 @@ class KeyTweetController {
   }
 
 }
+
