@@ -7,7 +7,6 @@ export default function Home() {
   return (
     <>
       <div className="flex-shrink-0">
-        <Header />
         <Hero />
       </div>
       <div className="flex-1 bg-slate-800 border-t border-black">

@@ -1,7 +1,7 @@
 "use client";
 
 import { usePathname } from 'next/navigation';
-import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, selectAll, scaleOrdinal, schemeCategory10, pie, arc, } from 'd3';
+import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, selectAll, scaleOrdinal, schemeCategory10, pie, arc, style } from 'd3';
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -164,7 +164,8 @@ export default function Results ({params: {tech}}: PageProps)  {
               .attr('x', (d: [string, number]) => (x(d[0]) as number))
               .attr('y', (d: [string, number]) => y(d[1]))
               .attr('width', x.bandwidth())
-              .attr('height', (d: [string, number]) => height - y(d[1]));
+              .attr('height', (d: [string, number]) => height - y(d[1]))
+              .style("fill", "steelblue");
 
             svg.selectAll(".axis--x text")
               .style("text-anchor", "end")
@@ -172,7 +173,8 @@ export default function Results ({params: {tech}}: PageProps)  {
               .attr("dy", ".15em")
               .attr("transform", "rotate(-65)");
 
-            const a = selectAll("svg").classed("mx-auto", true);
+            const center = selectAll("svg").classed("mx-auto", true);
+            const barText = selectAll("text").style("fill", "white");
         }
 
         async function init () {
@@ -203,22 +205,19 @@ export default function Results ({params: {tech}}: PageProps)  {
     }, [])
     return (
         <div>
-            <Link href="/">
-                <button className="bg-indigo-500 text-white p-5 ml-5">Back</button>
-            </Link>
-            <div className="flex flex-col items-center">
-                <h1 className="text-3xl">{techSplit[1]}</h1>
+            <h1 className="my-16 font-extrabold text-3xl sm:text-5xl lg:text-6xl tracking-tight text-center text-white">{techSplit[1]}</h1>
+            <div className="grid grid-cols-2">
+                <div className="my-16">
+                    <h2 className="text-xl text-center text-indigo-500">Random Positive and Negative Tweets</h2>
+                    <p className="mx-10 text-white">{posTweet}</p>
+                    <p className="mx-10 text-white">{negTweet}</p>
+                </div>
                 <div id="pie" className="my-16"></div>
-                <div id="waffle">
+                <div id="waffle" className="mx-auto mb-16">
                     <h2 className='text-indigo-500 text-xl text-center'>Sentiment of Tweets Containing {techSplit[1]}</h2>
                     <Image src={`${GITHUB}waffle/${techSplit[0]}.png`} alt={techSplit[1]} width={480} height={480} />
                 </div>
-                <div className="my-16">
-                    <h2 className="text-xl text-center text-indigo-500">Random Positive and Negative Tweets</h2>
-                    <p className="mx-56">{posTweet}</p>
-                    <p className="mx-56">{negTweet}</p>
-                </div>
-                <div id="bar"></div>
+                <div id="bar" className="mb-16"></div>
             </div>
         </div>
     )

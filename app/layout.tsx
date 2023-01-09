@@ -12,6 +12,9 @@ export default function RootLayout({
     <html lang="en">
       <head />
       <body className="font-ubuntu flex flex-col min-h-screen min-w-screen bg-slate-900">
+      <div className="flex-shrink-0">
+          <Header/>
+        </div>
         {children}
         <div className="flex-shrink-0">
           <Footer/>
