@@ -20,5 +20,5 @@ data class KeyTweetForResponse(
     val keyTweet: KeyTweet,
     var githubStarCount: String,
     var linkedInPostings: String,
-    var indeedPostings: String
+    // var indeedPostings: String
 )

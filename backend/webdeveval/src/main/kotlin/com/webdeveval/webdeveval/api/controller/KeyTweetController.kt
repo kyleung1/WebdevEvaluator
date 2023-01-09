@@ -1,8 +1,6 @@
 package com.webdeveval.webdeveval.api.controller
 
-import com.webdeveval.webdeveval.api.Software
 import com.webdeveval.webdeveval.api.exception.InvalidApiKeyException
-import com.webdeveval.webdeveval.api.model.KeyTweet
 import com.webdeveval.webdeveval.api.model.KeyTweetForResponse
 import com.webdeveval.webdeveval.api.services.KeyTweetService
 import com.webdeveval.webdeveval.util.JobScraper
@@ -38,7 +36,7 @@ class KeyTweetController {
       throw InvalidApiKeyException("Invalid API key provided")
     }
     val response = service.getKeyTweetByName(name)
-    val responseObject = KeyTweetForResponse(response, "0", "0", "0")
+    val responseObject = KeyTweetForResponse(response, "0", "0")
 
     if (response.tech != null) {
       val linkedInCount = jobScraper.linkedInCount(name)
@@ -47,12 +45,13 @@ class KeyTweetController {
       } else {
         responseObject.linkedInPostings = linkedInCount
       }
-      val indeedCount = jobScraper.indeedCount(name)
-      if (indeedCount == "No listings found") {
-        responseObject.indeedPostings = "0"
-      } else {
-      responseObject.indeedPostings = indeedCount
-      }
+
+//      val indeedCount = jobScraper.indeedCount(name)
+//      if (indeedCount == "No listings found") {
+//        responseObject.indeedPostings = "0"
+//      } else {
+//      responseObject.indeedPostings = indeedCount
+//      }
 //      for (software in softwareList) {
 //        print(software)
 //        if (software.import == response.tech) {
@@ -63,8 +62,6 @@ class KeyTweetController {
 //        }
 //      }
     }
-
-    print(responseObject)
 
     return responseObject
   }

@@ -20,7 +20,7 @@ class TestKeyTweetController {
 
         val mockJobScraper = mock(JobScraper::class.java)
         `when`(mockJobScraper.linkedInCount("@code")).thenReturn("350")
-        `when`(mockJobScraper.indeedCount("@code")).thenReturn("50")
+        // `when`(mockJobScraper.indeedCount("@code")).thenReturn("50")
 
         `when`(mockKeyTweetService.getKeyTweetByName("@code"))
             .thenReturn(KeyTweet("@code", "tech", emptyList()))
@@ -28,12 +28,11 @@ class TestKeyTweetController {
         val keyTweetController = KeyTweetController(mockKeyTweetService, softwareList, mockJobScraper)
 
         val result = keyTweetController.getKeyTweetByName("@code", System.getenv("API_KEY"))
-        print(result)
         verify(mockJobScraper).linkedInCount("@code")
-        verify(mockJobScraper).indeedCount("@code")
+        // verify(mockJobScraper).indeedCount("@code")
         verify(mockKeyTweetService).getKeyTweetByName("@code")
 
-        val expectedResponse = KeyTweetForResponse(KeyTweet("@code", "tech", emptyList()), "0", "350", "50")
+        val expectedResponse = KeyTweetForResponse(KeyTweet("@code", "tech", emptyList()), "0", "350")
 
         Assertions.assertEquals(expectedResponse, result)
     }

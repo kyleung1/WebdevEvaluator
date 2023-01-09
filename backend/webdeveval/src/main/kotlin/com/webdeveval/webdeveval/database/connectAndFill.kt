@@ -3,7 +3,7 @@ import com.mongodb.client.MongoClient
 import com.mongodb.client.MongoClients
 import io.github.cdimascio.dotenv.dotenv;
 
-fun main() {
+fun connectAndFill() {
     val dotenv = dotenv()
     val connectionString = dotenv["MONGOURI"]
     val mongoClient: MongoClient = MongoClients.create(connectionString)

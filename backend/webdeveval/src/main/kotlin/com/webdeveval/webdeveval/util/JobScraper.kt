@@ -33,23 +33,23 @@ class JobScraper {
         return "No listings found"
     }
 
-    fun indeedCount(keywords: String): String {
-        val query = "https://www.indeed.com/jobs?q=$keywords&l=United+States"
+    // fun indeedCount(keywords: String): String {
+    //     val query = "https://www.indeed.com/jobs?q=$keywords&l=United+States"
 
-        val doc: Document = Jsoup.connect(query)
-            .headers(Map.of("User-Agent", "My agent"))
-            .headers(Map.of("Accept-Language", "en-US"))
-            .get()
+    //     val doc: Document = Jsoup.connect(query)
+    //         .headers(Map.of("User-Agent", "My agent"))
+    //         .headers(Map.of("Accept-Language", "en-US"))
+    //         .get()
 
-        val elements: Elements = doc.select("meta").attr("name", "description")
+    //     val elements: Elements = doc.select("meta").attr("name", "description")
 
-        for (element in elements) {
-            if (element.attr("content").contains("jobs available")) {
-                return element.attr("content")
-            }
-        }
+    //     for (element in elements) {
+    //         if (element.attr("content").contains("jobs available")) {
+    //             return element.attr("content")
+    //         }
+    //     }
 
-        return "No listings found"
-    }
+    //     return "No listings found"
+    // }
 
 }

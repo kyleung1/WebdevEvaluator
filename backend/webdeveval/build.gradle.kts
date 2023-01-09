@@ -25,9 +25,6 @@ dependencies {
 	implementation("org.springframework.boot:spring-boot-starter-data-mongodb")
 	implementation("org.mongodb:mongodb-driver-sync:4.8.1")
 	implementation ("com.google.code.gson:gson:2.10")
-	implementation("io.github.cdimascio:dotenv-kotlin:6.4.0")
-	implementation("net.sourceforge.htmlunit:htmlunit:2.37.0")
-	implementation("org.springframework.boot:spring-boot-starter-actuator")
 }
 
 tasks.withType<KotlinCompile> {
