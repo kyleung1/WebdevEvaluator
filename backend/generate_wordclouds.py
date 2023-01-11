@@ -22,12 +22,6 @@ for root, dirs, files in os.walk(directory):
             words = [word for word in words if word.replace('.', ' ').replace(' ', '').lower() not in file_name.replace(' ', '').lower() and word not in bad_words]
             word_counts = Counter(words)
 
-            # df = pd.DataFrame.from_dict(word_counts, orient='index', columns=['count'])
-            # df = df.sort_values(by='count', ascending=False)
-            # df.reset_index(inplace=True)
-            # df.rename(columns={'index': 'word'}, inplace=True)
-            # df.to_csv(f'./wordcounts/{file_name}.csv', index=False)
-
             json_object = json.dumps(word_counts)
 
             with open(f'./wordcounts/{file_name}.csv', 'w') as file:

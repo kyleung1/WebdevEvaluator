@@ -62,8 +62,7 @@
     "type": "dev",
     "hundred": "https://www.youtube.com/watch?v=Gjnup-PuquQ",
     "documentation": "https://www.docker.com/",
-    "description": "Accelerate how you build, share, and run modern applications.",
-    "repository": "https://github.com/docker"
+    "description": "Accelerate how you build, share, and run modern applications."
   },
   {
     "image": "/icons/kubernetes.png",
@@ -92,7 +91,6 @@
     "type": "dev",
     "channel": "https://www.youtube.com/@GitHub",
     "documentation": "https://github.com/",
-    "repository": "https://github.com/github/",
     "description": "Harnessed for productivity. Designed for collaboration. Celebrated for built-in security. Welcome to the platform developers love."
   },
   {
@@ -111,7 +109,6 @@
     "type": "cloud",
     "channel": "https://www.youtube.com/@amazonwebservices",
     "documentation": "https://aws.amazon.com/",
-    "repository": "https://github.com/aws",
     "description": "Amazon Web Services offers a complete set of infrastructure and application services that enable you to run virtually everything in the cloud: from enterprise applications and big data projects to social games and mobile apps."
   },
   {
@@ -121,7 +118,6 @@
     "type": "cloud",
     "channel": "https://www.youtube.com/@MicrosoftAzure",
     "documentation": "https://aws.amazon.com/",
-    "repository": "https://github.com/Azure",
     "description": "Amazon Web Services offers a complete set of infrastructure and application services that enable you to run virtually everything in the cloud: from enterprise applications and big data projects to social games and mobile apps."
   },
   {
@@ -131,7 +127,6 @@
     "type": "cloud",
     "channel": "https://www.youtube.com/@googlecloudteche",
     "documentation": "https://cloud.google.com/",
-    "repository": "https://github.com/GoogleCloudPlatform",
     "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
   },
   {
@@ -139,101 +134,95 @@
     "alt": "Digital Ocean",
     "import": "digitalocean",
     "type": "cloud",
-    "channel": "https://www.youtube.com/@googlecloudteche",
-    "documentation": "https://cloud.google.com/",
-    "repository": "https://github.com/GoogleCloudPlatform",
-    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
-  },
-  {
-    "image": "/icons/firebase.png",
-    "alt": "Firebase",
-    "import": "Firebase",
-    "type": "cloud",
-    "channel": "https://www.youtube.com/@googlecloudteche",
-    "documentation": "https://cloud.google.com/",
-    "repository": "https://github.com/GoogleCloudPlatform",
-    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+    "channel": "https://www.youtube.com/@DigitalOcean",
+    "documentation": "https://www.digitalocean.com/",
+    "description": "The simple cloud that drives business growth"
   },
   {
     "image": "/icons/heroku.png",
     "alt": "Heroku",
     "import": "heroku",
     "type": "cloud",
-    "channel": "https://www.youtube.com/@googlecloudteche",
-    "documentation": "https://cloud.google.com/",
-    "repository": "https://github.com/GoogleCloudPlatform",
-    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+    "documentation": "https://www.heroku.com/",
+    "description": "Deploy and run apps on today's most innovative Platform as a Service."
+  },
+  {
+    "image": "/icons/firebase.png",
+    "alt": "Firebase",
+    "import": "Firebase",
+    "type": "baas",
+    "hundred": "https://www.youtube.com/watch?v=vAoB4VbhRzM",
+    "channel": "https://www.youtube.com/@Firebase",
+    "documentation": "https://firebase.google.com/",
+    "repository": "https://github.com/firebase/",
+    "description": "Make your app the best it can be."
   },
   {
     "image": "/icons/mongodb.png",
     "alt": "MongoDB",
     "import": "MongoDB",
-    "type": "nosql",
-    "channel": "https://www.youtube.com/@googlecloudteche",
-    "documentation": "https://cloud.google.com/",
-    "repository": "https://github.com/GoogleCloudPlatform",
-    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+    "type": "db",
+    "hundred": "https://www.youtube.com/watch?v=-bt_y4Loofg",
+    "channel": "https://www.youtube.com/@MongoDB",
+    "documentation": "https://www.mongodb.com/",
+    "repository": "https://github.com/mongodb/mongo",
+    "description": "Working with data doesn’t need to be hard"
   },
   {
     "image": "/icons/redisinc.jpg",
     "alt": "Redis",
     "import": "Redisinc",
-    "type": "nosql",
-    "channel": "https://www.youtube.com/@googlecloudteche",
-    "documentation": "https://cloud.google.com/",
-    "repository": "https://github.com/GoogleCloudPlatform",
-    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+    "type": "db",
+    "hundred": "https://www.youtube.com/watch?v=G1rOthIU-uo",
+    "channel": "https://www.youtube.com/@Redisinc",
+    "documentation": "https://redis.com/",
+    "repository": "https://github.com/redis/redis",
+    "description": "Real-time speed and simplicity."
   },
   {
     "image": "/icons/mysql.png",
     "alt": "MySQL",
     "import": "mysql",
-    "type": "sql",
-    "channel": "https://www.youtube.com/@googlecloudteche",
-    "documentation": "https://cloud.google.com/",
-    "repository": "https://github.com/GoogleCloudPlatform",
-    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+    "type": "db",
+    "documentation": "https://www.mysql.com/",
+    "repository": "https://github.com/mysql/",
+    "description": "Many of the world's largest and fastest-growing organizations including Facebook, Twitter, Booking.com, and Verizon rely on MySQL to save time and money powering their high-volume Web sites, business-critical systems and packaged software."
   },
   {
     "image": "/icons/postgresql.png",
     "alt": "PostgreSQL",
     "import": "PostgreSQL",
-    "type": "sql",
-    "channel": "https://www.youtube.com/@googlecloudteche",
-    "documentation": "https://cloud.google.com/",
-    "repository": "https://github.com/GoogleCloudPlatform",
-    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+    "type": "db",
+    "documentation": "https://www.postgresql.org/",
+    "repository": "https://github.com/postgres/postgres",
+    "description": "PostgreSQL: The World's Most Advanced Open Source Relational Database."
   },
   {
     "image": "/icons/mariadb.png",
     "alt": "MariaDB",
     "import": "mariadb",
-    "type": "sql",
-    "channel": "https://www.youtube.com/@googlecloudteche",
-    "documentation": "https://cloud.google.com/",
-    "repository": "https://github.com/GoogleCloudPlatform",
-    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+    "type": "db",
+    "channel": "https://www.youtube.com/@MariaDBFoundation",
+    "documentation": "https://mariadb.org/",
+    "repository": "https://github.com/MariaDB/",
+    "description": "MariaDB Server: The open source relational database"
   },
   {
     "image": "/icons/sqlserver.png",
     "alt": "SQLServer",
     "import": "SQLServer",
-    "type": "sql",
-    "channel": "https://www.youtube.com/@googlecloudteche",
-    "documentation": "https://cloud.google.com/",
-    "repository": "https://github.com/GoogleCloudPlatform",
-    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+    "type": "db",
+    "channel": "https://www.youtube.com/@MicrosoftSQLServer",
+    "documentation": "https://www.microsoft.com/en-us/sql-server",
+    "description": "Azure-enabled with continued performance and security innovation, SQL Server 2022 provides a modern data platform to transform your business."
   },
   {
     "image": "/icons/sqlite.png",
     "alt": "SQLite",
     "import": "SQLite",
-    "type": "sql",
-    "channel": "https://www.youtube.com/@googlecloudteche",
-    "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
-    "documentation": "https://cloud.google.com/",
-    "repository": "https://github.com/GoogleCloudPlatform",
-    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+    "type": "db",
+    "documentation": "https://www.sqlite.org/index.html",
+    "description": "SQLite is a C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine. SQLite is the most used database engine in the world. SQLite is built into all mobile phones and most computers and comes bundled inside countless other applications that people use every day."
   },
   {
     "image": "/icons/html.png",

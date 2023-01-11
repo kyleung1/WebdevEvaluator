@@ -1,0 +1,77 @@
+{
+  "image": "/icons/supabase.png",
+  "alt": "Supabase",
+  "import": "supabase",
+  "type": "baas",
+  "channel": "https://www.youtube.com/@googlecloudteche",
+  "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+  "documentation": "https://cloud.google.com/",
+  "repository": "https://github.com/GoogleCloudPlatform",
+  "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+},
+{
+  "image": "/icons/pocketbase.png",
+  "alt": "Pocketbase",
+  "import": "pocketbase",
+  "type": "baas",
+  "channel": "https://www.youtube.com/@googlecloudteche",
+  "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+  "documentation": "https://cloud.google.com/",
+  "repository": "https://github.com/GoogleCloudPlatform",
+  "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+},
+{
+  "image": "/icons/appwrite.png",
+  "alt": "Appwrite",
+  "import": "appwrite",
+  "type": "baas",
+  "channel": "https://www.youtube.com/@googlecloudteche",
+  "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+  "documentation": "https://cloud.google.com/",
+  "repository": "https://github.com/GoogleCloudPlatform",
+  "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+},
+{
+  "image": "/icons/planetscale.png",
+  "alt": "Planetscale",
+  "import": "planetscale",
+  "type": "baas",
+  "channel": "https://www.youtube.com/@googlecloudteche",
+  "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+  "documentation": "https://cloud.google.com/",
+  "repository": "https://github.com/GoogleCloudPlatform",
+  "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+},
+{
+  "image": "/icons/awsamplify.png",
+  "alt": "AWS Amplify",
+  "import": "awsamplify",
+  "type": "baas",
+  "channel": "https://www.youtube.com/@googlecloudteche",
+  "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+  "documentation": "https://cloud.google.com/",
+  "repository": "https://github.com/GoogleCloudPlatform",
+  "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+},
+{
+  "image": "/icons/cockroachdb.jpg",
+  "alt": "CockroachDB",
+  "import": "cockroachdb",
+  "type": "baas",
+  "channel": "https://www.youtube.com/@googlecloudteche",
+  "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+  "documentation": "https://cloud.google.com/",
+  "repository": "https://github.com/GoogleCloudPlatform",
+  "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+},
+{
+  "image": "/icons/kotlin.png",
+  "alt": "Kotlin",
+  "import": "kotlin",
+  "type": "backendframe",
+  "channel": "https://www.youtube.com/@googlecloudteche",
+  "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+  "documentation": "https://cloud.google.com/",
+  "repository": "https://github.com/GoogleCloudPlatform",
+  "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+}

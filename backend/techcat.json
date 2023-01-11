@@ -18,14 +18,14 @@
     "color": "#f44336, #e57373"
   },
   {
-    "arr": "nosql",
-    "h2": "NoSQL Databases",
+    "arr": "baas",
+    "h2": "Backend/DBs as a Service",
     "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
     "color": "#9ccc65, #aed581"
   },
   {
-    "arr": "sql",
-    "h2": "SQL Databases",
+    "arr": "db",
+    "h2": "Databases",
     "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
     "color": "#9ccc65, #aed581"
   },
