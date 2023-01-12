@@ -158,6 +158,50 @@
     "description": "Make your app the best it can be."
   },
   {
+    "image": "/icons/firebase.png",
+    "alt": "Supabase",
+    "import": "supabase",
+    "type": "baas",
+    "channel": "https://www.youtube.com/@googlecloudteche",
+    "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+    "documentation": "https://cloud.google.com/",
+    "repository": "https://github.com/GoogleCloudPlatform",
+    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+  },
+  {
+    "image": "/icons/firebase.png",
+    "alt": "Pocketbase",
+    "import": "pocketbase",
+    "type": "baas",
+    "channel": "https://www.youtube.com/@googlecloudteche",
+    "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+    "documentation": "https://cloud.google.com/",
+    "repository": "https://github.com/GoogleCloudPlatform",
+    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+  },
+  {
+    "image": "/icons/firebase.png",
+    "alt": "Appwrite",
+    "import": "appwrite",
+    "type": "baas",
+    "channel": "https://www.youtube.com/@googlecloudteche",
+    "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+    "documentation": "https://cloud.google.com/",
+    "repository": "https://github.com/GoogleCloudPlatform",
+    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+  },
+  {
+    "image": "/icons/firebase.png",
+    "alt": "Planetscale",
+    "import": "planetscale",
+    "type": "baas",
+    "channel": "https://www.youtube.com/@googlecloudteche",
+    "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+    "documentation": "https://cloud.google.com/",
+    "repository": "https://github.com/GoogleCloudPlatform",
+    "description": "Build apps faster, make smarter business decisions, and connect people anywhere."
+  },
+  {
     "image": "/icons/mongodb.png",
     "alt": "MongoDB",
     "import": "MongoDB",

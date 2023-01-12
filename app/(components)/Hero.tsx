@@ -3,31 +3,24 @@ import hero from "../../public/Hero.jpg"
 
 export default function Hero () {
   return (
-
-<div className="mt-12 sm:px-4 py-5 bg-hero-pattern w-full hero">
-	<div className="flex flex-wrap  mb-4 items-center lg:flex-col-reverse text-center">
-		<div className="md:w-1/2 pr-4 pl-4 xl:w-3/5 pr-4 pl-4 mb-4 lg:mb-0 ">
-			<div className="relative">
-
-				<a className="" href="https://www.youtube.com/watch?v=1L2hrG-7i2Y">
-				<Image className="w-auto h-auto m-auto rounded shadow" src={hero} sizes="(max-width: 1200px) 100vw, 1200px" alt="Photo by Richard Horvath" width={1200} height={600} />
-        </a>
-			</div>
-		</div>
-		<div className="md:w-1/2 pr-4 pl-4 xl:w-2/5">
-			<div className="mb-3">
-				<div>
-					<h1 className="font-extrabold text-4xl sm:text-5xl lg:text-6xl tracking-tight text-center text-white">Web Dev Evaluator</h1>
+		<div className="relative bg-cover bg-center sm:px-4 py-5 bg-[url('/Hero.jpg')] w-full hero min-h-[75vh]">
+			<div className="absolute inset-0 z-0" style={{backgroundImage: "linear-gradient(180deg, rgba(0, 0, 0, 0.25) 0%, rgba(0, 0, 0, .65) 40%)"}}>
+			<div className="px-4 max-w-[1000px] mx-auto h-[850px] flex flex-wrap justifyend items-start pb-[100px] z-1 relative mb-4 flex-col-reverse text-center">
+				<div className="pr-4 pl-4">
+					<h1 className="font-extrabold text-4xl sm:text-5xl lg:text-6xl tracking-tight text-left text-white">Web Dev Evaluator</h1>
+					<p className="mt-6 text-lg text-zinc-200 text-left max-w-3xl mx-auto">
+						Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.
+					</p>
+					<iframe className="mt-6" width="560" height="315" src="https://www.youtube.com/embed/1L2hrG-7i2Y" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+					<button className="bg-[#4F311C] mr-4 border-none text-white font-bold py-4 px-6 text-center rounded-md float-left mt-6 transition duration-500 hover:bg-[#5C3E2A]">
+						<a target="_blank" rel="noreferrer" href="https://survey.stackoverflow.co/2022/">Stack Overflow</a>
+					</button>
+					<button className="bg-[#E0A526] mr-4 border-none text-white font-bold py-4 px-6 text-center rounded-md float-left mt-6 transition duration-500 hover:bg-[#ecb53d]">
+					<a target="_blank" rel="noreferrer" href="https://2022.stateofjs.com/en-US/">State of JS</a>
+					</button>
 				</div>
 			</div>
-			<div className="mb-4">
-				<p className="mt-6 text-lg text-zinc-200 text-center max-w-3xl mx-auto">
-        Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.
-        </p>
 			</div>
 		</div>
-	</div>
-</div>
-
   )
 }

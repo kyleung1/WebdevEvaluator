@@ -1,13 +1,13 @@
 [
   {
     "arr": "ide",
-    "h2": "Integrated Development Environment",
+    "h2": "IDEs",
     "p": "The IDE that you choose can have a big influence on coders, from the performance, features provided, and what it enables and empowers you to do.",
     "color": "#f44336, #e57373"
   },
   {
     "arr": "dev",
-    "h2": "Developer Tools",
+    "h2": "Dev Tools",
     "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
     "color": "#f44336, #e57373"
   },
@@ -19,7 +19,7 @@
   },
   {
     "arr": "baas",
-    "h2": "Backend/DBs as a Service",
+    "h2": "Cloud Backends & DBs",
     "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
     "color": "#9ccc65, #aed581"
   },
@@ -31,7 +31,7 @@
   },
   {
     "arr": "web",
-    "h2": "Web Building Blocks",
+    "h2": "Web Essentials",
     "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
     "color": "#FEEDEC, #FEE1E5"
   },
@@ -43,7 +43,7 @@
   },
   {
     "arr": "jsframe",
-    "h2": "Javascript Frameworks",
+    "h2": "Front-end Frameworks",
     "p": "Aatrox can activate The Darkin Blade three times before the ability goes on cooldown, with a 1 second static cooldown between casts. If Aatrox does not recast the ability within 4 seconds of the previous cast, it goes on cooldown.",
     "color": "#d4ac0d, #f1c40f"
   },

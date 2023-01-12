@@ -8,7 +8,7 @@ interface Props {
 
 export default function TechGrid({cat}: Props) {
   return (
-    <div className="absolute top-2/4 flex flex-wrap justify-center">
+    <div className="top-2/4 flex flex-wrap justify-center">
         {tech.map((tech) => {
           if (tech.type === cat)
             return (
