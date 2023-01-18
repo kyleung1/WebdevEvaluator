@@ -18,7 +18,7 @@ export default function TechGrid({cat}: Props) {
               >
                 <Image
                   className="m-4"
-                  src={tech.image}
+                  src={`/icons/${tech.import}.png`}
                   alt={tech.alt}
                   width={50}
                   height={50}

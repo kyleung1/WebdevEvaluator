@@ -1,0 +1,627 @@
+[
+  {
+    "alt": "Visual Studio Code",
+    "import": "@code",
+    "type": "ide",
+    "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+    "documentation": "https://code.visualstudio.com/",
+    "repository": "https://github.com/microsoft/vscode"
+  },
+  {
+    "alt": "Visual Studio",
+    "import": "VisualStudio",
+    "type": "ide",
+    "documentation": "https://visualstudio.microsoft.com/"
+  },
+  {
+    "alt": "IntelliJ IDEA",
+    "import": "intellijidea",
+    "type": "ide",
+    "documentation": "https://www.jetbrains.com/idea/"
+  },
+  {
+    "alt": "PHPStorm",
+    "import": "phpstorm",
+    "type": "ide",
+    "documentation": "https://www.jetbrains.com/phpstorm/"
+  },
+  {
+    "alt": "PyCharm",
+    "import": "pycharm",
+    "type": "ide",
+    "documentation": "https://www.jetbrains.com/pycharm/"
+  },
+  {
+    "alt": "Neovim",
+    "import": "neovim",
+    "type": "ide",
+    "documentation": "https://neovim.io/",
+    "repository": "https://github.com/neovim/neovim"
+  },
+  {
+    "alt": "Docker",
+    "import": "@Docker",
+    "type": "dev",
+    "hundred": "https://www.youtube.com/watch?v=Gjnup-PuquQ",
+    "documentation": "https://www.docker.com/"
+  },
+  {
+    "alt": "Kubernetes",
+    "import": "kubernetesio",
+    "type": "dev",
+    "hundred": "https://www.youtube.com/watch?v=PziYflu8cB8",
+    "documentation": "https://kubernetes.io/",
+    "repository": "https://github.com/kubernetes/kubernetes"
+  },
+  {
+    "alt": "Git",
+    "import": "Git",
+    "type": "dev",
+    "hundred": "https://www.youtube.com/watch?v=hwP7WQkmECE",
+    "documentation": "https://git-scm.com/",
+    "repository": "https://github.com/git/git"
+  },
+  {
+    "alt": "GitHub",
+    "import": "github",
+    "type": "dev",
+    "documentation": "https://github.com/"
+  },
+  {
+    "alt": "PowerShell",
+    "import": "powershell",
+    "type": "dev",
+    "documentation": "https://learn.microsoft.com/en-us/powershell/",
+    "repository": "https://github.com/PowerShell/PowerShell"
+  },
+  {
+    "alt": "Amazon Web Services",
+    "import": "awscloud",
+    "type": "cloud",
+    "documentation": "https://aws.amazon.com/"
+  },
+  {
+    "alt": "Microsoft Azure",
+    "import": "azure",
+    "type": "cloud",
+    "documentation": "https://aws.amazon.com/"
+  },
+  {
+    "alt": "Google Cloud Platform",
+    "import": "googlecloud",
+    "type": "cloud",
+    "documentation": "https://cloud.google.com/"
+  },
+  {
+    "alt": "Digital Ocean",
+    "import": "digitalocean",
+    "type": "cloud",
+    "documentation": "https://www.digitalocean.com/"
+  },
+  {
+    "alt": "Heroku",
+    "import": "heroku",
+    "type": "cloud",
+    "documentation": "https://www.heroku.com/"
+  },
+  {
+    "alt": "Firebase",
+    "import": "Firebase",
+    "type": "baas",
+    "hundred": "https://www.youtube.com/watch?v=vAoB4VbhRzM",
+    "documentation": "https://firebase.google.com/",
+    "repository": "https://github.com/firebase/"
+  },
+  {
+    "alt": "Supabase",
+    "import": "supabase",
+    "type": "baas",
+    "hundred": "https://www.youtube.com/watch?v=zBZgdTb-dns",
+    "documentation": "https://supabase.com/",
+    "repository": "https://github.com/supabase/supabase"
+  },
+  {
+    "alt": "Pocketbase",
+    "import": "pocketbase",
+    "type": "baas",
+    "hundred": "https://www.youtube.com/watch?v=Wqy3PBEglXQ",
+    "documentation": "https://pocketbase.io/",
+    "repository": "https://github.com/pocketbase/pocketbase"
+  },
+  {
+    "alt": "Appwrite",
+    "import": "appwrite",
+    "type": "baas",
+    "documentation": "https://appwrite.io/",
+    "repository": "https://github.com/appwrite/appwrite"
+  },
+  {
+    "alt": "Planetscale",
+    "import": "planetscale",
+    "type": "baas",
+    "documentation": "https://planetscale.com/",
+    "repository": "https://github.com/planetscale"
+  },
+  {
+    "alt": "CockroachDB",
+    "import": "cockroachdb",
+    "type": "baas",
+    "documentation": "https://www.cockroachlabs.com/",
+    "repository": "https://github.com/cockroachdb/cockroach"
+  },
+  {
+    "alt": "AWS Amplify",
+    "import": "awsamplify",
+    "type": "baas",
+    "documentation": "https://aws.amazon.com/amplify/",
+    "repository": "https://github.com/aws-amplify"
+  },
+  {
+    "alt": "MongoDB",
+    "import": "MongoDB",
+    "type": "db",
+    "hundred": "https://www.youtube.com/watch?v=-bt_y4Loofg",
+    "documentation": "https://www.mongodb.com/",
+    "repository": "https://github.com/mongodb/mongo"
+  },
+  {
+    "alt": "Redis",
+    "import": "Redisinc",
+    "type": "db",
+    "hundred": "https://www.youtube.com/watch?v=G1rOthIU-uo",
+    "documentation": "https://redis.com/",
+    "repository": "https://github.com/redis/redis"
+  },
+  {
+    "alt": "MySQL",
+    "import": "mysql",
+    "type": "db",
+    "documentation": "https://www.mysql.com/",
+    "repository": "https://github.com/mysql/"
+  },
+  {
+    "alt": "PostgreSQL",
+    "import": "PostgreSQL",
+    "type": "db",
+    "documentation": "https://www.postgresql.org/",
+    "repository": "https://github.com/postgres/postgres"
+  },
+  {
+    "alt": "MariaDB",
+    "import": "mariadb",
+    "type": "db",
+    "documentation": "https://mariadb.org/",
+    "repository": "https://github.com/MariaDB/"
+  },
+  {
+    "alt": "SQLServer",
+    "import": "SQLServer",
+    "type": "db",
+    "documentation": "https://www.microsoft.com/en-us/sql-server"
+  },
+  {
+    "alt": "SQLite",
+    "import": "SQLite",
+    "type": "db",
+    "documentation": "https://www.sqlite.org/index.html"
+  },
+  {
+    "alt": "HTML",
+    "import": "html5",
+    "type": "web",
+    "hundred": "https://www.youtube.com/watch?v=ok-plXXHlWw",
+    "documentation": "https://html.spec.whatwg.org/multipage/"
+  },
+  {
+    "alt": "Markdown",
+    "import": "markdown",
+    "type": "web",
+    "documentation": "https://daringfireball.net/projects/markdown/"
+  },
+  {
+    "alt": "CSS",
+    "import": "css",
+    "type": "web",
+    "hundred": "https://www.youtube.com/watch?v=OEV8gMkCHXQ",
+    "documentation": "https://www.w3.org/TR/CSS/#css"
+  },
+  {
+    "alt": "Sass",
+    "import": "SassCSS",
+    "type": "web",
+    "hundred": "https://www.youtube.com/watch?v=akDIJa0AP5c",
+    "documentation": "https://sass-lang.com/",
+    "repository": "https://github.com/sass/sass"
+  },
+  {
+    "alt": "Boostrap",
+    "import": "getbootstrap",
+    "type": "web",
+    "documentation": "https://getbootstrap.com/",
+    "repository": "https://github.com/twbs/bootstrap"
+  },
+  {
+    "alt": "Tailwind",
+    "import": "tailwindcss",
+    "type": "web",
+    "hundred": "https://www.youtube.com/watch?v=mr15Xzb1Ook",
+    "documentation": "https://tailwindcss.com/",
+    "repository": "https://github.com/tailwindlabs/tailwindcss"
+  },
+  {
+    "alt": "JavaScript",
+    "import": "javascript",
+    "type": "js",
+    "hundred": "https://www.youtube.com/watch?v=DHjqpvDnNGE",
+    "documentation": "https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics"
+  },
+  {
+    "alt": "TypeScript",
+    "import": "typescript",
+    "type": "js",
+    "hundred": "https://www.youtube.com/watch?v=zQnBQ4tB3ZA",
+    "documentation": "https://www.typescriptlang.org/",
+    "repository": "https://github.com/microsoft/TypeScript"
+  },
+  {
+    "alt": "Node.js",
+    "import": "nodejs",
+    "type": "js",
+    "hundred": "https://www.youtube.com/watch?v=ENrzD9HAZK4",
+    "documentation": "https://nodejs.org/en/",
+    "repository": "https://github.com/nodejs/node"
+  },
+  {
+    "alt": "Deno",
+    "import": "deno_land",
+    "type": "js",
+    "hundred": "https://www.youtube.com/watch?v=F0G9lZ7gecE",
+    "documentation": "https://deno.land/",
+    "repository": "https://github.com/denoland/deno"
+  },
+  {
+    "alt": "React",
+    "import": "react js",
+    "type": "jsframe",
+    "hundred": "https://www.youtube.com/watch?v=Tn6-PIqc4UM",
+    "documentation": "https://beta.reactjs.org/",
+    "repository": "https://github.com/facebook/react"
+  },
+  {
+    "alt": "Vue",
+    "import": "vue",
+    "type": "jsframe",
+    "hundred": "https://www.youtube.com/watch?v=nhBVL41-_Cw",
+    "documentation": "https://vuejs.org/",
+    "repository": "https://github.com/vuejs/core"
+  },
+  {
+    "alt": "Angular",
+    "import": "angular js",
+    "type": "jsframe",
+    "hundred": "https://www.youtube.com/watch?v=Ata9cSC2WpM",
+    "documentation": "https://angular.io/",
+    "repository": "https://github.com/angular/angular"
+  },
+  {
+    "alt": "Svelte",
+    "import": "svelte",
+    "type": "jsframe",
+    "hundred": "https://www.youtube.com/watch?v=rv3Yq-B8qp4",
+    "documentation": "https://svelte.dev/",
+    "repository": "https://github.com/sveltejs/svelte"
+  },
+  {
+    "alt": "Alpine.js",
+    "import": "alpine js",
+    "type": "jsframe",
+    "documentation": "https://alpinejs.dev/",
+    "repository": "https://github.com/alpinejs/alpine"
+  },
+  {
+    "alt": "SolidJS",
+    "import": "solid js",
+    "type": "jsframe",
+    "hundred": "https://www.youtube.com/watch?v=hw3Bx5vxKl0",
+    "documentation": "https://solidjs.com/",
+    "repository": "https://github.com/solidjs/solid"
+  },
+  {
+    "alt": "Qwik",
+    "import": "qwik",
+    "type": "jsframe",
+    "hundred": "https://www.youtube.com/watch?v=x2eF3YLiNhY",
+    "documentation": "https://qwik.builder.io/",
+    "repository": "https://github.com/BuilderIO/qwik"
+  },
+  {
+    "alt": "Lit",
+    "import": "lit js",
+    "type": "jsframe",
+    "documentation": "https://lit.dev/",
+    "repository": "https://github.com/lit/lit"
+  },
+  {
+    "alt": "Next.js",
+    "import": "next js",
+    "type": "jsmeta",
+    "hundred": "https://www.youtube.com/watch?v=Sklc_fQBmcs",
+    "documentation": "https://nextjs.org/",
+    "repository": "https://github.com/vercel/next.js/"
+  },
+  {
+    "alt": "Remix",
+    "import": "remix js",
+    "type": "jsmeta",
+    "hundred": "https://www.youtube.com/watch?v=KMxo3T_MTvY",
+    "documentation": "https://remix.run/",
+    "repository": "https://github.com/remix-run/remix"
+  },
+  {
+    "alt": "Nuxt",
+    "import": "nuxt_js",
+    "type": "jsmeta",
+    "hundred": "https://www.youtube.com/watch?v=noq-ZHTD2Cg",
+    "documentation": "https://nuxt.com/",
+    "repository": "https://github.com/nuxt/framework"
+  },
+  {
+    "alt": "NestJS",
+    "import": "nestframework",
+    "type": "jsmeta",
+    "hundred": "https://www.youtube.com/watch?v=0M8AYU_hPas",
+    "documentation": "https://nestjs.com/",
+    "repository": "https://github.com/nestjs/nest"
+  },
+  {
+    "alt": "Astro",
+    "import": "astrodotbuild",
+    "type": "jsmeta",
+    "hundred": "https://www.youtube.com/watch?v=gxBkghlglTg",
+    "documentation": "https://astro.build/",
+    "repository": "https://github.com/withastro/astro"
+  },
+  {
+    "alt": "JQuery",
+    "import": "jquery",
+    "type": "jsother",
+    "hundred": "https://www.youtube.com/watch?v=UU-GebNqdbg",
+    "documentation": "https://jquery.com/",
+    "repository": "https://github.com/jquery/jquery"
+  },
+  {
+    "alt": "ExpressJS",
+    "import": "express js",
+    "type": "jsother",
+    "documentation": "https://expressjs.com/",
+    "repository": "https://github.com/expressjs/express"
+  },
+  {
+    "alt": "Vite",
+    "import": "vite_js",
+    "type": "jsother",
+    "hundred": "https://www.youtube.com/watch?v=KCrXgy8qtjM",
+    "documentation": "https://vitejs.dev/",
+    "repository": "https://github.com/vitejs/vite"
+  },
+  {
+    "alt": "Webpack",
+    "import": "webpack",
+    "type": "jsother",
+    "documentation": "https://webpack.js.org/",
+    "repository": "https://github.com/webpack/webpack"
+  },
+  {
+    "alt": "Rollup",
+    "import": "rollupjs",
+    "type": "jsother",
+    "documentation": "https://rollupjs.org/guide/en/",
+    "repository": "https://github.com/rollup/rollup"
+  },
+  {
+    "alt": "Stencil",
+    "import": "stenciljs",
+    "type": "jsframe",
+    "documentation": "https://stenciljs.com/",
+    "repository": "https://github.com/ionic-team/stencil"
+  },
+  {
+    "alt": "Vitest",
+    "import": "vitest",
+    "type": "jsother",
+    "documentation": "https://github.com/vitest-dev/vitest",
+    "repository": "https://vitest.dev/"
+  },
+  {
+    "alt": "Playwright",
+    "import": "playwrightweb",
+    "type": "jsother",
+    "documentation": "https://playwright.dev/",
+    "repository": "https://github.com/microsoft/playwright"
+  },
+  {
+    "alt": "Jest",
+    "import": "fbjest",
+    "type": "jsother",
+    "documentation": "https://jestjs.io/",
+    "repository": "https://github.com/facebook/jest"
+  },
+  {
+    "alt": "Cypress",
+    "import": "Cypress_io",
+    "type": "jsother",
+    "hundred": "https://www.youtube.com/watch?v=BQqzfHQkREo",
+    "documentation": "https://vitejs.dev/",
+    "repository": "https://github.com/vitejs/vite"
+  },
+  {
+    "alt": "Storybook",
+    "import": "storybookjs",
+    "type": "jsother",
+    "documentation": "https://storybook.js.org/",
+    "repository": "https://github.com/storybookjs/storybook"
+  },
+  {
+    "alt": "Elm",
+    "import": "elmlang",
+    "type": "js",
+    "documentation": "https://elm-lang.org/",
+    "repository": "https://github.com/elm"
+  },
+  {
+    "alt": "Fastify",
+    "import": "fastify",
+    "type": "jsother",
+    "documentation": "https://www.fastify.io/",
+    "repository": "https://github.com/fastify/fastify"
+  },
+  {
+    "alt": "Strapi",
+    "import": "strapijs",
+    "type": "jsother",
+    "documentation": "https://strapi.io/",
+    "repository": "https://github.com/strapi/strapi"
+  },
+  {
+    "alt": "PHP",
+    "import": "official_php",
+    "type": "backend",
+    "hundred": "https://www.youtube.com/watch?v=a7_WFUlFS94",
+    "documentation": "https://www.php.net/",
+    "repository": "https://github.com/php/php-src"
+  },
+  {
+    "alt": "Dart",
+    "import": "dart_lang",
+    "type": "backend",
+    "hundred": "https://www.youtube.com/watch?v=NrO0CJCbYLA",
+    "documentation": "https://dart.dev/",
+    "repository": "https://github.com/dart-lang/sdk"
+  },
+  {
+    "alt": "Java",
+    "import": "@java",
+    "type": "backend",
+    "hundred": "https://www.youtube.com/watch?v=l9AzO1FMgM8",
+    "documentation": "https://www.java.com/en/"
+  },
+  {
+    "alt": "Kotlin",
+    "import": "kotlin",
+    "type": "backend",
+    "hundred": "https://www.youtube.com/watch?v=xT8oP0wy-A0",
+    "documentation": "https://kotlinlang.org/",
+    "repository" : "https://github.com/JetBrains/kotlin"
+  },
+  {
+    "alt": "Go",
+    "import": "golang",
+    "type": "backend",
+    "hundred": "https://www.youtube.com/watch?v=446E-r0rXHI",
+    "documentation": "https://go.dev/",
+    "repository": "https://github.com/golang/go"
+  },
+  {
+    "alt": "Elixir",
+    "import": "elixirlang",
+    "type": "backend",
+    "hundred": "https://www.youtube.com/watch?v=R7t7zca8SyM",
+    "documentation": "https://elixir-lang.org/",
+    "repository": "https://github.com/elixir-lang/elixir"
+  },
+  {
+    "alt": "Rust",
+    "import": "rustlang",
+    "type": "backend",
+    "hundred": "https://www.youtube.com/watch?v=5C_HPTJg5ek",
+    "documentation": "https://www.rust-lang.org/",
+    "repository": "https://github.com/rust-lang/rust"
+  },
+  {
+    "alt": "Python",
+    "import": "python",
+    "type": "backend",
+    "hundred": "https://www.youtube.com/watch?v=x7X9w_GIm1s",
+    "documentation": "https://www.python.org/",
+    "repository": "https://github.com/python/cpython"
+  },
+  {
+    "alt": "Swift",
+    "import": "SwiftLang",
+    "type": "backend",
+    "hundred": "https://www.youtube.com/watch?v=nAchMctX4YA",
+    "documentation": "https://www.swift.org/",
+    "repository": "https://github.com/apple/swift"
+  },
+  {
+    "alt": "ASP.NET",
+    "import": "aspnet",
+    "type": "backendframe",
+    "documentation": "https://dotnet.microsoft.com/en-us/apps/aspnet",
+    "repository": "https://github.com/dotnet/aspnetcore"
+  },
+  {
+    "alt": "Blazor",
+    "import": "Blazor",
+    "type": "backendframe",
+    "documentation": "https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor",
+    "repository": "https://github.com/dotnet/aspnetcore"
+  },
+  {
+    "alt": "Phoenix",
+    "import": "elixirphoenix",
+    "type": "backendframe",
+    "documentation": "https://www.phoenixframework.org/",
+    "repository": "https://github.com/phoenixframework/phoenix"
+  },
+  {
+    "alt": "Spring",
+    "import": "springframework",
+    "type": "backendframe",
+    "documentation": "https://spring.io/",
+    "repository": "https://github.com/spring-projects/spring-framework"
+  },
+  {
+    "alt": "Laravel",
+    "import": "laravelphp",
+    "type": "backendframe",
+    "hundred": "https://www.youtube.com/watch?v=rIfdg_Ot-LI",
+    "documentation": "https://laravel.com/",
+    "repository": "https://github.com/laravel/framework"
+  },
+  {
+    "alt": "Django",
+    "import": "djangoproject",
+    "type": "backendframe",
+    "documentation": "https://www.djangoproject.com/",
+    "repository": "https://github.com/django/django"
+  },
+  {
+    "alt": "FastAPI",
+    "import": "fastapi",
+    "type": "backendframe",
+    "documentation": "https://fastapi.tiangolo.com/",
+    "repository": "https://github.com/tiangolo/fastapi"
+  },
+  {
+    "alt": "Flask",
+    "import": "pythonflask",
+    "type": "backendframe",
+    "documentation": "https://flask.palletsprojects.com/en/2.2.x/",
+    "repository": "https://github.com/pallets/flask"
+  },
+  {
+    "alt": "Vapor",
+    "import": "codevapor",
+    "type": "backendframe",
+    "documentation": "https://vapor.codes/",
+    "repository": "https://github.com/vapor/vapor"
+  },
+  {
+    "alt": "Ruby on Rails",
+    "import": "@rails",
+    "type": "backendframe",
+    "documentation": "https://rubyonrails.org/",
+    "repository": "https://github.com/rails/rails"
+  }
+]

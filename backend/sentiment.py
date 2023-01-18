@@ -61,6 +61,15 @@ def build_data(pass_query):
 
 def main():
     query_array = [
+        "webpack",
+        "rollupjs",
+        "stenciljs",
+        "vitest",
+        "playwrightweb",
+        "fbjest",
+        "Cypress_io",
+        "storybookjs",
+        "elmlang",
         'supabase',
         'pocketbase',
         'appwrite',
