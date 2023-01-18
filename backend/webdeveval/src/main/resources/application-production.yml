@@ -1,8 +1,0 @@
-spring:
-  data:
-    mongodb:
-      uri : ${MONGODB_URI}
-      database : ${MONGODB_DATABASE}
-    github:
-      api:
-        key: ${GITHUB_API_KEY}

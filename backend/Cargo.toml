@@ -1,0 +1,27 @@
+[package]
+name = "testy"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tokio = { version = "1", features = ["full"] }
+
+# for scraper
+reqwest = { version = "0.11", features = ["blocking", "json"] }
+scraper = "0.14.0"
+# rusqlite = { version = "0.28.0", features = ["bundled"] }
+
+# for mongo db
+mongodb = "2.3.1"
+futures = "0.3"
+
+# for api
+axum = { version = "0.6.2", features = ["headers"] }
+tower-http = { version = "0.3.5", features = ["cors"] }
+
+# for json serialization, deserialization, writing to the sqlite database
+serde_json = "1.0"
+serde = { version = "1.0", features = ["derive"] }
+
+# environmental variables
+dotenvy = "0.15.6"
