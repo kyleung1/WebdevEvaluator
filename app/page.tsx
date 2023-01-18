@@ -17,9 +17,9 @@ export default function Home() {
               <p className="text-white w-[1050px] text-lg">
                 The world of web development is changing rapidly. Javascript, WebAssembly, and other tooling have
                 caused rapid development and change in the ecosystem. There are many notable surveys, like the ones
-                from Stack Overflow or State of Javascript/CSS/other language respective surveys. We wanted to look at
-                Twitter data to draw other conclusions. As we know, Twitter is the home of hot takes and even hotter
-                takes. Through sentiment analysis, we illustrate how Twitter feels about our favorite web technologies.
+                from Stack Overflow or State of Javascript/CSS/etc. We wanted to look at Twitter data to draw other conclusions.
+                As we know, Twitter is the home of hot takes and even hotter takes. Through sentiment analysis, we illustrate
+                how Twitter feels about our favorite web technologies.
               </p>
             </div>
             <h2 className="font-bold mb-4 text-white text-3xl mt-20">Technology</h2>

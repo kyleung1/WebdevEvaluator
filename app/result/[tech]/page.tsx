@@ -48,19 +48,14 @@ export default function Results ({params: {tech}}: PageProps)  {
         function randTweets(sentiments: RootObjects) {
             let randPosTweetIndex = -1;
             let randNegTweetIndex = -1;
-            let randomPos = Math.floor(Math.random() * sentiments.length);
-            let randomNeg = Math.floor(Math.random() * sentiments.length);
             while (randPosTweetIndex === -1 || randNegTweetIndex === -1) {
+                let randomPos = Math.floor(Math.random() * sentiments.length);
+                let randomNeg = Math.floor(Math.random() * sentiments.length);
                 if(sentiments[randomPos].Sentiment === "positive") {
                     randPosTweetIndex = randomPos;
-                } else {
-                    randomPos = Math.floor(Math.random() * sentiments.length);
                 }
-
                 if(sentiments[randomNeg].Sentiment === "negative") {
                     randNegTweetIndex = randomNeg;
-                } else {
-                    randomNeg = Math.floor(Math.random() * sentiments.length);
                 }
             }
             setPosTweet(sentiments[randPosTweetIndex].Tweet)
@@ -76,14 +71,7 @@ export default function Results ({params: {tech}}: PageProps)  {
             return twentyWords;
         }
 
-        function pieChart(data: Array<Percentages>, div: string, titleText: string) {
-            const title = document.createElement("h2");
-            title.textContent = titleText + " of Tweets Containing: " + techSplit[1];
-            title.classList.add("text-indigo-500");
-            title.classList.add("text-xl");
-            title.classList.add("text-center");
-            document.getElementById(div)?.appendChild(title);
-
+        function pieChart(data: Array<Percentages>, div: string) {
             const width = 500;
             const height = 500;
             const radius = Math.min(width, height) / 2;
@@ -122,13 +110,6 @@ export default function Results ({params: {tech}}: PageProps)  {
         }
 
         function barGraph(data: Array<[string, number]>) {
-            const title = document.createElement("h2");
-            title.textContent = "Word Count in Tweets Containing: " + techSplit[1];
-            title.classList.add("text-indigo-500");
-            title.classList.add("text-xl");
-            title.classList.add("text-center");
-            document.getElementById("bar")?.appendChild(title);
-
             const width = 500;
             const height = 300;
             const margin = { top: 20, right: 20, bottom: 80, left: 40 };
@@ -172,30 +153,20 @@ export default function Results ({params: {tech}}: PageProps)  {
               .attr("dx", "-.8em")
               .attr("dy", ".15em")
               .attr("transform", "rotate(-65)");
-
-            const center = selectAll("svg").classed("mx-auto", true);
-            const barText = selectAll("text").style("fill", "white");
         }
 
         async function init () {
             const sentiments = await getCsv(techSplit[0]);
-            let pos = 0;
-            let neg = 0;
-            let neu = 0;
+            let sentimentValues = [0, 0]
             for (let i = 0; i < sentiments.length; i++) {
-                if (sentiments[i].Sentiment === "positive") {
-                    pos++;
-                } else if (sentiments[i].Sentiment === "negative") {
-                    neg++;
-                } else {
-                    neu++;
-                };
+                if (sentiments[i].Sentiment === "positive") sentimentValues[0]++;
+                else sentimentValues[1]++;
             };
             const sentimentPosNeg: Array<Percentages> = [
-                {label: "Positive", value: pos},
-                {label: "Negative", value: neg}
+                {label: "Positive", value: sentimentValues[0]},
+                {label: "Negative", value: sentimentValues[1]}
             ]
-            pieChart(sentimentPosNeg, "pie", "Ratio Between Positive and Negative Sentiments");
+            pieChart(sentimentPosNeg, "pie");
             randTweets(sentiments);
             const twentyWords = await get20Words(techSplit[0]);
             barGraph(twentyWords);
@@ -212,11 +183,13 @@ export default function Results ({params: {tech}}: PageProps)  {
                     <p className="mx-10 text-white">{posTweet}</p>
                     <p className="mx-10 text-white">{negTweet}</p>
                 </div>
+                <h2 className="text-indigo-500 text-xl text-center">Ratio Between Positive and Negative Sentiments of Tweets Containing: {techSplit[1]}</h2>
                 <div id="pie" className="my-16"></div>
                 <div id="waffle" className="mx-auto mb-16">
                     <h2 className='text-indigo-500 text-xl text-center'>Sentiment of Tweets Containing {techSplit[1]}</h2>
                     <Image src={`${GITHUB}waffle/${techSplit[0]}.png`} alt={techSplit[1]} width={480} height={480} />
                 </div>
+                <h2 className="text-indigo-500 text-xl text-center">Word Count in Tweets Containing: {techSplit[1]}</h2>
                 <div id="bar" className="mb-16"></div>
             </div>
         </div>
