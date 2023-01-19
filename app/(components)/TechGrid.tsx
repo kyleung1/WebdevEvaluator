@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
-import tech from "../../backend/techs.json";
+import tech from "../../assets/techs.json";
 
 interface Props {
   cat: string
@@ -13,13 +13,13 @@ export default function TechGrid({cat}: Props) {
           if (tech.type === cat)
             return (
               <Link
-                key={tech.alt as string}
-                href={`/result/${tech.import}-${tech.alt}`}
+                key={tech.import as string}
+                href={`/result/${tech.import}`}
               >
                 <Image
                   className="m-4"
-                  src={`/icons/${tech.import}.png`}
-                  alt={tech.alt}
+                  src={`/icons/${tech.import}.webp`}
+                  alt={tech.import}
                   width={50}
                   height={50}
                 />

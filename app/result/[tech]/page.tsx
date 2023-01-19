@@ -1,10 +1,10 @@
 "use client";
 
-import { usePathname } from 'next/navigation';
-import { scaleLinear, scaleBand ,select, axisBottom, axisLeft, selectAll, scaleOrdinal, schemeCategory10, pie, arc, style } from 'd3';
 import { useEffect, useState } from 'react';
-import Link from 'next/link';
 import Image from 'next/image';
+import pieChart from './createPie';
+import barGraph from './createBar';
+import { srcDoc } from '../../(components)/longString';
 type PageProps = {
     params: {
         tech: string;
@@ -22,30 +22,19 @@ interface RootObject {
     Confidence: string;
 };
 
-interface RootObjects extends Array<RootObject>{};
-
-interface Percentages {
-    label: string;
-    value: number;
-}
-const GITHUB = "https://raw.githubusercontent.com/kyleung1/WebdevEvaluator/main/backend/";
-
 export default function Results ({params: {tech}}: PageProps)  {
-
     const [posTweet, setPosTweet] = useState('')
     const [negTweet, setNegTweet] = useState('')
-    const pathName = usePathname()
-
     const techSplit = tech.split("-");
 
     useEffect(() => {
         async function getCsv(tech: string) {
-            const res = await fetch(GITHUB + `json/${tech}.json`);
-            const tweets:RootObjects = await res.json();
+            const res = await fetch(`https://raw.githubusercontent.com/kyleung1/WebdevEvaluator/main/assets/json/${tech}.json`);
+            const tweets: RootObject[] = await res.json();
             return tweets;
         }
 
-        function randTweets(sentiments: RootObjects) {
+        function randTweets(sentiments: RootObject[]) {
             let randPosTweetIndex = -1;
             let randNegTweetIndex = -1;
             while (randPosTweetIndex === -1 || randNegTweetIndex === -1) {
@@ -64,95 +53,11 @@ export default function Results ({params: {tech}}: PageProps)  {
 
 
         async function get20Words(tech: string) {
-            const res = await fetch(GITHUB + `wordcounts/${tech}.json`);
+            const res = await fetch(`https://raw.githubusercontent.com/kyleung1/WebdevEvaluator/main/assets/wordcounts/${tech}.json`);
             const counts:Record<string, number> = await res.json();
             let countsList: Array<[string, number]> = Object.entries(counts).sort((a, b) => b[1] - a[1]);
             let twentyWords: Array<[string, number]> = countsList.slice(0,20);
             return twentyWords;
-        }
-
-        function pieChart(data: Array<Percentages>, div: string) {
-            const width = 500;
-            const height = 500;
-            const radius = Math.min(width, height) / 2;
-            const color = scaleOrdinal(schemeCategory10);
-            type Data = {
-                label: string
-                value: number
-            }
-            const pieArc = arc<d3.PieArcDatum<Data>>()
-                .outerRadius(radius - 10)
-                .innerRadius(0);
-
-            const piechart = pie<Data>().sort(null).value((d) => d.value);
-
-            const svg = select("#" + div)
-                .append("svg")
-                .attr("width", width)
-                .attr("height", height)
-                .append("g")
-                .attr("transform", `translate(${width / 2},${height / 2})`);
-
-            const g = svg.selectAll(".arc")
-            .data(piechart(data))
-            .enter()
-            .append("g")
-            .attr("class", "arc");
-
-            g.append("path")
-            .attr("d", pieArc)
-            .style("fill", d => color(d.data.label));
-
-            g.append("text")
-            .attr("transform", d => `translate(${pieArc.centroid(d)})`)
-            .attr("dy", "0.35em")
-            .text(d => d.data.label);
-        }
-
-        function barGraph(data: Array<[string, number]>) {
-            const width = 500;
-            const height = 300;
-            const margin = { top: 20, right: 20, bottom: 80, left: 40 };
-
-            const x = scaleBand()
-            .rangeRound([0, width])
-            .padding(0.1);
-
-            const y = scaleLinear().rangeRound([height, 0]);
-
-            x.domain(data.map(d => d[0]));
-            y.domain([data[19][1], data[0][1]]);
-
-            const svg = select('#bar')
-                .append('svg')
-                .attr('width', width + margin.left + margin.right)
-                .attr('height', height + margin.top + margin.bottom)
-                .append('g')
-                .attr('transform', `translate(${margin.left},${margin.top})`);
-
-            svg.append('g')
-                .attr('class', 'axis axis--x')
-                .attr('transform', `translate(0,${height})`)
-                .call(axisBottom(x));
-
-            svg.append('g').attr('class', 'axis axis--y').call(axisLeft(y));
-
-            svg.selectAll('.bar')
-              .data(data)
-              .enter()
-              .append('rect')
-              .attr('class', 'bar')
-              .attr('x', (d: [string, number]) => (x(d[0]) as number))
-              .attr('y', (d: [string, number]) => y(d[1]))
-              .attr('width', x.bandwidth())
-              .attr('height', (d: [string, number]) => height - y(d[1]))
-              .style("fill", "steelblue");
-
-            svg.selectAll(".axis--x text")
-              .style("text-anchor", "end")
-              .attr("dx", "-.8em")
-              .attr("dy", ".15em")
-              .attr("transform", "rotate(-65)");
         }
 
         async function init () {
@@ -162,7 +67,7 @@ export default function Results ({params: {tech}}: PageProps)  {
                 if (sentiments[i].Sentiment === "positive") sentimentValues[0]++;
                 else sentimentValues[1]++;
             };
-            const sentimentPosNeg: Array<Percentages> = [
+            const sentimentPosNeg: Array<{label: string; value: number;}> = [
                 {label: "Positive", value: sentimentValues[0]},
                 {label: "Negative", value: sentimentValues[1]}
             ]
@@ -174,23 +79,30 @@ export default function Results ({params: {tech}}: PageProps)  {
 
         init();
     }, [])
+
     return (
-        <div>
-            <h1 className="my-16 font-extrabold text-3xl sm:text-5xl lg:text-6xl tracking-tight text-center text-white">{techSplit[1]}</h1>
-            <div className="grid grid-cols-2">
-                <div className="my-16">
+        <div className="flex flex-col items-center max-w-2xl text-white">
+            <div className="flex items-center justify-center mt-16">
+            <h1 className="m-4 font-extrabold text-3xl sm:text-5xl lg:text-6xl tracking-tight text-center">{techSplit[1]}</h1>
+            <Image src={`/icons/${techSplit[0]}.webp`} alt={techSplit[1]} width={100} height={100} />
+            </div>
+            <p>Website: </p>
+            <p>Repository: <span>api call</span> stars</p>
+            <iframe className="mt-6 mb-6" width="350" height="197" srcDoc={srcDoc("vdiYtiKD8eI")} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+            <button className="bg-indigo-500 rounded-lg">click me to replace me with linkedin count so usestate + api call</button>
+            <h2 className="text-white text-xl mt-16">Sentiment of Tweets</h2>
+            <div className="my-16 grid grid-cols-2 gap-16 items-center">
+                <div id="pie"></div>
+                <Image src={`/waffle/${techSplit[0]}.png`} alt={techSplit[1]} width={400} height={400} />
+            </div>
+            <div className="my-16">
+                    <h2 className="text-white text-xl text-center">Word Frequency {techSplit[1]}</h2>
+                    <div id="bar" className="mb-16"></div>
+                </div>
+            <div className="my-16">
                     <h2 className="text-xl text-center text-indigo-500">Random Positive and Negative Tweets</h2>
-                    <p className="mx-10 text-white">{posTweet}</p>
-                    <p className="mx-10 text-white">{negTweet}</p>
-                </div>
-                <h2 className="text-indigo-500 text-xl text-center">Ratio Between Positive and Negative Sentiments of Tweets Containing: {techSplit[1]}</h2>
-                <div id="pie" className="my-16"></div>
-                <div id="waffle" className="mx-auto mb-16">
-                    <h2 className='text-indigo-500 text-xl text-center'>Sentiment of Tweets Containing {techSplit[1]}</h2>
-                    <Image src={`${GITHUB}waffle/${techSplit[0]}.png`} alt={techSplit[1]} width={480} height={480} />
-                </div>
-                <h2 className="text-indigo-500 text-xl text-center">Word Count in Tweets Containing: {techSplit[1]}</h2>
-                <div id="bar" className="mb-16"></div>
+                    <p className="my-10 text-white">{posTweet}</p>
+                    <p className="my-10 text-white">{negTweet}</p>
             </div>
         </div>
     )

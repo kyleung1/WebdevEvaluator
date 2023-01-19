@@ -5,7 +5,7 @@ export default function ResultLayout({
 }) {
   return (
     <>
-      <div className="flex-1 bg-slate-800 border-t border-black">
+      <div className="flex flex-col items-center flex-1 bg-slate-800 border-t border-black">
         {children}
       </div>
     </>

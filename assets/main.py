@@ -44,8 +44,8 @@ def build_data(pass_query):
 
     tweets_df['Cleaned Tweet'] = tweets_df['Tweet'].apply(cleanTweets)
     tweets_df['Sentiment'], tweets_df['Confidence'] = list(zip(*tweets_df.apply(lambda x: use_transformer(x['Cleaned Tweet']), axis=1)))
-    tweets_df.to_json(f"{query}.json", orient="records", lines=True)
-    tweets_df.to_csv(f"{query}.csv", index=False)
+    tweets_df.to_json(f"{query.replace('#', '')}.json", orient="records", lines=True)
+    tweets_df.to_csv(f"{query.replace('#', '')}.csv", index=False)
     print('Done with ' + query)
 
 def generate_wordclouds():
@@ -63,7 +63,6 @@ def generate_wordclouds():
                 file.write(json_object)
             # wordcloud = WordCloud().generate_from_frequencies(word_counts)
             # wordcloud.to_file(f'./wordcloud/{file_name}.png')
-            # print(file + ' done')
 
 def waffle_maker():
     for file in os.listdir('csv'):
@@ -78,41 +77,27 @@ def waffle_maker():
 
 def main():
     query_array = [ "vitest", "playwrightweb", "fbjest", "Cypress_io", "storybookjs",
-        'supabase', 'pocketbase', 'appwrite', 'awsamplify',
-        'cockroachdb', ['planetscale', 'planetscaledata'],
+        'supabase', 'pocketbase', 'appwrite', 'awsamplify', 'cockroachdb', ['planetscale', 'planetscaledata'],
         ['@code', 'visualstudiocode', 'vsc', 'vs code'], 'VisualStudio',
-        ['intellijidea', 'intellij'], "pycharm", "phpstorm",
-        "neovim",
+        ['intellijidea', 'intellij'], "pycharm", "phpstorm", "neovim",
         ["javascript", "js", "ecmascript"], ["typescript", "ts"], "elmlang",
         ["nodejs", "node"], "deno_land",
-        "react js", ["angular js", "@angular"], ["vue", "vuejs", "vue3"],
-        ["svelte", "sveltejs"], "solid js", "alpine js", "stenciljs",
-        ["lit js", "buildWithLit"], ["qwik", "qwik js", "QwikDev", "qwikcity"],
-        "next js", ["astrodotbuild", "astro js"], ["remix js", "remix_run"],
-        ["express js", "UseExpressJS"], ["fastify", "fastifyjs"],
-        ["nestframework", "nest js"], ["nuxt_js", "nuxt"],
+        "react js", ["angular js", "@angular"], ["vue", "vuejs", "vue3"], ["svelte", "sveltejs"], "solid js", "alpine js",
+        "stenciljs", ["lit js", "buildWithLit"], ["qwik", "qwik js", "QwikDev", "qwikcity"],
+        "next js", ["astrodotbuild", "astro js"], ["remix js", "remix_run"], ["nuxt_js", "nuxt"],
+        ["express js", "UseExpressJS"], ["fastify", "fastifyjs"], ["nestframework", "nest js"],
         ["strapijs", "strapi"], "jquery", "vite_js", "webpack", "rollupjs",
-        ["python", "python3", "python2", "ThePSF"], "pythonflask",
-        "djangoproject", "fastapi",
-        ["html5", "html"], "css", "markdown",
-        "SassCSS", "getbootstrap",  "tailwindcss",
+        ["python", "python3", "python2", "ThePSF"], "pythonflask", "djangoproject", "fastapi",
+        ["html5", "html"], "css", "markdown", "SassCSS", "getbootstrap",  "tailwindcss",
         ["@java", "#java"], 'kotlin', ["springframework", "spring boot"],
-        ["aspnet", "ASP.NET"], "#Blazor",
-        ["official_php", "php"], ["laravelphp", "Laravel"],
-        "golang", "rustlang",
-        "dart_lang", ["FlutterDev", "Flutter framework"],
-        ["@rails", "ruby on rails"],
-        "SwiftLang", "codevapor",
-        "elixirlang", "elixirphoenix",
-        "mysql", "PostgreSQL", "SQLite", "mariadb",
-        ["SQLServer", "microsoft sql server"], ["azure", "Microsoft Azure"],
+        ["aspnet", "ASP.NET"], "#Blazor", ["official_php", "php"], ["laravelphp", "Laravel"],
+        "golang", "rustlang", "dart_lang", ["FlutterDev", "Flutter framework"],
+        ["@rails", "ruby on rails"], "SwiftLang", "codevapor", "elixirlang", "elixirphoenix",
+        "mysql", "PostgreSQL", "SQLite", "mariadb", ["SQLServer", "microsoft sql server"],
         "MongoDB", ["Redisinc", "redis"],
-        ["awscloud", "AWS", "amazon web services"],
-        ["googlecloud", "Google Cloud Platform"], ["Firebase", "Firestore"],
-        "heroku", "digitalocean",
-        ["@Docker", "#Docker"], ["kubernetesio", "kubernetes"],
-        "github", "Git",
-        "powershell"]
+        ["azure", "Microsoft Azure"], ["awscloud", "AWS", "amazon web services"],
+        ["googlecloud", "Google Cloud Platform"], ["Firebase", "Firestore"],"heroku", "digitalocean",
+        ["@Docker", "#Docker"], ["kubernetesio", "kubernetes"], "github", "Git", "powershell"]
 
     for item in query_array:
         build_data(item)
