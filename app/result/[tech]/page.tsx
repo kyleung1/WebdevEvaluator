@@ -65,7 +65,7 @@ export default function Results ({params: {tech}}: PageProps)  {
             let sentimentValues = [0, 0]
             for (let i = 0; i < sentiments.length; i++) {
                 if (sentiments[i].Sentiment === "positive") sentimentValues[0]++;
-                else sentimentValues[1]++;
+                if (sentiments[i].Sentiment === "negative") sentimentValues[1]++;
             };
             const sentimentPosNeg: Array<{label: string; value: number;}> = [
                 {label: "Positive", value: sentimentValues[0]},
