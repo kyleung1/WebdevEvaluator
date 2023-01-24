@@ -1,0 +1,86 @@
+"vitest"
+"playwrightweb"
+"fbjest"
+"Cypress_io"
+"storybookjs"
+"supabase"
+"pocketbase"
+"appwrite"
+"awsamplify"
+"cockroachdb"
+["planetscale", "planetscaledata"]
+["@code", "visualstudiocode", "vsc", "vs code"]
+"VisualStudio"
+["intellijidea", "intellij"]
+"pycharm"
+"phpstorm"
+"neovim"
+["javascript", "js", "ecmascript"]
+["typescript", "ts"]
+"elmlang"
+["nodejs", "node"]
+"deno_land"
+"react js"
+["angular js", "@angular"]
+["vue", "vuejs", "vue3"]
+["svelte", "sveltejs"]
+"solid js"
+"alpine js"
+"stenciljs"
+["lit js", "buildWithLit"]
+["qwik", "qwik js", "QwikDev", "qwikcity"]
+"next js"
+["astrodotbuild", "astro js"]
+["remix js", "remix_run"]
+["nuxt_js", "nuxt"]
+["express js", "UseExpressJS"]
+["fastify", "fastifyjs"]
+["nestframework", "nest js"]
+["strapijs", "strapi"]
+"jquery"
+"vite_js"
+"webpack"
+"rollupjs"
+["python", "python3", "python2", "ThePSF"]
+"pythonflask"
+"djangoproject", "fastapi"
+["html5", "html"]
+"css"
+"markdown"
+"SassCSS"
+"getbootstrap"
+"tailwindcss"
+["@java", "#java"]
+"kotlin"
+["springframework", "spring boot"]
+["aspnet", "ASP.NET"]
+"#Blazor"
+["official_php", "php"]
+["laravelphp", "Laravel"]
+"golang"
+"rustlang"
+"dart_lang"
+["FlutterDev", "Flutter framework"]
+["@rails", "ruby on rails"]
+"SwiftLang"
+"codevapor"
+"elixirlang"
+"elixirphoenix"
+"mysql"
+"PostgreSQL"
+"SQLite"
+"mariadb"
+["SQLServer", "microsoft sql server"]
+"MongoDB"
+["Redisinc", "redis"]
+["azure", "Microsoft Azure"]
+["awscloud", "AWS", "amazon web services"]
+["googlecloud", "Google Cloud Platform"]
+["Firebase", "Firestore"]
+"heroku"
+"digitalocean",
+["@Docker", "#Docker"]
+["kubernetesio", "kubernetes"]
+"github"
+"Git"
+"powershell"
