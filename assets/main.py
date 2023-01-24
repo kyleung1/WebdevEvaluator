@@ -5,9 +5,6 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from transformers import pipeline
-from wordcloud import WordCloud
-import matplotlib.pyplot as plt
-from pywaffle import Waffle
 # nltk.download('stopwords')
 # nltk.download('wordnet')
 # nltk.download('omw-1.4')
