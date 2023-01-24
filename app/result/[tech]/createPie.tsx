@@ -30,6 +30,6 @@ export default function pieChart(data: Array<{label: string; value: number;}>, d
 
   g.append("text")
   .attr("transform", d => `translate(${pieArc.centroid(d)})`)
-  .attr("dy", "-0.8em")
+  .style("text-anchor", "middle")
   .text(d => d.data.label);
 }
