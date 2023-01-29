@@ -50,7 +50,7 @@ pub async fn get_github_stars(tech: &Document) -> i32 {
 
             let stargazers: i32 = match response.json::<GithubData>().await {
                 Ok(json) => json.data.repository.stargazerCount,
-                Err(e) => 0,
+                Err(_e) => 0,
             };
             return stargazers;
         }

@@ -7,10 +7,13 @@ use axum::{
     Router,
 };
 
-use mongodb::{bson::{doc, from_bson}, bson::{Document, to_bson}, Collection};
+use mongodb::{bson::doc, bson::Document, Collection};
 use tower_http::cors::{Any, CorsLayer};
 
-use crate::{db::mongo_client::mongos, jobs::{jobs::get_jobs, github::get_github_stars}};
+use crate::{
+    db::mongo_client::mongos,
+    jobs::{github::get_github_stars, jobs::get_jobs},
+};
 
 pub async fn create_api() -> Router {
     let client = mongos().await;
@@ -37,65 +40,98 @@ async fn get_all_tweets(
     Path(tech): Path<String>,
     headers: HeaderMap,
 ) -> Response<Body> {
+    let cursor = find_document(&collection, &tech, headers).await;
+    match cursor {
+        FoundOrError::ErrorResp(response) => return response.into(),
+        FoundOrError::Document(mut document) => {
+            let stars = get_github_stars(&document).await;
+            document.insert("stars", stars);
+
+            // This substantially increases response time
+            // let linkedin = get_jobs(cursor.get("friendly_name").unwrap().to_string()).await.unwrap();
+            // cursor.insert("jobs", linkedin);
+
+            // If something is found, it should always be valid
+            match serde_json::to_string(&document) {
+                Ok(body) => {
+                    return Response::builder()
+                        .status(200)
+                        .body(Body::from(body))
+                        .unwrap()
+                }
+                Err(_e) => {
+                    return Response::builder()
+                        .status(400)
+                        .body(Body::from(format!(
+                            "Something went wrong with your request for {}.",
+                            &tech
+                        )))
+                        .unwrap()
+                }
+            };
+        }
+    }
+}
+
+async fn get_linkedin_jobs(
+    State(collection): State<Collection<Document>>,
+    Path(tech): Path<String>,
+    headers: HeaderMap,
+) -> Response<Body> {
+    let cursor = find_document(&collection, &tech, headers).await;
+    match cursor {
+        FoundOrError::ErrorResp(response) => return response.into(),
+        FoundOrError::Document(document) => {
+            let search_string = document.get("friendly_name").unwrap();
+            let linkedin = get_jobs(search_string.to_string()).await.unwrap();
+            Response::builder()
+                .status(200)
+                .body(Body::from(linkedin))
+                .unwrap()
+        }
+    }
+}
+
+enum FoundOrError {
+    ErrorResp(Response<Body>),
+    Document(Document),
+}
+
+async fn find_document(
+    collection: &Collection<Document>,
+    tech: &str,
+    headers: HeaderMap,
+) -> FoundOrError {
     let api_key_checker = check_api_key(headers);
     if api_key_checker.contains("Unauthorized") {
-        return Response::builder()
-            .status(401)
-            .body(Body::from(api_key_checker))
-            .unwrap();
+        return FoundOrError::ErrorResp(
+            Response::builder()
+                .status(401)
+                .body(Body::from(api_key_checker))
+                .unwrap(),
+        );
     }
     let filter = doc! { "name": &tech };
     let cursor = match collection.find_one(filter, None).await {
         Ok(cursor) => cursor,
         Err(e) => {
-            return Response::builder()
-                .status(404)
-                .body(Body::from(format!("Could not find {} on server.", &tech)))
-                .unwrap()
+            return FoundOrError::ErrorResp(
+                Response::builder()
+                    .status(404)
+                    .body(Body::from(format!("Could not find {} on server.", &tech)))
+                    .unwrap(),
+            );
         }
     };
     if cursor.is_none() {
-        return Response::builder()
-            .status(404)
-            .body(Body::from(format!("Could not find {} on server.", &tech)))
-            .unwrap()
+        return FoundOrError::ErrorResp(
+            Response::builder()
+                .status(404)
+                .body(Body::from(format!("Could not find {} on server.", &tech)))
+                .unwrap(),
+        );
     }
-    let mut cursor = cursor.unwrap();
-    let stars = get_github_stars(&cursor).await;
-    // If something is found, it should always be valid
-    cursor.insert("stars", stars);
-    match serde_json::to_string(&cursor) {
-        Ok(body) => {
-            return Response::builder()
-                .status(200)
-                .body(Body::from(body))
-                .unwrap()
-        }
-        Err(e) => {
-            return Response::builder()
-                .status(400)
-                .body(Body::from(format!(
-                    "Something went wrong with your request for {}.",
-                    &tech
-                )))
-                .unwrap()
-        }
-    };
-}
-
-async fn get_linkedin_jobs(Path(tech): Path<String>, headers: HeaderMap) -> Response<Body> {
-    let api_key_checker = check_api_key(headers);
-    if api_key_checker.contains("Unauthorized") {
-        return Response::builder()
-            .status(401)
-            .body(Body::from(api_key_checker))
-            .unwrap();
-    }
-    let linkedin = get_jobs(tech).await.unwrap();
-    Response::builder()
-        .status(200)
-        .body(Body::from(linkedin))
-        .unwrap()
+    return FoundOrError::Document(cursor.unwrap());
 }
 
 fn check_api_key(headers: HeaderMap) -> String {
