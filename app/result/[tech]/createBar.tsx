@@ -1,6 +1,6 @@
 import { axisBottom, axisLeft, scaleBand, scaleLinear, select } from "d3";
 
-export default function barGraph(data: Array<[string, number]>) {
+export default function createBar(data: Array<[string, number]>) {
   const width = 500;
   const height = 300;
   const margin = { top: 20, right: 20, bottom: 80, left: 40 };

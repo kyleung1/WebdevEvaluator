@@ -1,6 +1,6 @@
 import { select, scaleOrdinal, schemeCategory10, pie, arc } from 'd3';
 
-export default function pieChart(data: Array<{label: string; value: number;}>, div: string) {
+export default function createPie(data: Array<{label: string; value: number;}>, div: string) {
   const width = 300;
   const height = 300;
   const radius = Math.min(width, height) / 2;
