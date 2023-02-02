@@ -1,8 +1,20 @@
 import Image from 'next/image';
+import { setSyntheticLeadingComments } from 'typescript';
 import { srcDoc } from '../../(components)/longString';
 import Visualizations from './Visualizations';
 
 interface RootObject {
+    _id: {$oid: string};
+    name: string;
+    friendly_name: string;
+    fireship: string;
+    docs: string;
+    repo: string;
+    tweets: string;
+    stars: number;
+}
+
+interface Tweets{
     Date: string;
     Tweet: string;
     User: string;
@@ -13,12 +25,16 @@ interface RootObject {
     Confidence: string;
 };
 
-async function getCSV(tech: string) {
-    const res = await fetch(`https://raw.githubusercontent.com/kyleung1/WebdevEvaluator/main/assets/json/${tech}.json`);
+async function getData(tech: string) {
+    const res = await fetch(`https://rustwde.up.railway.app/tweets/${tech}`, {
+        headers: {
+            'API_Key': `${process.env.RUSTKEY}`
+        }
+    });
     return (await res.json() as RootObject[]);
 }
 
-function getRandomTweets(sentiments: RootObject[]) {
+function getRandomTweets(sentiments: Tweets[]) {
     let randPosTweetIndex = -1;
     let randNegTweetIndex = -1;
     while (randPosTweetIndex === -1 || randNegTweetIndex === -1) {
@@ -43,9 +59,10 @@ async function get20Words(tech: string) {
 }
 
 export default async function Results ({params: {tech}}: { params: { tech: string }})  {
-    const techSplit = tech.split("-");
 
-    const sentiments = await getCSV(tech);
+    const data = await getData(tech);
+    const sentiments: Tweets = await JSON.parse(data.tweets);
+    console.log(sentiments)
     let sentimentValues = [0, 0]
     for (let i = 0; i < sentiments.length; i++) {
         if (sentiments[i].Sentiment === "positive") sentimentValues[0]++;
@@ -57,13 +74,13 @@ export default async function Results ({params: {tech}}: { params: { tech: strin
     ]
 
     const [positiveTweet, negativeTweet] = getRandomTweets(sentiments);
-    const twentyWords = await get20Words(techSplit[0]);
+    const twentyWords = await get20Words(tech);
 
     return (
         <div className="flex flex-col items-center max-w-2xl text-white">
             <div className="flex items-center justify-center mt-16">
-            <h1 className="m-4 font-extrabold text-3xl sm:text-5xl lg:text-6xl tracking-tight text-center">{techSplit[1]}</h1>
-            <Image src={`/icons/${techSplit[0]}.webp`} alt={techSplit[1]} width={100} height={100} />
+            <h1 className="m-4 font-extrabold text-3xl sm:text-5xl lg:text-6xl tracking-tight text-center">{tech}</h1>
+            <Image src={`/icons/${tech}.webp`} alt={tech} width={100} height={100} />
             </div>
             <p>Website: </p>
             <p>Repository: <span>api call</span> stars</p>
