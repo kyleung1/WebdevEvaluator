@@ -1,5 +1,4 @@
 import Image from 'next/image';
-import { setSyntheticLeadingComments } from 'typescript';
 import { srcDoc } from '../../(components)/longString';
 import Visualizations from './Visualizations';
 
@@ -78,14 +77,15 @@ export default async function Results ({params: {tech}}: { params: { tech: strin
 
     return (
         <div className="flex flex-col items-center max-w-2xl text-white">
-            <div className="flex items-center justify-center mt-16">
-            <h1 className="m-4 font-extrabold text-3xl sm:text-5xl lg:text-6xl tracking-tight text-center">{tech}</h1>
-            <Image src={`/icons/${tech}.webp`} alt={tech} width={100} height={100} />
+            <div className="mb-8 flex items-center justify-center mt-16">
+            <h1 className="m-4 font-extrabold text-3xl sm:text-5xl lg:text-6xl tracking-tight text-center">{data.friendly_name}</h1>
+            <Image src={`/icons/${tech}.webp`} alt={data.friendly_name} width={100} height={100} />
             </div>
-            <p>Website: </p>
-            <p>Repository: <span>api call</span> stars</p>
-            <iframe className="mt-6 mb-6" width="350" height="197" srcDoc={srcDoc("vdiYtiKD8eI")} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
-            <button className="bg-indigo-500 rounded-lg">click me to replace me with linkedin count so usestate + api call</button>
+            <div className='flex gap-4 mb-4'>
+            {data.docs ? <a href={data.docs}>Website</a> : null}
+            {data.repo ? <a href={data.repo}>Repository</a> : null}
+            </div>
+            {data.fireship ? <iframe className="mt-6 mb-6" width="350" height="197" srcDoc={srcDoc(data.fireship.replace('https://www.youtube.com/watch?v=', ''))} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe> : null}
             <h2 className="text-white text-xl mt-16">Sentiment of Tweets</h2>
             <Visualizations barData={twentyWords} pieData={sentimentPosNeg} name={tech} friendly_name={"Test"} />
             <div className="my-16">

@@ -234,7 +234,7 @@
     "repository": "https://github.com/sass/sass"
   },
   {
-    "alt": "Boostrap",
+    "alt": "Bootstrap",
     "import": "getbootstrap",
     "type": "web",
     "documentation": "https://getbootstrap.com/",
@@ -247,6 +247,27 @@
     "hundred": "https://www.youtube.com/watch?v=mr15Xzb1Ook",
     "documentation": "https://tailwindcss.com/",
     "repository": "https://github.com/tailwindlabs/tailwindcss"
+  },
+  {
+    "alt": "Material UI",
+    "import": "MUI_hq",
+    "type": "web",
+    "documentation": "https://mui.com/",
+    "repository": "https://github.com/mui/material-ui"
+  },
+  {
+    "alt": "Vuetify",
+    "import": "vuetifyjs",
+    "type": "web",
+    "documentation": "https://vuetifyjs.com/en/",
+    "repository": "https://github.com/vuetifyjs/vuetify"
+  },
+  {
+    "alt": "GraphQL",
+    "import": "GraphQL",
+    "type": "web",
+    "documentation": "https://graphql.org/",
+    "repository": "https://github.com/graphql/graphql-spec"
   },
   {
     "alt": "JavaScript",
@@ -327,6 +348,13 @@
     "repository": "https://github.com/solidjs/solid"
   },
   {
+    "alt": "Preact",
+    "import": "preactjs",
+    "type": "jsframe",
+    "documentation": "https://preactjs.com/",
+    "repository": "https://github.com/preactjs/preact"
+  },
+  {
     "alt": "Qwik",
     "import": "qwik",
     "type": "jsframe",
@@ -340,6 +368,13 @@
     "type": "jsframe",
     "documentation": "https://lit.dev/",
     "repository": "https://github.com/lit/lit"
+  },
+  {
+    "alt": "EmberJS",
+    "import": "emberjs",
+    "type": "jsframe",
+    "documentation": "https://emberjs.com/",
+    "repository": "https://github.com/emberjs/ember.js"
   },
   {
     "alt": "Next.js",
@@ -380,6 +415,22 @@
     "hundred": "https://www.youtube.com/watch?v=gxBkghlglTg",
     "documentation": "https://astro.build/",
     "repository": "https://github.com/withastro/astro"
+  },
+  {
+    "alt": "Gatsby",
+    "import": "gatsbyjs",
+    "type": "jsmeta",
+    "hundred": "https://www.youtube.com/watch?v=gxBkghlglTg",
+    "documentation": "https://www.gatsbyjs.com/",
+    "repository": "https://github.com/gatsbyjs/gatsby"
+  },
+  {
+    "alt": "Eleventy",
+    "import": "eleven_ty",
+    "type": "jsmeta",
+    "hundred": "https://www.youtube.com/watch?v=gxBkghlglTg",
+    "documentation": "https://www.11ty.dev/",
+    "repository": "https://github.com/11ty/eleventy"
   },
   {
     "alt": "JQuery",
