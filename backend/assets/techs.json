@@ -550,6 +550,14 @@
     "repository": "https://github.com/dart-lang/sdk"
   },
   {
+    "alt": "Flutter",
+    "import": "FlutterDev",
+    "type": "backend",
+    "hundred": "https://www.youtube.com/watch?v=lHhRhPV--G0",
+    "documentation": "https://flutter.dev/",
+    "repository": "https://github.com/flutter/flutter"
+  },
+  {
     "alt": "Java",
     "import": "@java",
     "type": "backend",

@@ -75,6 +75,7 @@
   { "import": "strapijs", "type": "jsother" },
   { "import": "official_php", "type": "backend" },
   { "import": "dart_lang", "type": "backend" },
+  { "import": "flutterdev", "type": "backendframe" },
   { "import": "@java", "type": "backend" },
   { "import": "kotlin", "type": "backend" },
   { "import": "golang", "type": "backend" },

@@ -43,7 +43,8 @@
 "rollupjs"
 ["python", "python3", "python2", "ThePSF"]
 "pythonflask"
-"djangoproject", "fastapi"
+"djangoproject"
+"fastapi"
 ["html5", "html"]
 "css"
 "markdown"
@@ -78,9 +79,16 @@
 ["googlecloud", "Google Cloud Platform"]
 ["Firebase", "Firestore"]
 "heroku"
-"digitalocean",
+"digitalocean"
 ["@Docker", "#Docker"]
 ["kubernetesio", "kubernetes"]
 "github"
 "Git"
 "powershell"
+"preactjs"
+"emberjs"
+"gatsbyjs"
+"eleven_ty"
+"MUI_hq"
+"vuetifyjs"
+"GraphQL"

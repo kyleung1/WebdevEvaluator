@@ -111,18 +111,11 @@ pub async fn fill_mongo() {
                     }
                 };
             } else {
-              let osha = doc! {
-                "$set": {
-                    "name": value.get("name").unwrap().to_string(),
-                    "friendly_name": value.get("friendly_name").unwrap().to_string(),
-                    "fireship": Some(value.get("fireship").unwrap().to_string()),
-                    "docs": value.get("docs").unwrap().to_string(),
-                    "repo": Some(value.get("repo").unwrap().to_string()),
-                    "tweets": value.get("tweets").unwrap().to_string(),
-                    "wordcount": value.get("wordcount").unwrap().to_string()
-                }
-            };
-                collection.update_one(doc!{ "name": value.get("name").unwrap().to_string() }, osha, None).await.unwrap();
+                let updatedoc = doc! {
+                    "$set": osha
+                };
+                collection.update_one(doc!{ "name": import.to_string() }, updatedoc, None).await.unwrap();
+                println!("Updated {}", import.to_string())
             }
         }
     }

@@ -3,7 +3,6 @@ import snscrape.modules.twitter as sntwitter
 import re
 import ast
 import nltk
-import json
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from transformers import pipeline
@@ -11,9 +10,7 @@ from transformers import pipeline
 # nltk.download('wordnet')
 # nltk.download('omw-1.4')
 
-def build_data(pass_query):
-    specific_model = pipeline(model="cardiffnlp/twitter-roberta-base-sentiment-latest")
-
+def build_data(pass_query, model):
     def cleanTweets(tweet):
         rand_chars = ['-', '|', '&', '+', ',', '/', '\\']
         tweet = re.sub(r'@[A-Za-z]+|#|RT[\s]+|https?:\/\/\S+|\n', '', tweet)
@@ -32,9 +29,9 @@ def build_data(pass_query):
     success_count = 0
 
     for tweet in sntwitter.TwitterSearchScraper(snsquery).get_items():
-        if success_count == 15:
+        if success_count == 500:
             break
-        sentiment_dict = specific_model(tweet.content)
+        sentiment_dict = model(tweet.content)
         sentiment, confidence = [sentiment_dict[0]['label'], sentiment_dict[0]['score']]
         if sentiment == "positive" or sentiment == "negative":
             success_count +=1
@@ -46,11 +43,12 @@ def build_data(pass_query):
     print('Finished ' + query)
 
 def main():
+    roberta_base = pipeline(model="cardiffnlp/twitter-roberta-base-sentiment-latest")
     with open('techs.txt', 'r') as f:
         lines = [line.rstrip('\n') for line in f]
         query_array = [ast.literal_eval(line) for line in lines]
         for item in query_array:
-            build_data(item)
+            build_data(item, roberta_base)
 
 if __name__ == "__main__":
     main()

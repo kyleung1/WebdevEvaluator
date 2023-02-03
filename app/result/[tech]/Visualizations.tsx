@@ -21,15 +21,7 @@ export default function Visualizations({pieData, barData, name, friendly_name}: 
 
   return (
     <>
-      <div className="my-16 grid grid-cols-2 gap-16 items-center">
-        <div id="pie"></div>
-        <Image
-          src={`/waffle/${name}.png`}
-          alt={friendly_name}
-          width={400}
-          height={400}
-        />
-      </div>
+      <div id="pie"></div>
       <div className="my-16">
         <h2 className="text-white text-xl text-center">
           Word Frequency {friendly_name}

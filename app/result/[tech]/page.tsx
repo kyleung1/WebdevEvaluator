@@ -15,15 +15,15 @@ interface RootObject {
     stars: number;
 }
 
-interface Tweets {
-    Date: string;
+interface Tweets{
+    Date: number;
     Tweet: string;
     User: string;
-    "Tweet ID": string;
+    "Tweet ID": number;
     "Tweet Url": string;
     "Cleaned Tweet": string;
     Sentiment: string;
-    Confidence: string;
+    Confidence: number;
 };
 
 interface RechartData {
