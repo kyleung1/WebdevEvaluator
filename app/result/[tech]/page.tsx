@@ -11,6 +11,7 @@ interface RootObject {
     docs: string;
     repo: string;
     tweets: string;
+    wordcount: string;
     stars: number;
 }
 
@@ -31,7 +32,7 @@ async function getData(tech: string) {
             'API_Key': `${process.env.RUSTKEY}`
         }
     });
-    return (await res.json() as RootObject[]);
+    return (await res.json() as RootObject);
 }
 
 function getRandomTweets(sentiments: Tweets[]) {
@@ -50,9 +51,8 @@ function getRandomTweets(sentiments: Tweets[]) {
     return [sentiments[randPosTweetIndex].Tweet, sentiments[randNegTweetIndex].Tweet]
 }
 
-async function get20Words(tech: string) {
-    const res = await fetch(`https://raw.githubusercontent.com/kyleung1/WebdevEvaluator/main/assets/wordcounts/${tech}.json`);
-    const counts:Record<string, number> = await res.json();
+async function get20Words(wordcount: string) {
+    const counts:Record<string, number> = await JSON.parse(wordcount);
     let countsList: Array<[string, number]> = Object.entries(counts).sort((a, b) => b[1] - a[1]);
     let twentyWords: Array<[string, number]> = countsList.slice(0,20);
     return twentyWords;
@@ -61,8 +61,8 @@ async function get20Words(tech: string) {
 export default async function Results ({params: {tech}}: { params: { tech: string }})  {
 
     const data = await getData(tech);
-    const sentiments: Tweets = await JSON.parse(data.tweets);
-    console.log(sentiments)
+    const sentiments: Tweets[] = await JSON.parse(data.tweets);
+
     let sentimentValues = [0, 0]
     for (let i = 0; i < sentiments.length; i++) {
         if (sentiments[i].Sentiment === "positive") sentimentValues[0]++;
@@ -74,7 +74,7 @@ export default async function Results ({params: {tech}}: { params: { tech: strin
     ]
 
     const [positiveTweet, negativeTweet] = getRandomTweets(sentiments);
-    const twentyWords = await get20Words(tech);
+    const twentyWords = await get20Words(data.wordcount);
 
     return (
         <div className="flex flex-col items-center max-w-2xl text-white">

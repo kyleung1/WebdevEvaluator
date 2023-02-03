@@ -20,6 +20,7 @@ export default function TechGrid({cat}: Props) {
                   className="m-4"
                   src={`/icons/${tech.import}.webp`}
                   alt={tech.import}
+                  title={tech.import}
                   width={50}
                   height={50}
                 />
