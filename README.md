@@ -36,7 +36,7 @@ These instructions will get you a copy of the project up and running on your loc
 8. Gather and analyze the latest tweets by running pip install, then python main.py in the assets folder.
 9. After the above, the frontend should now show various information when clicking technologies.
 
-#### Built With
+## Built With
 
 - [TypeScript](https://www.typescriptlang.org/): A statically typed superset of JavaScript that adds optional types, classes, and interfaces.
 - [Next.js](https://nextjs.org/): A framework for building production-ready React applications.
