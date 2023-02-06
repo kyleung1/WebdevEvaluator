@@ -45,8 +45,7 @@
 //     .attr("dy", ".15em")
 //     .attr("transform", "rotate(-65)");
 // }
-import { PureComponent } from 'react';
-import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
+import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
 interface RechartData {
   word: string;

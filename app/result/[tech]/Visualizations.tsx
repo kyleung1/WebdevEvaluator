@@ -35,7 +35,7 @@ export default function Visualizations({pieData, barData, name, friendly_name}: 
           Word Frequency {friendly_name}
         </h2>
         <div id="bar">
-          <ResponsiveContainer width={500} aspect={1}>
+          <ResponsiveContainer width={1767} aspect={1}>
           <BarChart
             width={500}
             height={300}
@@ -44,13 +44,16 @@ export default function Visualizations({pieData, barData, name, friendly_name}: 
               top: 5,
               right: 30,
               left: 20,
-              bottom: 5,
+              bottom: 80,
+            }}
+            style={{
+              fontSize: "1rem",
             }}
           >
             <CartesianGrid strokeDasharray="3 3" />
-            <XAxis dataKey="name" />
+            <XAxis dataKey="word" angle={-90} dy={50}/>
             <YAxis />
-            <Tooltip />
+            <Tooltip/>
             <Legend />
             <Bar dataKey="count" fill="#8884d8" />
           </BarChart>
