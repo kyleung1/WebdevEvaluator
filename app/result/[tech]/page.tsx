@@ -1,6 +1,7 @@
 import Image from 'next/image';
 import { srcDoc } from '../../(components)/longString';
 import Visualizations from './Visualizations';
+import { PureComponent } from 'react';
 import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
 interface RootObject {
@@ -27,7 +28,7 @@ interface Tweets{
 };
 
 interface RechartData {
-    name: string;
+    word: string;
     count: number;
 }
 
@@ -62,10 +63,13 @@ async function get20Words(wordcount: string) {
     let twentyWords: Array<[string, number]> = countsList.slice(0,20);
     let twentyWordsObj: Array<RechartData> = []
     for (let i = 0; i < twentyWords.length; i++) {
-        let newObj = {}
-
+        let newObj = {
+            word: twentyWords[i][0],
+            count: twentyWords[i][1]
+        }
+        twentyWordsObj.push(newObj);
     }
-    return twentyWords;
+    return twentyWordsObj;
 }
 
 export default async function Results ({params: {tech}}: { params: { tech: string }})  {
@@ -107,24 +111,22 @@ export default async function Results ({params: {tech}}: { params: { tech: strin
             </div>
             {/* <ResponsiveContainer width="100%" height="100%">
                 <BarChart
-                width={500}
-                height={300}
-                data={data}
-                margin={{
-                    top: 20,
-                    right: 30,
-                    left: 20,
-                    bottom: 5,
-                }}
+                    width={500}
+                    height={300}
+                    data={twentyWords}
+                    margin={{
+                        top: 5,
+                        right: 30,
+                        left: 20,
+                        bottom: 5,
+                    }}
                 >
-                <CartesianGrid strokeDasharray="3 3" />
-                <XAxis dataKey="name" />
-                <YAxis yAxisId="left" orientation="left" stroke="#8884d8" />
-                <YAxis yAxisId="right" orientation="right" stroke="#82ca9d" />
-                <Tooltip />
-                <Legend />
-                <Bar yAxisId="left" dataKey="pv" fill="#8884d8" />
-                <Bar yAxisId="right" dataKey="uv" fill="#82ca9d" />
+                    <CartesianGrid strokeDasharray="3 3" />
+                    <XAxis dataKey="name" />
+                    <YAxis />
+                    <Tooltip />
+                    <Legend />
+                    <Bar dataKey="name" fill="#8884d8" />
                 </BarChart>
             </ResponsiveContainer> */}
         </div>
