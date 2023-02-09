@@ -89,7 +89,7 @@ export default async function Results ({params: {tech}}: { params: { tech: strin
 
     const [positiveTweet, negativeTweet] = getRandomTweets(sentiments);
     const twentyWords = await get20Words(data.wordcount);
-    console.log(twentyWords)
+    // console.log(twentyWords)
 
     return (
         <div className="flex flex-col items-center max-w-2xl text-white">

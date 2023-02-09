@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { useEffect } from "react";
-import createBar from "./createBar";
+import CreateBar from "./createBar";
 import createPie from "./createPie";
 
 import { PureComponent } from 'react';
@@ -24,7 +24,7 @@ export default function Visualizations({pieData, barData, name, friendly_name}: 
 
   useEffect(() => {
     createPie(pieData, "pie");
-    createBar(barData)
+    // createBar(barData)
   }, [])
 
   return (
@@ -35,7 +35,8 @@ export default function Visualizations({pieData, barData, name, friendly_name}: 
           Word Frequency {friendly_name}
         </h2>
         <div id="bar">
-          <ResponsiveContainer width={1767} aspect={1}>
+          <CreateBar data={barData as RechartData[]} />
+          {/* <ResponsiveContainer width={1767} aspect={1}>
           <BarChart
             width={500}
             height={300}
@@ -57,7 +58,7 @@ export default function Visualizations({pieData, barData, name, friendly_name}: 
             <Legend />
             <Bar dataKey="count" fill="#8884d8" />
           </BarChart>
-        </ResponsiveContainer>
+        </ResponsiveContainer> */}
         </div>
       </div>
     </>
