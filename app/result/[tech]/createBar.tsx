@@ -85,7 +85,7 @@ const data1 = [
   },
 ];
 
-const createBar = ({data}): JSX.Element => { 
+const createBar = ({data}: {data: Array<RechartData>}): JSX.Element => { 
   return (
     <ResponsiveContainer width={1767} aspect={1}>
     <BarChart
