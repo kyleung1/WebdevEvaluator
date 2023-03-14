@@ -1,64 +1,64 @@
 "use client";
 
-import Image from "next/image";
-import { useEffect } from "react";
-import CreateBar from "./createBar";
-import createPie from "./createPie";
-
-import { PureComponent } from 'react';
-import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
-
 interface RechartData {
   word: string;
   count: number;
 }
 
 interface Props {
-  pieData: Array<{label: string; value: number;}>
+  pieData: Array<{name: string; value: number;}>
   barData: Array<RechartData>
   name: string
   friendly_name: string
 }
+import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
 
-export default function Visualizations({pieData, barData, name, friendly_name}: Props) {
+interface RechartData {
+  word: string;
+  count: number;
+}
+export default function Visualizations({pieData, barData, friendly_name}: Props) {
 
-  useEffect(() => {
-    createPie(pieData, "pie");
-    // createBar(barData)
-  }, [])
+  const COLORS = ['#0088FE', '#8884d8'];
 
   return (
     <>
-      <div id="pie"></div>
+      <PieChart width={300} height={300}>
+        <Pie data={pieData} dataKey="value" cx="50%" cy="50%" fill="#8884d8" label>
+          {pieData.map((entry, index) => (
+            <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
+          ))}
+        </Pie>
+        <Tooltip />
+        <Legend />
+      </PieChart>
       <div className="my-16">
         <h2 className="text-white text-xl text-center">
-          Word Frequency {friendly_name}
+          Word Frequency in {friendly_name} Tweets
         </h2>
-        <div id="bar">
-          <CreateBar data={barData as RechartData[]} />
-          {/* <ResponsiveContainer width={1767} aspect={1}>
-          <BarChart
-            width={500}
-            height={300}
-            data={barData}
-            margin={{
-              top: 5,
-              right: 30,
-              left: 20,
-              bottom: 80,
-            }}
-            style={{
-              fontSize: "1rem",
-            }}
-          >
-            <CartesianGrid strokeDasharray="3 3" />
-            <XAxis dataKey="word" angle={-90} dy={50}/>
-            <YAxis />
-            <Tooltip/>
-            <Legend />
-            <Bar dataKey="count" fill="#8884d8" />
-          </BarChart>
-        </ResponsiveContainer> */}
+        <div id="bar" className="sm:w-[640px] xl:w-[1280px]">
+        <ResponsiveContainer width="100%" height="100%" aspect={1}>
+      <BarChart
+        width={250}
+        height={250}
+        data={barData}
+        margin={{
+          top: 5,
+          right: 30,
+          left: 20,
+          bottom: 80,
+        }}
+        style={{
+          fontSize: "1rem",
+        }}
+      >
+        <CartesianGrid strokeDasharray="3 3" />
+        <XAxis dataKey="word"/>
+        <YAxis />
+        <Tooltip/>
+        <Bar dataKey="count" fill="#8884d8" />
+      </BarChart>
+    </ResponsiveContainer>
         </div>
       </div>
     </>

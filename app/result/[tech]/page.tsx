@@ -1,10 +1,11 @@
+"use client"
+
 import Image from 'next/image';
+import { use, useEffect, useState } from 'react';
 import { srcDoc } from '../../(components)/longString';
 import Visualizations from './Visualizations';
-import { PureComponent } from 'react';
-import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts';
 
-interface RootObject {
+export interface RootObject {
     _id: {$oid: string};
     name: string;
     friendly_name: string;
@@ -30,15 +31,6 @@ interface Tweets{
 interface RechartData {
     word: string;
     count: number;
-}
-
-async function getData(tech: string) {
-    const res = await fetch(`https://rustwde.up.railway.app/tweets/${tech}`, {
-        headers: {
-            'API_Key': `${process.env.RUSTKEY}`
-        }
-    });
-    return (await res.json() as RootObject);
 }
 
 function getRandomTweets(sentiments: Tweets[]) {
@@ -72,24 +64,37 @@ async function get20Words(wordcount: string) {
     return twentyWordsObj;
 }
 
-export default async function Results ({params: {tech}}: { params: { tech: string }})  {
+export default function Results ({params: {tech}}: { params: { tech: string }})  {
 
-    const data = await getData(tech);
-    const sentiments: Tweets[] = await JSON.parse(data.tweets);
+    const [data, setData] = useState({} as RootObject)
+    const [positiveTweet, setPositiveTweet] = useState('')
+    const [negativeTweet, setNegativeTweet] = useState('')
+    const [twentyWords, setTwentyWords] = useState([] as RechartData[])
+    const [sentimentPosNeg, setSentimentPosNeg] = useState([] as Array<{name: string; value: number;}>)
 
-    let sentimentValues = [0, 0]
-    for (let i = 0; i < sentiments.length; i++) {
-        if (sentiments[i].Sentiment === "positive") sentimentValues[0]++;
-        if (sentiments[i].Sentiment === "negative") sentimentValues[1]++;
-    };
-    const sentimentPosNeg: Array<{label: string; value: number;}> = [
-        {label: "Positive", value: sentimentValues[0]},
-        {label: "Negative", value: sentimentValues[1]}
-    ]
-
-    const [positiveTweet, negativeTweet] = getRandomTweets(sentiments);
-    const twentyWords = await get20Words(data.wordcount);
-    // console.log(twentyWords)
+    useEffect(() => {
+        async function init() {
+            const datas = await fetch(`/api/rust?tech=${tech}`)
+            const data: RootObject = await datas.json()
+            setData(data)
+            const sentiments: Tweets[] = await JSON.parse(data.tweets);
+            let sentimentValues = [0, 0]
+            for (let i = 0; i < sentiments.length; i++) {
+                if (sentiments[i].Sentiment === "positive") sentimentValues[0]++;
+                if (sentiments[i].Sentiment === "negative") sentimentValues[1]++;
+            };
+            const sentimentPosNeg: Array<{name: string; value: number;}> = [
+                {name: "Positive", value: sentimentValues[0]},
+                {name: "Negative", value: sentimentValues[1]}
+            ]
+            setSentimentPosNeg(sentimentPosNeg)
+            const [positiveTweet, negativeTweet] = getRandomTweets(sentiments);
+            setPositiveTweet(positiveTweet)
+            setNegativeTweet(negativeTweet)
+            setTwentyWords(await get20Words(data.wordcount))
+        }
+        init()
+    }, [tech])
 
     return (
         <div className="flex flex-col items-center max-w-2xl text-white">
@@ -103,32 +108,12 @@ export default async function Results ({params: {tech}}: { params: { tech: strin
             </div>
             {data.fireship ? <iframe className="mt-6 mb-6" width="350" height="197" srcDoc={srcDoc(data.fireship.replace('https://www.youtube.com/watch?v=', ''))} title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe> : null}
             <h2 className="text-white text-xl mt-16">Sentiment of Tweets</h2>
-            <Visualizations barData={twentyWords} pieData={sentimentPosNeg} name={tech} friendly_name={"Test"} />
+            <Visualizations barData={twentyWords} pieData={sentimentPosNeg} name={tech} friendly_name={tech} />
             <div className="my-16">
                     <h2 className="text-xl text-center text-indigo-500">Random Positive and Negative Tweets</h2>
                     <p className="my-10 text-white">{positiveTweet}</p>
                     <p className="my-10 text-white">{negativeTweet}</p>
             </div>
-            {/* <ResponsiveContainer width="100%" height="100%">
-                <BarChart
-                    width={500}
-                    height={300}
-                    data={twentyWords}
-                    margin={{
-                        top: 5,
-                        right: 30,
-                        left: 20,
-                        bottom: 5,
-                    }}
-                >
-                    <CartesianGrid strokeDasharray="3 3" />
-                    <XAxis dataKey="name" />
-                    <YAxis />
-                    <Tooltip />
-                    <Legend />
-                    <Bar dataKey="name" fill="#8884d8" />
-                </BarChart>
-            </ResponsiveContainer> */}
         </div>
     )
 }
