@@ -16,7 +16,7 @@ const techData = async (req: NextApiRequest, res: NextApiResponse) => {
     const data = (await rustres.json()) as RootObject;
     res.status(200).json(data);
   } catch (err) {
-    res.status(500).send("Failed to load data");
+    res.status(500).send(err);
   }
 };
 
