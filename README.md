@@ -46,4 +46,4 @@ These instructions will get you a copy of the project up and running on your loc
 - [Chartjs](https://www.chartjs.org/): A JavaScript library for data visualization and manipulation.
 - [Python](https://www.python.org/): A high-level programming language used for web development, scientific computing, data analysis, and more.
 - [Rust](https://www.rust-lang.org/): A systems programming language that runs blazingly fast, prevents segfaults, and guarantees thread safety.
-- [Axum](https://github.com/tokio-rs/axum): A high-level language for writing concurrent, asynchronous, and parallel systems.
+- [Axum](https://github.com/tokio-rs/axum): A Rust web application framework that focuses on ergonomics and modularity.
