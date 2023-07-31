@@ -74,8 +74,9 @@ export default function Results ({params: {tech}}: { params: { tech: string }}) 
 
     useEffect(() => {
         async function init() {
-            const datas = await fetch(`/api/rust?tech=${tech}`)
+            const datas = await fetch(`/api/mongo?tech=${tech}`)
             const data: RootObject = await datas.json()
+            console.log(data)
             setData(data)
             const sentiments: Tweets[] = await JSON.parse(data.tweets);
             let sentimentValues = [0, 0]
