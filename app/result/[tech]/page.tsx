@@ -5,6 +5,10 @@ import { use, useEffect, useState } from 'react';
 import { srcDoc } from '../../(components)/longString';
 import Visualizations from './Visualizations';
 
+interface RealRootObject {
+
+}
+
 export interface RootObject {
     _id: {$oid: string};
     name: string;
@@ -74,12 +78,11 @@ export default function Results ({params: {tech}}: { params: { tech: string }}) 
 
     useEffect(() => {
         async function init() {
-            const datas = await fetch(`/api/rust?tech=${tech}`)
-            console.log(datas)
-            const data: RootObject = await datas.json()
-            console.log(data)
-            setData(data)
-            const sentiments: Tweets[] = await JSON.parse(data.tweets);
+            const datas = await fetch(`/api/mongo?tech=${tech}`)
+            const data: [RootObject] = await datas.json()
+            console.log(data[0].tweets)
+            setData(data[0])
+            const sentiments: Tweets[] = await JSON.parse(data[0].tweets);
             let sentimentValues = [0, 0]
             for (let i = 0; i < sentiments.length; i++) {
                 if (sentiments[i].Sentiment === "positive") sentimentValues[0]++;
@@ -93,7 +96,7 @@ export default function Results ({params: {tech}}: { params: { tech: string }}) 
             const [positiveTweet, negativeTweet] = getRandomTweets(sentiments);
             setPositiveTweet(positiveTweet)
             setNegativeTweet(negativeTweet)
-            setTwentyWords(await get20Words(data.wordcount))
+            setTwentyWords(await get20Words(data[0].wordcount))
         }
         init()
     }, [tech])

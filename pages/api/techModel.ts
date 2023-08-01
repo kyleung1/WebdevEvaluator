@@ -33,7 +33,7 @@ const techSchema = new mongoose.Schema({
         required: false
     },
     tweets: {
-        type: [tweetSchema],
+        type: String,
         required: true
     },
     wordcount: {
