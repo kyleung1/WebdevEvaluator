@@ -11,7 +11,7 @@ const techData = async (req: NextApiRequest, res: NextApiResponse) => {
     await mongoose.connect(`${process.env.mongo_uri}`);
     console.log("connected")
 
-    const data = await techtweet.find();
+    const data = await techtweet.find({name: tech});
 
     await mongoose.connection.close();
 

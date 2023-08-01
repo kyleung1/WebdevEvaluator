@@ -1,6 +1,16 @@
 import mongoose, { Document, models } from "mongoose";
 import { RootObject } from "../../app/result/[tech]/page";
 
+const tweetSchema = new mongoose.Schema({
+    Date: String,
+    Tweet: String,
+    User: String,
+    tweet_url: String,
+    cleaned_tweet: String,
+    Sentiment: String,
+    Confidence: String,
+  });
+
 const techSchema = new mongoose.Schema({
     name: {
         type: String,
@@ -23,7 +33,7 @@ const techSchema = new mongoose.Schema({
         required: false
     },
     tweets: {
-        type: String,
+        type: [tweetSchema],
         required: true
     },
     wordcount: {
@@ -31,8 +41,9 @@ const techSchema = new mongoose.Schema({
         required: true
     }
 })
-const techtweet = mongoose.models.techtweet || mongoose.model<RootObject & Document>("techtweet", techSchema, "techtweets");
-export default techtweet; models.tech
+const techtweet = mongoose.models.techtweet || mongoose.model<RootObject & Document>("techtweet", techSchema, "techtweet");
+
+export default techtweet;
 
 // import mongoose, { Document, models } from "mongoose";
 // import { RootObject } from "../../app/result/[tech]/page";
