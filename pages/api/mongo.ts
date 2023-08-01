@@ -1,19 +1,17 @@
 import { NextApiRequest, NextApiResponse } from "next";
 import { RootObject } from "../../app/result/[tech]/page";
 import mongoose from 'mongoose'
-import TechModel from "./techModel";
+import techtweet from "./techModel";
 
 const techData = async (req: NextApiRequest, res: NextApiResponse) => {
   try {
     const { tech } = req.query;
     console.log(tech)
 
-    // await mongoose.connect(`mongodb://${process.env.mongo_username}:${process.env.mongo_password}@host:${process.env.PORT}/${process.env.cluster}`);
-    await mongoose.connect('');
+    await mongoose.connect(`${process.env.mongo_uri}`);
     console.log("connected")
 
-    const data = await TechModel.find({});
-    // console.log(data)
+    const data = await techtweet.find();
 
     await mongoose.connection.close();
 
